@@ -1,8 +1,8 @@
 {
-    "name": "Lokal Ninja - Baden-Württemberg",
+    "name": "Lokal Ninja - Thüringen",
     "lang": "de",
-    "short_name": "LN Baden-Württemberg",
-    "description": "Entdecke alle Einkaufsmöglichkeiten in Baden-Württemberg",
+    "short_name": "LN Thüringen",
+    "description": "Entdecke alle Einkaufsmöglichkeiten in Thüringen",
     "theme_color": "#d86f00",
     "background_color": "#fdfdfd",
     "display": "standalone",
