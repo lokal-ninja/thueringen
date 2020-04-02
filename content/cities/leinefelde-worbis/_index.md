@@ -1,4 +1,6 @@
 ---
 title: Leinefelde-Worbis
 url: /leinefelde-worbis/
+latitude: 
+longitude: 
 ---
