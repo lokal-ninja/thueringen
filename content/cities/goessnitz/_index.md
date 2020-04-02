@@ -1,0 +1,4 @@
+---
+title: Gößnitz
+url: /goessnitz/
+---

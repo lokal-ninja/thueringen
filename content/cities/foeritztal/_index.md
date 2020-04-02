@@ -1,0 +1,4 @@
+---
+title: Föritztal
+url: /foeritztal/
+---

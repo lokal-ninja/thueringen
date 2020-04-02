@@ -1,0 +1,4 @@
+---
+title: Ziegenrück
+url: /ziegenrueck/
+---

@@ -1,0 +1,4 @@
+---
+title: Straufhain
+url: /straufhain/
+---

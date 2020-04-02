@@ -1,0 +1,4 @@
+---
+title: "Reinhard Knedlik"
+url: /koenigsee/reinhard-knedlik/
+---

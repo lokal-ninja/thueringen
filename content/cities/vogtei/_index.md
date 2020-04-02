@@ -1,0 +1,4 @@
+---
+title: Vogtei
+url: /vogtei/
+---

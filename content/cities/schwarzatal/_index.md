@@ -1,0 +1,4 @@
+---
+title: Schwarzatal
+url: /schwarzatal/
+---

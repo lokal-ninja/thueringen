@@ -1,0 +1,4 @@
+---
+title: Katzhütte
+url: /katzhuette/
+---

@@ -1,0 +1,4 @@
+---
+title: Krauthausen
+url: /krauthausen/
+---

@@ -1,0 +1,4 @@
+---
+title: Friedrichroda
+url: /friedrichroda/
+---

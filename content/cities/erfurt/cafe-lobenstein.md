@@ -1,0 +1,4 @@
+---
+title: "Cafe Lobenstein"
+url: /erfurt/cafe-lobenstein/
+---

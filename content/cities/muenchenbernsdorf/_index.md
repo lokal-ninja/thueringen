@@ -1,0 +1,4 @@
+---
+title: Münchenbernsdorf
+url: /muenchenbernsdorf/
+---

@@ -1,0 +1,4 @@
+---
+title: Herrenhof
+url: /herrenhof/
+---

@@ -1,0 +1,4 @@
+---
+title: Schkölen
+url: /schkoelen/
+---

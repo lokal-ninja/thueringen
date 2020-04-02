@@ -1,0 +1,4 @@
+---
+title: "Friseuse M. Aue"
+url: /eisenach/friseuse-m-aue/
+---

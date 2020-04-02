@@ -1,0 +1,4 @@
+---
+title: Gösen
+url: /goesen/
+---

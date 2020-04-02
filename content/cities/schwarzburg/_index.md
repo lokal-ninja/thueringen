@@ -1,0 +1,4 @@
+---
+title: Schwarzburg
+url: /schwarzburg/
+---

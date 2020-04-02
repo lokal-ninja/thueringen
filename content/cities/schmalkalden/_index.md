@@ -1,0 +1,4 @@
+---
+title: Schmalkalden
+url: /schmalkalden/
+---

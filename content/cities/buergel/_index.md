@@ -1,0 +1,4 @@
+---
+title: Bürgel
+url: /buergel/
+---

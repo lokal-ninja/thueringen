@@ -1,0 +1,4 @@
+---
+title: "Hauck Herrenbekleidung"
+url: /eisfeld/hauck-herrenbekleidung/
+---

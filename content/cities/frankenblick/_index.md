@@ -1,0 +1,4 @@
+---
+title: Frankenblick
+url: /frankenblick/
+---

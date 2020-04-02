@@ -1,0 +1,4 @@
+---
+title: Bucha
+url: /bucha/
+---

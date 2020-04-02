@@ -1,0 +1,4 @@
+---
+title: Ebeleben
+url: /ebeleben/
+---

@@ -1,0 +1,4 @@
+---
+title: "Hair Look"
+url: /altenburg/hair-look/
+---

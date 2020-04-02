@@ -1,0 +1,4 @@
+---
+title: Schloßvippach
+url: /schlossvippach/
+---

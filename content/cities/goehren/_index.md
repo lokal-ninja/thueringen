@@ -1,0 +1,4 @@
+---
+title: Göhren
+url: /goehren/
+---

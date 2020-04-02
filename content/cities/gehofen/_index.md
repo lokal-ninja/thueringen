@@ -1,0 +1,4 @@
+---
+title: Gehofen
+url: /gehofen/
+---

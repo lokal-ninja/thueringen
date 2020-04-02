@@ -1,0 +1,4 @@
+---
+title: "relax sun & soul"
+url: /ilmenau/relax-sun-und-soul-2/
+---

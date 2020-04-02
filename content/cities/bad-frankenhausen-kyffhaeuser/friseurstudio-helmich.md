@@ -1,0 +1,4 @@
+---
+title: "Friseurstudio Helmich"
+url: /bad-frankenhausen-kyffhaeuser/friseurstudio-helmich/
+---

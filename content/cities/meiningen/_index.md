@@ -1,0 +1,4 @@
+---
+title: Meiningen
+url: /meiningen/
+---

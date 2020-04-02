@@ -1,0 +1,4 @@
+---
+title: Hirschberg
+url: /hirschberg/
+---

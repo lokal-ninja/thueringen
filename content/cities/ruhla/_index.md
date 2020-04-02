@@ -1,0 +1,4 @@
+---
+title: Ruhla
+url: /ruhla/
+---
