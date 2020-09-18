@@ -3,7 +3,7 @@ type: way
 shop: Partyzubehör
 latitude: 51.389812600000006
 longitude: 10.345377000000001
-postcode: 37327
+postcode: "37327"
 city: Leinefelde-Worbis
 street: "Ernemannstraße"
 housenumber: 10A

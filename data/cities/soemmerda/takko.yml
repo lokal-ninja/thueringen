@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.157186200000005
 longitude: 11.1430808
-postcode: 99610
+postcode: "99610"
 city: Sömmerda
 street: "Mainzer Straße"
 housenumber: 24

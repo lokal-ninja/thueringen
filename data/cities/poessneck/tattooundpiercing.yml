@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 50.6935476
 longitude: 11.591469700000001
-postcode: 07381
+postcode: "07381"
 city: Pößneck
 street: "Poststraße"
 housenumber: 8

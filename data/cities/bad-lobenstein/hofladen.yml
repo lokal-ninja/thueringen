@@ -1,12 +1,12 @@
 id: 4735541413
 type: node
 shop: Supermarkt
-latitude: 50.4844201
-longitude: 11.6077472
-postcode: 07356
+latitude: 50.484397900000005
+longitude: 11.607766600000001
+postcode: "07356"
 city: Bad Lobenstein
 street: "Oberlemnitz"
 housenumber: 51
 phone: ""
-opening_hours: "Mo-Fr 07:00-16:30 Hofladen, 24/7 Milch u. Lebensmittelautomat"
+opening_hours: "Mo-Fr 07:00-16:30"
 website: ""

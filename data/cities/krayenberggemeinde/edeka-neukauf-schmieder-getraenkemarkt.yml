@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.835450300000005
 longitude: 10.084869000000001
-postcode: 36460
+postcode: "36460"
 city: Krayenberggemeinde
 street: "Lange Straße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.3431276
 longitude: 11.112093900000001
-postcode: 06567
+postcode: "06567"
 city: Bad Frankenhausen/Kyffhäuser
 street: "Seehäuser Straße"
 housenumber: 79

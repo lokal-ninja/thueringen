@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.912603100000005
 longitude: 10.913688
-postcode: 99192
+postcode: "99192"
 city: Nesse-Apfelstädt
 street: "Zinzendorfstraße"
 housenumber: 22

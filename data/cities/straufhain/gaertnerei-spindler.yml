@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.3794132
 longitude: 10.7247727
-postcode: 98646
+postcode: "98646"
 city: Straufhain
 street: ""
 housenumber: 

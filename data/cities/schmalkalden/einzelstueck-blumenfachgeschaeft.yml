@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.7233972
 longitude: 10.453159300000001
-postcode: 98574
+postcode: "98574"
 city: Schmalkalden
 street: "Pfaffengasse"
 housenumber: 6

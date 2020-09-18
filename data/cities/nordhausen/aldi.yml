@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.5148409
 longitude: 10.8038855
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Stolberger Straße"
 housenumber: 134

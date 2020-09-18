@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.6474783
 longitude: 11.360819900000001
-postcode: 07318
+postcode: "07318"
 city: Saalfeld/Saale
 street: "Markt"
 housenumber: 3-5

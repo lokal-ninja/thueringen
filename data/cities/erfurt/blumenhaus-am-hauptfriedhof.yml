@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.9722365
 longitude: 10.992524600000001
-postcode: 99092
+postcode: "99092"
 city: Erfurt
 street: "Binderslebener Landstraße"
 housenumber: 75

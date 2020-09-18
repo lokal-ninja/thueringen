@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.959946
 longitude: 10.7261345
-postcode: 99867
+postcode: "99867"
 city: Gotha
 street: "Oskar-Gründler-Straße"
 housenumber: 

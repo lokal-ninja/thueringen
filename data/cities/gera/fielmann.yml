@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.8781976
 longitude: 12.083838100000001
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: "Humboldtstraße"
 housenumber: 2a

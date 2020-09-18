@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 50.968368100000006
 longitude: 11.031872700000001
-postcode: 99096
+postcode: "99096"
 city: Erfurt
 street: "Löberstraße"
 housenumber: 37

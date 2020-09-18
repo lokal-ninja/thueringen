@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 51.011685500000006
 longitude: 11.0244032
-postcode: 99086
+postcode: "99086"
 city: Erfurt
 street: "An der Lache"
 housenumber: 36

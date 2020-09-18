@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.74783600000001
 longitude: 10.811645
-postcode: 99330
+postcode: "99330"
 city: Geratal
 street: "Waldstraße"
 housenumber: 1

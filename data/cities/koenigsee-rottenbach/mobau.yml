@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.668031000000006
 longitude: 11.1216559
-postcode: 07426
+postcode: "07426"
 city: Königsee-Rottenbach
 street: "Industrie- und Gewerbepark"
 housenumber: 

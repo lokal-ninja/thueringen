@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.1639508
 longitude: 10.314025200000001
-postcode: 99988
+postcode: "99988"
 city: Südeichsfeld
 street: "Hermann-Löns-Straße"
 housenumber: 8

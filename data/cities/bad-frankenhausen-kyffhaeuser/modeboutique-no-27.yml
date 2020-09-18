@@ -3,7 +3,7 @@ type: way
 shop: Modehaus
 latitude: 51.3556353
 longitude: 11.1133251
-postcode: 06567
+postcode: "06567"
 city: Bad Frankenhausen/Kyffhäuser
 street: "Esperstedter Straße"
 housenumber: 27

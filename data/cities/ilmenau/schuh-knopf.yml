@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 50.6844381
 longitude: 10.913310200000002
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "Straße des Friedens"
 housenumber: 15

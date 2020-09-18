@@ -1,12 +1,12 @@
-id: 3381598234
+id: 7523363701
 type: node
 shop: Bäckerei
-latitude: 51.176202200000006
-longitude: 11.414890000000002
-postcode: 99636
+latitude: 51.177193700000004
+longitude: 11.4210697
+postcode: "99636"
 city: Rastenberg
-street: "Carl-Zeiss-Ring"
-housenumber: 3
+street: "Mühlstraße"
+housenumber: 6
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
+opening_hours: ""
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 51.3850859
 longitude: 10.329062200000001
-postcode: 37327
+postcode: "37327"
 city: Leinefelde-Worbis
 street: "Birkunger Straße"
 housenumber: 20

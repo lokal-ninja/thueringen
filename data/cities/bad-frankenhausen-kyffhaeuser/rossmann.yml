@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.3537964
 longitude: 11.0987273
-postcode: 06567
+postcode: "06567"
 city: Bad Frankenhausen/Kyffhäuser
 street: "Kyffhäuserstraße"
 housenumber: 1-3

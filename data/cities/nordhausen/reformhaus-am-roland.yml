@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 51.5014301
 longitude: 10.793097900000001
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Lutherplatz"
 housenumber: 1

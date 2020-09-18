@@ -1,4 +1,4 @@
 ---
-title: "Elektro-Svatos  Küchenstudio"
+title: "Elektro-Svatos Küchenstudio"
 url: /am-ohmberg/elektro-svatos-kuechenstudio/
 ---

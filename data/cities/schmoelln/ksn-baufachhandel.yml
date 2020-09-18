@@ -3,10 +3,10 @@ type: node
 shop: Baustoffe
 latitude: 50.8846001
 longitude: 12.3869608
-postcode: 04626
+postcode: "04626"
 city: Schmölln
 street: "Am Teich"
 housenumber: 7
-phone: "+49 34491 3470"
-opening_hours: "Mo-Fr 06:30-17:30; Sa 08:00-12:00"
-website: "https://www.ksn-baustoffe.de/"
+phone: ""
+opening_hours: "Mo-Fr 06:30-17:30; Sa 08:00-12:00; Su,PH off"
+website: ""

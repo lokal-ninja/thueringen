@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.3556651
 longitude: 11.221790400000001
-postcode: 96515
+postcode: "96515"
 city: Sonneberg
 street: "Jagdshofer Straße"
 housenumber: 30

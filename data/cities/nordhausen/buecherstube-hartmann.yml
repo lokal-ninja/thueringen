@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.497305700000005
 longitude: 10.7916655
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Bahnhofstraße"
 housenumber: 36

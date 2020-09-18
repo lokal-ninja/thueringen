@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 50.936467300000004
 longitude: 12.427541600000001
-postcode: 04603
+postcode: "04603"
 city: Nobitz
 street: "Bahnhofstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 50.6844576
 longitude: 10.9126694
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "Straße des Friedens"
 housenumber: 32

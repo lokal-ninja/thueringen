@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 51.2955509
 longitude: 11.4328161
-postcode: 06571
+postcode: "06571"
 city: Roßleben-Wiehe
 street: "Richard-Hüttig-Platz"
 housenumber: 22

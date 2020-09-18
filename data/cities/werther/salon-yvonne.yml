@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.470242600000006
 longitude: 10.7452564
-postcode: 99735
+postcode: "99735"
 city: Werther
 street: "Warteberg-Siedlung"
 housenumber: 7

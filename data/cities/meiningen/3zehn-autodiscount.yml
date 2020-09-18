@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.561106200000005
 longitude: 10.374782900000001
-postcode: 98617
+postcode: "98617"
 city: Meiningen
 street: "Herpfer Straße"
 housenumber: 23

@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 50.3954406
 longitude: 11.118534200000001
-postcode: 96528
+postcode: "96528"
 city: Frankenblick
 street: "Bahnhofsallee"
 housenumber: 6
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
 website: ""

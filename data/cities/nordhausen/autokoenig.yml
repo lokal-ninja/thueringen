@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.4940536
 longitude: 10.770962500000001
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Freiherr-vom-Stein-Straße"
 housenumber: 34

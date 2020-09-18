@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.9500466
 longitude: 10.7061167
-postcode: 99867
+postcode: "99867"
 city: Gotha
 street: "Erfurter Straße"
 housenumber: 2

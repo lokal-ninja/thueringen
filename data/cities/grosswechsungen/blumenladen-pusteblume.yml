@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.492684100000005
 longitude: 10.6902919
-postcode: 99735
+postcode: "99735"
 city: Großwechsungen
 street: "Schulstraße"
 housenumber: 

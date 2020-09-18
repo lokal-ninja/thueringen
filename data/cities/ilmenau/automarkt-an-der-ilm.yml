@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.6798343
 longitude: 10.9308084
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "Hüttengrund"
 housenumber: 1

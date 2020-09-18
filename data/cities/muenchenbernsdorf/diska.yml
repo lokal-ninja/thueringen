@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.818955800000005
 longitude: 11.931902500000001
-postcode: 07589
+postcode: "07589"
 city: Münchenbernsdorf
 street: "Akazienstraße"
 housenumber: 1

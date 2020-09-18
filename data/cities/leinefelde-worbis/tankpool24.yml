@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.390781600000004
 longitude: 10.337900000000001
-postcode: 37327
+postcode: "37327"
 city: Leinefelde-Worbis
 street: "Abbestraße"
 housenumber: 13 - 15

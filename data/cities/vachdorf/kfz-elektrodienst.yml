@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.5253365
 longitude: 10.5331918
-postcode: 98617
+postcode: "98617"
 city: Vachdorf
 street: "Landstraße"
 housenumber: 232

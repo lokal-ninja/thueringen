@@ -3,10 +3,10 @@ type: way
 shop: Baumarkt
 latitude: 50.915547100000005
 longitude: 11.5697864
-postcode: 07745
+postcode: "07745"
 city: Jena
 street: "Carl-Zeiss-Promenade"
 housenumber: 28
 phone: "+49 3641 615298"
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-17:30"
 website: ""

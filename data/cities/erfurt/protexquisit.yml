@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.0365966
 longitude: 10.980739400000001
-postcode: 99090
+postcode: "99090"
 city: Erfurt
 street: "Kühnhäuser Straße"
 housenumber: 106

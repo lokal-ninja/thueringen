@@ -1,12 +1,12 @@
-id: 88645143
-type: way
+id: 3669723652
+type: node
 shop: Supermarkt
-latitude: 51.016442100000006
-longitude: 10.984795
-postcode: 99091
+latitude: 50.9710331
+longitude: 11.060926700000001
+postcode: "99099"
 city: Erfurt
-street: "Scheidemantelweg"
-housenumber: 9
+street: "Hermsdorfer Straße"
+housenumber: 4
 phone: ""
 opening_hours: ""
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.93172250000001
 longitude: 11.570361400000001
-postcode: 07743
+postcode: "07743"
 city: Jena
 street: "Talstraße"
 housenumber: 41

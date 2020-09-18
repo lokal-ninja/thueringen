@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.902955500000004
 longitude: 11.5983192
-postcode: 07749
+postcode: "07749"
 city: Jena
 street: "Wöllnitzer Straße"
 housenumber: 105

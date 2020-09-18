@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.7221959
 longitude: 10.452909
-postcode: 98574
+postcode: "98574"
 city: Schmalkalden
 street: "Lutherplatz"
 housenumber: 13

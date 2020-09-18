@@ -3,7 +3,7 @@ type: node
 shop: Landwirtschaftlich
 latitude: 50.7504597
 longitude: 10.8179957
-postcode: 99330
+postcode: "99330"
 city: Geratal
 street: "Bahnhofstraße"
 housenumber: 50

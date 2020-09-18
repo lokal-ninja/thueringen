@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9731584
 longitude: 11.0493515
-postcode: 99099
+postcode: "99099"
 city: Erfurt
 street: "Weimarische Straße"
 housenumber: 39a

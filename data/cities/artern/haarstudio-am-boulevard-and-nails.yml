@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.3645342
 longitude: 11.294906200000002
-postcode: 06556
+postcode: "06556"
 city: Artern
 street: "Leipziger Straße"
 housenumber: 16

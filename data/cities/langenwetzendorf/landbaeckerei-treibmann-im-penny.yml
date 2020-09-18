@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.676409400000004
 longitude: 12.0974815
-postcode: 07957
+postcode: "07957"
 city: Langenwetzendorf
 street: "Greizer Straße"
 housenumber: 2

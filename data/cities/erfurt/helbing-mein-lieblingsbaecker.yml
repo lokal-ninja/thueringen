@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.016853600000005
 longitude: 11.0221184
-postcode: 99087
+postcode: "99087"
 city: Erfurt
 street: "Karl-Reimann-Ring"
 housenumber: 13

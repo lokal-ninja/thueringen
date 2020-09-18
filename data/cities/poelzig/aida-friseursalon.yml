@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9525723
 longitude: 12.198000100000002
-postcode: 07554
+postcode: "07554"
 city: Pölzig
 street: "Hauptstraße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 50.4809204
 longitude: 10.5021327
-postcode: 98631
+postcode: "98631"
 city: Grabfeld
 street: "Markt"
 housenumber: 11

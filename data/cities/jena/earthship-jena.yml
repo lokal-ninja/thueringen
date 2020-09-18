@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.9298858
 longitude: 11.5824463
-postcode: 07743
+postcode: "07743"
 city: Jena
 street: "Wagnergasse"
 housenumber: 38

@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 51.0155583
 longitude: 12.4196076
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Unterer Wiesenhang"
 housenumber: 16

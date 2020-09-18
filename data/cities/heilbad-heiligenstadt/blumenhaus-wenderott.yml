@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.3768163
 longitude: 10.1342186
-postcode: 37308
+postcode: "37308"
 city: Heilbad Heiligenstadt
 street: "Schöllbach"
 housenumber: 11

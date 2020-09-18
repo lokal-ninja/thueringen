@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 50.6533729
 longitude: 10.667277700000001
-postcode: 98544
+postcode: "98544"
 city: Zella-Mehlis
 street: "Forstgasse"
 housenumber: 19

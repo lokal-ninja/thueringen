@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.9659409
 longitude: 11.0410588
-postcode: 99096
+postcode: "99096"
 city: Erfurt
 street: "Damaschkestraße"
 housenumber: 17

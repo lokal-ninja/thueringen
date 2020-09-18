@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.935387000000006
 longitude: 10.6762276
-postcode: 99867
+postcode: "99867"
 city: Gotha
 street: "Leinastraße"
 housenumber: 78

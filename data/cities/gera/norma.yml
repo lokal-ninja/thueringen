@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.8628682
 longitude: 12.076118000000001
-postcode: 07548
+postcode: "07548"
 city: Gera
 street: "Fröbelstraße"
 housenumber: 15B

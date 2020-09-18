@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 50.9732299
 longitude: 10.9718552
-postcode: 99092
+postcode: "99092"
 city: Erfurt
 street: "Binderslebener Landstraße"
 housenumber: 93

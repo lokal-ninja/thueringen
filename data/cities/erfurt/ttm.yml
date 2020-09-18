@@ -3,7 +3,7 @@ type: node
 shop: Teppiche
 latitude: 51.01112010000001
 longitude: 11.023984800000001
-postcode: 99086
+postcode: "99086"
 city: Erfurt
 street: "An der Lache"
 housenumber: 28

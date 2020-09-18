@@ -3,7 +3,7 @@ type: node
 shop: Wettbüro
 latitude: 50.878456400000005
 longitude: 12.083317300000001
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: "Humboldtstraße"
 housenumber: 5

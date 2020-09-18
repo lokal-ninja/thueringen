@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.0383627
 longitude: 11.5125118
-postcode: 99510
+postcode: "99510"
 city: Apolda
 street: "Am Weimarer Berg"
 housenumber: 1

@@ -3,10 +3,10 @@ type: node
 shop: Autohaus
 latitude: 50.8114088
 longitude: 10.7299378
-postcode: 99885
+postcode: "99885"
 city: Ohrdruf
 street: "Suhler Straße"
-housenumber: 7F
+housenumber: 7f
 phone: ""
 opening_hours: ""
 website: ""

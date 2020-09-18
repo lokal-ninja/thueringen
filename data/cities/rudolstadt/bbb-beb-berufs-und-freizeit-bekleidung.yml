@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.72418630000001
 longitude: 11.339014500000001
-postcode: 07407
+postcode: "07407"
 city: Rudolstadt
 street: "Baumgarten"
 housenumber: 1

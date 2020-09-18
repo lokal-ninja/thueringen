@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 50.9874651
 longitude: 11.047179400000001
-postcode: 99085
+postcode: "99085"
 city: Erfurt
 street: "Greifswalder Straße"
 housenumber: 27

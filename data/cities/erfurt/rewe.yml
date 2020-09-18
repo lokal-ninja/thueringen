@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.016825600000004
 longitude: 11.0222143
-postcode: 99087
+postcode: "99087"
 city: Erfurt
 street: "Karl-Reimann-Ring"
 housenumber: 13

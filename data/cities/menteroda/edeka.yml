@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.3080671
 longitude: 10.5605221
-postcode: 99996
+postcode: "99996"
 city: Menteroda
 street: "Bergstraße"
 housenumber: 2

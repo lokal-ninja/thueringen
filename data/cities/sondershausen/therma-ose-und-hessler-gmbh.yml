@@ -3,7 +3,7 @@ type: way
 shop: Badezimmer
 latitude: 51.3855835
 longitude: 10.8480159
-postcode: 99706
+postcode: "99706"
 city: Sondershausen
 street: "Schachtstraße"
 housenumber: 10

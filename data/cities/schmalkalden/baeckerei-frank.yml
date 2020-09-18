@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.725486100000005
 longitude: 10.3536461
-postcode: 98574
+postcode: "98574"
 city: Schmalkalden
 street: "Straße der DSF"
 housenumber: 30

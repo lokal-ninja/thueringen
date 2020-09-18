@@ -3,7 +3,7 @@ type: way
 shop: Hifi
 latitude: 50.577940600000005
 longitude: 11.807123200000001
-postcode: 07907
+postcode: "07907"
 city: Schleiz
 street: "Schmiedestraße"
 housenumber: 9

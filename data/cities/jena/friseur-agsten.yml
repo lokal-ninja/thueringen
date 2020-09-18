@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.951204000000004
 longitude: 11.6049387
-postcode: 07743
+postcode: "07743"
 city: Jena
 street: "Unterer Sachseneckweg"
 housenumber: 

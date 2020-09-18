@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.6439291
 longitude: 10.689756000000001
-postcode: 98544
+postcode: "98544"
 city: Zella-Mehlis
 street: "Industriestraße"
 housenumber: 4

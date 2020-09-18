@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.9813161
 longitude: 10.3468467
-postcode: 99817
+postcode: "99817"
 city: Eisenach
 street: "Langensalzaer Straße"
 housenumber: 77

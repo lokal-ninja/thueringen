@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.00185930000001
 longitude: 12.437514100000001
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Kauerndorfer Allee"
 housenumber: 10

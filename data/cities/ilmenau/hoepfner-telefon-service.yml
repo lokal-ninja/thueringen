@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 50.6890263
 longitude: 10.9243196
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "Weimarer Straße"
 housenumber: 59

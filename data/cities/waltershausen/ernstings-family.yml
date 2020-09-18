@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.898661000000004
 longitude: 10.5594836
-postcode: 99880
+postcode: "99880"
 city: Waltershausen
 street: "August-Trinius-Straße"
 housenumber: 18

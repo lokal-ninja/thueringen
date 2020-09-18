@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.849128300000004
 longitude: 12.076492400000001
-postcode: 07549
+postcode: "07549"
 city: Gera
 street: "Heeresbergstraße"
 housenumber: 1

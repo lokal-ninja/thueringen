@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.973355500000004
 longitude: 11.017687800000001
-postcode: 99084
+postcode: "99084"
 city: Erfurt
 street: "Brühler Straße"
 housenumber: 13

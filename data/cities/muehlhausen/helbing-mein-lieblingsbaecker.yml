@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.2075441
 longitude: 10.459508300000001
-postcode: 99974
+postcode: "99974"
 city: Mühlhausen
 street: "Untermarkt"
 housenumber: 30

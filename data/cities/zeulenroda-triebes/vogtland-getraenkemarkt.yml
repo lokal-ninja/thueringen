@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.6522409
 longitude: 11.9785026
-postcode: 07937
+postcode: "07937"
 city: Zeulenroda-Triebes
 street: "Aumaische Straße"
 housenumber: 33

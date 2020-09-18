@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.702612800000004
 longitude: 11.6167298
-postcode: 07381
+postcode: "07381"
 city: Pößneck
 street: "Neustädter Straße"
 housenumber: 165

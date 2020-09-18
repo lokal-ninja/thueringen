@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.081148400000004
 longitude: 10.926656900000001
-postcode: 99189
+postcode: "99189"
 city: Andisleben
 street: "Brückenstraße"
 housenumber: 3

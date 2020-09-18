@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.9661721
 longitude: 11.3286449
-postcode: 99425
+postcode: "99425"
 city: Weimar
 street: "Rainer-Maria-Rilke-Straße"
 housenumber: 41

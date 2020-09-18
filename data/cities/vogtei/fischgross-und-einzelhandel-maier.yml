@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 51.164644
 longitude: 10.420745
-postcode: 99986
+postcode: "99986"
 city: Vogtei
 street: "Am Anger"
 housenumber: 20

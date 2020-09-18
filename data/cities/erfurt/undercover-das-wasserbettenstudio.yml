@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.014472600000005
 longitude: 10.988623200000001
-postcode: 99091
+postcode: "99091"
 city: Erfurt
 street: "Sondershäuser Straße"
 housenumber: 6a

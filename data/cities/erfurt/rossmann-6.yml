@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.977583700000004
 longitude: 11.0362357
-postcode: 99084
+postcode: "99084"
 city: Erfurt
 street: "Anger"
 housenumber: 1

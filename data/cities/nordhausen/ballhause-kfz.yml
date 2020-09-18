@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.495887100000004
 longitude: 10.774509
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Traktorenstraße"
 housenumber: 7a

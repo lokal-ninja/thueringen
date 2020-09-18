@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.8434657
 longitude: 12.076152500000001
-postcode: 07549
+postcode: "07549"
 city: Gera
 street: "Heeresbergstraße"
 housenumber: 7

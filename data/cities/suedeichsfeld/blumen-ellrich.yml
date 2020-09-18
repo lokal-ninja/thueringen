@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.1649204
 longitude: 10.3213734
-postcode: 99988
+postcode: "99988"
 city: Südeichsfeld
 street: "Hauptstraße"
 housenumber: 18

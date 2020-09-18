@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.7358186
 longitude: 11.7431508
-postcode: 07806
+postcode: "07806"
 city: Neustadt an der Orla
 street: "Arnshaugker Straße"
 housenumber: 1

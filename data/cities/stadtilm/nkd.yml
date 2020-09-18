@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.775077
 longitude: 11.0806856
-postcode: 99326
+postcode: "99326"
 city: Stadtilm
 street: "Straße der Einheit"
 housenumber: 13

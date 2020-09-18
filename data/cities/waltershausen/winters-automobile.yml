@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.913645900000006
 longitude: 10.555315400000001
-postcode: 99880
+postcode: "99880"
 city: Waltershausen
 street: "Am Neuen Teich"
 housenumber: 1

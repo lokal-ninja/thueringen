@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.887537900000005
 longitude: 12.0898217
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: "Dornaer Straße"
 housenumber: 6

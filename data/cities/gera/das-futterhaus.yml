@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 50.870882800000004
 longitude: 12.082972900000001
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: "Reichsstraße"
 housenumber: 12 - 14

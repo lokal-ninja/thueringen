@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.867815
 longitude: 11.803887900000001
-postcode: 07646
+postcode: "07646"
 city: Mörsdorf
 street: "Auf dem Berg"
 housenumber: 100

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.474611
 longitude: 10.9088597
-postcode: 98673
+postcode: "98673"
 city: Eisfeld
 street: "Stadtweg"
 housenumber: 7

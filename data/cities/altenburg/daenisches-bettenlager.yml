@@ -1,12 +1,12 @@
 id: 6404831785
 type: node
-shop: Betten
+shop: Möbel
 latitude: 50.9807855
 longitude: 12.4452332
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Käthe-Kollwitz-Straße"
 housenumber: 68
-phone: "+49 3447 56680"
-opening_hours: "Mo-Fr 09:30-18:30 / Sa 09:00-16:00"
-website: "https://www.daenischesbettenlager.de/"
+phone: ""
+opening_hours: "Mo-Fr 09:30-18:30; Sa 09:00-16:00; Su,PH off"
+website: ""

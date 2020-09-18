@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.6019207
 longitude: 10.5829386
-postcode: 98529
+postcode: "98529"
 city: Suhl
 street: "Obere Aue"
 housenumber: 9

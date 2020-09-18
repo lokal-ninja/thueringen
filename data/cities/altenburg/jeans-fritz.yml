@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.9854533
 longitude: 12.433173400000001
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Markt"
 housenumber: 26

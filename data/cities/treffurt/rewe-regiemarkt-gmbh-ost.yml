@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.135218300000005
 longitude: 10.229985000000001
-postcode: 99830
+postcode: "99830"
 city: Treffurt
 street: "Gartenstraße"
 housenumber: 1c

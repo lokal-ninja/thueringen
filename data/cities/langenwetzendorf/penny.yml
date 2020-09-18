@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.67637130000001
 longitude: 12.097642200000001
-postcode: 07957
+postcode: "07957"
 city: Langenwetzendorf
 street: "Greizer Straße"
 housenumber: 2

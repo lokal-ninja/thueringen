@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9862125
 longitude: 10.3081259
-postcode: 99817
+postcode: "99817"
 city: Eisenach
 street: "Nebestraße"
 housenumber: 12

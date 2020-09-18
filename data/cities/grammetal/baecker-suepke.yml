@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9660943
 longitude: 11.2335378
-postcode: 99428
+postcode: "99428"
 city: Grammetal
 street: ""
 housenumber: 

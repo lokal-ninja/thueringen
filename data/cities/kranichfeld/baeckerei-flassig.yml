@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.853818000000004
 longitude: 11.2018362
-postcode: 99448
+postcode: "99448"
 city: Kranichfeld
 street: "Alexanderstraße"
 housenumber: 28

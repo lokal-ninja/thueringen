@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.737307200000004
 longitude: 12.0822537
-postcode: 07570
+postcode: "07570"
 city: Weida
 street: "Mühlweg"
 housenumber: 8

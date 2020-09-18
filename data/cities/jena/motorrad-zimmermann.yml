@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 50.9368538
 longitude: 11.5898775
-postcode: 07743
+postcode: "07743"
 city: Jena
 street: "Camburger Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.932396100000005
 longitude: 12.0279611
-postcode: 07586
+postcode: "07586"
 city: Bad Köstritz
 street: "Am Bahnhof"
 housenumber: 1

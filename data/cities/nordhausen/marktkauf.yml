@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4835957
 longitude: 10.802361600000001
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Darrweg"
 housenumber: 67

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.927782
 longitude: 11.589171200000001
-postcode: 07743
+postcode: "07743"
 city: Jena
 street: "Oberlauengasse"
 housenumber: 23

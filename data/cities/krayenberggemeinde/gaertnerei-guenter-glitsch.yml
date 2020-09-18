@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.8390551
 longitude: 10.0761871
-postcode: 36460
+postcode: "36460"
 city: Krayenberggemeinde
 street: "Vachaer Straße"
 housenumber: 30

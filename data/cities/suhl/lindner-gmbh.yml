@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 50.5981697
 longitude: 10.6763461
-postcode: 98529
+postcode: "98529"
 city: Suhl
 street: "Johann-Wendel-Straße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.980690200000005
 longitude: 11.3852592
-postcode: 99425
+postcode: "99425"
 city: Weimar
 street: "Landhausallee"
 housenumber: 18

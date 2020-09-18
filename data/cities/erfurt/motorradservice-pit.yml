@@ -3,10 +3,10 @@ type: node
 shop: Motorrad
 latitude: 50.9768704
 longitude: 11.082024500000001
-postcode: 99099
+postcode: "99099"
 city: Erfurt
 street: "Weimarische Straße"
 housenumber: 15g
-phone: "+49 157 35250965"
+phone: ""
 opening_hours: ""
 website: ""

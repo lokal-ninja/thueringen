@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.9604428
 longitude: 11.316878500000001
-postcode: 99425
+postcode: "99425"
 city: Weimar
 street: "Berkaer Straße"
 housenumber: 71

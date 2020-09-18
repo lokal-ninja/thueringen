@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.193728500000006
 longitude: 10.478461000000001
-postcode: 99974
+postcode: "99974"
 city: Mühlhausen
 street: "Am Alten Bahndamm"
 housenumber: 2

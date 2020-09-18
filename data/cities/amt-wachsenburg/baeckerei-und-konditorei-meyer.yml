@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8765622
 longitude: 10.9711964
-postcode: 99334
+postcode: "99334"
 city: Amt Wachsenburg
 street: "Erfurter Straße"
 housenumber: 26

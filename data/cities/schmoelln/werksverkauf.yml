@@ -3,7 +3,7 @@ type: way
 shop: Käse
 latitude: 50.939523200000004
 longitude: 12.2516929
-postcode: 04626
+postcode: "04626"
 city: Schmölln
 street: "Theo-Nebe-Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 50.8962918
 longitude: 12.1276528
-postcode: 07554
+postcode: "07554"
 city: Gera
 street: "Trebnitz"
 housenumber: 6

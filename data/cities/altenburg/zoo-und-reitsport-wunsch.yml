@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 50.983625
 longitude: 12.449697100000002
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Heinrich-Heine-Straße"
 housenumber: 64

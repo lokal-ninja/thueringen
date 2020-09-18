@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 50.6903875
 longitude: 10.9223985
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "Ratsteichstraße"
 housenumber: 3

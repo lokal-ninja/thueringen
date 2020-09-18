@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.731584600000005
 longitude: 10.459024600000001
-postcode: 98574
+postcode: "98574"
 city: Schmalkalden
 street: "Wilhelm-Külz-Straße"
 housenumber: 45

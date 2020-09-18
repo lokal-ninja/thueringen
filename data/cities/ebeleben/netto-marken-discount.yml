@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.2865034
 longitude: 10.7400572
-postcode: 99713
+postcode: "99713"
 city: Ebeleben
 street: "Sondershäuser Straße"
 housenumber: 20

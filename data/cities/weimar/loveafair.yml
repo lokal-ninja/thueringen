@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 50.9801238
 longitude: 11.327718800000001
-postcode: 99423
+postcode: "99423"
 city: Weimar
 street: "Marktstraße"
 housenumber: 22

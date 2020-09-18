@@ -3,7 +3,7 @@ type: way
 shop: Textil
 latitude: 51.3567553
 longitude: 11.100478200000001
-postcode: 06567
+postcode: "06567"
 city: Bad Frankenhausen/Kyffhäuser
 street: "Kräme"
 housenumber: 32

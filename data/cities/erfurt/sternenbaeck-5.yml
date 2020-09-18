@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9881365
 longitude: 11.053687400000001
-postcode: 99085
+postcode: "99085"
 city: Erfurt
 street: "Leipziger Straße"
 housenumber: 78

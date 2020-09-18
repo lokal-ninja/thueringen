@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.8250061
 longitude: 10.726182600000001
-postcode: 99885
+postcode: "99885"
 city: Ohrdruf
 street: "Bahnhofstraße"
 housenumber: 34

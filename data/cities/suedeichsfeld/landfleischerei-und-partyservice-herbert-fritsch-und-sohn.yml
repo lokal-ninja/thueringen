@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.16656570000001
 longitude: 10.3212139
-postcode: 99988
+postcode: "99988"
 city: Südeichsfeld
 street: "Johannesstraße"
 housenumber: 30

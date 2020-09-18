@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9260821
 longitude: 11.588231400000002
-postcode: 07743
+postcode: "07743"
 city: Jena
 street: "Grietgasse"
 housenumber: 10

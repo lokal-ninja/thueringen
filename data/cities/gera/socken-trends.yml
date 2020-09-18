@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.875752000000006
 longitude: 12.0777406
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: ""
 housenumber: 

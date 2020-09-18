@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.928834
 longitude: 11.5887601
-postcode: 07743
+postcode: "07743"
 city: Jena
 street: "Saalstraße"
 housenumber: 3

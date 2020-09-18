@@ -3,10 +3,10 @@ type: way
 shop: Baumarkt
 latitude: 51.1034428
 longitude: 10.6369064
-postcode: 99947
+postcode: "99947"
 city: Bad Langensalza
 street: "Poststraße"
 housenumber: 14
-phone: "03603852140"
+phone: "+49 3603852140"
 opening_hours: ""
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.391864500000004
 longitude: 10.3283004
-postcode: 37327
+postcode: "37327"
 city: Leinefelde-Worbis
 street: "Im Rödichen"
 housenumber: 1b

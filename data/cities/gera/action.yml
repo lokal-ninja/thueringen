@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 50.8971158
 longitude: 12.0867486
-postcode: 07546
+postcode: "07546"
 city: Gera
 street: "Erich-Mühsam-Straße"
 housenumber: 7

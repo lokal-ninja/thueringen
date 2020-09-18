@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.9522138
 longitude: 12.199117900000001
-postcode: 07554
+postcode: "07554"
 city: Pölzig
 street: "Hauptstraße"
 housenumber: 25B

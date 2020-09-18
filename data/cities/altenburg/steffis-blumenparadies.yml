@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.9911964
 longitude: 12.440992600000001
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Gabelentzstraße"
 housenumber: 22

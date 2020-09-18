@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.0168953
 longitude: 12.3710275
-postcode: 04617
+postcode: "04617"
 city: Rositz
 street: "Goethestraße"
 housenumber: 2

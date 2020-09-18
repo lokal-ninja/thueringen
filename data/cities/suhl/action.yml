@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 50.610686300000005
 longitude: 10.690867500000001
-postcode: 98527
+postcode: "98527"
 city: Suhl
 street: "Friedrich-König-Straße"
 housenumber: 21

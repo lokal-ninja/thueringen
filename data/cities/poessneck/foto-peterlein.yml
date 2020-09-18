@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 50.694946200000004
 longitude: 11.592542700000001
-postcode: 07381
+postcode: "07381"
 city: Pößneck
 street: "Brauhausgasse"
 housenumber: 2

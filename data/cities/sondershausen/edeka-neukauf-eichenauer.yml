@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.3651695
 longitude: 10.888548100000001
-postcode: 99706
+postcode: "99706"
 city: Sondershausen
 street: "Frankenhäuser Straße"
 housenumber: 52

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.652638
 longitude: 12.2130594
-postcode: 07973
+postcode: "07973"
 city: Greiz
 street: "August-Bebel-Straße"
 housenumber: 65

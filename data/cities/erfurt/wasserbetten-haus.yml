@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 50.976446800000005
 longitude: 11.087170700000001
-postcode: 99098
+postcode: "99098"
 city: Erfurt
 street: "Über dem Feldgarten"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.918581
 longitude: 12.0544933
-postcode: 07552
+postcode: "07552"
 city: Gera
 street: "Langenberger Straße"
 housenumber: 21

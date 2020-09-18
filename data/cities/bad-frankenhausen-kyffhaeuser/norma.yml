@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.3546629
 longitude: 11.111184300000001
-postcode: 06567
+postcode: "06567"
 city: Bad Frankenhausen/Kyffhäuser
 street: "Salzwiesenrain"
 housenumber: 1

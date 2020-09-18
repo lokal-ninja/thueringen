@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.4796168
 longitude: 10.737874000000001
-postcode: 99735
+postcode: "99735"
 city: Werther
 street: "Unter den Linden"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 50.9010867
 longitude: 12.052787400000001
-postcode: 07548
+postcode: "07548"
 city: Gera
 street: "Milbitzer Straße"
 housenumber: 25

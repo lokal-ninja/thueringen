@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.917243400000004
 longitude: 11.868189200000002
-postcode: 07639
+postcode: "07639"
 city: Bad Klosterlausnitz
 street: "Eisenberger Straße"
 housenumber: 9

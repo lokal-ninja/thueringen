@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.0086005
 longitude: 10.9983345
-postcode: 99091
+postcode: "99091"
 city: Erfurt
 street: "Moskauer Platz"
 housenumber: 20

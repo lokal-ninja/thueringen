@@ -3,7 +3,7 @@ type: way
 shop: Glaserei
 latitude: 50.9282824
 longitude: 11.569388100000001
-postcode: 07745
+postcode: "07745"
 city: Jena
 street: "Am Friedensberg"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.4042789
 longitude: 11.7158829
-postcode: 07366
+postcode: "07366"
 city: Rosenthal am Rennsteig
 street: "Straße der Einheit"
 housenumber: 12

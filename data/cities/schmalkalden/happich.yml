@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.724386
 longitude: 10.4523708
-postcode: 98574
+postcode: "98574"
 city: Schmalkalden
 street: "Weidebrunner Gasse"
 housenumber: 11

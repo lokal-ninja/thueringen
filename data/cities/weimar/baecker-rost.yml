@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.978151700000005
 longitude: 11.3264663
-postcode: 99423
+postcode: "99423"
 city: Weimar
 street: "Schützengasse"
 housenumber: 12

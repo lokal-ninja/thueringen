@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.9504869
 longitude: 11.0756993
-postcode: 99097
+postcode: "99097"
 city: Erfurt
 street: "Am Drosselberg"
 housenumber: 49

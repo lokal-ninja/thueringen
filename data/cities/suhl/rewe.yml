@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.6105442
 longitude: 10.690175700000001
-postcode: 98527
+postcode: "98527"
 city: Suhl
 street: "Friedrich-König-Straße"
 housenumber: 21

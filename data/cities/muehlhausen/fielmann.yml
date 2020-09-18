@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.210186300000004
 longitude: 10.4573047
-postcode: 99974
+postcode: "99974"
 city: Mühlhausen
 street: "Steinweg"
 housenumber: 90

@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 51.0762073
 longitude: 10.864391900000001
-postcode: 99100
+postcode: "99100"
 city: Dachwig
 street: "Gewerbegebiet"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 50.9475745
 longitude: 11.6070686
-postcode: 07743
+postcode: "07743"
 city: Jena
 street: "Camburger Straße"
 housenumber: 66

@@ -3,7 +3,7 @@ type: node
 shop: Nähzubehör
 latitude: 50.8772457
 longitude: 12.0842936
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: "Große Kirchstraße"
 housenumber: 13

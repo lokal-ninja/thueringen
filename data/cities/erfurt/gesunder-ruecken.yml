@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.9851839
 longitude: 11.0279567
-postcode: 99084
+postcode: "99084"
 city: Erfurt
 street: "Johannesstraße"
 housenumber: 78

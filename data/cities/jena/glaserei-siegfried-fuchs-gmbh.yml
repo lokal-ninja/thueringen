@@ -3,7 +3,7 @@ type: way
 shop: Glaserei
 latitude: 50.958736
 longitude: 11.5056603
-postcode: 07751
+postcode: "07751"
 city: Jena
 street: "Weimarische Straße"
 housenumber: 11

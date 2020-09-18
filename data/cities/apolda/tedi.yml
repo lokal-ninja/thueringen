@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.0386138
 longitude: 11.5133019
-postcode: 99510
+postcode: "99510"
 city: Apolda
 street: "Am Weimarer Berg"
 housenumber: 1

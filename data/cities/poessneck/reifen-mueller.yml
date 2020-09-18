@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 50.699095400000004
 longitude: 11.624801600000001
-postcode: 07381
+postcode: "07381"
 city: Pößneck
 street: "Weidenäckerstraße"
 housenumber: 10

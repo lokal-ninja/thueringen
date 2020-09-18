@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.714347000000004
 longitude: 10.12227
-postcode: 36466
+postcode: "36466"
 city: Dermbach
 street: "Wiesenthaler Straße"
 housenumber: 3

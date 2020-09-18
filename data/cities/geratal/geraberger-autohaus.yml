@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.717669
 longitude: 10.8409919
-postcode: 99331
+postcode: "99331"
 city: Geratal
 street: "Ohrdrufer Straße"
 housenumber: 35a

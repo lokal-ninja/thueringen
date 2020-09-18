@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.6959723
 longitude: 11.325939100000001
-postcode: 07407
+postcode: "07407"
 city: Rudolstadt
 street: "Am Spielborn"
 housenumber: 1

@@ -1,4 +1,4 @@
 ---
-title: "IS-Automobile"
+title: "is-Automobile"
 url: /gotha/is-automobile/
 ---

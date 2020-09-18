@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 50.9634501
 longitude: 10.703264800000001
-postcode: 99867
+postcode: "99867"
 city: Gotha
 street: "Heutalsweg"
 housenumber: 

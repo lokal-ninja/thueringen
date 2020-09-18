@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.588095200000005
 longitude: 10.8590347
-postcode: 98694
+postcode: "98694"
 city: Ilmenau
 street: "Nordstraße"
 housenumber: 60

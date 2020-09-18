@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.3835412
 longitude: 10.8497628
-postcode: 99706
+postcode: "99706"
 city: Sondershausen
 street: "Schachtstraße"
 housenumber: 4

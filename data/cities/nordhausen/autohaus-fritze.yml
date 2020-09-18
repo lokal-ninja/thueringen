@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.495798900000004
 longitude: 10.813731500000001
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Stresemannring"
 housenumber: 54

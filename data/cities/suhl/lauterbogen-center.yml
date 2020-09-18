@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 50.610915500000004
 longitude: 10.6902323
-postcode: 98527
+postcode: "98527"
 city: Suhl
 street: "Friedrich-König-Straße"
 housenumber: 21

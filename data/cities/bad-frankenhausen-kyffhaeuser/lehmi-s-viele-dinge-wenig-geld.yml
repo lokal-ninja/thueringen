@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.3577865
 longitude: 11.099592600000001
-postcode: 06567
+postcode: "06567"
 city: Bad Frankenhausen/Kyffhäuser
 street: "Klosterstraße"
 housenumber: 2

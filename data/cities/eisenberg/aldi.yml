@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9633364
 longitude: 11.8882144
-postcode: 07607
+postcode: "07607"
 city: Eisenberg
 street: "Saaser Straße"
 housenumber: 1m

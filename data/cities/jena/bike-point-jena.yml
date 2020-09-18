@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.9299125
 longitude: 11.601331700000001
-postcode: 07749
+postcode: "07749"
 city: Jena
 street: "Breite Straße"
 housenumber: 2

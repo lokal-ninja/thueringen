@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 51.164521900000004
 longitude: 10.4202598
-postcode: 99986
+postcode: "99986"
 city: Vogtei
 street: "Am Anger"
 housenumber: 22

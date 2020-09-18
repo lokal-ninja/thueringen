@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.123687100000005
 longitude: 11.4199552
-postcode: 99628
+postcode: "99628"
 city: Buttstädt
 street: "Roßplatz"
 housenumber: 1-3

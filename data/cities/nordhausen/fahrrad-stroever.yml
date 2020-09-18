@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.5038532
 longitude: 10.8008194
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Stolberger Straße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.980142400000005
 longitude: 11.3247865
-postcode: 99423
+postcode: "99423"
 city: Weimar
 street: "Theaterplatz"
 housenumber: 2a

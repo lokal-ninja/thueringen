@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.9751643
 longitude: 10.3234397
-postcode: 99817
+postcode: "99817"
 city: Eisenach
 street: "Karlstraße"
 housenumber: 45

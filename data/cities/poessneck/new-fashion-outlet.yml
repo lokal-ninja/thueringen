@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.694780200000004
 longitude: 11.5914438
-postcode: 07381
+postcode: "07381"
 city: Pößneck
 street: "Saalfelder Straße"
 housenumber: 2

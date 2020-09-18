@@ -3,10 +3,10 @@ type: node
 shop: Autowerkstatt
 latitude: 50.99472110000001
 longitude: 12.3886099
-postcode: 04017
+postcode: "04017"
 city: Lödla
 street: "Zum Grüntal"
 housenumber: 7
-phone: "+49 3447 834790"
-opening_hours: ""
-website: "https://www.kum-kirmse.de/"
+phone: ""
+opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00; Su,PH off"
+website: ""

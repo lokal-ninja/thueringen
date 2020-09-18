@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.950684700000004
 longitude: 11.301501
-postcode: 99428
+postcode: "99428"
 city: Weimar
 street: "Schustergasse"
 housenumber: 1

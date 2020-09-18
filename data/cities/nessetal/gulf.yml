@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.00114000000001
 longitude: 10.6873584
-postcode: 99869
+postcode: "99869"
 city: Nessetal
 street: "Langensalzaer Straße"
 housenumber: 24

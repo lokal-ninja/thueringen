@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.824144000000004
 longitude: 10.0206377
-postcode: 36404
+postcode: "36404"
 city: Vacha
 street: "August-Bebel-Straße"
 housenumber: 6

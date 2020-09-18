@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.1180139
 longitude: 10.6541727
-postcode: 99947
+postcode: "99947"
 city: Bad Langensalza
 street: "Rasenmühlenweg"
 housenumber: 16

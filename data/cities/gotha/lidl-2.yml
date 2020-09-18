@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 50.945424100000004
 longitude: 10.717294200000001
-postcode: 99867
+postcode: "99867"
 city: Gotha
 street: "Schöne Allee"
 housenumber: 14
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 50.7800201
 longitude: 12.0409065
-postcode: 07570
+postcode: "07570"
 city: Weida
 street: "Am Schafberge"
 housenumber: 2

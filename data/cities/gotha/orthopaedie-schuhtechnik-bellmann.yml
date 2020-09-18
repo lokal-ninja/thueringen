@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 50.9492404
 longitude: 10.6992417
-postcode: 99867
+postcode: "99867"
 city: Gotha
 street: "Blumenbachstraße"
 housenumber: 7

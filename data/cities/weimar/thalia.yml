@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.9786258
 longitude: 11.328198500000001
-postcode: 99423
+postcode: "99423"
 city: Weimar
 street: "Schillerstraße"
 housenumber: 5a

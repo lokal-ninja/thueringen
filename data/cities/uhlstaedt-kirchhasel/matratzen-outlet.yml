@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 50.7283592
 longitude: 11.3861957
-postcode: 07407
+postcode: "07407"
 city: Uhlstädt-Kirchhasel
 street: "Heinrich-Assmann-Straße"
 housenumber: 2

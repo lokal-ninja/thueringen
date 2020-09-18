@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0016735
 longitude: 10.999495000000001
-postcode: 99091
+postcode: "99091"
 city: Erfurt
 street: "Augsburger Straße"
 housenumber: 10

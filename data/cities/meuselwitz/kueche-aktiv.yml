@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 51.048033700000005
 longitude: 12.2929443
-postcode: 04610
+postcode: "04610"
 city: Meuselwitz
 street: "Zeitzer Straße"
 housenumber: 51

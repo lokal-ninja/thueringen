@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8871891
 longitude: 12.089189000000001
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: "Dornaer Straße"
 housenumber: 2

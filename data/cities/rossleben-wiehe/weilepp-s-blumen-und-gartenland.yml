@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.272667600000005
 longitude: 11.4023052
-postcode: 06571
+postcode: "06571"
 city: Roßleben-Wiehe
 street: "Im Gewerbegebiet"
 housenumber: 22

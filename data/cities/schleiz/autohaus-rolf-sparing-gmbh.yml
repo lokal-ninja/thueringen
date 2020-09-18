@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.58122710000001
 longitude: 11.809172100000001
-postcode: 07907
+postcode: "07907"
 city: Schleiz
 street: "Geraer Straße"
 housenumber: 28

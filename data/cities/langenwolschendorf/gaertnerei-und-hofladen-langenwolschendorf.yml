@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.6411698
 longitude: 11.9658654
-postcode: 07937
+postcode: "07937"
 city: Langenwolschendorf
 street: "Am Schafteich"
 housenumber: 7

@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 50.635542400000006
 longitude: 10.7052077
-postcode: 98528
+postcode: "98528"
 city: Suhl
 street: "Am Steinsfelder Wasser"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.988217500000005
 longitude: 11.053912100000002
-postcode: 99085
+postcode: "99085"
 city: Erfurt
 street: "Leipziger Straße"
 housenumber: 78b

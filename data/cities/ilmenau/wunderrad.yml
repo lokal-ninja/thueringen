@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.6812113
 longitude: 10.9341144
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "Max-Planck-Ring"
 housenumber: 

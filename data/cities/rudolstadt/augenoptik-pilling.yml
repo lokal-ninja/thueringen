@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.719759700000004
 longitude: 11.336632
-postcode: 07407
+postcode: "07407"
 city: Rudolstadt
 street: "Marktstraße"
 housenumber: 51

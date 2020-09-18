@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.002566300000005
 longitude: 12.472669300000002
-postcode: 04603
+postcode: "04603"
 city: Windischleuba
 street: "Poschwitzer Straße"
 housenumber: 3

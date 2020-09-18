@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8857482
 longitude: 12.1373837
-postcode: 07554
+postcode: "07554"
 city: Gera
 street: "An der Beerweinschänke"
 housenumber: 2

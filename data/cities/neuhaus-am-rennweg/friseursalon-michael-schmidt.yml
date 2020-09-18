@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.487235600000005
 longitude: 11.0634917
-postcode: 98724
+postcode: "98724"
 city: Neuhaus am Rennweg
 street: "Hauptstraße"
 housenumber: 82

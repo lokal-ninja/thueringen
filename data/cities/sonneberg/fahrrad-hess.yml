@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.360148800000005
 longitude: 11.173922800000001
-postcode: 96515
+postcode: "96515"
 city: Sonneberg
 street: "Bahnhofstraße"
 housenumber: 31a

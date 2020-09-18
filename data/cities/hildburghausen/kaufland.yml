@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.421845600000005
 longitude: 10.746841600000002
-postcode: 98646
+postcode: "98646"
 city: Hildburghausen
 street: "Eisfelder Straße"
 housenumber: 60

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.0025844
 longitude: 11.0199514
-postcode: 99089
+postcode: "99089"
 city: Erfurt
 street: "Riethstraße"
 housenumber: 1a

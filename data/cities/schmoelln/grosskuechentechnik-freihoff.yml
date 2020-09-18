@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 50.910446500000006
 longitude: 12.403396500000001
-postcode: 04626
+postcode: "04626"
 city: Schmölln
 street: "Kleinmückern"
 housenumber: 2

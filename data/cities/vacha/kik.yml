@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 50.823831500000004
 longitude: 10.021399
-postcode: 36404
+postcode: "36404"
 city: Vacha
-street: ""
-housenumber: 
+street: "August-Bebel-Straße"
+housenumber: 2
 phone: ""
 opening_hours: ""
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.6807639
 longitude: 11.276176300000001
-postcode: 07422
+postcode: "07422"
 city: Bad Blankenburg
 street: "Friedensstraße"
 housenumber: 6

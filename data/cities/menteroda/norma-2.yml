@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 51.3124416
 longitude: 10.568160500000001
-postcode: 99996
+postcode: "99996"
 city: Menteroda
 street: "Holzthalebener Straße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.7202442
 longitude: 11.339077900000001
-postcode: 07407
+postcode: "07407"
 city: Rudolstadt
 street: "Marktstraße"
 housenumber: 

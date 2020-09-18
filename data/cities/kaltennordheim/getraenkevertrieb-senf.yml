@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.6268225
 longitude: 10.1630584
-postcode: 36452
+postcode: "36452"
 city: Kaltennordheim
 street: "Meininger Straße"
 housenumber: 25

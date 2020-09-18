@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.9718196
 longitude: 11.3442608
-postcode: 99425
+postcode: "99425"
 city: Weimar
 street: "Bodelschwinghstraße"
 housenumber: 82

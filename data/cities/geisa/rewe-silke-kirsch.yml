@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.713126
 longitude: 9.957530100000001
-postcode: 36419
+postcode: "36419"
 city: Geisa
 street: "Rhönstraße"
 housenumber: 25

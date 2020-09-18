@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.502346200000005
 longitude: 10.794460200000001
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Kornmarkt"
 housenumber: 4

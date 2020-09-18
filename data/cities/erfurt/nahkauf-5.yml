@@ -1,12 +1,12 @@
-id: 2348310035
-type: node
+id: 49838194
+type: way
 shop: Supermarkt
-latitude: 50.973576300000005
-longitude: 11.036404000000001
-postcode: 
+latitude: 50.961232
+longitude: 11.046602400000001
+postcode: "99096"
 city: Erfurt
-street: "Bahnhofstraße"
-housenumber: 11
+street: "Robert-Schumann-Straße"
+housenumber: 12
 phone: ""
-opening_hours: "Mo-Fr 06:00-20:00; Sa 06:00-19:00; PH off"
+opening_hours: "Mo-Fr 06:00-21:00; Sa 07:00-20:00"
 website: ""

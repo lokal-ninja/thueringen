@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.6267477
 longitude: 10.1632499
-postcode: 36452
+postcode: "36452"
 city: Kaltennordheim
 street: "Meininger Straße"
 housenumber: 25

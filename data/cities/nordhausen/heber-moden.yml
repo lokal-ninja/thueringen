@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.502412400000004
 longitude: 10.7944951
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Kornmarkt"
 housenumber: 4

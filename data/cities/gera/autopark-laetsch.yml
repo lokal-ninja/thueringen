@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.905365100000004
 longitude: 12.107792300000002
-postcode: 07552
+postcode: "07552"
 city: Gera
 street: "Otto-Schott-Straße"
 housenumber: 11

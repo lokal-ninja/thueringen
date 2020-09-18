@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.1118633
 longitude: 10.929714800000001
-postcode: 99189
+postcode: "99189"
 city: Gebesee
 street: "Erfurter Straße"
 housenumber: 46

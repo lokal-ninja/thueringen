@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 50.9616005
 longitude: 11.0135565
-postcode: 99094
+postcode: "99094"
 city: Erfurt
 street: "Motzstraße"
 housenumber: 8

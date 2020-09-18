@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.9769881
 longitude: 11.0818606
-postcode: 99099
+postcode: "99099"
 city: Erfurt
 street: "Weimarische Straße"
 housenumber: 15g

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.9074856
 longitude: 12.3692522
-postcode: 04626
+postcode: "04626"
 city: Schmölln
 street: "Altenburger Straße"
 housenumber: 76

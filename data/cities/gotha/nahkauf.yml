@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 50.9371968
 longitude: 10.7044558
-postcode: 99867
+postcode: "99867"
 city: Gotha
 street: "Gerrit-Engelke-Straße"
 housenumber: 5
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 06:00-20:00"
 website: "https://www.nahkauf.de/"

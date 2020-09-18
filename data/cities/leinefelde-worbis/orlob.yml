@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 51.3888273
 longitude: 10.3455352
-postcode: 37327
+postcode: "37327"
 city: Leinefelde-Worbis
 street: "Ernemannstraße"
 housenumber: 8

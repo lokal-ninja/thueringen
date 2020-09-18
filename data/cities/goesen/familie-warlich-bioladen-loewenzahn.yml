@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.992123400000004
 longitude: 11.875215500000001
-postcode: 07607
+postcode: "07607"
 city: Gösen
 street: "Dorfstraße"
 housenumber: 53

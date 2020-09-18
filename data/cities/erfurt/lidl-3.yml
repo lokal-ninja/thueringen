@@ -1,12 +1,12 @@
-id: 88408400
-type: way
+id: 7410948404
+type: node
 shop: Supermarkt
-latitude: 50.99169010000001
-longitude: 11.0278408
-postcode: 99086
+latitude: 51.0028754
+longitude: 11.0014415
+postcode: "99091"
 city: Erfurt
-street: "Eislebener Straße"
-housenumber: 4
+street: "Grenzweg"
+housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.987850400000006
 longitude: 11.317276000000001
-postcode: 99423
+postcode: "99423"
 city: Weimar
 street: "Röhrstraße"
 housenumber: 21b

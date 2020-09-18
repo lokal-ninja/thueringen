@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.2662418
 longitude: 11.4107623
-postcode: 06571
+postcode: "06571"
 city: Roßleben-Wiehe
 street: "Leopold-von-Ranke-Straße"
 housenumber: 80

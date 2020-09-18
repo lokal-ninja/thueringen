@@ -3,10 +3,10 @@ type: node
 shop: Tiere
 latitude: 50.4179551
 longitude: 10.9110593
-postcode: 98673
+postcode: "98673"
 city: Eisfeld
 street: "Coburger Straße"
 housenumber: 59
-phone: "49 3686 616934"
+phone: "+49 3686 616934"
 opening_hours: "Mo-We 09:00-13:00, 15:00-18:00; Th 09:00-13:00, 15:00-19:00; Fr 09:00-18:00; Sa 09:00-12:00"
 website: "http://www.thommys-zooladen.de/"

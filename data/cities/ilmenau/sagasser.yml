@@ -1,12 +1,12 @@
-id: 38163708
-type: way
+id: 5245536721
+type: node
 shop: Getränke
-latitude: 50.6829648
-longitude: 10.9258415
-postcode: 98693
+latitude: 50.646306700000004
+longitude: 11.0033831
+postcode: "98694"
 city: Ilmenau
-street: "Langewiesener Straße"
-housenumber: 17a
+street: "Amtsstraße"
+housenumber: 11-13
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00; PH off"
 website: ""

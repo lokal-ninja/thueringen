@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.163684700000005
 longitude: 10.322522600000001
-postcode: 99988
+postcode: "99988"
 city: Südeichsfeld
 street: "Zittelstraße"
 housenumber: 1

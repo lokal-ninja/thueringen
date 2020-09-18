@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 50.6277094
 longitude: 10.154777600000001
-postcode: 36452
+postcode: "36452"
 city: Kaltennordheim
 street: "Lindenstraße"
 housenumber: 9

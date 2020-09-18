@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9670276
 longitude: 11.9051927
-postcode: 07607
+postcode: "07607"
 city: Eisenberg
 street: "Schloßgasse"
 housenumber: 10

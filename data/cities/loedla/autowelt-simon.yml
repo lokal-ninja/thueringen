@@ -3,10 +3,10 @@ type: way
 shop: Autohaus
 latitude: 50.9983517
 longitude: 12.404141000000001
-postcode: 04617
+postcode: "04617"
 city: Lödla
 street: "Lödlaer Chaussee"
 housenumber: 5
-phone: "+49 3447 8999993"
-opening_hours: "Mo-Fr 09:00-18:00 / Sa 09:00-13:00"
-website: "https://www.autowelt-simon.de/filiale-altenburg.php"
+phone: ""
+opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off"
+website: ""

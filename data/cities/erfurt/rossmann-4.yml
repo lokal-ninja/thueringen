@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.9503873
 longitude: 11.075444500000001
-postcode: 99097
+postcode: "99097"
 city: Erfurt
 street: "Am Drosselberg"
 housenumber: 49

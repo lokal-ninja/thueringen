@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.940241
 longitude: 10.071424
-postcode: 99837
+postcode: "99837"
 city: Werra-Suhl-Tal
 street: "Lutherstraße"
 housenumber: 29

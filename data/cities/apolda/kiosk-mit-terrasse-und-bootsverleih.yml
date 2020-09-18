@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.020192300000005
 longitude: 11.509064500000001
-postcode: 99510
+postcode: "99510"
 city: Apolda
 street: ""
 housenumber: 

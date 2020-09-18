@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.999382000000004
 longitude: 12.404338800000001
-postcode: 04617
+postcode: "04617"
 city: Lödla
 street: "Lödlaer Chaussee"
 housenumber: 1

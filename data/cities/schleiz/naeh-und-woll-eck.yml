@@ -3,7 +3,7 @@ type: node
 shop: Nähzubehör
 latitude: 50.5776861
 longitude: 11.8080666
-postcode: 07907
+postcode: "07907"
 city: Schleiz
 street: "Alte Poststraße"
 housenumber: 2

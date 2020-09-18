@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.003525100000004
 longitude: 11.033484600000001
-postcode: 99086
+postcode: "99086"
 city: Erfurt
 street: "Sulzestraße"
 housenumber: 4

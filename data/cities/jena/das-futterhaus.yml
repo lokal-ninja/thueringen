@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 50.884249000000004
 longitude: 11.608187000000001
-postcode: 07747
+postcode: "07747"
 city: Jena
 street: "Karl-Marx-Allee"
 housenumber: 20

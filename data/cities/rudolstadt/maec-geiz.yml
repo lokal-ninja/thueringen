@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 50.7185952
 longitude: 11.334356900000001
-postcode: 07407
+postcode: "07407"
 city: Rudolstadt
 street: "Marktstraße"
 housenumber: 75-81

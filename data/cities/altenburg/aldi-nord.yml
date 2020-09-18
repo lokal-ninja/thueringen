@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.998600100000004
 longitude: 12.4399113
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Offenburger Allee"
 housenumber: 15

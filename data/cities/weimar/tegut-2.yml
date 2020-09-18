@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.979940500000005
 longitude: 11.3090086
-postcode: 99425
+postcode: "99425"
 city: Weimar
 street: "Damaschkestraße"
 housenumber: 1

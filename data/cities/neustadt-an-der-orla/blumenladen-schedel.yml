@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.737026300000004
 longitude: 11.747682000000001
-postcode: 07806
+postcode: "07806"
 city: Neustadt an der Orla
 street: "Marktstraße"
 housenumber: 13-15

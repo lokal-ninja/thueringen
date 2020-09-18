@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 50.648662300000005
 longitude: 11.3582625
-postcode: 07318
+postcode: "07318"
 city: Saalfeld/Saale
 street: "Blankenburger Straße"
 housenumber: 21

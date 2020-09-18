@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 50.919323600000006
 longitude: 11.5689498
-postcode: 07745
+postcode: "07745"
 city: Jena
 street: "Lichtenhainer Oberweg"
 housenumber: 6

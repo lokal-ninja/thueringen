@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.3573237
 longitude: 11.1011105
-postcode: 06567
+postcode: "06567"
 city: Bad Frankenhausen/Kyffhäuser
 street: "Erfurter Straße"
 housenumber: 6

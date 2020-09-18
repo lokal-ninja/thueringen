@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.691634900000004
 longitude: 10.9211205
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "Unterpörlitzer Straße"
 housenumber: 37

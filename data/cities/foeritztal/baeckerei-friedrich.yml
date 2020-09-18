@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 50.396934
 longitude: 11.2193901
-postcode: 96524
+postcode: "96524"
 city: Föritztal
 street: "Blechhammerer Straße"
-housenumber: 6C
+housenumber: 6c
 phone: "+49 3675 8136808"
 opening_hours: ""
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.3690037
 longitude: 10.1545994
-postcode: 37308
+postcode: "37308"
 city: Heilbad Heiligenstadt
 street: "Flinsberger Straße"
 housenumber: 1

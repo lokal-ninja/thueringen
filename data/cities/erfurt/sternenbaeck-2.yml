@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 50.9499707
 longitude: 11.075493100000001
-postcode: 99097
+postcode: "99097"
 city: Erfurt
 street: "Am Drosselberg"
 housenumber: 47
-phone: "+49 361 4222611"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-16:00"
-website: "http://www.sternenbaeck.de"
+phone: ""
+opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 08:00-17:00"
+website: ""

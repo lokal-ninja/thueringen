@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 50.721205700000006
 longitude: 10.4429756
-postcode: 98574
+postcode: "98574"
 city: Schmalkalden
 street: "Eichelbach"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 51.4676733
 longitude: 10.4667402
-postcode: 37345
+postcode: "37345"
 city: Am Ohmberg
 street: "Friedhofstraße"
 housenumber: 1b

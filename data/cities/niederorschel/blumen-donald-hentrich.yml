@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.365382700000005
 longitude: 10.4227048
-postcode: 37355
+postcode: "37355"
 city: Niederorschel
 street: "Hauptstraße"
 housenumber: 111

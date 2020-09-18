@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.5679725
 longitude: 10.93341
-postcode: 98701
+postcode: "98701"
 city: Großbreitenbach
 street: "Kahlert"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.926855700000004
 longitude: 11.5899604
-postcode: 07743
+postcode: "07743"
 city: Jena
 street: "Löbdergraben"
 housenumber: 28

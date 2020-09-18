@@ -3,7 +3,7 @@ type: way
 shop: Tee
 latitude: 50.8028161
 longitude: 11.5878279
-postcode: 07768
+postcode: "07768"
 city: Kahla
 street: "Markt"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.2974502
 longitude: 11.448500200000002
-postcode: 06571
+postcode: "06571"
 city: Roßleben-Wiehe
 street: "Gewerbering"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.8628197
 longitude: 12.0717309
-postcode: 07548
+postcode: "07548"
 city: Gera
 street: "Arminiusstraße"
 housenumber: 32

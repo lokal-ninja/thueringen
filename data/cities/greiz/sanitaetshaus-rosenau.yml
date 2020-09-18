@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 50.6658142
 longitude: 12.216316800000001
-postcode: 07973
+postcode: "07973"
 city: Greiz
 street: "Gerhart-Hauptmann-Straße"
 housenumber: 30

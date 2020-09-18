@@ -3,10 +3,10 @@ type: way
 shop: Sanitätshaus
 latitude: 50.9782157
 longitude: 11.0342924
-postcode: 99084
+postcode: "99084"
 city: Erfurt
 street: "Meienbergstraße"
 housenumber: 3
-phone: ""
-opening_hours: ""
+phone: "+49 361 5504777"
+opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
 website: ""

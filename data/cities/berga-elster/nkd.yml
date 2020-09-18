@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.750681300000004
 longitude: 12.160073
-postcode: 07980
+postcode: "07980"
 city: Berga/Elster
 street: "Bahnhofstraße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.7726867
 longitude: 10.8937664
-postcode: 99338
+postcode: "99338"
 city: Plaue
 street: "In der Aue"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.02431970000001
 longitude: 11.5088451
-postcode: 99510
+postcode: "99510"
 city: Apolda
 street: "Dr.-Theodor-Neubauer-Straße"
 housenumber: 2

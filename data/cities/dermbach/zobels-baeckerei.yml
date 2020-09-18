@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.7161994
 longitude: 10.1177994
-postcode: 36466
+postcode: "36466"
 city: Dermbach
 street: "Kirchberg"
 housenumber: 2

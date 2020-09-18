@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 50.9140366
 longitude: 11.8697371
-postcode: 07639
+postcode: "07639"
 city: Bad Klosterlausnitz
 street: "Köstritzer Straße"
 housenumber: 13

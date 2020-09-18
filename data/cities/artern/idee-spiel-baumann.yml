@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 51.3649957
 longitude: 11.2912262
-postcode: 06556
+postcode: "06556"
 city: Artern
 street: "Wasserstraße"
 housenumber: 1

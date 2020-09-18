@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1658327
 longitude: 10.3216452
-postcode: 99988
+postcode: "99988"
 city: Südeichsfeld
 street: "Hauptstraße"
 housenumber: 29

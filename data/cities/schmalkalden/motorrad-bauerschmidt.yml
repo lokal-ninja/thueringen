@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 50.715885400000005
 longitude: 10.463541600000001
-postcode: 98574
+postcode: "98574"
 city: Schmalkalden
 street: "Blechhammer"
 housenumber: 11

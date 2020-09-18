@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.4252301
 longitude: 10.7282253
-postcode: 98646
+postcode: "98646"
 city: Hildburghausen
 street: "Johann-Sebastian-Bach-Platz"
 housenumber: 7

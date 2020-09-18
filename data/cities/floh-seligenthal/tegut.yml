@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.756505800000006
 longitude: 10.481864100000001
-postcode: 98593
+postcode: "98593"
 city: Floh-Seligenthal
 street: "An der Spitze"
 housenumber: 1

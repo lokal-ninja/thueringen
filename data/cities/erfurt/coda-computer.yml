@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 50.995764
 longitude: 11.042906700000001
-postcode: 99085
+postcode: "99085"
 city: Erfurt
 street: "Zum Nordstrand"
 housenumber: 1

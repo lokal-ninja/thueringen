@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.5774107
 longitude: 10.501180000000002
-postcode: 98530
+postcode: "98530"
 city: Rohr
 street: "Schwarzaer Straße"
 housenumber: 1a

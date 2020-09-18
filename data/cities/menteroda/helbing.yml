@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3119935
 longitude: 10.567643200000001
-postcode: 99996
+postcode: "99996"
 city: Menteroda
 street: "Holzthalebener Straße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9170486
 longitude: 10.3979695
-postcode: 99842
+postcode: "99842"
 city: Ruhla
 street: "Burgstraße"
 housenumber: 13a

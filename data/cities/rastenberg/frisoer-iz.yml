@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.177267500000006
 longitude: 11.4208455
-postcode: 99636
+postcode: "99636"
 city: Rastenberg
 street: "Mühlstraße"
 housenumber: 8

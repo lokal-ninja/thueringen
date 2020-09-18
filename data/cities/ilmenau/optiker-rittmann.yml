@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 50.6852699
 longitude: 10.9161484
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "Friedrich-Hofmann-Straße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.920350500000005
 longitude: 12.0555968
-postcode: 07552
+postcode: "07552"
 city: Gera
 street: "Zeitzer Straße"
 housenumber: 26

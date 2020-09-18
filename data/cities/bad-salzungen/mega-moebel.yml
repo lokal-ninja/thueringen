@@ -3,10 +3,10 @@ type: way
 shop: Möbel
 latitude: 50.811472900000005
 longitude: 10.22049
-postcode: 36433
+postcode: "36433"
 city: Bad Salzungen
 street: "Leimbacher Straße"
 housenumber: 87-89
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
 website: ""

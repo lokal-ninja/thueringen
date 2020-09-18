@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.4946411
 longitude: 10.7883993
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Reichsstraße"
 housenumber: 26a

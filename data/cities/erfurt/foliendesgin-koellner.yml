@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.012657700000005
 longitude: 11.035928700000001
-postcode: 99087
+postcode: "99087"
 city: Erfurt
 street: "Bunsenstraße"
 housenumber: 15-17

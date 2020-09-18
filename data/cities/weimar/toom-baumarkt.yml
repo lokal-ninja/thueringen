@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.0087648
 longitude: 11.334496300000001
-postcode: 99427
+postcode: "99427"
 city: Weimar
 street: "Ernst-Busse-Straße"
 housenumber: 1

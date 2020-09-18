@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.8610429
 longitude: 11.735762800000002
-postcode: 07646
+postcode: "07646"
 city: Stadtroda
 street: "Heinrich-Heine-Straße"
 housenumber: 15b

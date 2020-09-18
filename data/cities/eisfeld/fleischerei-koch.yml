@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.4001631
 longitude: 10.941328
-postcode: 98673
+postcode: "98673"
 city: Eisfeld
 street: "Bachfelder Weg"
 housenumber: 2

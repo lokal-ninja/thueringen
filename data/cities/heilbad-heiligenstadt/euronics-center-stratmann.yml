@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.377276900000005
 longitude: 10.139997900000001
-postcode: 37308
+postcode: "37308"
 city: Heilbad Heiligenstadt
 street: "Wilhelmstraße"
 housenumber: 70

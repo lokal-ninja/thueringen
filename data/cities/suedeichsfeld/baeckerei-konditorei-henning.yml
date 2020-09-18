@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.163540600000005
 longitude: 10.3174366
-postcode: 99988
+postcode: "99988"
 city: Südeichsfeld
 street: "Karlstraße"
 housenumber: 7

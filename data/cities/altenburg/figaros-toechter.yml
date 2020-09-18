@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9974386
 longitude: 12.418586300000001
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Stauffenbergstraße"
 housenumber: 33

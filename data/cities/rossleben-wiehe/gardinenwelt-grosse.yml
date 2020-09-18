@@ -3,7 +3,7 @@ type: way
 shop: Textil
 latitude: 51.296443100000005
 longitude: 11.4322817
-postcode: 06571
+postcode: "06571"
 city: Roßleben-Wiehe
 street: "Kirchplatz"
 housenumber: 9

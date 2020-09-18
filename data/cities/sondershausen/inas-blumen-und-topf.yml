@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.3704437
 longitude: 10.8709903
-postcode: 99706
+postcode: "99706"
 city: Sondershausen
 street: "Hauptstraße"
 housenumber: 15

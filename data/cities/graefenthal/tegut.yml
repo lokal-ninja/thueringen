@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.5277511
 longitude: 11.313587
-postcode: 98743
+postcode: "98743"
 city: Gräfenthal
 street: "Probstzellaer Straße"
 housenumber: 21

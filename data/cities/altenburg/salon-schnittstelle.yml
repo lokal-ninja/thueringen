@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.991162
 longitude: 12.4392495
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Johann-Sebastian-Bach-Straße"
 housenumber: 2

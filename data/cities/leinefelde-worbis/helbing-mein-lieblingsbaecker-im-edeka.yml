@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.418419
 longitude: 10.3638358
-postcode: 37339
+postcode: "37339"
 city: Leinefelde-Worbis
 street: "Nordhäuser Straße"
 housenumber: 1

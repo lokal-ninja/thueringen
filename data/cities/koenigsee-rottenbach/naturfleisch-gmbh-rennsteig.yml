@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.6676091
 longitude: 11.1207601
-postcode: 07426
+postcode: "07426"
 city: Königsee-Rottenbach
 street: "Industrie- und Gewerbepark"
 housenumber: 

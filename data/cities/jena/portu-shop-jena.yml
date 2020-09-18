@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 50.9287598
 longitude: 11.587949
-postcode: 
+postcode: ""
 city: Jena
 street: "Kirchplatz"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.895412400000005
 longitude: 12.352808300000001
-postcode: 04626
+postcode: "04626"
 city: Schmölln
 street: "Markt"
 housenumber: 34

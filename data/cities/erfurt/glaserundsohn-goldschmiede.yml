@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.977735700000004
 longitude: 11.026610100000001
-postcode: 99084
+postcode: "99084"
 city: Erfurt
 street: "Marktstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: way
 shop: Gardinen
 latitude: 51.3948581
 longitude: 10.3264832
-postcode: 37327
+postcode: "37327"
 city: Leinefelde-Worbis
 street: "Berliner Straße"
 housenumber: 55

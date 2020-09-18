@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.7187277
 longitude: 10.464359
-postcode: 98574
+postcode: "98574"
 city: Schmalkalden
 street: "Näherstiller Straße"
 housenumber: 27-29

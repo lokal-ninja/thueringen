@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.1496829
 longitude: 10.413560400000001
-postcode: 99986
+postcode: "99986"
 city: Vogtei
 street: "Eisenacher Straße"
 housenumber: 48

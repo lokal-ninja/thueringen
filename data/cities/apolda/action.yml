@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 51.03763360000001
 longitude: 11.513326800000002
-postcode: 99510
+postcode: "99510"
 city: Apolda
 street: "Buttstädter Straße"
 housenumber: 44

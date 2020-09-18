@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 51.039888600000005
 longitude: 11.5116823
-postcode: 99510
+postcode: "99510"
 city: Apolda
 street: "Buttstädter Straße"
 housenumber: 50

@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 51.502726100000004
 longitude: 10.7945363
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Kornmarkt"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.4984588
 longitude: 10.791328400000001
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Neustadtstraße"
 housenumber: 6

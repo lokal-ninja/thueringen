@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.426637500000005
 longitude: 10.4780162
-postcode: 37339
+postcode: "37339"
 city: Buhla
 street: "Sollstedter Straße"
 housenumber: 8

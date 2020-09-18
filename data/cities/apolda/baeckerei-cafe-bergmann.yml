@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0237916
 longitude: 11.5156547
-postcode: 99510
+postcode: "99510"
 city: Apolda
 street: "Bahnhofstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.693721000000004
 longitude: 11.592305600000001
-postcode: 07381
+postcode: "07381"
 city: Pößneck
 street: "Straße des Friedens"
 housenumber: 11

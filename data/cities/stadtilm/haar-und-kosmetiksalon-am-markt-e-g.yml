@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.775286900000005
 longitude: 11.0811443
-postcode: 99326
+postcode: "99326"
 city: Stadtilm
 street: "Markt"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.6867098
 longitude: 10.9145154
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "Marktstraße"
 housenumber: 19

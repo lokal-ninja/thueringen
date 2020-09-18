@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 50.886864900000006
 longitude: 12.4318734
-postcode: 04639
+postcode: "04639"
 city: Gößnitz
 street: "Zwickauer Straße"
 housenumber: 7
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: "https://www.netto-online.de/"
+opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00; Su,PH off"
+website: ""

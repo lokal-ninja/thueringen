@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.4835781
 longitude: 10.840393800000001
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Friedrichsweg"
 housenumber: 2

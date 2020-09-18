@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 50.759649800000005
 longitude: 12.1307854
-postcode: 07980
+postcode: "07980"
 city: Berga/Elster
 street: "Clodramühle"
 housenumber: 2

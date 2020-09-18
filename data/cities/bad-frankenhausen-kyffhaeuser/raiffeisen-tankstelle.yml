@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.3444329
 longitude: 11.1110979
-postcode: 06567
+postcode: "06567"
 city: Bad Frankenhausen/Kyffhäuser
 street: "Seehäuser Straße"
 housenumber: 73

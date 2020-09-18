@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.687997100000004
 longitude: 10.912450900000001
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "Erfurter Straße"
 housenumber: 11

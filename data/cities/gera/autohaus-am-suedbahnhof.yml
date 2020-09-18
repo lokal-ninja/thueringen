@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.869500300000006
 longitude: 12.0805833
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: "Erfurtstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.9654736
 longitude: 11.021260100000001
-postcode: 99096
+postcode: "99096"
 city: Erfurt
 street: "Steigerstraße"
 housenumber: 1

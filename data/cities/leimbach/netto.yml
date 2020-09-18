@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 50.816814300000004
 longitude: 10.1884226
-postcode: 36433
+postcode: "36433"
 city: Leimbach
 street: "Salzunger Straße"
 housenumber: 121
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

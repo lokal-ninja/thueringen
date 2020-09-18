@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 50.7215361
 longitude: 10.4528608
-postcode: 98574
+postcode: "98574"
 city: Schmalkalden
 street: "Stiller Gasse"
 housenumber: 3

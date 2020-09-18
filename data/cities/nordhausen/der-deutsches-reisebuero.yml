@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.497412000000004
 longitude: 10.791751900000001
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Bahnhofstraße"
 housenumber: 36

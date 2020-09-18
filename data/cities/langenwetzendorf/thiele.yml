@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.6834326
 longitude: 12.0889947
-postcode: 07957
+postcode: "07957"
 city: Langenwetzendorf
 street: "Hauptstraße"
 housenumber: 116

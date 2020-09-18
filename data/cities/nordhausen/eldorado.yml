@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.4968524
 longitude: 10.7827512
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Freiherr-vom-Stein-Straße"
 housenumber: 14a

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9948616
 longitude: 11.307949200000001
-postcode: 99427
+postcode: "99427"
 city: Weimar
 street: "Marcel-Paul-Straße"
 housenumber: 156a

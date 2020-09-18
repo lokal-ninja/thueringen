@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.69076930000001
 longitude: 10.9463322
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "Bücheloher Straße"
 housenumber: 31

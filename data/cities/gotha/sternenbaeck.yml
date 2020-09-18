@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9481807
 longitude: 10.6948494
-postcode: 99867
+postcode: "99867"
 city: Gotha
 street: "Bürgeraue"
 housenumber: 2

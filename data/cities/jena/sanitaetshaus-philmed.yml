@@ -3,10 +3,10 @@ type: node
 shop: Sanitätshaus
 latitude: 50.899962
 longitude: 11.593573600000001
-postcode: 07745
+postcode: "07745"
 city: Jena
 street: "Keßlerstraße"
 housenumber: 12
-phone: ""
+phone: "+49 3641 23 59 05"
 opening_hours: "Mo-Sa 09:00-20:00"
-website: ""
+website: "https://www.burgaupark.de/einkaufswelt/geschaefte/6717/sanitaetshaus-philmed/"

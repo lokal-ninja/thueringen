@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.718825800000005
 longitude: 11.3343679
-postcode: 07407
+postcode: "07407"
 city: Rudolstadt
 street: "Marktstraße"
 housenumber: 75-81

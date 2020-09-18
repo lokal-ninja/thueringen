@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8692159
 longitude: 12.072736500000001
-postcode: 07548
+postcode: "07548"
 city: Gera
 street: "Wiesestraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.654072500000005
 longitude: 11.349511000000001
-postcode: 07318
+postcode: "07318"
 city: Saalfeld/Saale
 street: "Am Eichelteich"
 housenumber: 1

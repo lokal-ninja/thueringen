@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 50.924639400000004
 longitude: 11.5790827
-postcode: 07745
+postcode: "07745"
 city: Jena
 street: "Westbahnhofstraße"
 housenumber: 8

@@ -1,12 +1,12 @@
 id: 1537292883
 type: node
-shop: Allgemein
-latitude: 50.974588000000004
-longitude: 10.3248306
-postcode: 99817
+shop: Computer
+latitude: 50.970748900000004
+longitude: 10.3470838
+postcode: "99817"
 city: Eisenach
-street: "Johannisstraße"
-housenumber: 7
+street: "Gothaer Straße"
+housenumber: 14
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 16:00-18:00"
+opening_hours: "Mo-Fr 10:00-12:00, 16:00-18:00"
 website: "www.pc-servicepartner-eisenach.de"

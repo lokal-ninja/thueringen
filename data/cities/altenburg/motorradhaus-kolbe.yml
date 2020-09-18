@@ -3,10 +3,10 @@ type: node
 shop: Motorrad
 latitude: 50.999112600000004
 longitude: 12.4120191
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Luckaer Straße"
 housenumber: 6
-phone: "+49 3447 834919"
+phone: ""
 opening_hours: ""
-website: "https://motorradhaus-kolbe.de/"
+website: ""

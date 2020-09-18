@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.958896300000006
 longitude: 10.709188600000001
-postcode: 99867
+postcode: "99867"
 city: Gotha
 street: "Langensalzaer Straße"
 housenumber: 50

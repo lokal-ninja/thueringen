@@ -3,10 +3,10 @@ type: node
 shop: Metzgerei
 latitude: 50.99635180000001
 longitude: 12.441687400000001
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Fabrikstraße"
 housenumber: 31
-phone: "+49 3447 512319"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"
-website: "https://www.richtererzgebirge.de/"
+phone: ""
+opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-16:00; Su,PH off"
+website: ""

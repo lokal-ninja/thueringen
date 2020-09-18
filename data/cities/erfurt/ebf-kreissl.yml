@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.0171824
 longitude: 10.9878617
-postcode: 99091
+postcode: "99091"
 city: Erfurt
 street: "Worbiser Straße"
 housenumber: 7

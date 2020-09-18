@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.652419900000005
 longitude: 11.3409489
-postcode: 07318
+postcode: "07318"
 city: Saalfeld/Saale
 street: "Mittlerer Watzenbach"
 housenumber: 20

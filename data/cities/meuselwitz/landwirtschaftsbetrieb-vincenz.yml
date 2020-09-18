@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.042350600000006
 longitude: 12.262896900000001
-postcode: 04610
+postcode: "04610"
 city: Meuselwitz
 street: "Brossener Dorfstraße"
 housenumber: 15

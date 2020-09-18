@@ -1,12 +1,12 @@
-id: 215111808
-type: way
+id: 7904445484
+type: node
 shop: Allgemein
-latitude: 50.985298
-longitude: 12.432011600000001
-postcode: 04600
+latitude: 50.9853831
+longitude: 12.432053900000001
+postcode: "04600"
 city: Altenburg
 street: "Markt"
 housenumber: 30
-phone: "+49 3447 316849"
-opening_hours: ""
-website: "http://www.stempelhaus-gleitsmann.de/"
+phone: ""
+opening_hours: "Tu-Fr 09:30-13:00,14:30-18:00; Sa 09:30-12:00; Mo,Su,PH off"
+website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.685549300000005
 longitude: 11.2552968
-postcode: 07422
+postcode: "07422"
 city: Bad Blankenburg
 street: "Königseer Straße"
 housenumber: 31b

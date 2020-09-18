@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 50.9991664
 longitude: 12.404705300000002
-postcode: 04617
+postcode: "04617"
 city: Lödla
 street: "Lödlaer Chaussee"
 housenumber: 2
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
 website: "https://www.lidl.de/"

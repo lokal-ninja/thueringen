@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.7195339
 longitude: 11.338343100000001
-postcode: 07407
+postcode: "07407"
 city: Rudolstadt
 street: "Mauerstraße"
 housenumber: 23

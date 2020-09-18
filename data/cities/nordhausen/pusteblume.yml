@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.5046393
 longitude: 10.7918494
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Barfüßerstraße"
 housenumber: 

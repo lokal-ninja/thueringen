@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.048048200000004
 longitude: 12.2921391
-postcode: 04610
+postcode: "04610"
 city: Meuselwitz
 street: "Zeitzer Straße"
 housenumber: 51

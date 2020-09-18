@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.9919694
 longitude: 11.026621200000001
-postcode: 99086
+postcode: "99086"
 city: Erfurt
 street: "Eislebener Straße"
 housenumber: 1

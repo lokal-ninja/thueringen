@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8610411
 longitude: 11.207002300000001
-postcode: 99448
+postcode: "99448"
 city: Kranichfeld
 street: "Erfurter Straße"
 housenumber: 3

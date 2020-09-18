@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.420168600000004
 longitude: 10.3625375
-postcode: 37339
+postcode: "37339"
 city: Worbis
 street: "Lange Straße"
 housenumber: 84

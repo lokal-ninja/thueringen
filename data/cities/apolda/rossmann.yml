@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.022564
 longitude: 11.510968400000001
-postcode: 99510
+postcode: "99510"
 city: Apolda
 street: "Straße des Friedens"
 housenumber: 2

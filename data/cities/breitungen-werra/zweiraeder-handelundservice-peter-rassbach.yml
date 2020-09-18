@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.7612364
 longitude: 10.331819600000001
-postcode: 98597
+postcode: "98597"
 city: Breitungen/Werra
 street: "Nürnberger Straße"
 housenumber: 48

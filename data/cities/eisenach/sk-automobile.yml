@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.9793797
 longitude: 10.3286
-postcode: 99817
+postcode: "99817"
 city: Eisenach
 street: "Clemensstraße"
 housenumber: 5

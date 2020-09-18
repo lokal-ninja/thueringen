@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 50.5665628
 longitude: 11.904402600000001
-postcode: 07907
+postcode: "07907"
 city: Schleiz
 street: "Hauptstraße"
 housenumber: 26

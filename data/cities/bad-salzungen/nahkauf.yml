@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.8083265
 longitude: 10.2441271
-postcode: 36433
+postcode: "36433"
 city: Bad Salzungen
 street: "Wildprechtrodaer Straße"
 housenumber: 1

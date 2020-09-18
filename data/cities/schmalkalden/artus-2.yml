@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.72121670000001
 longitude: 10.4517241
-postcode: 98574
+postcode: "98574"
 city: Schmalkalden
 street: "Altmarkt"
 housenumber: 7

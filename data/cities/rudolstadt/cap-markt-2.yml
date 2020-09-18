@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.699828600000004
 longitude: 11.3206857
-postcode: 07407
+postcode: "07407"
 city: Rudolstadt
 street: "Trommsdorffstraße"
 housenumber: 14

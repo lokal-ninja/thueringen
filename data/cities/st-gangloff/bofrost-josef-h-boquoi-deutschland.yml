@@ -3,7 +3,7 @@ type: way
 shop: Feinkost
 latitude: 50.8575992
 longitude: 11.909968600000001
-postcode: 07629
+postcode: "07629"
 city: St. Gangloff
 street: "Am Wachtelberg"
 housenumber: 17

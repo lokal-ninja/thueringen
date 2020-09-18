@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.416681600000004
 longitude: 10.366524
-postcode: 37339
+postcode: "37339"
 city: Leinefelde-Worbis
 street: "Nordhäuser Straße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 50.856655
 longitude: 11.7270751
-postcode: 07646
+postcode: "07646"
 city: Stadtroda
 street: "Herrenstraße"
 housenumber: 4

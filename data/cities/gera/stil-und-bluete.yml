@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.880141
 longitude: 12.084142
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: "Leipziger Straße"
 housenumber: 31

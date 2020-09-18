@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.9684363
 longitude: 11.039608900000001
-postcode: 99096
+postcode: "99096"
 city: Erfurt
 street: "Böcklinstraße"
 housenumber: 6

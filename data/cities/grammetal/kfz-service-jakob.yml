@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.9652491
 longitude: 11.2672212
-postcode: 99428
+postcode: "99428"
 city: Grammetal
 street: "Grunstedter Weg"
 housenumber: 5

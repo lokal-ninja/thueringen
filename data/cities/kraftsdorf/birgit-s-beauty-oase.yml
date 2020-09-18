@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.9091856
 longitude: 11.979871200000002
-postcode: 07586
+postcode: "07586"
 city: Kraftsdorf
 street: "Mittelring"
 housenumber: 21

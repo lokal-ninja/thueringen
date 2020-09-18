@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.684012200000005
 longitude: 10.919808100000001
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "Paul-Löbe-Straße"
 housenumber: 23

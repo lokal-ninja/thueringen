@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8575365
 longitude: 11.3463317
-postcode: 99444
+postcode: "99444"
 city: Blankenhain
 street: "Paulinenstraße"
 housenumber: 6a

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8990105
 longitude: 10.8898326
-postcode: 99192
+postcode: "99192"
 city: Nesse-Apfelstädt
 street: "Sülzenbrücker Straße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9624533
 longitude: 11.319521100000001
-postcode: 99425
+postcode: "99425"
 city: Weimar
 street: "Lyonel-Feininger-Straße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 50.933134200000005
 longitude: 12.0060833
-postcode: 07586
+postcode: "07586"
 city: Bad Köstritz
 street: "Werner-Sylten-Straße"
 housenumber: 12

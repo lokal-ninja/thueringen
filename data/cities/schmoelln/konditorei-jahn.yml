@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 50.894835
 longitude: 12.3517451
-postcode: 04626
+postcode: "04626"
 city: Schmölln
 street: "Markt"
 housenumber: 23

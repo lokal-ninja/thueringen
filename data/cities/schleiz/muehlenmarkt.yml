@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.549475400000006
 longitude: 11.7872611
-postcode: 07907
+postcode: "07907"
 city: Schleiz
 street: "Industriestraße"
 housenumber: 32

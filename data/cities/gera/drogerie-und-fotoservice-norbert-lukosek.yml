@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.8688227
 longitude: 12.0724148
-postcode: 07548
+postcode: "07548"
 city: Gera
 street: "Wiesestraße"
 housenumber: 18

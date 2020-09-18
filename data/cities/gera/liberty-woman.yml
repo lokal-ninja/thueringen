@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.8782731
 longitude: 12.084505700000001
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: "Sorge"
 housenumber: 44

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.9060654
 longitude: 11.8607949
-postcode: 07629
+postcode: "07629"
 city: Hermsdorf
 street: "Industriestraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: way
 shop: Modehaus
 latitude: 50.5194388
 longitude: 10.969289400000001
-postcode: 98666
+postcode: "98666"
 city: Masserberg
 street: "Hauptstraße"
 housenumber: 28

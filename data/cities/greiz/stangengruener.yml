@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.6656941
 longitude: 12.2154424
-postcode: 07973
+postcode: "07973"
 city: Greiz
 street: "Gerhart-Hauptmann-Straße"
 housenumber: 30

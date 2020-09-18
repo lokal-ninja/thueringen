@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.934160600000006
 longitude: 10.6759532
-postcode: 99867
+postcode: "99867"
 city: Gotha
 street: "Leinastraße"
 housenumber: 80

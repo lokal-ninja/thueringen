@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 51.209818500000004
 longitude: 10.455841000000001
-postcode: 99974
+postcode: "99974"
 city: Mühlhausen
 street: "Bei der Marienkirche"
 housenumber: 17

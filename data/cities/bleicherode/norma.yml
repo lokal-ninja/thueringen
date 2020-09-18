@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4538165
 longitude: 10.5988816
-postcode: 99752
+postcode: "99752"
 city: Bleicherode
 street: "Nordhäuser Straße"
 housenumber: 119

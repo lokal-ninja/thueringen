@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.0402348
 longitude: 11.5120869
-postcode: 99510
+postcode: "99510"
 city: Apolda
 street: "Am Weimarer Berg"
 housenumber: 9

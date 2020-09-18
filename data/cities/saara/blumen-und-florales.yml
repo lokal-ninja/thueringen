@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.854053900000004
 longitude: 11.961983400000001
-postcode: 07589
+postcode: "07589"
 city: Saara
 street: "Kleinsaara"
 housenumber: 2f

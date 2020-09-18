@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.528339
 longitude: 11.750817600000001
-postcode: 07907
+postcode: "07907"
 city: Schleiz
 street: "Stauseestraße"
 housenumber: 42

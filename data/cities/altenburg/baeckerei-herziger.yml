@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0074568
 longitude: 12.4402491
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Alte Poststraße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 51.3587992
 longitude: 11.0822508
-postcode: 06567
+postcode: "06567"
 city: Bad Frankenhausen
 street: "Am Tischplatt"
 housenumber: 33

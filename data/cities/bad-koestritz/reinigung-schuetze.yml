@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 50.930378000000005
 longitude: 12.0115198
-postcode: 07586
+postcode: "07586"
 city: Bad Köstritz
 street: "Heinrich-Schütz-Straße"
 housenumber: 3

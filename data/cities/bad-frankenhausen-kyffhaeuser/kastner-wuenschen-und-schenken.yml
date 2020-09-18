@@ -3,7 +3,7 @@ type: way
 shop: Andenken
 latitude: 51.357495
 longitude: 11.100714700000001
-postcode: 06567
+postcode: "06567"
 city: Bad Frankenhausen/Kyffhäuser
 street: "Erfurter Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.838611300000004
 longitude: 12.0497625
-postcode: 07549
+postcode: "07549"
 city: Gera
 street: "Rudolf-Hundt-Straße"
 housenumber: 4

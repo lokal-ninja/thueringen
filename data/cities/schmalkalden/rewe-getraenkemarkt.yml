@@ -3,10 +3,10 @@ type: node
 shop: Getränke
 latitude: 50.72950590000001
 longitude: 10.457017800000001
-postcode: 98574
+postcode: "98574"
 city: Schmalkalden
 street: "Wilhelm-Külz-Straße"
 housenumber: 11
-phone: "03683405077"
-opening_hours: "Mo-Fr 07:00- 22:00 Sa 07-20:00"
+phone: "+49 3683405077"
+opening_hours: "Mo-Fr 07:00- 22:00; Sa 07:00-20:00"
 website: ""

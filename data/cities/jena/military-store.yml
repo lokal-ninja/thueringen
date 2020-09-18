@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 50.928987400000004
 longitude: 11.5991046
-postcode: 07749
+postcode: "07749"
 city: Jena
 street: "Carl-Born-Straße"
 housenumber: 20

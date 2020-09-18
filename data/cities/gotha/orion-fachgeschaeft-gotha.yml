@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 50.9294117
 longitude: 10.7158578
-postcode: 99867
+postcode: "99867"
 city: Gotha
 street: "Harjesstraße"
 housenumber: 2a

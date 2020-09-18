@@ -3,10 +3,10 @@ type: node
 shop: Raumausstattung
 latitude: 51.0126573
 longitude: 11.011344900000001
-postcode: 99091
+postcode: "99091"
 city: Erfurt
 street: "Lobensteiner Straße"
 housenumber: 1
-phone: "+49 361 7462118"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.hammer-heimtex.de/standorte/standort-99-erfurt.html"
+phone: ""
+opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
+website: ""

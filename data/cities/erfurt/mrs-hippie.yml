@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.9741511
 longitude: 11.028451400000002
-postcode: 99084
+postcode: "99084"
 city: Erfurt
 street: "Regierungsstraße"
 housenumber: 71

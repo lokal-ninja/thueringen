@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.413340000000005
 longitude: 10.4392373
-postcode: 37339
+postcode: "37339"
 city: Breitenworbis
 street: "Auf dem Pfingstrasen"
 housenumber: 4

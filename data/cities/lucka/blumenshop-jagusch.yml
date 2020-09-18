@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.087715
 longitude: 12.3240251
-postcode: 04613
+postcode: "04613"
 city: Lucka
 street: "Breitenhainer Weg"
 housenumber: 10

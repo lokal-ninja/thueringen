@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9562244
 longitude: 10.397011800000001
-postcode: 99848
+postcode: "99848"
 city: Wutha-Farnroda
 street: "Gothaer Straße"
 housenumber: 65

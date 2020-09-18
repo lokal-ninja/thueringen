@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 50.956693200000004
 longitude: 10.3946331
-postcode: 99848
+postcode: "99848"
 city: Wutha-Farnroda
 street: "Eisenacher Straße"
 housenumber: 54

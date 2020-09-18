@@ -3,10 +3,10 @@ type: node
 shop: Fahrrad
 latitude: 51.0446674
 longitude: 12.304200000000002
-postcode: 04610
+postcode: "04610"
 city: Meuselwitz
 street: "Kurt-Kresse-Straße"
-housenumber: 
+housenumber: 15
 phone: ""
 opening_hours: ""
 website: ""

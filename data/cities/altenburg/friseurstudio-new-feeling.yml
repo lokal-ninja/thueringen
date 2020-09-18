@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.997012500000004
 longitude: 12.4359464
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Friedrich-Wolf-Ring"
 housenumber: 31

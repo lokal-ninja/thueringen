@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.6636621
 longitude: 11.567646700000001
-postcode: 07389
+postcode: "07389"
 city: Ranis
 street: "Pößnecker Straße"
 housenumber: 4

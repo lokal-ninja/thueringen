@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.6482772
 longitude: 11.980233
-postcode: 07937
+postcode: "07937"
 city: Zeulenroda-Triebes
 street: "Kirchstraße"
 housenumber: 7

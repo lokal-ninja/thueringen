@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 50.720462100000006
 longitude: 11.335607900000001
-postcode: 07407
+postcode: "07407"
 city: Rudolstadt
 street: "Schillerstraße"
 housenumber: 20

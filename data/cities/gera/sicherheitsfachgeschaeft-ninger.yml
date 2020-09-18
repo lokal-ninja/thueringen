@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 50.8782526
 longitude: 12.0835013
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: "Humboldtstraße"
 housenumber: 1

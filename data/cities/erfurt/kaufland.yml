@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9560486
 longitude: 11.068590400000001
-postcode: 99097
+postcode: "99097"
 city: Erfurt
 street: "Kranichfelder Straße"
 housenumber: 103

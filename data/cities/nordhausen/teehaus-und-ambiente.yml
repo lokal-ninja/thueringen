@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 51.503091700000006
 longitude: 10.7931085
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Engelsburg"
 housenumber: 5

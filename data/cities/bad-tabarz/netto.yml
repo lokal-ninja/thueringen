@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8820458
 longitude: 10.5129877
-postcode: 99891
+postcode: "99891"
 city: Bad Tabarz
 street: "Langenhainer Straße"
 housenumber: 38a

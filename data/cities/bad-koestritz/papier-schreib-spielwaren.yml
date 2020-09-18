@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 50.93145620000001
 longitude: 12.0092634
-postcode: 07586
+postcode: "07586"
 city: Bad Köstritz
 street: "Werner-Sylten-Straße"
 housenumber: 7

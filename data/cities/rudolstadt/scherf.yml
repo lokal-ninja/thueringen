@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.719199100000004
 longitude: 11.3348951
-postcode: 07407
+postcode: "07407"
 city: Rudolstadt
 street: "Marktstraße"
 housenumber: 75-81

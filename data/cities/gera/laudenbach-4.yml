@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.887696500000004
 longitude: 12.0648488
-postcode: 07548
+postcode: "07548"
 city: Gera
 street: "Maler-Reinhold-Straße"
 housenumber: 7

@@ -3,10 +3,10 @@ type: node
 shop: Autowerkstatt
 latitude: 50.476381200000006
 longitude: 10.911274800000001
-postcode: 98673
+postcode: "98673"
 city: Eisfeld
 street: "Hauptstraße"
 housenumber: 25
-phone: "+49 3686 319006"
+phone: ""
 opening_hours: ""
 website: ""

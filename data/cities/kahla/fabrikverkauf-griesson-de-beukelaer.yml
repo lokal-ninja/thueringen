@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 50.822470200000005
 longitude: 11.583556600000001
-postcode: 07768
+postcode: "07768"
 city: Kahla
 street: "Im Camisch"
 housenumber: 1
-phone: "+ (49) 36424 / 80-2726"
+phone: "+49 36424 80 2726"
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00; Sep-Dec Sa 09:00-16:00"
 website: ""

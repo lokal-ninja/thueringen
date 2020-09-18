@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.9789278
 longitude: 11.3292465
-postcode: 99423
+postcode: "99423"
 city: Weimar
 street: "Frauentorstraße"
 housenumber: 4

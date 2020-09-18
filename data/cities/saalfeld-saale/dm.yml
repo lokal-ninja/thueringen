@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.646900200000005
 longitude: 11.360573800000001
-postcode: 07318
+postcode: "07318"
 city: Saalfeld/Saale
 street: "Obere Straße"
 housenumber: 6-10

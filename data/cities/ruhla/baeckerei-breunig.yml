@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.889067000000004
 longitude: 10.3694646
-postcode: 99842
+postcode: "99842"
 city: Ruhla
 street: "Obere Lindenstraße"
 housenumber: 38

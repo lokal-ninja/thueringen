@@ -3,10 +3,10 @@ type: way
 shop: Einkaufszentrum
 latitude: 50.996065300000005
 longitude: 12.4408884
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Fabrikstraße"
-housenumber: 31,32
+housenumber: 31
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
 website: ""

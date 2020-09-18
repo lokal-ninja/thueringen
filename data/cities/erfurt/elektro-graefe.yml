@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.9887895
 longitude: 11.0272553
-postcode: 99086
+postcode: "99086"
 city: Erfurt
 street: "Magdeburger Allee"
 housenumber: 32

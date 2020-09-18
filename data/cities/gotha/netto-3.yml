@@ -1,12 +1,12 @@
-id: 264884044
+id: 275655305
 type: way
 shop: Supermarkt
-latitude: 50.9486238
-longitude: 10.713534000000001
-postcode: 99867
+latitude: 50.950641100000006
+longitude: 10.6847958
+postcode: "99867"
 city: Gotha
-street: "Mariengasse"
-housenumber: 2
+street: "Eschleber Straße"
+housenumber: 24
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00"
-website: ""
+opening_hours: "Mo-Sa 07:00-20:00"
+website: "https://www.netto.de/"

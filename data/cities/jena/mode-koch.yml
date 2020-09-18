@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.89979
 longitude: 11.5943065
-postcode: 07745
+postcode: "07745"
 city: Jena
 street: "Keßlerstraße"
 housenumber: 12

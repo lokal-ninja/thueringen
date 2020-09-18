@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.861003600000004
 longitude: 11.7351244
-postcode: 07646
+postcode: "07646"
 city: Stadtroda
 street: "Heinrich-Heine-Straße"
 housenumber: 14

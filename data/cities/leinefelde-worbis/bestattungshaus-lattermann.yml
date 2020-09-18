@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.3891824
 longitude: 10.3216953
-postcode: 37327
+postcode: "37327"
 city: Leinefelde-Worbis
 street: "Hinterm Ringau"
 housenumber: 1

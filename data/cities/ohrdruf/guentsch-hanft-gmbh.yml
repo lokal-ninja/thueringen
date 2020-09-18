@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.7855429
 longitude: 10.780259800000001
-postcode: 99885
+postcode: "99885"
 city: Ohrdruf
 street: "Wiesenweg"
 housenumber: 3

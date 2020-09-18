@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.38460310000001
 longitude: 10.8497362
-postcode: 99706
+postcode: "99706"
 city: Sondershausen
 street: "Schachtstraße"
 housenumber: 6

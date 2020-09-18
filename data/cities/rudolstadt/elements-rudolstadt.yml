@@ -3,7 +3,7 @@ type: way
 shop: Badezimmer
 latitude: 50.698791400000005
 longitude: 11.3290023
-postcode: 07407
+postcode: "07407"
 city: Rudolstadt
 street: "Breitscheidstraße"
 housenumber: 95c

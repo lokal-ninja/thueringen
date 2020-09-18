@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.9699213
 longitude: 11.9817613
-postcode: 07613
+postcode: "07613"
 city: Crossen an der Elster
 street: "Lange Wiese"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.042820500000005
 longitude: 12.3017654
-postcode: 04610
+postcode: "04610"
 city: Meuselwitz
 street: "Baderdamm"
 housenumber: 17

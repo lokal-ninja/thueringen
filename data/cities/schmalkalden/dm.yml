@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.7181714
 longitude: 10.428644400000001
-postcode: 98574
+postcode: "98574"
 city: Schmalkalden
 street: "Kasseler Straße"
 housenumber: 42

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.0555663
 longitude: 10.825119
-postcode: 99100
+postcode: "99100"
 city: Großfahner
 street: "Mittelgasse"
 housenumber: 113

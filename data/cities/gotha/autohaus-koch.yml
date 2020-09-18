@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.9439014
 longitude: 10.7530167
-postcode: 99867
+postcode: "99867"
 city: Gotha
 street: "Weimarer Straße"
 housenumber: 178

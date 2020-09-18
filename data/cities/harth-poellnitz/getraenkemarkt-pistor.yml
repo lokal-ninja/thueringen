@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.7860224
 longitude: 11.9577361
-postcode: 07570
+postcode: "07570"
 city: Harth-Pöllnitz
 street: "Großebersdorf"
 housenumber: 21

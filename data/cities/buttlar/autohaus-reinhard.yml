@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.75287590000001
 longitude: 9.9472457
-postcode: 36419
+postcode: "36419"
 city: Buttlar
 street: "Frankfurter Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.0347725
 longitude: 11.514516200000001
-postcode: 99510
+postcode: "99510"
 city: Apolda
 street: "Buttstädter Straße"
 housenumber: 

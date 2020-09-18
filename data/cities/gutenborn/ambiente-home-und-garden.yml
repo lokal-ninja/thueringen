@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.9670907
 longitude: 12.1539851
-postcode: 06712
+postcode: "06712"
 city: Gutenborn
 street: "Pölziger Straße"
 housenumber: 79

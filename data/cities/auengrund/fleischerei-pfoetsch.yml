@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.4513875
 longitude: 10.8915722
-postcode: 98673
+postcode: "98673"
 city: Auengrund
 street: "Hirschendorfer Straße"
 housenumber: 5

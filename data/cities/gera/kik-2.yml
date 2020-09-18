@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.887364600000005
 longitude: 12.0905848
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: "Dornaer Straße"
 housenumber: 8

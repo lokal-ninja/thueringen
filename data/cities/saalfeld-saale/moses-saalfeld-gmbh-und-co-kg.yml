@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.6461197
 longitude: 11.361245400000001
-postcode: 07318
+postcode: "07318"
 city: Saalfeld/Saale
 street: "Obere Straße"
 housenumber: 9-13

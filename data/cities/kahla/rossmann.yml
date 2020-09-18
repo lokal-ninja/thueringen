@@ -3,10 +3,10 @@ type: node
 shop: Drogerie
 latitude: 50.80690370000001
 longitude: 11.590547200000001
-postcode: 07768
+postcode: "07768"
 city: Kahla
 street: "Ölwiesenweg"
 housenumber: 1a
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
+opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 50.6983327
 longitude: 11.619451100000001
-postcode: 07381
+postcode: "07381"
 city: Pößneck
 street: "Malmsgelänge"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.2968142
 longitude: 10.3512386
-postcode: 37351
+postcode: "37351"
 city: Dingelstädt
 street: "Hauptstraße"
 housenumber: 23

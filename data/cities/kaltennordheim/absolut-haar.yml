@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.627794800000004
 longitude: 10.159968300000001
-postcode: 36452
+postcode: "36452"
 city: Kaltennordheim
 street: "Goldbachsweg"
 housenumber: 5

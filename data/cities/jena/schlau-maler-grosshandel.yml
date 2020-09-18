@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.9460898
 longitude: 11.6103401
-postcode: 07749
+postcode: "07749"
 city: Jena
 street: "Löbstedter Straße"
 housenumber: 80

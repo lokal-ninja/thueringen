@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.936972000000004
 longitude: 10.9838115
-postcode: 99094
+postcode: "99094"
 city: Erfurt
 street: "Dorstbornstraße"
 housenumber: 16

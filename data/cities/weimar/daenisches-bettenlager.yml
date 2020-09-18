@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 50.9932293
 longitude: 11.3244313
-postcode: 99427
+postcode: "99427"
 city: Weimar
 street: "Rießnerstraße"
 housenumber: 27

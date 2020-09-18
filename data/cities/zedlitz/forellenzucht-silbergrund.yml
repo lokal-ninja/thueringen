@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 50.8141479
 longitude: 12.0312306
-postcode: 07557
+postcode: "07557"
 city: Zedlitz
 street: ""
 housenumber: 5

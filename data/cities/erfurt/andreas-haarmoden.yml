@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9831159
 longitude: 11.0172115
-postcode: 99092
+postcode: "99092"
 city: Erfurt
 street: "Blumenstraße"
 housenumber: 89

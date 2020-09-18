@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 51.4946878
 longitude: 10.8030697
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Zorgestraße"
 housenumber: 15

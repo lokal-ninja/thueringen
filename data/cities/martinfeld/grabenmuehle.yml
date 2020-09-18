@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.279598
 longitude: 10.1726919
-postcode: 37308
+postcode: "37308"
 city: Martinfeld
 street: "Grabenmühle"
 housenumber: 1

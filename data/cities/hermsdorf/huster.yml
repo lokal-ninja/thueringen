@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.9063749
 longitude: 11.8459006
-postcode: 07629
+postcode: "07629"
 city: Hermsdorf
 street: "Erich-Weinert-Straße"
 housenumber: 45

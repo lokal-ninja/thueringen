@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.4274026
 longitude: 10.7123161
-postcode: 98646
+postcode: "98646"
 city: Hildburghausen
 street: "Häselriether Straße"
 housenumber: 8

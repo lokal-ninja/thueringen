@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.519279100000006
 longitude: 10.7696228
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Straße der Opfer des Faschismus"
 housenumber: 44

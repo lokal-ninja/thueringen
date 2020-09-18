@@ -3,7 +3,7 @@ type: node
 shop: Leerstehend
 latitude: 50.7200992
 longitude: 11.3394726
-postcode: 07407
+postcode: "07407"
 city: Rudolstadt
 street: "Marktstraße"
 housenumber: 18

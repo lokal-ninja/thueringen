@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.695094700000006
 longitude: 11.594724800000002
-postcode: 07381
+postcode: "07381"
 city: Pößneck
 street: "Breite Straße"
 housenumber: 43

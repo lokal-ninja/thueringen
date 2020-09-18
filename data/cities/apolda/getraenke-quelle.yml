@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.0387545
 longitude: 11.5133164
-postcode: 99510
+postcode: "99510"
 city: Apolda
 street: "Am Weimarer Berg"
 housenumber: 1

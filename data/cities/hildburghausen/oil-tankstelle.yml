@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.4207102
 longitude: 10.707353300000001
-postcode: 98646
+postcode: "98646"
 city: Hildburghausen
 street: "Römhilder Straße"
 housenumber: 60

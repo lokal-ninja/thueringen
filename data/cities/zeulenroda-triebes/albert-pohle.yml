@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.677442500000005
 longitude: 12.012030300000001
-postcode: 07950
+postcode: "07950"
 city: Zeulenroda-Triebes
 street: "Adolph-Herbst-Straße"
 housenumber: 3

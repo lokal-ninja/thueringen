@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.897308
 longitude: 10.850140300000001
-postcode: 99869
+postcode: "99869"
 city: Drei Gleichen
 street: "Menantesstraße"
 housenumber: 16

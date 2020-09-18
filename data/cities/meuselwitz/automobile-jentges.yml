@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.054982800000005
 longitude: 12.351579200000002
-postcode: 04610
+postcode: "04610"
 city: Meuselwitz
 street: "Zirndorfer Straße"
 housenumber: 17

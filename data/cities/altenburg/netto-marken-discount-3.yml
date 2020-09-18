@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.976857
 longitude: 12.4239145
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Schmöllnsche Landstraße"
 housenumber: 23

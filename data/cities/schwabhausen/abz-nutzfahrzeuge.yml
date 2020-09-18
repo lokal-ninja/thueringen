@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.89620480000001
 longitude: 10.7239591
-postcode: 99869
+postcode: "99869"
 city: Schwabhausen
 street: "An der B247"
 housenumber: 1

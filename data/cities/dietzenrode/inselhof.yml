@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.29865
 longitude: 10.0154656
-postcode: 37318
+postcode: "37318"
 city: Dietzenrode
 street: "Am Mühlplatz"
 housenumber: 18

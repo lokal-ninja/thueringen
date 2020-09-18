@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.890261
 longitude: 12.4332227
-postcode: 04639
+postcode: "04639"
 city: Gößnitz
 street: "Altenburger Straße"
 housenumber: 13

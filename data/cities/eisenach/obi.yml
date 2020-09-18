@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.9993283
 longitude: 10.3139692
-postcode: 99817
+postcode: "99817"
 city: Eisenach
 street: "Am Stadtweg"
 housenumber: 2

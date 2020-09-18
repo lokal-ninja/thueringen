@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.7737374
 longitude: 11.079010100000001
-postcode: 99326
+postcode: "99326"
 city: Stadtilm
 street: "Teichgartenstraße"
 housenumber: 1

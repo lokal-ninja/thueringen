@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.661894600000004
 longitude: 11.570238400000001
-postcode: 07389
+postcode: "07389"
 city: Ranis
 street: "Blumenstraße"
 housenumber: 41

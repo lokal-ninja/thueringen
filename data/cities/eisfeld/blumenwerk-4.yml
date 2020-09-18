@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.416878000000004
 longitude: 10.913306
-postcode: 98673
+postcode: "98673"
 city: Eisfeld
 street: "Coburger Straße"
 housenumber: 73

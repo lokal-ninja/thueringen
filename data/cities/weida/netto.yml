@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.7691275
 longitude: 12.0632839
-postcode: 07570
+postcode: "07570"
 city: Weida
 street: "Turmstraße"
 housenumber: 33

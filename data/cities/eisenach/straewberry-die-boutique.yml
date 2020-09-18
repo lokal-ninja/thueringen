@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.9756912
 longitude: 10.3232467
-postcode: 99817
+postcode: "99817"
 city: Eisenach
 street: "Querstraße"
 housenumber: 

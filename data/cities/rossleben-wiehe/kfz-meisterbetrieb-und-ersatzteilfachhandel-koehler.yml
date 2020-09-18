@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.265025800000004
 longitude: 11.411086200000002
-postcode: 06571
+postcode: "06571"
 city: Roßleben-Wiehe
 street: "Brauhausstraße"
 housenumber: 9

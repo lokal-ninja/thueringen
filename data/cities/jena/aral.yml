@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.877126100000005
 longitude: 11.6220139
-postcode: 07747
+postcode: "07747"
 city: Jena
 street: "Stadtrodaer Straße"
 housenumber: 102

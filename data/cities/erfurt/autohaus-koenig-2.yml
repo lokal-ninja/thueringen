@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.019159300000005
 longitude: 11.0118332
-postcode: 99091
+postcode: "99091"
 city: Erfurt
 street: "August-Röbling-Straße"
 housenumber: 16

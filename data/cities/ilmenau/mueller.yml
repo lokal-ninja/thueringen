@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 50.6848041
 longitude: 10.9165145
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "Friedrich-Hofmann-Straße"
 housenumber: 16

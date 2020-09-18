@@ -3,7 +3,7 @@ type: way
 shop: Tattoo
 latitude: 51.3519627
 longitude: 11.096929000000001
-postcode: 06567
+postcode: "06567"
 city: Bad Frankenhausen/Kyffhäuser
 street: "Bahnhofstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.923298900000006
 longitude: 11.5998579
-postcode: 07749
+postcode: "07749"
 city: Jena
 street: "Friedrich-Engels-Straße"
 housenumber: 49

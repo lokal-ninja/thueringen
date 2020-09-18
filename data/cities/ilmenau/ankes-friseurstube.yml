@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.6750192
 longitude: 10.8569777
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "Schmücker Straße"
 housenumber: 25

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.641640200000005
 longitude: 11.969927100000001
-postcode: 07937
+postcode: "07937"
 city: Langenwolschendorf
 street: "Heinrich-Wobst-Straße"
 housenumber: 4

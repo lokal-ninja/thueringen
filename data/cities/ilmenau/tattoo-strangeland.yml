@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 50.6863728
 longitude: 10.9161712
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "Poststraße"
 housenumber: 25

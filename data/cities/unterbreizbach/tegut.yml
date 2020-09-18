@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8170331
 longitude: 9.9792644
-postcode: 36414
+postcode: "36414"
 city: Unterbreizbach
 street: "Bahnhofstraße"
 housenumber: 27

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.694203800000004
 longitude: 11.5945473
-postcode: 07381
+postcode: "07381"
 city: Pößneck
 street: "Schuhgasse"
 housenumber: 1

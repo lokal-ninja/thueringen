@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.419593500000005
 longitude: 10.8921718
-postcode: 98673
+postcode: "98673"
 city: Eisfeld
 street: "Hildburghäuser Straße"
 housenumber: 82

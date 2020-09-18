@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 51.2646814
 longitude: 11.414782200000001
-postcode: 06571
+postcode: "06571"
 city: Roßleben-Wiehe
 street: "Leopold-von-Ranke-Straße"
 housenumber: 28

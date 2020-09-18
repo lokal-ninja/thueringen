@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.3515408
 longitude: 11.165884100000001
-postcode: 96515
+postcode: "96515"
 city: Sonneberg
 street: "Bert-Brecht-Straße"
 housenumber: 22

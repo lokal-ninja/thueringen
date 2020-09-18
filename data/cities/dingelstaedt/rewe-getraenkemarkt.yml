@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.317492
 longitude: 10.317264100000001
-postcode: 37351
+postcode: "37351"
 city: Dingelstädt
 street: "Steinstraße"
 housenumber: 10

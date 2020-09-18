@@ -3,7 +3,7 @@ type: node
 shop: Tiersalon
 latitude: 50.6467918
 longitude: 11.979698500000001
-postcode: 07937
+postcode: "07937"
 city: Zeulenroda-Triebes
 street: "Luthergasse"
 housenumber: 1

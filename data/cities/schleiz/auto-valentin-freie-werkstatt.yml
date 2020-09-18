@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.5650236
 longitude: 11.905175300000002
-postcode: 07907
+postcode: "07907"
 city: Schleiz
 street: "Hundeweg"
 housenumber: 6

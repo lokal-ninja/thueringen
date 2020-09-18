@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.967350200000006
 longitude: 11.850561200000001
-postcode: 07616
+postcode: "07616"
 city: Petersberg
 street: "Ahornweg"
 housenumber: 3

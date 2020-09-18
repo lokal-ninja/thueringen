@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 50.916847100000005
 longitude: 11.0504952
-postcode: 99097
+postcode: "99097"
 city: Erfurt
 street: "Heidesheimer Straße"
 housenumber: 1

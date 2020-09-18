@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.9757942
 longitude: 11.0264831
-postcode: 99084
+postcode: "99084"
 city: Erfurt
 street: "Lange Brücke"
 housenumber: 6/7

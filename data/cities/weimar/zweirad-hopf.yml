@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.9823807
 longitude: 11.3302344
-postcode: 99423
+postcode: "99423"
 city: Weimar
 street: "Untergraben"
 housenumber: 2

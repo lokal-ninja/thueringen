@@ -1,12 +1,12 @@
-id: 929511619
+id: 7312129464
 type: node
 shop: Supermarkt
-latitude: 50.98847850000001
-longitude: 11.0252864
-postcode: 99089
+latitude: 50.970035100000004
+longitude: 11.050931700000001
+postcode: "99099"
 city: Erfurt
-street: "Waidmühlenweg"
-housenumber: 9
+street: "Geraer Straße"
+housenumber: 20a
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
+opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-18:00"
 website: ""

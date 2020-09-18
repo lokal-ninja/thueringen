@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.9678978
 longitude: 11.8487814
-postcode: 07616
+postcode: "07616"
 city: Petersberg
 street: "Eschenweg"
 housenumber: 5

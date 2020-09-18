@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.12639
 longitude: 10.4833552
-postcode: 99986
+postcode: "99991"
 city: Unstrut-Hainich
 street: "Wiesenstraße"
 housenumber: 17

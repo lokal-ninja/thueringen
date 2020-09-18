@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.776281600000004
 longitude: 11.0861394
-postcode: 99326
+postcode: "99326"
 city: Stadtilm
 street: "Maxim-Gorki-Straße"
 housenumber: 2

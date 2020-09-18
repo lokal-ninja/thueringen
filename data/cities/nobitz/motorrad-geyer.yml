@@ -3,10 +3,10 @@ type: node
 shop: Motorrad
 latitude: 50.937049
 longitude: 12.425289900000001
-postcode: 04603
+postcode: "04603"
 city: Nobitz
 street: "Alte Handelsstraße"
 housenumber: 13
-phone: "+49 3447 311443"
+phone: ""
 opening_hours: ""
-website: "https://www.motorrad-geyer.de/"
+website: ""

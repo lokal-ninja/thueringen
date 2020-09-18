@@ -3,7 +3,7 @@ type: way
 shop: Hörgeräte
 latitude: 51.3637797
 longitude: 11.2905297
-postcode: 06556
+postcode: "06556"
 city: Artern
 street: "Wasserstraße"
 housenumber: 13

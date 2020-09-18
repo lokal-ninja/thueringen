@@ -3,9 +3,9 @@ type: node
 shop: Religion
 latitude: 50.717824300000004
 longitude: 10.846739300000001
-postcode: 99331
+postcode: "99331"
 city: Geratal
-street: "Plan"
+street: "Dorfplan"
 housenumber: 11
 phone: ""
 opening_hours: "Tu 16:00-18:00; Fr 10:00-12:00"

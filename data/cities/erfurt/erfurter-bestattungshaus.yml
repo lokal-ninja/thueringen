@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 50.9838145
 longitude: 11.019729100000001
-postcode: 99089
+postcode: "99089"
 city: Erfurt
 street: "Nordhäuser Straße"
 housenumber: 120

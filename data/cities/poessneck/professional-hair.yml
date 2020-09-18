@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.6954876
 longitude: 11.594283500000001
-postcode: 07381
+postcode: "07381"
 city: Pößneck
 street: "Brauhausgasse"
 housenumber: 33a

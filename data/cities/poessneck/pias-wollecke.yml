@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 50.694211200000005
 longitude: 11.5941185
-postcode: 07381
+postcode: "07381"
 city: Pößneck
 street: "Markt"
 housenumber: 2-3

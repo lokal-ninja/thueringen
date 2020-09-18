@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.6241196
 longitude: 11.586551
-postcode: 07389
+postcode: "07389"
 city: Gössitz
 street: "Ortsstraße"
 housenumber: 52c

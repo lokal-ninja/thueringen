@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 51.2240386
 longitude: 10.420295600000001
-postcode: 99974
+postcode: "99974"
 city: Mühlhausen
 street: "Gutsstraße"
 housenumber: 1

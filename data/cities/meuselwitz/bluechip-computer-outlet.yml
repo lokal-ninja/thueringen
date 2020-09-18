@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.0426395
 longitude: 12.2826249
-postcode: 04610
+postcode: "04610"
 city: Meuselwitz
 street: "Geschwister-Scholl-Straße"
 housenumber: 11A

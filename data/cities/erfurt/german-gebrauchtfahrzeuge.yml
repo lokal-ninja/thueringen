@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.0113227
 longitude: 10.9851974
-postcode: 99091
+postcode: "99091"
 city: Erfurt
 street: "Demminer Straße"
 housenumber: 21

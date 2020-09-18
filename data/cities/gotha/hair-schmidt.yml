@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 50.944628300000005
 longitude: 10.7362462
-postcode: 99867
+postcode: "99867"
 city: Gotha
 street: "Weimarer Straße"
 housenumber: 84
-phone: ""
+phone: "+49 03621 3556363"
 opening_hours: ""
 website: ""

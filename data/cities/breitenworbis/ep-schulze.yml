@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.4111351
 longitude: 10.4254113
-postcode: 37339
+postcode: "37339"
 city: Breitenworbis
 street: "Weststraße"
 housenumber: 6

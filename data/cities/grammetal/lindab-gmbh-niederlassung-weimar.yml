@@ -3,7 +3,7 @@ type: node
 shop: Großhandel
 latitude: 50.9535483
 longitude: 11.221625900000001
-postcode: 99428
+postcode: "99428"
 city: Grammetal
 street: "Günter-Junkes-Straße"
 housenumber: 3

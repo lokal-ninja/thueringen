@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8996397
 longitude: 12.099631100000002
-postcode: 07552
+postcode: "07552"
 city: Gera
 street: "Thüringer Straße"
 housenumber: 26

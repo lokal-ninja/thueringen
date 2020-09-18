@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.0036726
 longitude: 11.0372406
-postcode: 99085
+postcode: "99085"
 city: Erfurt
 street: "Salinenstraße"
 housenumber: 56

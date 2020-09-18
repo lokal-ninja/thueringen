@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.974253000000004
 longitude: 11.0601227
-postcode: 99099
+postcode: "99099"
 city: Erfurt
 street: "Weimarische Straße"
 housenumber: 33a

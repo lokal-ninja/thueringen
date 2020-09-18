@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 50.6625838
 longitude: 10.6485502
-postcode: 98544
+postcode: "98544"
 city: Zella-Mehlis
 street: "Peter-Haseney-Straße"
 housenumber: 34

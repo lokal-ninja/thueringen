@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.923805
 longitude: 11.577096300000001
-postcode: 07745
+postcode: "07745"
 city: Jena
 street: "Otto-Schott-Straße"
 housenumber: 

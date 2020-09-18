@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.6531491
 longitude: 11.355042000000001
-postcode: 07318
+postcode: "07318"
 city: Saalfeld/Saale
 street: "Fingersteinstraße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.4219657
 longitude: 10.7507134
-postcode: 98646
+postcode: "98646"
 city: Hildburghausen
 street: "Kaltenbronner Weg"
 housenumber: 2b

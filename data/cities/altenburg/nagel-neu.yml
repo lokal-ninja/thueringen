@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.9834857
 longitude: 12.4314151
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Schmöllnsche Straße"
 housenumber: 30

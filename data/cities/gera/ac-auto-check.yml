@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.8701811
 longitude: 12.080423000000001
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: "Heinrich-Knauf-Straße"
 housenumber: 5-9

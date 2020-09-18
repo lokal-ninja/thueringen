@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9959344
 longitude: 11.279053600000001
-postcode: 99428
+postcode: "99428"
 city: Weimar
 street: "Daasdorfer Straße"
 housenumber: 

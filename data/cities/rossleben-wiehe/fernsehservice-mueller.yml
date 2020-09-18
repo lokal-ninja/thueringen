@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.2674919
 longitude: 11.4084693
-postcode: 06571
+postcode: "06571"
 city: Roßleben-Wiehe
 street: "Dr.-Külz-Straße"
 housenumber: 11

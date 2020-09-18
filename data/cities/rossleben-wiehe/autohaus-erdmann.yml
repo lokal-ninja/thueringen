@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.29187
 longitude: 11.4446329
-postcode: 06571
+postcode: "06571"
 city: Roßleben-Wiehe
 street: "Am Sportplatz"
 housenumber: 2

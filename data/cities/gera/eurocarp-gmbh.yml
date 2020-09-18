@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.901216500000004
 longitude: 12.107565800000001
-postcode: 07552
+postcode: "07552"
 city: Gera
 street: "Adam-Opel-Straße"
 housenumber: 6 - 8

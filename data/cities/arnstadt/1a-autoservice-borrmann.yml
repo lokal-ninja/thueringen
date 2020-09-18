@@ -3,10 +3,10 @@ type: way
 shop: Autowerkstatt
 latitude: 50.8472512
 longitude: 10.9583151
-postcode: 99310
+postcode: "99310"
 city: Arnstadt
 street: "Mühlweg"
 housenumber: 5
-phone: "03628 47206"
+phone: "+49 3628 47206"
 opening_hours: ""
 website: "https://borrmann.go1a.de/"

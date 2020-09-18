@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.9986155
 longitude: 11.9839254
-postcode: 06722
+postcode: "06722"
 city: Wetterzeube
 street: "Birkenweg"
 housenumber: 6

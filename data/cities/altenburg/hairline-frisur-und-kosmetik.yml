@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9847375
 longitude: 12.4319231
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Topfmarkt"
 housenumber: 4

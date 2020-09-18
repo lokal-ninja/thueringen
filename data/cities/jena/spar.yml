@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.9242678
 longitude: 11.573487400000001
-postcode: 07745
+postcode: "07745"
 city: Jena
 street: "Fichteplatz"
 housenumber: 9

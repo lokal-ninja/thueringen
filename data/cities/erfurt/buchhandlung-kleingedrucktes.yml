@@ -3,10 +3,10 @@ type: node
 shop: Bücher
 latitude: 50.9748074
 longitude: 11.019968800000001
-postcode: 99084
+postcode: "99084"
 city: Erfurt
 street: "Mainzerhofplatz"
 housenumber: 2
-phone: "0361 55062400"
+phone: "+49 361 55062400"
 opening_hours: "Mo-Fr 09:30-18:00, Sa 11:00-15:00"
 website: "https://www.buchhandlung-kleingedrucktes.de/"

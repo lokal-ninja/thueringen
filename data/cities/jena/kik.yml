@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.942752000000006
 longitude: 11.5954084
-postcode: 07743
+postcode: "07743"
 city: Jena
 street: "Emil-Höllein-Platz"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.698699500000004
 longitude: 11.6172257
-postcode: 07381
+postcode: "07381"
 city: Pößneck
 street: "Malmsgelänge"
 housenumber: 2

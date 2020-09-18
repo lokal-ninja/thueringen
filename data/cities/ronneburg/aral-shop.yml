@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.8685678
 longitude: 12.2162868
-postcode: 07580
+postcode: "07580"
 city: Ronneburg
 street: "An der B 7"
 housenumber: 

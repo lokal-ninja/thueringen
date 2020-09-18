@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.9238688
 longitude: 10.7163342
-postcode: 99867
+postcode: "99867"
 city: Gotha
 street: "Rudloffstraße"
 housenumber: 24

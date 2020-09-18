@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.9796406
 longitude: 12.449953800000001
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Platanenstraße"
 housenumber: 9

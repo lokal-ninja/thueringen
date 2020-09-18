@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.02519
 longitude: 11.5130432
-postcode: 99510
+postcode: "99510"
 city: Apolda
 street: "Bernhard-Prager-Gasse"
 housenumber: 1

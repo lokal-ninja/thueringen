@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.996943900000005
 longitude: 11.0272061
-postcode: 99086
+postcode: "99086"
 city: Erfurt
 street: "Ammertalweg"
 housenumber: 1

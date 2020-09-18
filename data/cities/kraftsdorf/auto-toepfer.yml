@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.8806901
 longitude: 11.9678704
-postcode: 07586
+postcode: "07586"
 city: Kraftsdorf
 street: "Niederndorf"
 housenumber: 71

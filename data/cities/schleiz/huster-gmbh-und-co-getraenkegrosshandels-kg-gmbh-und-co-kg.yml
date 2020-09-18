@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.5808575
 longitude: 11.807082600000001
-postcode: 07907
+postcode: "07907"
 city: Schleiz
 street: "Geraer Straße"
 housenumber: 21 a

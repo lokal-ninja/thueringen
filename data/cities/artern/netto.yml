@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.3634752
 longitude: 11.3052308
-postcode: 06556
+postcode: "06556"
 city: Artern
 street: "Rudolf-Breitscheid-Straße"
 housenumber: 20

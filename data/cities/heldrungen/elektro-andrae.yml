@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.298627800000006
 longitude: 11.203146
-postcode: 06577
+postcode: "06577"
 city: Heldrungen
 street: "An der Schmücke"
 housenumber: 3

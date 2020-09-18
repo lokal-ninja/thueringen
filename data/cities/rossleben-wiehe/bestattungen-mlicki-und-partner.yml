@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 51.2963706
 longitude: 11.4339469
-postcode: 06571
+postcode: "06571"
 city: Roßleben-Wiehe
 street: "Wendelsteiner Straße"
 housenumber: 6

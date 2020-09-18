@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.870572
 longitude: 12.0786235
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: "Sachsenplatz"
 housenumber: 1

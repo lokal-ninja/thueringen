@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 51.02400170000001
 longitude: 10.5177279
-postcode: 99820
+postcode: "99820"
 city: Hörselberg-Hainich
 street: "Hauptstraße"
 housenumber: 90
-phone: "036254 71307"
+phone: "+49 36254 71307"
 opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

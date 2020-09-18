@@ -3,10 +3,10 @@ type: node
 shop: Kosmetik
 latitude: 50.7126522
 longitude: 10.835972100000001
-postcode: 99331
+postcode: "99331"
 city: Geratal
 street: "Waldstraße"
 housenumber: 12
-phone: "03677-6678166"
+phone: "+49 3677 6678166"
 opening_hours: "Su off || nach Absprache"
 website: "http://www.gudrun-stolle.de"

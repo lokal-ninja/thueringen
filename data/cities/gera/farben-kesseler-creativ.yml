@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 50.8725054
 longitude: 12.0794259
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: "Schmelzhüttenstraße"
 housenumber: 24

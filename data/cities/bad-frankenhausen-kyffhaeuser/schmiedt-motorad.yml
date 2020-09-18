@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 51.3449332
 longitude: 11.110433800000001
-postcode: 06567
+postcode: "06567"
 city: Bad Frankenhausen/Kyffhäuser
 street: "Seehäuser Straße"
 housenumber: 71

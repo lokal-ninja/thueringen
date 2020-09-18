@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 51.4977236
 longitude: 10.792034600000001
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Bahnhofstraße"
 housenumber: 33

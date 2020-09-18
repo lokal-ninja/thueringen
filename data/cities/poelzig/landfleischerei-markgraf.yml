@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.952438400000005
 longitude: 12.1985907
-postcode: 07554
+postcode: "07554"
 city: Pölzig
 street: "Hauptstraße"
 housenumber: 29

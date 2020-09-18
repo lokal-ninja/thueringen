@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.642903200000006
 longitude: 11.9697092
-postcode: 07937
+postcode: "07937"
 city: Langenwolschendorf
 street: "Heinrich-Wobst-Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.534157900000004
 longitude: 10.7723929
-postcode: 98553
+postcode: "98553"
 city: Schleusingen
 street: "Zum Vessertal"
 housenumber: 36

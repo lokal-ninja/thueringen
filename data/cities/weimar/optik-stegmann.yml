@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.9786925
 longitude: 11.3264904
-postcode: 99423
+postcode: "99423"
 city: Weimar
 street: "Hummelstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 50.976011
 longitude: 10.3243174
-postcode: 99817
+postcode: "99817"
 city: Eisenach
 street: "Alexanderstraße"
 housenumber: 109

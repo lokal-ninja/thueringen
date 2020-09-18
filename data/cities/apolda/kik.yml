@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.0388388
 longitude: 11.512627
-postcode: 99510
+postcode: "99510"
 city: Apolda
 street: "Am Weimarer Berg"
 housenumber: 1

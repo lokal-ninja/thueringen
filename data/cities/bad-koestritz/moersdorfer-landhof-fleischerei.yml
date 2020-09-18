@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.930320300000005
 longitude: 12.0137388
-postcode: 07586
+postcode: "07586"
 city: Bad Köstritz
 street: "Heinrich-Schütz-Straße"
 housenumber: 11

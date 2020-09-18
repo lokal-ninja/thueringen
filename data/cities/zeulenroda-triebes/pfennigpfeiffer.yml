@@ -1,12 +1,12 @@
 id: 442768005
 type: way
 shop: Kramladen
-latitude: 50.688307300000005
-longitude: 12.024534200000002
-postcode: 07950
+latitude: 50.688299300000004
+longitude: 12.024619600000001
+postcode: "07950"
 city: Zeulenroda-Triebes
 street: "Hauptstraße"
 housenumber: 59
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-16:00; Su,PH off"
+opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-16:00; PH,Su off"
 website: ""

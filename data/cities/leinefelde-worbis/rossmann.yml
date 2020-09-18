@@ -3,10 +3,10 @@ type: way
 shop: Drogerie
 latitude: 51.383655100000006
 longitude: 10.331460400000001
-postcode: 37327
+postcode: "37327"
 city: Leinefelde-Worbis
 street: "Siemensstraße"
-housenumber: 
+housenumber: 5
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
 website: ""

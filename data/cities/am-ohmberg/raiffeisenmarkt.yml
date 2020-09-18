@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.4807793
 longitude: 10.4885385
-postcode: 37345
+postcode: "37345"
 city: Am Ohmberg
 street: "Am Ölgraben"
 housenumber: 14

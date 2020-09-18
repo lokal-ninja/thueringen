@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.712923100000005
 longitude: 10.1220622
-postcode: 36466
+postcode: "36466"
 city: Dermbach
 street: "Bahnhofstraße"
 housenumber: 23a

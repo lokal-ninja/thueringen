@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.6909058
 longitude: 10.925573400000001
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "Auf dem Mittelfeld"
 housenumber: 4

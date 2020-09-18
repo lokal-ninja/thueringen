@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.8566793
 longitude: 11.909335700000002
-postcode: 07629
+postcode: "07629"
 city: St. Gangloff
 street: "Straße der Republik"
 housenumber: 16

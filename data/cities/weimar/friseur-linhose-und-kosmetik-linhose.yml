@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.98971
 longitude: 11.322472000000001
-postcode: 99423
+postcode: "99423"
 city: Weimar
 street: "Ernst-Thälmann-Straße"
 housenumber: 42

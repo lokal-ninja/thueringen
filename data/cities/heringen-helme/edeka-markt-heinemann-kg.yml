@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4484955
 longitude: 10.8367216
-postcode: 99765
+postcode: "99765"
 city: Heringen/Helme
 street: "Karl-Marx-Straße"
 housenumber: 38

@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 50.900137400000006
 longitude: 11.5946992
-postcode: 07745
+postcode: "07745"
 city: Jena
 street: "Keßlerstraße"
 housenumber: 12

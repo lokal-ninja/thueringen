@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.9586587
 longitude: 11.051711200000002
-postcode: 99097
+postcode: "99097"
 city: Erfurt
 street: "Kranichfelder Straße"
 housenumber: 2

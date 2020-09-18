@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.978861800000004
 longitude: 10.9927963
-postcode: 99092
+postcode: "99092"
 city: Erfurt
 street: "Höhenweg"
 housenumber: 125

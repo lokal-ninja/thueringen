@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.977168000000006
 longitude: 11.327672900000001
-postcode: 99423
+postcode: "99423"
 city: Weimar
 street: "Steubenstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.684618400000005
 longitude: 11.2797184
-postcode: 07422
+postcode: "07422"
 city: Bad Blankenburg
 street: "Gustav-Töpfer-Straße"
 housenumber: 3c

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.044781900000004
 longitude: 10.9513297
-postcode: 99189
+postcode: "99189"
 city: Elxleben
 street: "Thomas-Müntzer-Straße"
 housenumber: 33

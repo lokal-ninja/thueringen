@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.8840281
 longitude: 12.075398100000001
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: "Theaterstraße"
 housenumber: 

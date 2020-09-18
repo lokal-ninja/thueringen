@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.7039727
 longitude: 11.8988621
-postcode: 07955
+postcode: "07955"
 city: Auma-Weidatal
 street: "Triptiser Straße"
 housenumber: 12A

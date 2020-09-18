@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.689503900000005
 longitude: 10.9253429
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "Weimarer Straße"
 housenumber: 67

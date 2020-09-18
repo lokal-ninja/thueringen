@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.975825400000005
 longitude: 11.9460479
-postcode: 07613
+postcode: "07613"
 city: Etzdorf
 street: "Crossener Straße"
 housenumber: 16

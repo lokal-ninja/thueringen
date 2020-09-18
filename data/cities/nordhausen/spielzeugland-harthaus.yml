@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.5030044
 longitude: 10.7938744
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Kranichstraße"
 housenumber: 24

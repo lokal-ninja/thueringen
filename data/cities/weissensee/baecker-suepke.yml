@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.19948410000001
 longitude: 11.065375600000001
-postcode: 99631
+postcode: "99631"
 city: Weißensee
 street: "Fischerstraße"
 housenumber: 21

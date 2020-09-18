@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.6445682
 longitude: 10.5943273
-postcode: 98544
+postcode: "98544"
 city: Zella-Mehlis
 street: "Hauptstraße"
 housenumber: 21

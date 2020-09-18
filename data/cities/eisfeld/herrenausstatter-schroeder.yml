@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.4275079
 longitude: 10.9065498
-postcode: 98673
+postcode: "98673"
 city: Eisfeld
 street: "Neumarkt"
 housenumber: 3

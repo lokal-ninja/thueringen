@@ -3,9 +3,9 @@ type: node
 shop: Kleidung
 latitude: 50.6952768
 longitude: 11.5960654
-postcode: 07381
+postcode: "07381"
 city: Pößneck
-street: ""
+street: "Gerberstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

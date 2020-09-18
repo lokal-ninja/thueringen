@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.9848141
 longitude: 11.038561600000001
-postcode: 99085
+postcode: "99085"
 city: Erfurt
 street: "Schlachthofstraße"
 housenumber: 82

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0236
 longitude: 10.51806
-postcode: 99820
+postcode: "99820"
 city: Hörselberg-Hainich
 street: "Hauptstraße"
 housenumber: 90

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.984354100000004
 longitude: 11.0347398
-postcode: 99085
+postcode: "99085"
 city: Erfurt
 street: "Schlachthofstraße"
 housenumber: 2

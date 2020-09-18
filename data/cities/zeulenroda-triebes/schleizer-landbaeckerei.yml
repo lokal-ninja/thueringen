@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 50.6884711
 longitude: 12.025003100000001
-postcode: 07950
+postcode: "07950"
 city: Zeulenroda-Triebes
 street: "Hauptstraße"
 housenumber: 55
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: "Mo-Sa 07:00-20:00; PH,Su off"
 website: ""

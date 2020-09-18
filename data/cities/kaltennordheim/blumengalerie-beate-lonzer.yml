@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.6270323
 longitude: 10.1586678
-postcode: 36452
+postcode: "36452"
 city: Kaltennordheim
 street: "Kirchstraße"
 housenumber: 20

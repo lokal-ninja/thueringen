@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 51.356015400000004
 longitude: 11.1011485
-postcode: 06567
+postcode: "06567"
 city: Bad Frankenhausen/Kyffhäuser
 street: "Markt"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.9757152
 longitude: 11.042611200000001
-postcode: 99085
+postcode: "99085"
 city: Erfurt
 street: "Thälmannstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Gasflaschen
 latitude: 50.943487600000005
 longitude: 12.512187500000001
-postcode: 04603
+postcode: "04603"
 city: Nobitz
 street: "Waldenburger Straße"
 housenumber: 7B

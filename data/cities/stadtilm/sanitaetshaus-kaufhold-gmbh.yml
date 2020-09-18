@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 50.7739739
 longitude: 11.082263300000001
-postcode: 99326
+postcode: "99326"
 city: Stadtilm
 street: "Markt"
 housenumber: 24

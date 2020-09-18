@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.8842068
 longitude: 12.1446454
-postcode: 07554
+postcode: "07554"
 city: Gera
 street: "Kellers Ziegelei"
 housenumber: 4

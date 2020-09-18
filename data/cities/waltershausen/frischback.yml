@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8982873
 longitude: 10.5599165
-postcode: 99880
+postcode: "99880"
 city: Waltershausen
 street: "August-Trinius-Straße"
 housenumber: 18

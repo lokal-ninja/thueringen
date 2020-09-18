@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.8572013
 longitude: 10.95658
-postcode: 99310
+postcode: "99310"
 city: Arnstadt
 street: "Alfred-Ley-Straße"
 housenumber: 5

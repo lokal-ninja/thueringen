@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.957126200000005
 longitude: 12.319865700000001
-postcode: 04626
+postcode: "04626"
 city: Göllnitz
 street: "An der Eisenberger Straße"
 housenumber: 3

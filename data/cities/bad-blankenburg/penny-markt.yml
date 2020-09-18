@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.683835300000005
 longitude: 11.2772438
-postcode: 07422
+postcode: "07422"
 city: Bad Blankenburg
 street: "Rudolstädter Straße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.6746215
 longitude: 12.0053728
-postcode: 07950
+postcode: "07950"
 city: Weißendorf
 street: "Ortsstraße"
 housenumber: 2 B

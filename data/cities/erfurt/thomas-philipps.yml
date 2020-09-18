@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 50.990303100000006
 longitude: 11.0445703
-postcode: 99085
+postcode: "99085"
 city: Erfurt
 street: "Wustrower Weg"
 housenumber: 1

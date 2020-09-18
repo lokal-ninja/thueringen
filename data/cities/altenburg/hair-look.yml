@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 50.9959703
 longitude: 12.442083
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Fabrikstraße"
-housenumber: 3
+housenumber: 31
 phone: ""
 opening_hours: "Mo 09:00-16:00; Tu-Fr 07:30-19:00; Sa 08:00-15:00; Su,Ph off"
 website: ""

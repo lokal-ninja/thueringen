@@ -3,10 +3,10 @@ type: node
 shop: Möbel
 latitude: 50.8799889
 longitude: 12.4319836
-postcode: 04639
+postcode: "04639"
 city: Gößnitz
 street: "Zwickauer Straße"
 housenumber: 76
-phone: "+49 34493 36513"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:-12:30"
-website: "http://www.moebel-meyer-goessnitz.de/"
+phone: ""
+opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:30; Su,PH off"
+website: ""

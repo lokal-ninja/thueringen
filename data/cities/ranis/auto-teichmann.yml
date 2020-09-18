@@ -3,10 +3,10 @@ type: way
 shop: Autowerkstatt
 latitude: 50.6653925
 longitude: 11.5767682
-postcode: 07389
+postcode: "07389"
 city: Ranis
 street: "An der Tauge"
 housenumber: 11
 phone: "+493647413818"
-opening_hours: ""
+opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-12:00"
 website: ""

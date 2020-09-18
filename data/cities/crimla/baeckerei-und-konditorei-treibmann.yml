@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 50.80181940000001
 longitude: 12.044678600000001
-postcode: 07557
+postcode: "07557"
 city: Crimla
 street: "Crimla"
 housenumber: 19

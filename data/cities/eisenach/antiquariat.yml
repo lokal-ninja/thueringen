@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.971694400000004
 longitude: 10.3217637
-postcode: 99817
+postcode: "99817"
 city: Eisenach
 street: "Frauenplan"
 housenumber: 20

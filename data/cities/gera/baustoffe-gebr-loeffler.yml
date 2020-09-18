@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.9148397
 longitude: 12.059602400000001
-postcode: 07552
+postcode: "07552"
 city: Gera
 street: "Langenberger Straße"
 housenumber: 57

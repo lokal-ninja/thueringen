@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.736583700000004
 longitude: 11.8668638
-postcode: 07819
+postcode: "07819"
 city: Triptis
 street: "Am Postberg"
 housenumber: 2

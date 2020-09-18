@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.6858086
 longitude: 10.558420400000001
-postcode: 98587
+postcode: "98587"
 city: Steinbach-Hallenberg
 street: "Hammerweg"
 housenumber: 6b

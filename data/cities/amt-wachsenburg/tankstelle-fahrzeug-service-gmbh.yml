@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.878354200000004
 longitude: 11.0150932
-postcode: 99334
+postcode: "99334"
 city: Amt Wachsenburg
 street: "Eischlebener Weg"
 housenumber: 2

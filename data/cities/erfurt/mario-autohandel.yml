@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.0150835
 longitude: 11.0357397
-postcode: 99087
+postcode: "99087"
 city: Erfurt
 street: "Justus-Liebig-Straße"
 housenumber: 22

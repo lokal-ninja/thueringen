@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.356731700000005
 longitude: 11.1006131
-postcode: 06567
+postcode: "06567"
 city: Bad Frankenhausen/Kyffhäuser
 street: "Kräme"
 housenumber: 21

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.8126442
 longitude: 10.217681500000001
-postcode: 36433
+postcode: "36433"
 city: Bad Salzungen
 street: "Leimbacher Straße"
 housenumber: 84

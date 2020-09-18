@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 50.517299900000005
 longitude: 10.9663701
-postcode: 98666
+postcode: "98666"
 city: Masserberg
 street: "Hauptstraße"
 housenumber: 6-8
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
 website: ""

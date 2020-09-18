@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 51.111327700000004
 longitude: 10.996881100000001
-postcode: 99189
+postcode: "99189"
 city: Haßleben
 street: "Am Furth"
 housenumber: 193
 phone: "+4936201578088"
 opening_hours: "Mo 08:00-13:00; Tu-Fr 08:00-18:00; Sa 08:00-12:00; PH off"
-website: ""
+website: "https://www.salon-artofhair.de"

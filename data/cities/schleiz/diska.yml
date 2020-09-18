@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.5793407
 longitude: 11.823038400000002
-postcode: 07907
+postcode: "07907"
 city: Schleiz
 street: "Greizer Straße"
 housenumber: 46

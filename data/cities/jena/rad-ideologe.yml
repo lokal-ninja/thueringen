@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.9208112
 longitude: 11.5778902
-postcode: 07745
+postcode: "07745"
 city: Jena
 street: "Felsenkellerstraße"
 housenumber: 13a

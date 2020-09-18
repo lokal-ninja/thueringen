@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.903392100000005
 longitude: 12.1003866
-postcode: 07552
+postcode: "07552"
 city: Gera
 street: "Carl-Zeiss-Straße"
 housenumber: 2

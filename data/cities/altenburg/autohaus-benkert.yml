@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.002113
 longitude: 12.463700500000002
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Remsaer Straße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Klempner
 latitude: 50.9563319
 longitude: 11.220725100000001
-postcode: 99428
+postcode: "99428"
 city: Grammetal
 street: "Unter dem Kreuzsteg"
 housenumber: 1

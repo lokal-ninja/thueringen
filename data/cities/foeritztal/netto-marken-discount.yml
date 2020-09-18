@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.316557700000004
 longitude: 11.241641600000001
-postcode: 96524
+postcode: "96524"
 city: Föritztal
 street: "Straße zur Neuen Welt"
 housenumber: 2

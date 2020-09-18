@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.7150363
 longitude: 9.9562597
-postcode: 36419
+postcode: "36419"
 city: Geisa
 street: "Rhönstraße"
 housenumber: 14

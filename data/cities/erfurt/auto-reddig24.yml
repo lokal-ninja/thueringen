@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.99069
 longitude: 11.022499700000001
-postcode: 99089
+postcode: "99089"
 city: Erfurt
 street: "Papiermühlenweg"
 housenumber: 13

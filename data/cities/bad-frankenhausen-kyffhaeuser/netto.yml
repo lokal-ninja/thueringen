@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.3559083
 longitude: 11.0947124
-postcode: 06567
+postcode: "06567"
 city: Bad Frankenhausen/Kyffhäuser
 street: "Kyffhäuserstraße"
 housenumber: 40

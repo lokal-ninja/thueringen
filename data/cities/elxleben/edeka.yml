@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.0477604
 longitude: 10.9459511
-postcode: 99189
+postcode: "99189"
 city: Elxleben
 street: "Erfurter Straße"
 housenumber: 40

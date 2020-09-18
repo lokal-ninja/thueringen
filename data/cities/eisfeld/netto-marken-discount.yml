@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.4231581
 longitude: 10.907343200000001
-postcode: 98673
+postcode: "98673"
 city: Eisfeld
 street: "Georgstraße"
 housenumber: 14

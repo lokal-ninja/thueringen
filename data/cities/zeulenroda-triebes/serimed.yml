@@ -3,7 +3,7 @@ type: node
 shop: Großhandel
 latitude: 50.6617898
 longitude: 11.9940072
-postcode: 07937
+postcode: "07937"
 city: Zeulenroda-Triebes
 street: "Am Waldstadion"
 housenumber: 5

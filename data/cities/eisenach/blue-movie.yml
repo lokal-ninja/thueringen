@@ -3,7 +3,7 @@ type: node
 shop: Videothek
 latitude: 50.9769792
 longitude: 10.309910100000002
-postcode: 99817
+postcode: "99817"
 city: Eisenach
 street: "Katharinenstraße"
 housenumber: 70-74

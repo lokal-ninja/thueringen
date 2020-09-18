@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.479249700000004
 longitude: 10.490654300000001
-postcode: 37345
+postcode: "37345"
 city: Am Ohmberg
 street: "Am Ölgraben"
 housenumber: 22

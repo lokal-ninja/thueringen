@@ -3,10 +3,10 @@ type: node
 shop: Metzgerei
 latitude: 50.9781423
 longitude: 11.024535700000001
-postcode: 99084
+postcode: "99084"
 city: Erfurt
 street: ""
 housenumber: 
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:30-18:30; Sa 07:30-14:00"
 website: ""

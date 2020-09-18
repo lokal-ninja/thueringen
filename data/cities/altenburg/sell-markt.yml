@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9854866
 longitude: 12.4261914
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Steinweg"
 housenumber: 12 / 13

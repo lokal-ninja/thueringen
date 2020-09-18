@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.311801900000006
 longitude: 10.5677429
-postcode: 99996
+postcode: "99996"
 city: Menteroda
 street: "Holzthalebener Straße"
 housenumber: 11

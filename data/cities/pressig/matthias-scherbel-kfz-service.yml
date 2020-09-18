@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.344010100000006
 longitude: 11.286430800000002
-postcode: 96332
+postcode: "96332"
 city: Pressig
 street: ""
 housenumber: 110

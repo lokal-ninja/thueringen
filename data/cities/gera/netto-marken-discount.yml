@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8601097
 longitude: 12.075902500000002
-postcode: 07549
+postcode: "07549"
 city: Gera
 street: "Vogtlandstraße"
 housenumber: 4

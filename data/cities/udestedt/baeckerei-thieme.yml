@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.049557
 longitude: 11.1288885
-postcode: 99198
+postcode: "99198"
 city: Udestedt
 street: "Wilhelm-Pieck-Straße"
 housenumber: 1

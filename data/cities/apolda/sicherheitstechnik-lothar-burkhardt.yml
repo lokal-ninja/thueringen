@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 51.0243035
 longitude: 11.5160902
-postcode: 99510
+postcode: "99510"
 city: Apolda
 street: "Dornsgasse"
 housenumber: 1

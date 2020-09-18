@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.9583723
 longitude: 12.5506565
-postcode: 04618
+postcode: "04618"
 city: Langenleuba-Niederhain
 street: "Zschernichen"
 housenumber: 10A

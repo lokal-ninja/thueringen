@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.9667831
 longitude: 12.0831973
-postcode: 07554
+postcode: "07554"
 city: Gera
 street: "Aga Forststraße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.353658300000006
 longitude: 11.1809919
-postcode: 96515
+postcode: "96515"
 city: Sonneberg
 street: "Eisenbahnstraße"
 housenumber: 9

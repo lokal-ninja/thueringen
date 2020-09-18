@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.7145522
 longitude: 9.956186800000001
-postcode: 36419
+postcode: "36419"
 city: Geisa
 street: "Rhönstraße"
 housenumber: 14

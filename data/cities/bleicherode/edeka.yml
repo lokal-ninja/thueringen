@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4443672
 longitude: 10.574440200000002
-postcode: 99752
+postcode: "99752"
 city: Bleicherode
 street: "Karl-Liebknecht-Straße"
 housenumber: 40

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.886125400000005
 longitude: 12.0830093
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: "Franz-Petrich-Straße"
 housenumber: 2-6

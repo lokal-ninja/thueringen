@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.689593900000006
 longitude: 11.590790700000001
-postcode: 07381
+postcode: "07381"
 city: Pößneck
 street: "Am Aktiengarten"
 housenumber: 11

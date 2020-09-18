@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 50.984425900000005
 longitude: 11.023363400000001
-postcode: 99089
+postcode: "99089"
 city: Erfurt
 street: "Schlüterstraße"
 housenumber: 9

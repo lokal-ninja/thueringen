@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.897372600000004
 longitude: 10.7253022
-postcode: 99869
+postcode: "99869"
 city: Schwabhausen
 street: ""
 housenumber: 

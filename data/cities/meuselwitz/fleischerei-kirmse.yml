@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.041913
 longitude: 12.3073198
-postcode: 04610
+postcode: "04610"
 city: Meuselwitz
 street: "Weinbergstraße"
 housenumber: 27

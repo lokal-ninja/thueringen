@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.983251200000005
 longitude: 12.4497671
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Heinrich-Heine-Straße"
 housenumber: 53A

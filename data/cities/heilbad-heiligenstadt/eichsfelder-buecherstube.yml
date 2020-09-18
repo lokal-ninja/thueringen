@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.3775161
 longitude: 10.1393384
-postcode: 37308
+postcode: "37308"
 city: Heilbad Heiligenstadt
 street: "Wilhelmstraße"
 housenumber: 69

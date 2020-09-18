@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.855689700000006
 longitude: 10.954618400000001
-postcode: 99310
+postcode: "99310"
 city: Arnstadt
 street: "Alfred-Ley-Straße"
 housenumber: 12

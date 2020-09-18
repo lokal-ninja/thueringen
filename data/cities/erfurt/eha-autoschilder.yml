@@ -3,7 +3,7 @@ type: way
 shop: Beschriftungen
 latitude: 50.9744466
 longitude: 11.038376900000001
-postcode: 99084
+postcode: "99084"
 city: Erfurt
 street: "Schmidtstedter Straße"
 housenumber: 18

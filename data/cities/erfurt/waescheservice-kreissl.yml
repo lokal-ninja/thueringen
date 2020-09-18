@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.017132800000006
 longitude: 10.9878397
-postcode: 99091
+postcode: "99091"
 city: Erfurt
 street: "Worbiser Straße"
 housenumber: 7

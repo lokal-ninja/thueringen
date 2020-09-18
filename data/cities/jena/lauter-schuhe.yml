@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 50.926601600000005
 longitude: 11.5840022
-postcode: 07743
+postcode: "07743"
 city: Jena
 street: "Engelplatz"
 housenumber: 11

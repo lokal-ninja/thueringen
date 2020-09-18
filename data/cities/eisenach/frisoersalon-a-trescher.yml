@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.97631500000001
 longitude: 10.3416692
-postcode: 99817
+postcode: "99817"
 city: Eisenach
 street: "Hörselstraße"
 housenumber: 25

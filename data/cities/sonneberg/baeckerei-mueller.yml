@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.343568000000005
 longitude: 11.1846286
-postcode: 96515
+postcode: "96515"
 city: Sonneberg
 street: "Friedrich-Engels-Straße"
 housenumber: 19

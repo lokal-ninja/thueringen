@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.9618048
 longitude: 11.2671851
-postcode: 99428
+postcode: "99428"
 city: Grammetal
 street: "Gebreitestraße"
 housenumber: 13

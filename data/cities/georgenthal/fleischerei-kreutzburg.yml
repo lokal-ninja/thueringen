@@ -3,10 +3,10 @@ type: node
 shop: Metzgerei
 latitude: 50.8287739
 longitude: 10.6542144
-postcode: 99887
+postcode: "99887"
 city: Georgenthal
 street: "Tambacher Straße"
 housenumber: 9
-phone: "-49 36253 42467"
+phone: "+49 36253 42467"
 opening_hours: ""
 website: ""

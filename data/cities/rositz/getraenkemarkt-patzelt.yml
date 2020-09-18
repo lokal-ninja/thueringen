@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.0168698
 longitude: 12.3713183
-postcode: 04617
+postcode: "04617"
 city: Rositz
 street: "Goethestraße"
 housenumber: 2

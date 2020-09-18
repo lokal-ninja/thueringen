@@ -3,7 +3,7 @@ type: node
 shop: Elektrisch
 latitude: 50.889213700000006
 longitude: 10.369682200000002
-postcode: 99842
+postcode: "99842"
 city: Ruhla
 street: "Obere Lindenstraße"
 housenumber: 41

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.3727614
 longitude: 10.421436400000001
-postcode: 37355
+postcode: "37355"
 city: Niederorschel
 street: "Bruch"
 housenumber: 8

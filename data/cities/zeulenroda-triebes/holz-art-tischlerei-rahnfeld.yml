@@ -3,7 +3,7 @@ type: node
 shop: Holz
 latitude: 50.65299
 longitude: 11.995102000000001
-postcode: 07937
+postcode: "07937"
 city: Zeulenroda-Triebes
 street: "Heinrich-Heine-Straße"
 housenumber: 43a

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.4065841
 longitude: 10.4253734
-postcode: 37339
+postcode: "37339"
 city: Breitenworbis
 street: "Mühlhäuser Straße"
 housenumber: 31

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.6824962
 longitude: 10.5571856
-postcode: 98587
+postcode: "98587"
 city: Steinbach-Hallenberg
 street: "Suhler Straße"
 housenumber: 24

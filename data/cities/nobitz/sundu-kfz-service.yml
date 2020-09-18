@@ -3,10 +3,10 @@ type: node
 shop: Autowerkstatt
 latitude: 50.919934100000006
 longitude: 12.5501628
-postcode: 04603
+postcode: "04603"
 city: Nobitz
 street: "August-Bebel-Straße"
-housenumber: 1c
-phone: "+49 34494 708820"
+housenumber: 1C
+phone: ""
 opening_hours: ""
 website: ""

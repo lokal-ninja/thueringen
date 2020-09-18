@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.6987158
 longitude: 11.6180041
-postcode: 07381
+postcode: "07381"
 city: Pößneck
 street: "Malmsgelänge"
 housenumber: 2

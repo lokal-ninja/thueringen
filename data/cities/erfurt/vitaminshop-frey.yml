@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 50.93551050000001
 longitude: 10.9917704
-postcode: 99094
+postcode: "99094"
 city: Erfurt
 street: "Backhausstraße"
 housenumber: 9

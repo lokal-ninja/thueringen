@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.2183081
 longitude: 10.4717938
-postcode: 99974
+postcode: "99974"
 city: Mühlhausen
 street: "Volkenröder Straße"
 housenumber: 13

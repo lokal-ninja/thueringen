@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8598063
 longitude: 10.576156000000001
-postcode: 99894
+postcode: "99894"
 city: Friedrichroda
 street: "Bahnhofstraße"
 housenumber: 32a

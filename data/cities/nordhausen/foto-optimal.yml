@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 51.502607600000005
 longitude: 10.794582100000001
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Kornmarkt"
 housenumber: 2

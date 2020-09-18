@@ -3,10 +3,10 @@ type: way
 shop: Blumen
 latitude: 50.497802300000004
 longitude: 11.638800400000001
-postcode: 07929
+postcode: "07929"
 city: Saalburg-Ebersdorf
 street: "Friesau"
 housenumber: 36
-phone: "036651 87233"
+phone: "+49 36651 87233"
 opening_hours: ""
 website: ""

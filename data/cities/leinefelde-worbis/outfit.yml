@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.4222356
 longitude: 10.3602713
-postcode: 37339
+postcode: "37339"
 city: Leinefelde-Worbis
 street: "Lange Straße"
 housenumber: 28

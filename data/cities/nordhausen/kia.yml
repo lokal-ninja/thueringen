@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.4958442
 longitude: 10.795564500000001
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Sundhäuser Straße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 50.7004486
 longitude: 10.9338539
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "Auf der Burg"
 housenumber: 5

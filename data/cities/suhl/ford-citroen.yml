@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.604994700000006
 longitude: 10.632373600000001
-postcode: 98529
+postcode: "98529"
 city: Suhl
 street: "Mühlbergstraße"
 housenumber: 80

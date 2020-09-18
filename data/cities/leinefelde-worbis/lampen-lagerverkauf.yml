@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.383652600000005
 longitude: 10.3285111
-postcode: 37327
+postcode: "37327"
 city: Leinefelde-Worbis
 street: "Zentraler Platz"
 housenumber: 4

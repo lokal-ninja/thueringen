@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.9781114
 longitude: 11.0346217
-postcode: 99084
+postcode: "99084"
 city: Erfurt
 street: "Anger"
 housenumber: 78/79

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8599377
 longitude: 12.07648
-postcode: 07549
+postcode: "07549"
 city: Gera
 street: "Vogtlandstraße"
 housenumber: 4

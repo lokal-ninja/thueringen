@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.294868900000004
 longitude: 11.433438500000001
-postcode: 06571
+postcode: "06571"
 city: Roßleben-Wiehe
 street: "Richard-Hüttig-Platz"
 housenumber: 17

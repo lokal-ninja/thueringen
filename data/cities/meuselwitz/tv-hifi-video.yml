@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.041992500000006
 longitude: 12.296671
-postcode: 04610
+postcode: "04610"
 city: Meuselwitz
 street: "Bahnhofstraße"
 housenumber: 16

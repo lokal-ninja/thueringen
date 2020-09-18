@@ -3,7 +3,7 @@ type: node
 shop: Dorfladen
 latitude: 50.7194372
 longitude: 10.8474514
-postcode: 99331
+postcode: "99331"
 city: Geratal
 street: "Arnstädter Straße"
 housenumber: 28

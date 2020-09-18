@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.4166437
 longitude: 10.9142208
-postcode: 98673
+postcode: "98673"
 city: Eisfeld
 street: "Coburger Straße"
 housenumber: 73

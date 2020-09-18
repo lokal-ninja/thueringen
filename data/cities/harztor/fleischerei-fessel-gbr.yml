@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.5827065
 longitude: 10.786369500000001
-postcode: 99768
+postcode: "99768"
 city: Harztor
 street: "Ilgerstraße"
 housenumber: 53

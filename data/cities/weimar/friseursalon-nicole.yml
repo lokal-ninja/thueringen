@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.993466000000005
 longitude: 11.320176
-postcode: 99427
+postcode: "99427"
 city: Weimar
 street: "Rießnerstraße"
 housenumber: 41

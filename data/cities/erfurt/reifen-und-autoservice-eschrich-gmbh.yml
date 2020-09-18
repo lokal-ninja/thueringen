@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.0090136
 longitude: 11.018253600000001
-postcode: 99089
+postcode: "99089"
 city: Erfurt
 street: "Mittelhäuser Straße"
 housenumber: 70

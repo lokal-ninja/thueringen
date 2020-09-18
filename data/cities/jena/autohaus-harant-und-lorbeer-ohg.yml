@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.896760900000004
 longitude: 11.5821319
-postcode: 07745
+postcode: "07745"
 city: Jena
 street: "Rudolstädter Straße"
 housenumber: 62

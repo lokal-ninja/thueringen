@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.6077796
 longitude: 10.160594600000001
-postcode: 36452
+postcode: "36452"
 city: Kaltennordheim
 street: "Bergstraße"
 housenumber: 12

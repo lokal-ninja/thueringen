@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.503288600000005
 longitude: 10.793212
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Engelsburg"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9213359
 longitude: 12.057427800000001
-postcode: 07552
+postcode: "07552"
 city: Gera
 street: "Zeitzer Straße"
 housenumber: 34

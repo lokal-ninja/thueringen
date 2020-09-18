@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.0168236
 longitude: 10.8488462
-postcode: 99100
+postcode: "99100"
 city: Bienstädt
 street: "Töttelstädter Straße"
 housenumber: 

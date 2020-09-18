@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.339264400000005
 longitude: 11.1430044
-postcode: 96465
+postcode: "96465"
 city: Neustadt b. Coburg
 street: "Am Lerchenfeld"
 housenumber: 6

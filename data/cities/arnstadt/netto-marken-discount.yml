@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8419827
 longitude: 10.949481
-postcode: 99310
+postcode: "99310"
 city: Arnstadt
 street: "Rehestädter Weg"
 housenumber: 2

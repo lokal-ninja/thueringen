@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 50.8982061
 longitude: 12.0986811
-postcode: 07552
+postcode: "07552"
 city: Gera
 street: "Alexander-Wolfgang-Straße"
 housenumber: 25

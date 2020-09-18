@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.887747600000004
 longitude: 12.0837032
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: "Herderstraße"
 housenumber: 9

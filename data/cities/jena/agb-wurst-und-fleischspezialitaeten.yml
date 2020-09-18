@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.932847300000006
 longitude: 11.5901329
-postcode: 07743
+postcode: "07743"
 city: Jena
 street: "Saalbahnhofstraße"
 housenumber: 18

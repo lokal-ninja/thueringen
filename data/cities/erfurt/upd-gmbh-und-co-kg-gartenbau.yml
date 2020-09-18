@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.037565400000005
 longitude: 10.9983796
-postcode: 99095
+postcode: "99095"
 city: Erfurt
 street: "August-Röbling-Straße"
 housenumber: 45

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.8885621
 longitude: 12.434168600000001
-postcode: 04639
+postcode: "04639"
 city: Gößnitz
 street: "Markt"
 housenumber: 8

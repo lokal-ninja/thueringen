@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.690820300000006
 longitude: 10.922611100000001
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "Ratsteichstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.955549700000006
 longitude: 12.5809748
-postcode: 04618
+postcode: "04618"
 city: Langenleuba-Niederhain
 street: "Wiesenweg"
 housenumber: 2

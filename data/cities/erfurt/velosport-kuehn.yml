@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.9727478
 longitude: 11.0325696
-postcode: 99084
+postcode: "99084"
 city: Erfurt
 street: "Juri-Gagarin-Ring"
 housenumber: 72

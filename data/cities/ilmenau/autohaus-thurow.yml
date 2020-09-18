@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.69004880000001
 longitude: 10.9227811
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "Weimarer Straße"
 housenumber: 47

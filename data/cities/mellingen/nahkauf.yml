@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.9473466
 longitude: 11.388368400000001
-postcode: 99441
+postcode: "99441"
 city: Mellingen
 street: "Taubacher Straße"
 housenumber: 2a

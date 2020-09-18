@@ -3,7 +3,7 @@ type: way
 shop: Massage
 latitude: 50.6993426
 longitude: 10.9356431
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "Am Birkenbrunnen"
 housenumber: 8

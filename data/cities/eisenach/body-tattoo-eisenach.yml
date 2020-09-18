@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 50.9777502
 longitude: 10.3408488
-postcode: 99817
+postcode: "99817"
 city: Eisenach
 street: "Langensalzaer Straße"
 housenumber: 42

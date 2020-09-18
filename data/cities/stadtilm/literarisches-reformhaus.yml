@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.7746396
 longitude: 11.081437600000001
-postcode: 99326
+postcode: "99326"
 city: Stadtilm
 street: "Markt"
 housenumber: 12

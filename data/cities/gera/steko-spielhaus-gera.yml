@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 50.8771354
 longitude: 12.0845173
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: "Große Kirchstraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9012904
 longitude: 11.5793373
-postcode: 07745
+postcode: "07745"
 city: Jena
 street: "Rudolstädter Straße"
 housenumber: 31

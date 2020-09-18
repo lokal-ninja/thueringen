@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.9974092
 longitude: 12.4186954
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Stauffenbergstraße"
 housenumber: 33

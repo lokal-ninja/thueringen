@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 50.360531400000006
 longitude: 11.1738762
-postcode: 96515
+postcode: "96515"
 city: Sonneberg
 street: "Bahnhofstraße"
 housenumber: 27

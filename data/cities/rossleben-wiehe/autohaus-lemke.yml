@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.3023718
 longitude: 11.4071938
-postcode: 06571
+postcode: "06571"
 city: Roßleben-Wiehe
 street: "Roßlebener Straße"
 housenumber: 32a

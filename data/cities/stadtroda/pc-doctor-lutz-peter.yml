@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.856593700000005
 longitude: 11.7271053
-postcode: 07646
+postcode: "07646"
 city: Stadtroda
 street: "Herrenstraße"
 housenumber: 6

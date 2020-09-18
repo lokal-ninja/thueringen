@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.906601300000005
 longitude: 11.5904445
-postcode: 07749
+postcode: "07749"
 city: Jena
 street: "Unterdorfstraße"
 housenumber: 37

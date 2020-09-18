@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.401088300000005
 longitude: 10.994319800000001
-postcode: 96528
+postcode: "96528"
 city: Schalkau
 street: "Gewerbegebiet"
 housenumber: 5

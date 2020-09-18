@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.818756
 longitude: 10.187093
-postcode: 36433
+postcode: "36433"
 city: Leimbach
 street: "Salzunger Straße"
 housenumber: 120f

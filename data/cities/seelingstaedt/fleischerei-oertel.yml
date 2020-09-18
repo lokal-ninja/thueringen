@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.7900226
 longitude: 12.245573
-postcode: 07580
+postcode: "07580"
 city: Seelingstädt
 street: "Ronneburger Straße"
 housenumber: 1A

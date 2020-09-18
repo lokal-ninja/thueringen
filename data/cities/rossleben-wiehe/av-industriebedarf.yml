@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.297775200000004
 longitude: 11.448737600000001
-postcode: 06571
+postcode: "06571"
 city: Roßleben-Wiehe
 street: "Industriestraße"
 housenumber: 2

@@ -1,12 +1,12 @@
-id: 520003429
+id: 2348310035
 type: node
 shop: Supermarkt
-latitude: 51.007251100000005
-longitude: 10.8875492
-postcode: 99090
+latitude: 50.973576300000005
+longitude: 11.036404000000001
+postcode: ""
 city: Erfurt
-street: "Rodeweg"
-housenumber: 3
+street: "Bahnhofstraße"
+housenumber: 11
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 06:00-20:00; Sa 06:00-19:00; PH off"
 website: ""

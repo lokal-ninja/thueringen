@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.503012600000005
 longitude: 10.7935339
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Engelsburg"
 housenumber: 10

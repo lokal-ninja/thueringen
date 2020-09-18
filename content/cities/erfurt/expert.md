@@ -1,4 +1,4 @@
 ---
-title: "expert"
+title: "Expert"
 url: /erfurt/expert/
 ---

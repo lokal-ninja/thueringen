@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.702493000000004
 longitude: 11.622998200000001
-postcode: 07381
+postcode: "07381"
 city: Pößneck
 street: "Weidenäckerstraße"
 housenumber: 2

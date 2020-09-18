@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 50.91600510000001
 longitude: 11.8675049
-postcode: 07639
+postcode: "07639"
 city: Bad Klosterlausnitz
 street: "Geraer Straße"
 housenumber: 3

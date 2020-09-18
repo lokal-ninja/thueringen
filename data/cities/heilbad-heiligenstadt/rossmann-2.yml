@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.379204900000005
 longitude: 10.1313355
-postcode: 37308
+postcode: "37308"
 city: Heilbad Heiligenstadt
 street: "Sperberwiese"
 housenumber: 1C

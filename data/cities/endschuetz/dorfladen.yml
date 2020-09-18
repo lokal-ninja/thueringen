@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.786643000000005
 longitude: 12.138101800000001
-postcode: 07570
+postcode: "07570"
 city: Endschütz
 street: "Endschütz"
 housenumber: 37

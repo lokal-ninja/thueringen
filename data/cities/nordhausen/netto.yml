@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.503874100000004
 longitude: 10.821268700000001
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Zu den Steinkreuzen"
 housenumber: 1

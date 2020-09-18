@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.9852008
 longitude: 12.434784500000001
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Markt"
 housenumber: 11

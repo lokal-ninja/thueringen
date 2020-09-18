@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.879825700000005
 longitude: 12.0851197
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: "Laasener Straße"
 housenumber: 5

@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 50.977398900000004
 longitude: 12.4846757
-postcode: 04603
+postcode: "04603"
 city: Nobitz
 street: "Westeck"
 housenumber: 2
-phone: "+49 3447 8966707"
+phone: ""
 opening_hours: ""
 website: ""

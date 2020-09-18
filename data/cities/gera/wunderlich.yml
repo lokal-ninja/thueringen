@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.8778378
 longitude: 12.083207100000001
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: "Sorge"
 housenumber: 18

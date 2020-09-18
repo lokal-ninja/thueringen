@@ -3,10 +3,10 @@ type: node
 shop: Reisebüro
 latitude: 50.995899400000006
 longitude: 12.4417612
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Fabrikstraße"
 housenumber: 32
-phone: "+49 3447 505888"
+phone: ""
 opening_hours: ""
-website: "https://www.reiseland.de/"
+website: ""

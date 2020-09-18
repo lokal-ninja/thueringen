@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.991936800000005
 longitude: 12.430356100000001
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Rudolf-Breitscheid-Straße"
 housenumber: 45

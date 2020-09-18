@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9835166
 longitude: 12.4184508
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Geraer Straße"
 housenumber: 41

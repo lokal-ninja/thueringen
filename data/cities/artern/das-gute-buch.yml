@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 51.3648868
 longitude: 11.293334300000001
-postcode: 06556
+postcode: "06556"
 city: Artern
 street: "Leipziger Straße"
 housenumber: 41

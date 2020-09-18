@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9857281
 longitude: 11.0335207
-postcode: 99086
+postcode: "99086"
 city: Erfurt
 street: "Stauffenbergallee"
 housenumber: 13

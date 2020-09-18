@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.384468000000005
 longitude: 10.330853300000001
-postcode: 37327
+postcode: "37327"
 city: Leinefelde-Worbis
 street: "Boschstraße"
 housenumber: 5

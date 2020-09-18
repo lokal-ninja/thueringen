@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.656900400000005
 longitude: 12.199060500000002
-postcode: 07973
+postcode: "07973"
 city: Greiz
 street: "Puschkinplatz"
 housenumber: 10-14

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1045037
 longitude: 10.952212600000001
-postcode: 99189
+postcode: "99189"
 city: Ringleben
 street: "Schenkstraße"
 housenumber: 1

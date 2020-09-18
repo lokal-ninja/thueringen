@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8810645
 longitude: 11.630090800000001
-postcode: 07747
+postcode: "07747"
 city: Jena
 street: "Erlanger Allee"
 housenumber: 102

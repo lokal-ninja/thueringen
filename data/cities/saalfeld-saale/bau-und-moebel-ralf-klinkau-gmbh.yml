@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.6563364
 longitude: 11.3212419
-postcode: 07318
+postcode: "07318"
 city: Saalfeld/Saale
 street: "Zum Silberstollen"
 housenumber: 6

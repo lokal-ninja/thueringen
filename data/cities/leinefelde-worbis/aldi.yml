@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.3839867
 longitude: 10.330128100000001
-postcode: 37327
+postcode: "37327"
 city: Leinefelde-Worbis
 street: "Birkunger Straße"
 housenumber: 27

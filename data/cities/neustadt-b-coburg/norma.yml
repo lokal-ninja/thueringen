@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.3403331
 longitude: 11.145070800000001
-postcode: 96465
+postcode: "96465"
 city: Neustadt b. Coburg
 street: "Mühlweg"
 housenumber: 1

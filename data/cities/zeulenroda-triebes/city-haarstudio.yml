@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 50.647952700000005
 longitude: 11.983883
-postcode: 07937
+postcode: "07937"
 city: Zeulenroda-Triebes
 street: "Scheunengasse"
 housenumber: 6
 phone: ""
-opening_hours: "Tu-Fr 08:00-16:00; Sa 08:00-12:00; Su,PH off"
+opening_hours: "Tu-Fr 08:00-16:00; Sa 08:00-12:00; PH,Su off"
 website: ""

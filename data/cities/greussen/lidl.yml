@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.2256696
 longitude: 10.9448152
-postcode: 99718
+postcode: "99718"
 city: Greußen
 street: "Am Rittertor"
 housenumber: 1

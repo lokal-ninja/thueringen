@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.9791576
 longitude: 10.3149131
-postcode: 99817
+postcode: "99817"
 city: Eisenach
 street: "Werneburgstraße"
 housenumber: 17

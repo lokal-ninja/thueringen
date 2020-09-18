@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.624591900000006
 longitude: 10.158575200000001
-postcode: 36452
+postcode: "36452"
 city: Kaltennordheim
 street: "Goethestraße"
 housenumber: 3

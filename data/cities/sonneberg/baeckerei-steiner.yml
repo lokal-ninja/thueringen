@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.3406752
 longitude: 11.180479700000001
-postcode: 96515
+postcode: "96515"
 city: Sonneberg
 street: "Oberlinder Marktplatz"
 housenumber: 5

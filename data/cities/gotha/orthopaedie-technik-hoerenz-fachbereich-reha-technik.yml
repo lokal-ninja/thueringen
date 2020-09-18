@@ -3,7 +3,7 @@ type: way
 shop: Sanitätshaus
 latitude: 50.9468672
 longitude: 10.6902331
-postcode: 99867
+postcode: "99867"
 city: Gotha
 street: "Humboldtstraße"
 housenumber: 18

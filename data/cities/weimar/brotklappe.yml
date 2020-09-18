@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9774425
 longitude: 11.3280895
-postcode: 99423
+postcode: "99423"
 city: Weimar
 street: "Frauenplan"
 housenumber: 8

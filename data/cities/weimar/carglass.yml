@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.993273200000004
 longitude: 11.3201332
-postcode: 99427
+postcode: "99427"
 city: Weimar
 street: "Ettersburger Straße"
 housenumber: 5

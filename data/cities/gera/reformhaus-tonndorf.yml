@@ -3,7 +3,7 @@ type: node
 shop: Bioladen
 latitude: 50.8766807
 longitude: 12.0824914
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: "Kleine Kirchstraße"
 housenumber: 4

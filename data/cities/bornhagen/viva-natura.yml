@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.339112400000005
 longitude: 9.9425095
-postcode: 37318
+postcode: "37318"
 city: Bornhagen
 street: "Hansteinstraße"
 housenumber: 7b

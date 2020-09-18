@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.657052400000005
 longitude: 12.1986659
-postcode: 07973
+postcode: "07973"
 city: Greiz
 street: "Brauhausgasse"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.874544500000006
 longitude: 11.9123386
-postcode: 07586
+postcode: "07586"
 city: Kraftsdorf
 street: "St. Gangloffer Straße"
 housenumber: 14

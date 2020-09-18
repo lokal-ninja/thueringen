@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.6675728
 longitude: 11.1207346
-postcode: 07426
+postcode: "07426"
 city: Königsee-Rottenbach
 street: "Industrie- und Gewerbepark"
 housenumber: 

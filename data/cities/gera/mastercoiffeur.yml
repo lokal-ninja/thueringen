@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.8769271
 longitude: 12.083919700000001
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: "Große Kirchstraße"
 housenumber: 2a

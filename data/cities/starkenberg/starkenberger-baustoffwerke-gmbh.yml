@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 50.980896300000005
 longitude: 12.288974000000001
-postcode: 04617
+postcode: "04617"
 city: Starkenberg
 street: "Gewerbegebiet"
 housenumber: 1

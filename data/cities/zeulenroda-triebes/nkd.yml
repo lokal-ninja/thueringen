@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.65888210000001
 longitude: 11.9951127
-postcode: 07937
+postcode: "07937"
 city: Zeulenroda-Triebes
 street: "Meinersdorfer Straße"
 housenumber: 8

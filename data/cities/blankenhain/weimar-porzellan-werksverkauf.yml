@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.8591106
 longitude: 11.334928300000001
-postcode: 99444
+postcode: "99444"
 city: Blankenhain
 street: "Christian-Speck-Straße"
 housenumber: 5

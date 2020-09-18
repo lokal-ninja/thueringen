@@ -3,7 +3,7 @@ type: node
 shop: Imkerei
 latitude: 51.3801156
 longitude: 10.0668413
-postcode: 37318
+postcode: "37318"
 city: Steinheuterode
 street: "Hessental"
 housenumber: 37

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.373676100000004
 longitude: 11.2869825
-postcode: 06556
+postcode: "06556"
 city: Artern
 street: "Kachstedter Straße"
 housenumber: 4

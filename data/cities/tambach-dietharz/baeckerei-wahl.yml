@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.789912900000004
 longitude: 10.6072009
-postcode: 99897
+postcode: "99897"
 city: Tambach-Dietharz
 street: "Schmalkalder Straße"
 housenumber: 19

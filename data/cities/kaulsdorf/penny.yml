@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.6171981
 longitude: 11.4296466
-postcode: 07338
+postcode: "07338"
 city: Kaulsdorf
 street: "Könitzer Straße"
 housenumber: 1a

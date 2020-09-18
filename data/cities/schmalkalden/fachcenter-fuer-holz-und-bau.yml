@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.7197745
 longitude: 10.436369000000001
-postcode: 98574
+postcode: "98574"
 city: Schmalkalden
 street: "Auer Weg"
 housenumber: 10

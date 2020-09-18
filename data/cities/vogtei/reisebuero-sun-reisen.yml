@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 51.153369500000004
 longitude: 10.4209049
-postcode: 99986
+postcode: "99986"
 city: Vogtei
 street: "Oberdorlaer Straße"
 housenumber: 5

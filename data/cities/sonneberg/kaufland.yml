@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.3653726
 longitude: 11.1399226
-postcode: 96515
+postcode: "96515"
 city: Sonneberg
 street: "Bettelhecker Straße"
 housenumber: 157

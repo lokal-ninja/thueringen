@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.6929013
 longitude: 10.9009146
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "Erfurter Straße"
 housenumber: 65

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.455699200000005
 longitude: 11.6329215
-postcode: 07356
+postcode: "07356"
 city: Bad Lobenstein
 street: "Am Alten Hügel"
 housenumber: 5a

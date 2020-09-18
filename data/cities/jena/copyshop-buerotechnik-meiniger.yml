@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 50.9295758
 longitude: 11.5820062
-postcode: 07743
+postcode: "07743"
 city: Jena
 street: "Bachstraße"
 housenumber: 3

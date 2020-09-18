@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.1655816
 longitude: 10.418359500000001
-postcode: 99986
+postcode: "99986"
 city: Vogtei
 street: "Am Anger"
 housenumber: 11

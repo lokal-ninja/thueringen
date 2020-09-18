@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 50.7194555
 longitude: 11.3406447
-postcode: 07407
+postcode: "07407"
 city: Rudolstadt
 street: "Saalgasse"
 housenumber: 7

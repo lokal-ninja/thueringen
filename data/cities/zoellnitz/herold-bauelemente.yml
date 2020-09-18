@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 50.873629
 longitude: 11.6428609
-postcode: 07751
+postcode: "07751"
 city: Zöllnitz
 street: "Rodatalstraße"
 housenumber: 35

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.750528
 longitude: 12.160030500000001
-postcode: 07980
+postcode: "07980"
 city: Berga/Elster
 street: "Bahnhofstraße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.5151709
 longitude: 10.7678127
-postcode: 98553
+postcode: "98553"
 city: Schleusingen
 street: "Ilmenauer Straße"
 housenumber: 36

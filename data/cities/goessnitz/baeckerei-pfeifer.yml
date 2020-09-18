@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8887626
 longitude: 12.4299856
-postcode: 04639
+postcode: "04639"
 city: Gößnitz
 street: "Bahnhofstraße"
 housenumber: 4

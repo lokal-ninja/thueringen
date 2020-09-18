@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9804964
 longitude: 11.898458600000001
-postcode: 07607
+postcode: "07607"
 city: Eisenberg
 street: "Obere Donitzschkau"
 housenumber: 2

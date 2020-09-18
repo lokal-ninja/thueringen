@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 51.37068360000001
 longitude: 10.872009700000001
-postcode: 99706
+postcode: "99706"
 city: Sondershausen
 street: "Hauptstraße"
 housenumber: 24

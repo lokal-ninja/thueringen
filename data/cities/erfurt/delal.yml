@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.973550100000004
 longitude: 11.029959600000002
-postcode: 99084
+postcode: "99084"
 city: Erfurt
 street: "Neuwerkstraße"
 housenumber: 8

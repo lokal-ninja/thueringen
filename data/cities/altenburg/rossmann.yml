@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.9855511
 longitude: 12.434271800000001
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Markt"
 housenumber: 17

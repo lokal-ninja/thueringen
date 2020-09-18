@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8690884
 longitude: 12.068151400000001
-postcode: 07548
+postcode: "07548"
 city: Gera
 street: "Straße des Friedens"
 housenumber: 42

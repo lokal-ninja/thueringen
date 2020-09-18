@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 50.871725000000005
 longitude: 11.6344273
-postcode: 07751
+postcode: "07751"
 city: Zöllnitz
 street: "Zöllnitzer Straße"
 housenumber: 2

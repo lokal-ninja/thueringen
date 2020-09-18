@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.162235200000005
 longitude: 11.120084100000001
-postcode: 99610
+postcode: "99610"
 city: Sömmerda
 street: "Marktstraße"
 housenumber: 16

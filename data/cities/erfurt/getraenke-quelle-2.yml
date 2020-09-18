@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.9954012
 longitude: 10.9875571
-postcode: 99092
+postcode: "99092"
 city: Erfurt
 street: "Bergener Straße"
 housenumber: 18

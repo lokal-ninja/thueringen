@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.6344531
 longitude: 11.9530075
-postcode: 07937
+postcode: "07937"
 city: Langenwolschendorf
 street: "Hauptstraße"
 housenumber: 89

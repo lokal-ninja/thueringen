@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 50.943839100000005
 longitude: 11.7661607
-postcode: 07616
+postcode: "07616"
 city: Bürgel
 street: "In den Satteln"
 housenumber: 4
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 06:00-22:00; Sa 06:00-20:00; Su,PH off"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.3991721
 longitude: 11.6949138
-postcode: 07366
+postcode: "07366"
 city: Rosenthal am Rennsteig
 street: "Absangerstraße"
 housenumber: 9

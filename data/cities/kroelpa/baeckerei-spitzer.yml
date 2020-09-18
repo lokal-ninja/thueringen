@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.679865500000005
 longitude: 11.5374558
-postcode: 07387
+postcode: "07387"
 city: Krölpa
 street: "Trannrodaer Straße"
 housenumber: 11

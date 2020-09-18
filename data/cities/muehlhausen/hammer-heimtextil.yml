@@ -3,7 +3,7 @@ type: way
 shop: Haushaltsartikel
 latitude: 51.1859715
 longitude: 10.498197900000001
-postcode: 99998
+postcode: "99998"
 city: Mühlhausen
 street: "Im Felde"
 housenumber: 1

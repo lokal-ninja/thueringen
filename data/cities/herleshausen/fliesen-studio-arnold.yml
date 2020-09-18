@@ -3,7 +3,7 @@ type: node
 shop: Fliesen
 latitude: 51.00598900000001
 longitude: 10.177800000000001
-postcode: 37293
+postcode: "37293"
 city: Herleshausen
 street: "Auf der Klingen"
 housenumber: 2

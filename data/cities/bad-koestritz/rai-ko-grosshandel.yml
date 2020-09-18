@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.9295387
 longitude: 12.0198807
-postcode: 07586
+postcode: "07586"
 city: Bad Köstritz
 street: "Elsteraue"
 housenumber: 2

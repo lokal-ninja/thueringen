@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.874155200000004
 longitude: 11.6435952
-postcode: 07751
+postcode: "07751"
 city: Zöllnitz
 street: "Stadtrodaer Landstraße"
 housenumber: 4

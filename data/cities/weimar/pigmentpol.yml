@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 50.972478
 longitude: 11.3442849
-postcode: 99425
+postcode: "99425"
 city: Weimar
 street: "Bodelschwinghstraße"
 housenumber: 80

@@ -3,7 +3,7 @@ type: way
 shop: Sanitätshaus
 latitude: 50.657423900000005
 longitude: 12.199047400000001
-postcode: 07973
+postcode: "07973"
 city: Greiz
 street: "Von-Westernhagen-Platz"
 housenumber: 1

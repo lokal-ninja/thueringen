@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.9225593
 longitude: 12.0625309
-postcode: 07552
+postcode: "07552"
 city: Gera
 street: "Zeitzer Straße"
 housenumber: 86

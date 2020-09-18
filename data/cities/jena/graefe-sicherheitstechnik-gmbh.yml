@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 50.9252222
 longitude: 11.5755517
-postcode: 07745
+postcode: "07745"
 city: Jena
 street: "Fritz-Reuter-Straße"
 housenumber: 9a

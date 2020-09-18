@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.151201300000004
 longitude: 10.4188165
-postcode: 99986
+postcode: "99986"
 city: Vogtei
 street: "Bornsgasse"
 housenumber: 32

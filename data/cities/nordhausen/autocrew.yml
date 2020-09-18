@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.495639100000005
 longitude: 10.7844283
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Oskar-Cohn-Straße"
 housenumber: 35

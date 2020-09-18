@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.6241372
 longitude: 10.164062900000001
-postcode: 36452
+postcode: "36452"
 city: Kaltennordheim
 street: "Andreas-Fack-Straße"
 housenumber: 26

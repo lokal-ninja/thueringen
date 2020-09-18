@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 51.324357000000006
 longitude: 11.371870000000001
-postcode: 06571
+postcode: "06571"
 city: Roßleben-Wiehe
 street: "Ernst-Thälmann-Straße"
 housenumber: 3

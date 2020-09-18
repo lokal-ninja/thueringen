@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.9655191
 longitude: 10.569642100000001
-postcode: 99880
+postcode: "99880"
 city: Hörsel
 street: "Gutsallee"
 housenumber: 4

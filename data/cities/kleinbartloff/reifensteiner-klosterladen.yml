@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 51.349066300000004
 longitude: 10.3619442
-postcode: 37355
+postcode: "37355"
 city: Kleinbartloff
 street: "Kleinbartloffer Straße"
 housenumber: 2

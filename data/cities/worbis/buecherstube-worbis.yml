@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.421207
 longitude: 10.3609901
-postcode: 37339
+postcode: "37339"
 city: Worbis
 street: "Lange Straße"
 housenumber: 73

@@ -3,10 +3,10 @@ type: node
 shop: Großhandel
 latitude: 50.814983600000005
 longitude: 10.1840942
-postcode: 36433
+postcode: "36433"
 city: Leimbach
 street: "Hermannsrodaer Straße"
 housenumber: 10
 phone: "+49 3695 69600"
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-12:00"
 website: ""

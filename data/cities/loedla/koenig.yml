@@ -3,7 +3,7 @@ type: way
 shop: Badezimmer
 latitude: 50.998820200000004
 longitude: 12.401323600000001
-postcode: 04617
+postcode: "04617"
 city: Lödla
 street: "Lödlaer Chaussee"
 housenumber: 10

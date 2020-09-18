@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.9873168
 longitude: 11.3327027
-postcode: 99423
+postcode: "99423"
 city: Weimar
 street: "Eduard-Rosenthal-Straße"
 housenumber: 22a

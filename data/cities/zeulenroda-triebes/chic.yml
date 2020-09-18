@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.6885543
 longitude: 12.023116400000001
-postcode: 07950
+postcode: "07950"
 city: Zeulenroda-Triebes
 street: "Triebesgrund"
 housenumber: 2

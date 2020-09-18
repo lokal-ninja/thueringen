@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.3686638
 longitude: 10.8562119
-postcode: 99706
+postcode: "99706"
 city: Sondershausen
 street: "Schleifhüttenweg"
 housenumber: 1

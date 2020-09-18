@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.8662094
 longitude: 12.1776365
-postcode: 07580
+postcode: "07580"
 city: Ronneburg
 street: "Am Kühlen Grund"
 housenumber: 3

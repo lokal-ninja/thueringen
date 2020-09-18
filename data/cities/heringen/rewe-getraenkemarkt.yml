@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.8931923
 longitude: 10.0214469
-postcode: 36266
+postcode: "36266"
 city: Heringen
 street: "Im Quellengrund"
 housenumber: 3

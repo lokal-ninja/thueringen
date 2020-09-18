@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.9774
 longitude: 10.339291900000001
-postcode: 99817
+postcode: "99817"
 city: Eisenach
 street: "Langensalzaer Straße"
 housenumber: 30

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.4618194
 longitude: 11.6295205
-postcode: 07356
+postcode: "07356"
 city: Bad Lobenstein
 street: "Am Alten Hügel"
 housenumber: 12

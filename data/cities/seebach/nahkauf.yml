@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9122229
 longitude: 10.427025200000001
-postcode: 99846
+postcode: "99846"
 city: Seebach
 street: "Am Rötelstein"
 housenumber: 3

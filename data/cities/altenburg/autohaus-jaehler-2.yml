@@ -3,10 +3,10 @@ type: node
 shop: Autowerkstatt
 latitude: 50.9993465
 longitude: 12.409179100000001
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Zeitzer Straße"
 housenumber: 141
-phone: "+49 3447 891400"
-opening_hours: "Mo-Fr 07:30-18:00 / Sa 08:00-12:00"
-website: "http://wp.jähler.de/"
+phone: ""
+opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-12:00; Su,PH off"
+website: ""

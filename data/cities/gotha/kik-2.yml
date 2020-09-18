@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.9411763
 longitude: 10.7314953
-postcode: 99867
+postcode: "99867"
 city: Gotha
 street: "Salzgitterstraße"
 housenumber: 38

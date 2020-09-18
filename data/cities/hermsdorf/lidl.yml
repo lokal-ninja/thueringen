@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 50.9062251
 longitude: 11.858345700000001
-postcode: 07629
+postcode: "07629"
 city: Hermsdorf
 street: "Eisenberger Straße"
 housenumber: 120
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

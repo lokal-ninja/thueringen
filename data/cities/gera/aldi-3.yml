@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8869066
 longitude: 12.0895369
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: "Dornaer Straße"
 housenumber: 4

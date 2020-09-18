@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.657525
 longitude: 11.9970098
-postcode: 07937
+postcode: "07937"
 city: Zeulenroda-Triebes
 street: "Schopperstraße"
 housenumber: 68

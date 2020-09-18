@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 50.7193978
 longitude: 11.337268100000001
-postcode: 07407
+postcode: "07407"
 city: Rudolstadt
 street: "Angerstraße"
 housenumber: 9

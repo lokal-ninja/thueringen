@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.6848697
 longitude: 10.9129623
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "Langgasse"
 housenumber: 1

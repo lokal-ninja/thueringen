@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 50.988435200000005
 longitude: 12.4474721
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Albert-Einstein-Straße"
 housenumber: 15

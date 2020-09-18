@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.207186500000006
 longitude: 10.4611367
-postcode: 99974
+postcode: "99974"
 city: Mühlhausen
 street: "Erfurter Straße"
 housenumber: 1

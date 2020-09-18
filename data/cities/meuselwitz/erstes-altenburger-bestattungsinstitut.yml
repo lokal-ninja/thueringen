@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.043498400000004
 longitude: 12.298522700000001
-postcode: 04610
+postcode: "04610"
 city: Meuselwitz
 street: "Friedrich-Naumann-Straße"
 housenumber: 7

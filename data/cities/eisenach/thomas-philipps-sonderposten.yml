@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.9989654
 longitude: 10.3556518
-postcode: 99817
+postcode: "99817"
 city: Eisenach
 street: "Neue Wiese"
 housenumber: 1

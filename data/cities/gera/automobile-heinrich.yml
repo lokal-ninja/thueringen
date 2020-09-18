@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.855468
 longitude: 12.0719905
-postcode: 07548
+postcode: "07548"
 city: Gera
 street: "Wiesestraße"
 housenumber: 192

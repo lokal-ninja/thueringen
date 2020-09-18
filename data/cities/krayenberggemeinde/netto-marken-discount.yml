@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8382902
 longitude: 10.0798407
-postcode: 36460
+postcode: "36460"
 city: Krayenberggemeinde
 street: "Vachaer Straße"
 housenumber: 13

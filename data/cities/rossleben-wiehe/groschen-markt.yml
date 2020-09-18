@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.298302400000004
 longitude: 11.436126100000001
-postcode: 06571
+postcode: "06571"
 city: Roßleben-Wiehe
 street: "Feldstraße"
 housenumber: 2a

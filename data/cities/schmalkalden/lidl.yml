@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 50.717417100000006
 longitude: 10.4674248
-postcode: 98574
+postcode: "98574"
 city: Schmalkalden
 street: "Näherstiller Straße"
 housenumber: 41
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

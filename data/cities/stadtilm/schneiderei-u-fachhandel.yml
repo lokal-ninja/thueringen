@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 50.7736851
 longitude: 11.083064400000001
-postcode: 99326
+postcode: "99326"
 city: Stadtilm
 street: "Markt"
 housenumber: 32

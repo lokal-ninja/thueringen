@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 50.8851251
 longitude: 11.609251100000002
-postcode: 07747
+postcode: "07747"
 city: Jena
 street: "Karl-Marx-Allee"
 housenumber: 26
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-19:00"
 website: ""

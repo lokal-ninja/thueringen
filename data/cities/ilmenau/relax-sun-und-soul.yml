@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.6770925
 longitude: 10.929613100000001
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "Oehrenstöcker Landstraße"
 housenumber: 76

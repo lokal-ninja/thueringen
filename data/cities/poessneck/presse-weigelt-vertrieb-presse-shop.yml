@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 50.693564900000005
 longitude: 11.5889258
-postcode: 07381
+postcode: "07381"
 city: Pößneck
 street: "Saalfelder Straße"
 housenumber: 21

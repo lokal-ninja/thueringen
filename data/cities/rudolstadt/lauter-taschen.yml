@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 50.72018490000001
 longitude: 11.3381918
-postcode: 07407
+postcode: "07407"
 city: Rudolstadt
 street: "Marktstraße"
 housenumber: 52

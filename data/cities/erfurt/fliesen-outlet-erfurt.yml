@@ -3,7 +3,7 @@ type: node
 shop: Fliesen
 latitude: 50.988841400000005
 longitude: 10.9349205
-postcode: 99090
+postcode: "99090"
 city: Erfurt
 street: "Salomonsborner Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9218866
 longitude: 12.155304000000001
-postcode: 07554
+postcode: "07554"
 city: Brahmenau
 street: "Am Schulberg"
 housenumber: 5

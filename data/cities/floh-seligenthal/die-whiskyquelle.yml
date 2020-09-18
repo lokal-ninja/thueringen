@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.745595
 longitude: 10.510385000000001
-postcode: 98593
+postcode: "98593"
 city: Floh-Seligenthal
 street: "Hirtenwiese"
 housenumber: 34a

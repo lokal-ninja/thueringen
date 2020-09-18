@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.6819396
 longitude: 12.017198
-postcode: 07950
+postcode: "07950"
 city: Zeulenroda-Triebes
 street: "Zeulenrodaer Straße"
 housenumber: 12

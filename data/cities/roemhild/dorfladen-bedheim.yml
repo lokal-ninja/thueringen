@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.387675
 longitude: 10.653618300000002
-postcode: 98630
+postcode: "98630"
 city: Römhild
 street: "Hauptstraße"
 housenumber: 15

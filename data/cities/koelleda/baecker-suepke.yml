@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1852261
 longitude: 11.2404205
-postcode: 99625
+postcode: "99625"
 city: Kölleda
 street: "Johannistor"
 housenumber: 2

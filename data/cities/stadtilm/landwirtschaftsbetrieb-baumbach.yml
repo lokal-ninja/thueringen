@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.7720476
 longitude: 11.0713795
-postcode: 99326
+postcode: "99326"
 city: Stadtilm
 street: "Schwarzburger Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.7198057
 longitude: 11.3427092
-postcode: 07407
+postcode: "07407"
 city: Rudolstadt
 street: "Freiligrathstraße"
 housenumber: 3-5

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.6515295
 longitude: 11.9776225
-postcode: 07937
+postcode: "07937"
 city: Zeulenroda-Triebes
 street: "Aumaische Straße"
 housenumber: 27-29

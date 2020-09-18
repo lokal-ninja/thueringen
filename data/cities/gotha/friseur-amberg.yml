@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.945319700000006
 longitude: 10.685368500000001
-postcode: 99867
+postcode: "99867"
 city: Gotha
 street: "Coburger Platz"
 housenumber: 2

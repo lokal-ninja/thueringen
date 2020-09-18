@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.801392
 longitude: 10.2968528
-postcode: 36456
+postcode: "36456"
 city: Barchfeld-Immelborn
 street: "Nürnberger Straße"
 housenumber: 65

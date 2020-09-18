@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.164455700000005
 longitude: 10.9899584
-postcode: 99634
+postcode: "99634"
 city: Straußfurt
 street: "Fabrikstraße"
 housenumber: 11

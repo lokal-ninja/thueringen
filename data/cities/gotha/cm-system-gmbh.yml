@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.9541824
 longitude: 10.7157081
-postcode: 99867
+postcode: "99867"
 city: Gotha
 street: "Friemarer Straße"
 housenumber: 38

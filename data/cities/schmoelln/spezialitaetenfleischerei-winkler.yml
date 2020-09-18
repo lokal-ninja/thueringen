@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.894462600000004
 longitude: 12.351295200000001
-postcode: 04626
+postcode: "04626"
 city: Schmölln
 street: "Markt"
 housenumber: 16

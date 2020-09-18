@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.186861300000004
 longitude: 10.497529700000001
-postcode: 99998
+postcode: "99998"
 city: Mühlhausen
 street: "Thomas-Müntzer-Weg"
 housenumber: 10

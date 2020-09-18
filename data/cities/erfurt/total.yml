@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.972405900000005
 longitude: 10.972691600000001
-postcode: 99092
+postcode: "99092"
 city: Erfurt
 street: "Binderslebener Landstraße"
 housenumber: 98

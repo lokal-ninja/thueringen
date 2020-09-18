@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.997984100000004
 longitude: 12.440363300000001
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Gerhart-Hauptmann-Straße"
 housenumber: 8A

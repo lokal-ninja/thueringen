@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.985919700000004
 longitude: 11.0391559
-postcode: 99085
+postcode: "99085"
 city: Erfurt
 street: "Schlachthofstraße"
 housenumber: 81

@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 51.4987244
 longitude: 10.4452064
-postcode: 37345
+postcode: "37345"
 city: Am Ohmberg
 street: "Winkel"
 housenumber: 5

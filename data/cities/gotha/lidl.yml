@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.9594311
 longitude: 10.717294
-postcode: 99867
+postcode: "99867"
 city: Gotha
 street: "Damaschkestraße"
 housenumber: 33

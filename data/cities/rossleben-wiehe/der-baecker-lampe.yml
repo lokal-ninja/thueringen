@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.3006496
 longitude: 11.434661400000001
-postcode: 06571
+postcode: "06571"
 city: Roßleben-Wiehe
 street: "Ziegelrodaer Straße"
 housenumber: 72a

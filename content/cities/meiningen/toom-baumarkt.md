@@ -1,4 +1,4 @@
 ---
-title: "toom Baumarkt"
+title: "Toom Baumarkt"
 url: /meiningen/toom-baumarkt/
 ---

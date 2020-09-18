@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.3769943
 longitude: 10.3216797
-postcode: 37327
+postcode: "37327"
 city: Leinefelde-Worbis
 street: "Bonifatiusplatz"
 housenumber: 4

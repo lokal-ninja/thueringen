@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.9576756
 longitude: 10.7251294
-postcode: 99867
+postcode: "99867"
 city: Gotha
 street: "Gleichenstraße"
 housenumber: 43

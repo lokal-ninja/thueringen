@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.2985739
 longitude: 11.432377
-postcode: 06571
+postcode: "06571"
 city: Roßleben-Wiehe
 street: "Ziegelrodaer Straße"
 housenumber: 1

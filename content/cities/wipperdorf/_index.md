@@ -1,6 +1,6 @@
 ---
 title: Wipperdorf
 url: /wipperdorf/
-latitude: 51.4546949
-longitude: 10.6490413
+latitude: 51.453783300000005
+longitude: 10.6539148
 ---

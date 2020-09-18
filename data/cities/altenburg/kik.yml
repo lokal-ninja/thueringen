@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.9812206
 longitude: 12.4173418
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Geraer Straße"
 housenumber: 72-76

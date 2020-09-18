@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.1828055
 longitude: 10.4998599
-postcode: 99998
+postcode: "99998"
 city: Mühlhausen
 street: "Landstraße"
 housenumber: 1

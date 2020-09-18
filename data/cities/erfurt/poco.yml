@@ -3,10 +3,10 @@ type: way
 shop: Möbel
 latitude: 50.974731000000006
 longitude: 10.955171400000001
-postcode: 99092
+postcode: "99092"
 city: Erfurt
 street: "Am Rosenberg"
 housenumber: 3
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su,PH off"
 website: ""

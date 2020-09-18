@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.6081267
 longitude: 10.1602843
-postcode: 36452
+postcode: "36452"
 city: Kaltennordheim
 street: "Bergstraße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.6856506
 longitude: 10.9146193
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "Karl-Zink-Straße"
 housenumber: 1

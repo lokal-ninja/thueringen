@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.4269918
 longitude: 10.7124512
-postcode: 98646
+postcode: "98646"
 city: Hildburghausen
 street: "Häselriether Straße"
 housenumber: 9

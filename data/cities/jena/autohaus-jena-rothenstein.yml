@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.9059041
 longitude: 11.5908715
-postcode: 07749
+postcode: "07749"
 city: Jena
 street: "Unterdorfstraße"
 housenumber: 25

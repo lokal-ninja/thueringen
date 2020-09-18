@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 50.6596643
 longitude: 11.99402
-postcode: 07937
+postcode: "07937"
 city: Zeulenroda-Triebes
 street: "Meinersdorfer Straße"
 housenumber: 5

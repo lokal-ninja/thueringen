@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8146082
 longitude: 10.2271398
-postcode: 36433
+postcode: "36433"
 city: Bad Salzungen
 street: "Bahnhofstraße"
 housenumber: 10

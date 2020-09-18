@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.922876900000006
 longitude: 11.8824661
-postcode: 07639
+postcode: "07639"
 city: Weißenborn
 street: "Platz des 3. Oktober"
 housenumber: 4

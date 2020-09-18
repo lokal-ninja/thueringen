@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.644283
 longitude: 11.349911200000001
-postcode: 07318
+postcode: "07318"
 city: Saalfeld/Saale
 street: "Melanchthonstraße"
 housenumber: 34

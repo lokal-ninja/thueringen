@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.9768288
 longitude: 11.0311847
-postcode: 99084
+postcode: "99084"
 city: Erfurt
 street: "Junkersand"
 housenumber: 4

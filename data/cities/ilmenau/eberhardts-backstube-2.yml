@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.62317710000001
 longitude: 10.998352500000001
-postcode: 98694
+postcode: "98694"
 city: Ilmenau
 street: "Porzelstraße"
 housenumber: 9 A

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.906808000000005
 longitude: 12.0699964
-postcode: 07552
+postcode: "07552"
 city: Gera
 street: "Carl-L.-Hirsch-Straße"
 housenumber: 7

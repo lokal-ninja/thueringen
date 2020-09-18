@@ -1,12 +1,12 @@
-id: 185079778
-type: way
+id: 7640913174
+type: node
 shop: Drogerie
-latitude: 51.370732100000005
-longitude: 10.871712
-postcode: 99706
+latitude: 51.3699694
+longitude: 10.8695716
+postcode: "99706"
 city: Sondershausen
-street: "Hauptstraße"
-housenumber: 27
+street: "Lange Straße"
+housenumber: 1a
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00; Su off; PH off"
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su off; PH off"
 website: ""

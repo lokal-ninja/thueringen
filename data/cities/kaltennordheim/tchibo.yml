@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 50.631038600000004
 longitude: 10.1578849
-postcode: 36452
+postcode: "36452"
 city: Kaltennordheim
 street: "Feldabahnstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.164683700000005
 longitude: 10.3211071
-postcode: 99988
+postcode: "99988"
 city: Südeichsfeld
 street: "Hauptstraße"
 housenumber: 16

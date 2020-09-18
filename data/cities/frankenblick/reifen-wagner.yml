@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.3860351
 longitude: 11.1220943
-postcode: 96528
+postcode: "96528"
 city: Frankenblick
 street: "Industriestraße"
 housenumber: 12

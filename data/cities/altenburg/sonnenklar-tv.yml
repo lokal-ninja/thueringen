@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.9813418
 longitude: 12.417944100000001
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Geraer Straße"
 housenumber: 72-76

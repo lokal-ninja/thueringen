@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.26127150000001
 longitude: 11.422196900000001
-postcode: 06571
+postcode: "06571"
 city: Roßleben-Wiehe
 street: "Allerstedter Straße"
 housenumber: 4

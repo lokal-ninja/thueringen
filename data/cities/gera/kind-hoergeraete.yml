@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 50.8692706
 longitude: 12.0727326
-postcode: 07548
+postcode: "07548"
 city: Gera
 street: "Wiesestraße"
 housenumber: 3

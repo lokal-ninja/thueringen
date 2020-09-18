@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.087840400000005
 longitude: 12.323528900000001
-postcode: 04613
+postcode: "04613"
 city: Lucka
 street: "Breitenhainer Weg"
 housenumber: 10

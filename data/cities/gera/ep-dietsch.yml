@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.8729062
 longitude: 12.0759837
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: "Heinrichstraße"
 housenumber: 76

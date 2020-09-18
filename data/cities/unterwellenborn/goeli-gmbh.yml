@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 50.637498
 longitude: 11.4732059
-postcode: 07333
+postcode: "07333"
 city: Unterwellenborn
 street: "Kamsdorfer Straße"
 housenumber: 8

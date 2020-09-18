@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.9687543
 longitude: 11.324376
-postcode: 99425
+postcode: "99425"
 city: Weimar
 street: "Zum Wilden Graben"
 housenumber: 1

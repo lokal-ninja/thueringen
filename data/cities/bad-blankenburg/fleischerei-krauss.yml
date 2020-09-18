@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.6847258
 longitude: 11.262485400000001
-postcode: 07422
+postcode: "07422"
 city: Bad Blankenburg
 street: "Obere Marktstraße"
 housenumber: 11

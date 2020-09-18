@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.0785915
 longitude: 10.8629979
-postcode: 99100
+postcode: "99100"
 city: Dachwig
 street: "Lange Straße"
 housenumber: 60

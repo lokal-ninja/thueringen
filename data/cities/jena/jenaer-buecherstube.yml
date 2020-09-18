@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.9294754
 longitude: 11.5838221
-postcode: 07743
+postcode: "07743"
 city: Jena
 street: "Johannisplatz"
 housenumber: 28

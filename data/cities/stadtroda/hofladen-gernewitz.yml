@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.8672193
 longitude: 11.6945242
-postcode: 07646
+postcode: "07646"
 city: Stadtroda
 street: "Rausdorfer Straße"
 housenumber: 10

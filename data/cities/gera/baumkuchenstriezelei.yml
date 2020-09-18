@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.919437800000004
 longitude: 12.043993100000002
-postcode: 07552
+postcode: "07552"
 city: Gera
 street: "Adolf-Rolle-Platz"
 housenumber: 1

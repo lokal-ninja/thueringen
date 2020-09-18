@@ -3,7 +3,7 @@ type: node
 shop: Kamine & Öfen
 latitude: 50.9863343
 longitude: 10.9307429
-postcode: 99090
+postcode: "99090"
 city: Erfurt
 street: "Steinweg"
 housenumber: 7

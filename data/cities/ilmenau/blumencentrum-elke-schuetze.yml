@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.6725524
 longitude: 10.972804400000001
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "Hauptstraße"
 housenumber: 43

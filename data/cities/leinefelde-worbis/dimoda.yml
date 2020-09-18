@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 51.420974900000004
 longitude: 10.36121
-postcode: 37339
+postcode: "37339"
 city: Leinefelde-Worbis
 street: "Lange Straße"
 housenumber: 75

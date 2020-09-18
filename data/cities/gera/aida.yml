@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.8655909
 longitude: 12.072637
-postcode: 07548
+postcode: "07548"
 city: Gera
 street: "Wiesestraße"
 housenumber: 68

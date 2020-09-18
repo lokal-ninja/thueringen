@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.504297900000005
 longitude: 10.792564500000001
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Barfüßerstraße"
 housenumber: 3

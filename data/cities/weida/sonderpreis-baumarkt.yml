@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.779417200000005
 longitude: 12.039626100000001
-postcode: 07570
+postcode: "07570"
 city: Weida
 street: "Am Schafberge"
 housenumber: 1

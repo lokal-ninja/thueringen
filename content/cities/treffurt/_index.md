@@ -1,6 +1,6 @@
 ---
 title: Treffurt
 url: /treffurt/
-latitude: 51.1376968
-longitude: 10.234810900000001
+latitude: 51.1409396
+longitude: 10.2271763
 ---

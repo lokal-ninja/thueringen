@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.9594949
 longitude: 11.4792305
-postcode: 99441
+postcode: "99441"
 city: Großschwabhausen
 street: "Weimarer Straße"
 housenumber: 15

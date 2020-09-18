@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.5770709
 longitude: 11.8088095
-postcode: 07907
+postcode: "07907"
 city: Schleiz
 street: "Neumarkt"
 housenumber: 14

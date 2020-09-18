@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9944247
 longitude: 10.309233
-postcode: 99817
+postcode: "99817"
 city: Eisenach
 street: "Am Gebräun"
 housenumber: 1

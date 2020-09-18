@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9319922
 longitude: 11.604255100000001
-postcode: 07749
+postcode: "07749"
 city: Jena
 street: "Kunitzer Straße"
 housenumber: 1

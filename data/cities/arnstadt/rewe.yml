@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.835132
 longitude: 10.9340848
-postcode: 99310
+postcode: "99310"
 city: Arnstadt
 street: "Goethestraße"
 housenumber: 28

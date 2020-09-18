@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.735734400000005
 longitude: 11.7552743
-postcode: 07806
+postcode: "07806"
 city: Neustadt an der Orla
 street: "Ernst-Thälmann-Straße"
 housenumber: 2

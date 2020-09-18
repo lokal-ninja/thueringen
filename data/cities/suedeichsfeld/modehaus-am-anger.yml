@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 51.1639549
 longitude: 10.3202817
-postcode: 99988
+postcode: "99988"
 city: Südeichsfeld
 street: "Hauptstraße"
 housenumber: 6

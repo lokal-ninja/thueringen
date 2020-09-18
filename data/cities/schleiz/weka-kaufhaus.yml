@@ -3,7 +3,7 @@ type: node
 shop: Einkaufszentrum
 latitude: 50.577733200000004
 longitude: 11.8094047
-postcode: 07907
+postcode: "07907"
 city: Schleiz
 street: "Teichstraße"
 housenumber: 1

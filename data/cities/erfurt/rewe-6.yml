@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.959096100000004
 longitude: 11.0615775
-postcode: 99099
+postcode: "99099"
 city: Erfurt
 street: "Scharnhorststraße"
 housenumber: 62-64

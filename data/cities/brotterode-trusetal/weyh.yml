@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.778163500000005
 longitude: 10.397761800000001
-postcode: 98596
+postcode: "98596"
 city: Brotterode-Trusetal
 street: "Karl-Liebknecht-Straße"
 housenumber: 17

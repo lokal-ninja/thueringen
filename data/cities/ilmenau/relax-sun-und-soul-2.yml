@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.683881400000004
 longitude: 10.912999800000001
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "Lindenstraße"
 housenumber: 1

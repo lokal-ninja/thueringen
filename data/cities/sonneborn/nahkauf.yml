@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9962596
 longitude: 10.587517
-postcode: 99869
+postcode: "99869"
 city: Sonneborn
 street: "Eberstädter Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.952213
 longitude: 12.199358
-postcode: 07554
+postcode: "07554"
 city: Pölzig
 street: "Hauptstraße"
 housenumber: 25a

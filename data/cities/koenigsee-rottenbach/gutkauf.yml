@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.6602064
 longitude: 11.098991100000001
-postcode: 07426
+postcode: "07426"
 city: Königsee-Rottenbach
 street: "Schwarzburger Straße"
 housenumber: 23

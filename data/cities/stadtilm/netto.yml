@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 50.777934900000005
 longitude: 11.0882141
-postcode: 99326
+postcode: "99326"
 city: Stadtilm
 street: "Weimarische Straße"
 housenumber: 56a
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00"
 website: ""

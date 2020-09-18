@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 50.872700900000005
 longitude: 12.078613200000001
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: "Talstraße"
 housenumber: 13

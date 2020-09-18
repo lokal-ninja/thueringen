@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 50.9765859
 longitude: 11.1302803
-postcode: 99098
+postcode: "99098"
 city: Erfurt
 street: "In der Hochstedter Ecke"
 housenumber: 4

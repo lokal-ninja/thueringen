@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 50.8517808
 longitude: 11.2011494
-postcode: 99448
+postcode: "99448"
 city: Kranichfeld
 street: "Georgstraße"
 housenumber: 7

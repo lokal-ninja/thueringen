@@ -1,12 +1,12 @@
-id: 2776758016
+id: 1722158147
 type: node
 shop: Bäckerei
-latitude: 50.9779993
-longitude: 11.024689700000001
-postcode: 99084
+latitude: 50.977953400000004
+longitude: 11.028304700000001
+postcode: "99084"
 city: Erfurt
-street: "Domplatz"
-housenumber: 4
+street: "Fischmarkt"
+housenumber: 10
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 07:00-17:00; Su 07:30-17:00"
+opening_hours: ""
 website: ""

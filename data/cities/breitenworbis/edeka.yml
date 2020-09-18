@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.410656
 longitude: 10.4243775
-postcode: 37339
+postcode: "37339"
 city: Breitenworbis
 street: "Weststraße"
 housenumber: 1

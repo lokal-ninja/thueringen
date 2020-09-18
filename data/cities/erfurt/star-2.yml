@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.0061869
 longitude: 10.995254300000001
-postcode: 99091
+postcode: "99091"
 city: Erfurt
 street: "Dubliner Straße"
 housenumber: 3

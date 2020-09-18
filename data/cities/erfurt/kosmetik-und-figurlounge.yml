@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.954261
 longitude: 10.9722705
-postcode: 99094
+postcode: "99094"
 city: Erfurt
 street: "Breite Straße"
 housenumber: 2

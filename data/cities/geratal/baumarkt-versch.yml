@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.717261400000005
 longitude: 10.841270900000001
-postcode: 99331
+postcode: "99331"
 city: Geratal
 street: "Ohrdrufer Straße"
 housenumber: 20

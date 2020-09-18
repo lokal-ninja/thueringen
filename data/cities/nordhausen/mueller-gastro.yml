@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 51.5084303
 longitude: 10.7717966
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Straße der Genossenschaften"
 housenumber: 170

@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.5923492
 longitude: 10.3576919
-postcode: 98639
+postcode: "98639"
 city: Rippershausen
 street: "Melkerser Hauptstraße"
 housenumber: 19

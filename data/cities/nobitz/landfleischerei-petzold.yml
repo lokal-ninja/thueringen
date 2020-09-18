@@ -3,10 +3,10 @@ type: node
 shop: Metzgerei
 latitude: 50.8997552
 longitude: 12.4168543
-postcode: 04603
+postcode: "04603"
 city: Nobitz
 street: "Bornshain"
 housenumber: 55
-phone: "+49 34493 22751"
-opening_hours: ""
+phone: ""
+opening_hours: "Mo,We 08:00-13:00; Tu,Th,Fr 08:00-18:00; Sa,Su,PH off"
 website: ""

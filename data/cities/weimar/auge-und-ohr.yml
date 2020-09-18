@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.978261
 longitude: 11.326716900000001
-postcode: 99423
+postcode: "99423"
 city: Weimar
 street: "Schützengasse"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 50.5069632
 longitude: 11.1323916
-postcode: 98724
+postcode: "98724"
 city: Neuhaus am Rennweg
 street: "Am Rennweg"
 housenumber: 2

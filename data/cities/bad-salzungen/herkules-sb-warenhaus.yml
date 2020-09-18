@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 50.8112514
 longitude: 10.2101165
-postcode: 36433
+postcode: "36433"
 city: Bad Salzungen
 street: "Leimbacher Straße"
 housenumber: 97

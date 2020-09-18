@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 50.7208157
 longitude: 10.4496447
-postcode: 98574
+postcode: "98574"
 city: Schmalkalden
 street: "Auer Gasse"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.9815996
 longitude: 11.0250094
-postcode: 99084
+postcode: "99084"
 city: Erfurt
 street: "Webergasse"
 housenumber: 25

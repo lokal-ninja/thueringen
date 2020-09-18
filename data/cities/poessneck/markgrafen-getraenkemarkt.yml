@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.692735400000004
 longitude: 11.5861009
-postcode: 07381
+postcode: "07381"
 city: Pößneck
 street: "Saalfelder Straße"
 housenumber: 27

@@ -3,7 +3,7 @@ type: node
 shop: Partyzubehör
 latitude: 50.6639689
 longitude: 11.9973796
-postcode: 07937
+postcode: "07937"
 city: Zeulenroda-Triebes
 street: "Triebeser Straße"
 housenumber: 17

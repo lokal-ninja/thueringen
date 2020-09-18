@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.661907600000006
 longitude: 11.5697969
-postcode: 07389
+postcode: "07389"
 city: Ranis
 street: "Blumenstraße"
 housenumber: 41

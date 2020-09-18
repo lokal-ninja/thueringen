@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.148291400000005
 longitude: 10.4211826
-postcode: 99986
+postcode: "99986"
 city: Vogtei
 street: "Kammerforster Straße"
 housenumber: 8

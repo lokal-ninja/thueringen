@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5080703
 longitude: 10.8014528
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Stolberger Straße"
 housenumber: 53

@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 50.874925000000005
 longitude: 12.07826
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: "Heinrichstraße"
 housenumber: 45

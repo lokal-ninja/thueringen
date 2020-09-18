@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.446941
 longitude: 11.6407968
-postcode: 07356
+postcode: "07356"
 city: Bad Lobenstein
 street: "Markt"
 housenumber: 13

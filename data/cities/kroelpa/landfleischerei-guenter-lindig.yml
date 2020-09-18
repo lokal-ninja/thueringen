@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.653384
 longitude: 11.522887800000001
-postcode: 07387
+postcode: "07387"
 city: Krölpa
 street: "Am Dorfberg"
 housenumber: 19

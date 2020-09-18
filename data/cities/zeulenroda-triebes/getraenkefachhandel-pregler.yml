@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.647328400000006
 longitude: 11.9784821
-postcode: 07937
+postcode: "07937"
 city: Zeulenroda-Triebes
 street: "Untere Neustadt"
 housenumber: 9

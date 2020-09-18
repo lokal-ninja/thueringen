@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.3574599
 longitude: 11.1815219
-postcode: 96515
+postcode: "96515"
 city: Sonneberg
 street: "Bernhardstraße"
 housenumber: 59

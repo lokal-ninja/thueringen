@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.789833200000004
 longitude: 12.245703800000001
-postcode: 07580
+postcode: "07580"
 city: Seelingstädt
 street: "Ronneburger Straße"
 housenumber: 1A

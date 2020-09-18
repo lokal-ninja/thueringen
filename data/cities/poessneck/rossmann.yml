@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.6950681
 longitude: 11.594585400000001
-postcode: 07381
+postcode: "07381"
 city: Pößneck
 street: "Breite Straße"
 housenumber: 41

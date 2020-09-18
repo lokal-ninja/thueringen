@@ -1,4 +1,4 @@
 ---
-title: "nahkauf"
+title: "Nahkauf"
 url: /gotha/nahkauf/
 ---

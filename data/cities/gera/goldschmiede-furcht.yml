@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.8770862
 longitude: 12.083842500000001
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: "Große Kirchstraße"
 housenumber: 7

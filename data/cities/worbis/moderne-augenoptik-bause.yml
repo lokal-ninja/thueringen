@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.4238901
 longitude: 10.358007
-postcode: 37339
+postcode: "37339"
 city: Worbis
 street: "Obertor"
 housenumber: 17

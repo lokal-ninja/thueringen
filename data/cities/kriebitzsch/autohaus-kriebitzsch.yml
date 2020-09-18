@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.0319736
 longitude: 12.331668500000001
-postcode: 04617
+postcode: "04617"
 city: Kriebitzsch
 street: "Altenburger Straße"
 housenumber: 29

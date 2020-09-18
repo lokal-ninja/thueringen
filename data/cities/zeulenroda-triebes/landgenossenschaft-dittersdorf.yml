@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.659481500000005
 longitude: 11.9945333
-postcode: 07937
+postcode: "07937"
 city: Zeulenroda-Triebes
 street: "Meinersdorfer Straße"
 housenumber: 8

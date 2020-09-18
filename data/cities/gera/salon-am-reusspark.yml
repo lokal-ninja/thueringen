@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.8876934
 longitude: 12.0947323
-postcode: 07546
+postcode: "07546"
 city: Gera
 street: "Leo-Tolstoi-Straße"
 housenumber: 12

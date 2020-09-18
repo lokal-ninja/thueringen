@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8666743
 longitude: 12.1753421
-postcode: 07580
+postcode: "07580"
 city: Ronneburg
 street: "Am Kühlen Grund"
 housenumber: 4

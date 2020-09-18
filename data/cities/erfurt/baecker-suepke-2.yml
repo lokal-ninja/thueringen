@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.007657200000004
 longitude: 11.1009072
-postcode: 99098
+postcode: "99098"
 city: Erfurt
 street: "Kersplebener Chaussee"
 housenumber: 39

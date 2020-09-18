@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.782405000000004
 longitude: 10.7932599
-postcode: 99885
+postcode: "99885"
 city: Ohrdruf
 street: "Gosseler Straße"
 housenumber: 15B

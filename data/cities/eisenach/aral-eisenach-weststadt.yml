@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.9941444
 longitude: 10.293143800000001
-postcode: 99817
+postcode: "99817"
 city: Eisenach
 street: "An der Karlskuppe"
 housenumber: 1

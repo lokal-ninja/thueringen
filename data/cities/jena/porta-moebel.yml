@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 50.958471200000005
 longitude: 11.5119945
-postcode: 07751
+postcode: "07751"
 city: Jena
 street: "Weimarische Straße"
 housenumber: 3b

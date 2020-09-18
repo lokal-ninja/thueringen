@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.69481630000001
 longitude: 11.5935951
-postcode: 07381
+postcode: "07381"
 city: Pößneck
 street: "Breite Straße"
 housenumber: 18

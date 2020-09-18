@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.8926443
 longitude: 10.7286222
-postcode: 99869
+postcode: "99869"
 city: Schwabhausen
 street: "Gottlieb-Daimler-Straße"
 housenumber: 5

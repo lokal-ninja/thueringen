@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0535999
 longitude: 11.042951400000002
-postcode: 99095
+postcode: "99095"
 city: Erfurt
 street: "Erfurter Landstraße"
 housenumber: 10

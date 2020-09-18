@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9012693
 longitude: 10.5953096
-postcode: 99880
+postcode: "99880"
 city: Waltershausen
 street: "Lachweg"
 housenumber: 11

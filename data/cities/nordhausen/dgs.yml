@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.504364100000004
 longitude: 10.7728105
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Straße der Genossenschaften"
 housenumber: 18

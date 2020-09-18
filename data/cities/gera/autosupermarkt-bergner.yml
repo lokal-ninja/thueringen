@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.9031473
 longitude: 12.051451
-postcode: 07548
+postcode: "07548"
 city: Gera
 street: "Thieschitzer Straße"
 housenumber: 2

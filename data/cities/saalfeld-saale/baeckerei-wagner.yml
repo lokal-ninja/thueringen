@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.654031800000006
 longitude: 11.348497
-postcode: 07318
+postcode: "07318"
 city: Saalfeld/Saale
 street: "Am Kirchweg"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.356198400000004
 longitude: 11.1794648
-postcode: 96515
+postcode: "96515"
 city: Sonneberg
 street: "Köppelsdorfer Straße"
 housenumber: 82

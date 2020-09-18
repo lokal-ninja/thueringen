@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.9497572
 longitude: 10.7072845
-postcode: 99867
+postcode: "99867"
 city: Gotha
 street: "Mönchelsstraße"
 housenumber: 37

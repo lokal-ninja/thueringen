@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.988210800000004
 longitude: 11.0535984
-postcode: 99085
+postcode: "99085"
 city: Erfurt
 street: "Leipziger Straße"
 housenumber: 78

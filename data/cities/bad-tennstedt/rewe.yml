@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.1535741
 longitude: 10.831068100000001
-postcode: 99955
+postcode: "99955"
 city: Bad Tennstedt
 street: "Schützenplatz"
 housenumber: 1

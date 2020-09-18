@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.718434200000004
 longitude: 10.429069700000001
-postcode: 98574
+postcode: "98574"
 city: Schmalkalden
 street: "Kasseler Straße"
 housenumber: 42

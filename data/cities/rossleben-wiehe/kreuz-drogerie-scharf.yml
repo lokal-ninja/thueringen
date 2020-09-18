@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 51.295716500000005
 longitude: 11.4359436
-postcode: 06571
+postcode: "06571"
 city: Roßleben-Wiehe
 street: "Wendelsteiner Straße"
 housenumber: 26

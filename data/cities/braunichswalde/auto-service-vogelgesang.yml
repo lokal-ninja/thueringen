@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.8034449
 longitude: 12.2383325
-postcode: 07580
+postcode: "07580"
 city: Braunichswalde
 street: "Großpillingsdorfer Straße"
 housenumber: 2

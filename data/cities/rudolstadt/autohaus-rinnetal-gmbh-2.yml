@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.6996624
 longitude: 11.328079200000001
-postcode: 07407
+postcode: "07407"
 city: Rudolstadt
 street: "Breitscheidstraße"
 housenumber: 128

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.923125500000005
 longitude: 11.8726097
-postcode: 07639
+postcode: "07639"
 city: Weißenborn
 street: "An den Brandeichen"
 housenumber: 1

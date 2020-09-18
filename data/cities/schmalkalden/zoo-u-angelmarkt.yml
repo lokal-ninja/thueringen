@@ -3,10 +3,10 @@ type: node
 shop: Tiere
 latitude: 50.719171
 longitude: 10.4737902
-postcode: 98574
+postcode: "98574"
 city: Schmalkalden
 street: "Asbacher Straße"
 housenumber: 17b
-phone: "03683 600581"
+phone: "+49 3683 600581"
 opening_hours: ""
 website: ""

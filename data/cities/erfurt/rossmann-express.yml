@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 50.972421700000005
 longitude: 11.038362600000001
-postcode: 99084
+postcode: "99084"
 city: Erfurt
 street: "Willy-Brandt-Platz"
 housenumber: 12

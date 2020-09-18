@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.6439533
 longitude: 10.689381800000001
-postcode: 98544
+postcode: "98544"
 city: Zella-Mehlis
 street: "Industriestraße"
 housenumber: 6

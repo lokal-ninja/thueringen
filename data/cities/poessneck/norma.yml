@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.699470500000004
 longitude: 11.6042749
-postcode: 07381
+postcode: "07381"
 city: Pößneck
 street: "Jüdeweiner Straße"
 housenumber: 6

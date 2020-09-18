@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.577487600000005
 longitude: 10.7863494
-postcode: 99768
+postcode: "99768"
 city: Harztor
 street: "Karl-Liebknecht-Straße"
 housenumber: 1

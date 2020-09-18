@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.2241088
 longitude: 10.9463109
-postcode: 99718
+postcode: "99718"
 city: Greußen
 street: "Lindenstraße"
 housenumber: 56

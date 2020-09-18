@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9976904
 longitude: 12.4407089
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Gerhart-Hauptmann-Straße"
 housenumber: 8

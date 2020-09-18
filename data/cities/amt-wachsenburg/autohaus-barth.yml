@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.8884198
 longitude: 10.936163800000001
-postcode: 99334
+postcode: "99334"
 city: Amt Wachsenburg
 street: "Thöreyer Straße"
 housenumber: 2

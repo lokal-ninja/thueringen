@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.6924568
 longitude: 11.017393700000001
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "In den Langen Lehden"
 housenumber: 1

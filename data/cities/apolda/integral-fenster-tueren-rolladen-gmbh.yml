@@ -3,7 +3,7 @@ type: way
 shop: Jalousien
 latitude: 51.038054200000005
 longitude: 11.5139755
-postcode: 99510
+postcode: "99510"
 city: Apolda
 street: "Buttstädter Straße"
 housenumber: 44

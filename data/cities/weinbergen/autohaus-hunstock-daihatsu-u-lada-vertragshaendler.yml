@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.228692800000005
 longitude: 10.541890200000001
-postcode: 99998
+postcode: "99998"
 city: Weinbergen
 street: "Hauptstraße"
 housenumber: 41

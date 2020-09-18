@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.8792301
 longitude: 12.1752824
-postcode: 07554
+postcode: "07554"
 city: Korbußen
 street: "Wiesenring"
 housenumber: 1

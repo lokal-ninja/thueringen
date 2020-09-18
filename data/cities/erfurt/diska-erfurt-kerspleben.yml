@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.0097278
 longitude: 11.102127600000001
-postcode: 99098
+postcode: "99098"
 city: Erfurt
 street: "Zur Weißen Scheune"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.3759091
 longitude: 11.2852656
-postcode: 06556
+postcode: "06556"
 city: Artern
 street: "Am Kalkfeld"
 housenumber: 1

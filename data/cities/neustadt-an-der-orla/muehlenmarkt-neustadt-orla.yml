@@ -1,12 +1,12 @@
 id: 3368351653
 type: node
-shop: Supermarkt
+shop: Tiere
 latitude: 50.739512600000005
 longitude: 11.768146000000002
-postcode: 07806
+postcode: "07806"
 city: Neustadt an der Orla
 street: "Triptiser Straße"
 housenumber: 36-38
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:30,14:30-18:00; We,Sa 09:00-12:30"
+opening_hours: "Mo,Tu,Th,Fr 09:00-12:30,14:30-18:00; We,Sa 09:00-12:30; Su,PH off"
 website: ""

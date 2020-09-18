@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.6833989
 longitude: 12.1295959
-postcode: 07957
+postcode: "07957"
 city: Langenwetzendorf
 street: "Am Daßlitzer Kreuz"
 housenumber: 21

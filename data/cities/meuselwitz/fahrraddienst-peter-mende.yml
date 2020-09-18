@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 51.043183500000005
 longitude: 12.297523700000001
-postcode: 04610
+postcode: "04610"
 city: Meuselwitz
 street: "Mühlgasse"
 housenumber: 5

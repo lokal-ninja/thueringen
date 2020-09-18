@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 50.872052700000005
 longitude: 12.0746789
-postcode: 07548
+postcode: "07548"
 city: Gera
 street: "Heinrichstraße"
 housenumber: 88

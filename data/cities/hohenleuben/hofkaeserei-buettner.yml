@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.7118307
 longitude: 12.0584752
-postcode: 07958
+postcode: "07958"
 city: Hohenleuben
 street: "Oststraße"
 housenumber: 2

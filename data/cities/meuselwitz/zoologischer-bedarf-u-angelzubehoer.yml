@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 51.0478314
 longitude: 12.291901000000001
-postcode: 04610
+postcode: "04610"
 city: Meuselwitz
 street: "Zeitzer Straße"
 housenumber: 51

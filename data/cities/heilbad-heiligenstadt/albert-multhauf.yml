@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.3768928
 longitude: 10.1340974
-postcode: 37308
+postcode: "37308"
 city: Heilbad Heiligenstadt
 street: "Schöllbach"
 housenumber: 10

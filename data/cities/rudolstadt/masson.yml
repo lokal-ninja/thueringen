@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.7202737
 longitude: 11.3393665
-postcode: 07407
+postcode: "07407"
 city: Rudolstadt
 street: "Markt"
 housenumber: 1

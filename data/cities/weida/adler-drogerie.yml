@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.7744385
 longitude: 12.0616686
-postcode: 07570
+postcode: "07570"
 city: Weida
 street: "Leitergasse"
 housenumber: 1

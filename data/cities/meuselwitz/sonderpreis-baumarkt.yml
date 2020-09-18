@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.0485655
 longitude: 12.2935587
-postcode: 04610
+postcode: "04610"
 city: Meuselwitz
 street: "Johann-Christian-Kluge-Straße"
 housenumber: 2

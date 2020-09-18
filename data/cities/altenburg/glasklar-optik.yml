@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.9911972
 longitude: 12.439212300000001
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Johann-Sebastian-Bach-Straße"
 housenumber: 2

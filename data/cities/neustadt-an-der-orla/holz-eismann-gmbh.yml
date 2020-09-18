@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.7366947
 longitude: 11.7363148
-postcode: 07806
+postcode: "07806"
 city: Neustadt an der Orla
 street: "Pößnecker Straße"
 housenumber: 70

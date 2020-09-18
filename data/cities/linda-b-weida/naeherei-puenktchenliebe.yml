@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 50.808883900000005
 longitude: 12.1848986
-postcode: 07580
+postcode: "07580"
 city: Linda b. Weida
 street: "Hauptstraße"
 housenumber: 1a

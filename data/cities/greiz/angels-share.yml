@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 50.657658100000006
 longitude: 12.199593
-postcode: 07973
+postcode: "07973"
 city: Greiz
 street: "Von-Westernhagen-Platz"
 housenumber: 4

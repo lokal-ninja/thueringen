@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.7187922
 longitude: 10.116600400000001
-postcode: 36466
+postcode: "36466"
 city: Dermbach
 street: "Hinter dem Schloß"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.5234761
 longitude: 10.878120500000001
-postcode: 98667
+postcode: "98667"
 city: Schönbrunn
 street: "Gabeler Straße"
 housenumber: 1a

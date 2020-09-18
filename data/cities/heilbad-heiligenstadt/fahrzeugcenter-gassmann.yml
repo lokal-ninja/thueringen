@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.374246600000006
 longitude: 10.1188458
-postcode: 37308
+postcode: "37308"
 city: Heilbad Heiligenstadt
 street: "Unterm Hünenstein"
 housenumber: 6

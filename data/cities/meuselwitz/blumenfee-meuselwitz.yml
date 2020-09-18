@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.042492700000004
 longitude: 12.3008404
-postcode: 04610
+postcode: "04610"
 city: Meuselwitz
 street: "Am Rathaus"
 housenumber: 10

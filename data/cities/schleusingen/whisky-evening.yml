@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.510804300000004
 longitude: 10.7548692
-postcode: 98553
+postcode: "98553"
 city: Schleusingen
 street: "Brauhausgasse"
 housenumber: 1

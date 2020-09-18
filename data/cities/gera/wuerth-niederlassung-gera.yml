@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 50.9032184
 longitude: 12.106428200000002
-postcode: 07552
+postcode: "07552"
 city: Gera
 street: "Heinrich-Hertz-Straße"
 housenumber: 14

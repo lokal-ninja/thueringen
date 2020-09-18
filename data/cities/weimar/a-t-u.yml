@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.992812900000004
 longitude: 11.325274400000001
-postcode: 99427
+postcode: "99427"
 city: Weimar
 street: "Rießnerstraße"
 housenumber: 25

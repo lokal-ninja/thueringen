@@ -1,12 +1,12 @@
-id: 255623651
-type: way
+id: 7761129216
+type: node
 shop: Raumausstattung
-latitude: 50.929418500000004
-longitude: 11.587257200000002
-postcode: 07743
+latitude: 50.929353400000004
+longitude: 11.587299000000002
+postcode: "07743"
 city: Jena
 street: "Weigelstraße"
 housenumber: 5
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 10:00-18:00; Sa10:00-16:00"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.423106700000005
 longitude: 10.9023185
-postcode: 98673
+postcode: "98673"
 city: Eisfeld
 street: "Weihbach"
 housenumber: 30

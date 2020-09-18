@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.7940082
 longitude: 12.098657800000002
-postcode: 07570
+postcode: "07570"
 city: Wünschendorf/Elster
 street: "Fuchstalstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.958105
 longitude: 11.506211100000002
-postcode: 07751
+postcode: "07751"
 city: Jena
 street: "Weimarische Straße"
 housenumber: 13

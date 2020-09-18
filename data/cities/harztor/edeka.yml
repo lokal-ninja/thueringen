@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5779926
 longitude: 10.789704400000002
-postcode: 99768
+postcode: "99768"
 city: Harztor
 street: "Hohnsteiner Straße"
 housenumber: 1

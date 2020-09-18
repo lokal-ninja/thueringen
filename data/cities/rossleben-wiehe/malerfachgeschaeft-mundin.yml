@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 51.2960215
 longitude: 11.4327103
-postcode: 06571
+postcode: "06571"
 city: Roßleben-Wiehe
 street: "Ernst-Thälmann-Straße"
 housenumber: 14

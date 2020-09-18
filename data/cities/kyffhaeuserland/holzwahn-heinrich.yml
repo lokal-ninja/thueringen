@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.3477978
 longitude: 10.9682484
-postcode: 99707
+postcode: "99707"
 city: Kyffhäuserland
 street: "Weihbachstraße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.476883
 longitude: 11.1595934
-postcode: 98724
+postcode: "98724"
 city: Lauscha
 street: "Oberlandstraße"
 housenumber: 2

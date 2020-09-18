@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.739557600000005
 longitude: 11.7502761
-postcode: 07806
+postcode: "07806"
 city: Neustadt an der Orla
 street: "Dimitroffstraße"
 housenumber: 1a

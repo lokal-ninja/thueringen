@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.7195095
 longitude: 9.9579848
-postcode: 36419
+postcode: "36419"
 city: Geisa
 street: "Borscher Straße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.9067589
 longitude: 11.845261200000001
-postcode: 07629
+postcode: "07629"
 city: Hermsdorf
 street: "Erich-Weinert-Straße"
 housenumber: 45

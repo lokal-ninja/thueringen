@@ -3,10 +3,10 @@ type: node
 shop: Metzgerei
 latitude: 50.67650020000001
 longitude: 12.0975231
-postcode: 07957
+postcode: "07957"
 city: Langenwetzendorf
 street: "Greizer Straße"
 housenumber: 2
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:00; Su,PH off"
+opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:00; PH,Su off"
 website: ""

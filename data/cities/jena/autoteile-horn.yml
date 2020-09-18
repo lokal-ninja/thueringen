@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 50.9480292
 longitude: 11.5999513
-postcode: 07743
+postcode: "07743"
 city: Jena
 street: "Naumburger Straße"
 housenumber: 1

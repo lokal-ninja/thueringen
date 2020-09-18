@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.5004293
 longitude: 10.8076165
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Hohekreuzstraße"
 housenumber: 20

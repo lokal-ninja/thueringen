@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.756168900000006
 longitude: 10.4743366
-postcode: 98593
+postcode: "98593"
 city: Floh-Seligenthal
 street: "Körler Straße"
 housenumber: 11a

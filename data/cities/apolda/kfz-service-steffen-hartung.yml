@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.028043100000005
 longitude: 11.5546387
-postcode: 99510
+postcode: "99510"
 city: Apolda
 street: "Camburger Straße"
 housenumber: 181k

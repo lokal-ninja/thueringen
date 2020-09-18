@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.29655270000001
 longitude: 10.351549100000002
-postcode: 37351
+postcode: "37351"
 city: Dingelstädt
 street: "Hauptstraße"
 housenumber: 24

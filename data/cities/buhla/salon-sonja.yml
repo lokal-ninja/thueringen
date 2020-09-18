@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.44038200000001
 longitude: 10.4884473
-postcode: 37339
+postcode: "37339"
 city: Buhla
 street: "Karl-Marx-Straße"
 housenumber: 3

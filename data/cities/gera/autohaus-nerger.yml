@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.85274080000001
 longitude: 12.090556900000001
-postcode: 07551
+postcode: "07551"
 city: Gera
 street: "Straße der Völkerfreundschaft"
 housenumber: 1a

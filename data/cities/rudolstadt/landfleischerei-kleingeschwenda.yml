@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.706515
 longitude: 11.323382500000001
-postcode: 07407
+postcode: "07407"
 city: Rudolstadt
 street: "Breitscheidstraße"
 housenumber: 37

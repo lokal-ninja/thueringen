@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.212180700000005
 longitude: 11.2998322
-postcode: 99625
+postcode: "99625"
 city: Kölleda
 street: "Harzstraße"
 housenumber: 117

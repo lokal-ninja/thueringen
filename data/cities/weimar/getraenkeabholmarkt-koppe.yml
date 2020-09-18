@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.982494700000004
 longitude: 11.3077568
-postcode: 99427
+postcode: "99427"
 city: Weimar
 street: "Milchhofstraße"
 housenumber: 2

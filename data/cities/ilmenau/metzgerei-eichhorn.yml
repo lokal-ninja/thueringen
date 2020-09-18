@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.647804900000004
 longitude: 11.0034445
-postcode: 98694
+postcode: "98694"
 city: Ilmenau
 street: "Amtsstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.495210900000004
 longitude: 10.8060244
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Hallesche Straße"
 housenumber: 53a

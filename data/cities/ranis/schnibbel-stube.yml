@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.6637617
 longitude: 11.5684494
-postcode: 07389
+postcode: "07389"
 city: Ranis
 street: "Baumgartenstraße"
 housenumber: 2

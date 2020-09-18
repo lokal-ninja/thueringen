@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9089309
 longitude: 10.908083000000001
-postcode: 99192
+postcode: "99192"
 city: Nesse-Apfelstädt
 street: "Straße des Friedens"
 housenumber: 22a

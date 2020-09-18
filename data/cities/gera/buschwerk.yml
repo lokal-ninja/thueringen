@@ -3,7 +3,7 @@ type: way
 shop: Kunst
 latitude: 50.8273852
 longitude: 12.0740601
-postcode: 07549
+postcode: "07549"
 city: Gera
 street: "Weidaer Straße"
 housenumber: 20

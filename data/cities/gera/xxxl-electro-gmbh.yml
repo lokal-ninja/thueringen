@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 50.901140000000005
 longitude: 12.110013200000001
-postcode: 07552
+postcode: "07552"
 city: Gera
 street: "Adam-Opel-Straße"
 housenumber: 1

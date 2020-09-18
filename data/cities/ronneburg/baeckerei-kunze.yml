@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8643045
 longitude: 12.189143900000001
-postcode: 07580
+postcode: "07580"
 city: Ronneburg
 street: "Altenburger Straße"
 housenumber: 61

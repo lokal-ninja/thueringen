@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 50.695039900000005
 longitude: 11.5944345
-postcode: 07381
+postcode: "07381"
 city: Pößneck
 street: "Breite Straße"
 housenumber: 39

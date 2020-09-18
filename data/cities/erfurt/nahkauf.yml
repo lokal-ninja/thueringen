@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.980559500000005
 longitude: 11.0476484
-postcode: 99085
+postcode: "99085"
 city: Erfurt
 street: "Theo-Neubauer-Straße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.971657300000004
 longitude: 10.3462469
-postcode: 99817
+postcode: "99817"
 city: Eisenach
 street: "Gothaer Straße"
 housenumber: 1

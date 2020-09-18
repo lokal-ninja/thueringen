@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.7146497
 longitude: 10.8367234
-postcode: 99331
+postcode: "99331"
 city: Geratal
 street: "Zur Bergbrauerei"
 housenumber: 38

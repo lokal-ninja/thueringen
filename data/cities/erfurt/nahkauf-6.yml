@@ -1,12 +1,12 @@
-id: 7312129464
-type: node
+id: 128310924
+type: way
 shop: Supermarkt
-latitude: 50.970035100000004
-longitude: 11.050931700000001
-postcode: 99099
+latitude: 50.9378791
+longitude: 10.9863608
+postcode: "99094"
 city: Erfurt
-street: "Geraer Straße"
-housenumber: 20a
+street: "Geratalstraße"
+housenumber: 59
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-18:00"
+opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-16:00; Su 07:00-11:00"
 website: ""

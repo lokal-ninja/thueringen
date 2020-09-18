@@ -3,10 +3,10 @@ type: node
 shop: Getränke
 latitude: 50.667841100000004
 longitude: 11.1212792
-postcode: 07426
+postcode: "07426"
 city: Königsee-Rottenbach
 street: "Industrie- und Gewerbepark"
 housenumber: 1e
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH off"
 website: ""

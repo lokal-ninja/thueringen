@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.4935799
 longitude: 10.788746900000001
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Bahnhofsplatz"
 housenumber: 4

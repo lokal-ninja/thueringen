@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.7150096
 longitude: 9.955915300000001
-postcode: 36419
+postcode: "36419"
 city: Geisa
 street: "Gartenweg"
 housenumber: 3

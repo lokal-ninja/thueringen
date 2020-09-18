@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 50.9913098
 longitude: 12.4391838
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Johann-Sebastian-Bach-Straße"
 housenumber: 2

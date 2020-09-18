@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9875933
 longitude: 11.0270656
-postcode: 99086
+postcode: "99086"
 city: Erfurt
 street: "Magdeburger Allee"
 housenumber: 9

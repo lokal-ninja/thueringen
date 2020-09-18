@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.6530464
 longitude: 10.6624441
-postcode: 98544
+postcode: "98544"
 city: Zella-Mehlis
 street: "Talstraße"
 housenumber: 64

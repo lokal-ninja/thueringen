@@ -1,12 +1,12 @@
 id: 6326477574
 type: node
-shop: Modehaus
+shop: Kleidung
 latitude: 50.9844597
 longitude: 12.434412400000001
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Topfgasse"
 housenumber: 2
-phone: "+49 3447 315744"
-opening_hours: ""
-website: "http://www.gabis-boutique.de/"
+phone: ""
+opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:30; Su,PH off"
+website: ""

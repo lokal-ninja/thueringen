@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.2106307
 longitude: 10.3384636
-postcode: 99976
+postcode: "99976"
 city: Rodeberg
 street: "Dörnaer Weg"
 housenumber: 5

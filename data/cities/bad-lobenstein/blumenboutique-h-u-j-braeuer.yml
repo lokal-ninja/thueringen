@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.4487333
 longitude: 11.6395558
-postcode: 07356
+postcode: "07356"
 city: Bad Lobenstein
 street: "Straße der Jugend"
 housenumber: 12

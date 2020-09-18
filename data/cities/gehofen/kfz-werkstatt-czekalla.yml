@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.321797600000004
 longitude: 11.3156905
-postcode: 06571
+postcode: "06571"
 city: Gehofen
 street: "Oberheldrunger Straße"
 housenumber: 10

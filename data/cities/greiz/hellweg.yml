@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.64178810000001
 longitude: 12.195753300000002
-postcode: 07973
+postcode: "07973"
 city: Greiz
 street: "Plauensche Straße"
 housenumber: 1c

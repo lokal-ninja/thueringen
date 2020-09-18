@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.7151675
 longitude: 11.6619715
-postcode: 07381
+postcode: "07381"
 city: Oppurg
 street: "Grünau"
 housenumber: 1-4

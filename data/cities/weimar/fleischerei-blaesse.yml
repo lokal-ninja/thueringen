@@ -3,10 +3,10 @@ type: node
 shop: Metzgerei
 latitude: 50.9779466
 longitude: 11.328244600000001
-postcode: 99423
+postcode: "99423"
 city: Weimar
 street: "Frauenplan"
 housenumber: 16
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-12:00; Su,PH off"
+opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-11:00; PH,Su off"
 website: ""

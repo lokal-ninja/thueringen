@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.9737572
 longitude: 11.8919037
-postcode: 07607
+postcode: "07607"
 city: Eisenberg
 street: "Bahnhofstraße"
 housenumber: 18

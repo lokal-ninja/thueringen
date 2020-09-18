@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 50.9025138
 longitude: 11.572688600000001
-postcode: 07745
+postcode: "07745"
 city: Jena
 street: "Friedrich-Zucker-Straße"
 housenumber: 1-3

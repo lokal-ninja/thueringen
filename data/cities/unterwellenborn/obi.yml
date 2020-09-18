@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.659329
 longitude: 11.4510389
-postcode: 07333
+postcode: "07333"
 city: Unterwellenborn
 street: "Kronacher Straße"
 housenumber: 1

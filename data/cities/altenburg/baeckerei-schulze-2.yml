@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.984107300000005
 longitude: 12.423463
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Geraer Straße"
 housenumber: 23

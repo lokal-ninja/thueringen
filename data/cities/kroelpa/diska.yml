@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.677312900000004
 longitude: 11.537044600000002
-postcode: 07387
+postcode: "07387"
 city: Krölpa
 street: "Pößnecker Straße"
 housenumber: 38a

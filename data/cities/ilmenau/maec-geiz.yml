@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 50.686167100000006
 longitude: 10.9151092
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "Marktstraße"
 housenumber: 12

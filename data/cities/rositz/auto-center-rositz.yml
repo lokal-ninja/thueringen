@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.0115338
 longitude: 12.378112900000001
-postcode: 04617
+postcode: "04617"
 city: Rositz
 street: "Altenburger Straße"
 housenumber: 31A

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.357330000000005
 longitude: 11.1019298
-postcode: 06567
+postcode: "06567"
 city: Bad Frankenhausen/Kyffhäuser
 street: "Erfurter Straße"
 housenumber: 11

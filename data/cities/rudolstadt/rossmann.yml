@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.7190267
 longitude: 11.3348557
-postcode: 07407
+postcode: "07407"
 city: Rudolstadt
 street: "Marktstraße"
 housenumber: 75-81

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.0597701
 longitude: 11.0487298
-postcode: 99095
+postcode: "99095"
 city: Erfurt
 street: "Am Teiche"
 housenumber: 1

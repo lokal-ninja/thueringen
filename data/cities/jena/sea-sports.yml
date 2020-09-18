@@ -3,7 +3,7 @@ type: node
 shop: Boot
 latitude: 50.896550600000005
 longitude: 11.595414900000002
-postcode: 07745
+postcode: "07745"
 city: Jena
 street: "Am Lindenberg"
 housenumber: 1

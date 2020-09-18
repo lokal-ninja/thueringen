@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.3237074
 longitude: 11.3202387
-postcode: 06571
+postcode: "06571"
 city: Gehofen
 street: "Hauptstraße"
 housenumber: 13

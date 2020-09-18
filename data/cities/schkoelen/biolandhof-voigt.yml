@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.0179017
 longitude: 11.821374400000002
-postcode: 07619
+postcode: "07619"
 city: Schkölen
 street: "Willschütz"
 housenumber: 13

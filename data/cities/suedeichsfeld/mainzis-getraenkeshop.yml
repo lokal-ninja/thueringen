@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.1639939
 longitude: 10.3127376
-postcode: 99988
+postcode: "99988"
 city: Südeichsfeld
 street: "Eichsfelder Straße"
 housenumber: 19

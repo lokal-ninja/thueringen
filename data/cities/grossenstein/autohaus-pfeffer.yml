@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.902136500000005
 longitude: 12.1911637
-postcode: 07580
+postcode: "07580"
 city: Großenstein
 street: "Hauptstraße"
 housenumber: 3

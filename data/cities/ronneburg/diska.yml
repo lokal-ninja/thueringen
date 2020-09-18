@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.863994500000004
 longitude: 12.1887959
-postcode: 07580
+postcode: "07580"
 city: Ronneburg
 street: "Altenburger Straße"
 housenumber: 61

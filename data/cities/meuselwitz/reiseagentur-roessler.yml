@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.0424924
 longitude: 12.3011899
-postcode: 04610
+postcode: "04610"
 city: Meuselwitz
 street: "Poderschauer Gasse"
 housenumber: 2

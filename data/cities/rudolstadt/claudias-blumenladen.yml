@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.712216600000005
 longitude: 11.345930300000001
-postcode: 07407
+postcode: "07407"
 city: Rudolstadt
 street: "Am Gänsebach"
 housenumber: 

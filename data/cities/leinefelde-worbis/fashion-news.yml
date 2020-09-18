@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.3885446
 longitude: 10.3268407
-postcode: 37327
+postcode: "37327"
 city: Leinefelde-Worbis
 street: "Bahnhofstraße"
 housenumber: 40

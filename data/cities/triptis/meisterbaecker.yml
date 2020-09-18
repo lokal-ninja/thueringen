@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.738135500000006
 longitude: 11.875864900000002
-postcode: 07819
+postcode: "07819"
 city: Triptis
 street: "Geraer Straße"
 housenumber: 53

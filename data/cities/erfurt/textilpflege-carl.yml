@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 51.034932600000005
 longitude: 11.0043535
-postcode: 99095
+postcode: "99095"
 city: Erfurt
 street: "Erfurter Straße"
 housenumber: 72

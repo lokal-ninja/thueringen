@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.9789059
 longitude: 10.309442
-postcode: 99817
+postcode: "99817"
 city: Eisenach
 street: "Bleichrasen"
 housenumber: 20

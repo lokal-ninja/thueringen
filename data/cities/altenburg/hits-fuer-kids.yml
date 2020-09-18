@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 50.985269
 longitude: 12.4353324
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Marktgasse"
 housenumber: 2
-phone: "+49 3447 513038"
+phone: ""
 opening_hours: ""
 website: ""

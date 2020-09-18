@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 50.7199815
 longitude: 11.335685400000001
-postcode: 07407
+postcode: "07407"
 city: Rudolstadt
 street: "Schillerstraße"
 housenumber: 8

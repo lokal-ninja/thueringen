@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.7301397
 longitude: 10.4572154
-postcode: 98574
+postcode: "98574"
 city: Schmalkalden
 street: "Wilhelm-Külz-Straße"
 housenumber: 11

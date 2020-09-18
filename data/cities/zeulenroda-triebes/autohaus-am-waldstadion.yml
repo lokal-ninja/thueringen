@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.6616313
 longitude: 11.9963086
-postcode: 07937
+postcode: "07937"
 city: Zeulenroda-Triebes
 street: "Am Waldstadion"
 housenumber: 1

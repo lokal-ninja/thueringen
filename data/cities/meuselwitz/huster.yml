@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.0394196
 longitude: 12.3128176
-postcode: 04610
+postcode: "04610"
 city: Meuselwitz
 street: "Altenburger Straße"
 housenumber: 71

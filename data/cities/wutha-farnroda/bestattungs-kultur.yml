@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 50.949232800000004
 longitude: 10.401259600000001
-postcode: 99848
+postcode: "99848"
 city: Wutha-Farnroda
 street: "Fliederweg"
 housenumber: 12

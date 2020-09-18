@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 50.6783316
 longitude: 10.9219573
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "Bergrat-Mahr-Straße"
 housenumber: 3

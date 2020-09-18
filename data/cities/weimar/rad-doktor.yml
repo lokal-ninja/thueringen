@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.9798562
 longitude: 11.323794300000001
-postcode: 99423
+postcode: "99423"
 city: Weimar
 street: "Heinrich-Heine-Straße"
 housenumber: 18

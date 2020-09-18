@@ -3,10 +3,10 @@ type: way
 shop: Bäckerei
 latitude: 50.853229600000006
 longitude: 12.289613300000001
-postcode: 04626
+postcode: "04626"
 city: Vollmershain
 street: "Dorfstraße"
-housenumber: 43A
+housenumber: 43a
 phone: "+49 34496 22308"
 opening_hours: ""
 website: ""

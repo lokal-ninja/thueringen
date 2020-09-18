@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.984964500000004
 longitude: 12.4371697
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Berggasse"
 housenumber: 44

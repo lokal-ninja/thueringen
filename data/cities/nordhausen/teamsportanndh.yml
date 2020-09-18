@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 51.4947175
 longitude: 10.8054485
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Hallesche Straße"
 housenumber: 53a

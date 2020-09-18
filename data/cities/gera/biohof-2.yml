@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.963801600000004
 longitude: 12.097922200000001
-postcode: 07554
+postcode: "07554"
 city: Gera
 street: "Straße der Freundschaft"
 housenumber: 25A

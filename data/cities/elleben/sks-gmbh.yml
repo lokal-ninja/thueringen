@@ -3,7 +3,7 @@ type: way
 shop: Basteln
 latitude: 50.879424400000005
 longitude: 11.080966700000001
-postcode: 99334
+postcode: "99334"
 city: Elleben
 street: "Burgenblick"
 housenumber: 2

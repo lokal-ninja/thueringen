@@ -1,4 +1,4 @@
 ---
-title: "SAGASSER Getränkefachmarkt"
+title: "Sagasser Getränkefachmarkt"
 url: /kahla/sagasser-getraenkefachmarkt/
 ---

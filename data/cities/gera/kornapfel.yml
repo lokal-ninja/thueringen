@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.885734500000005
 longitude: 12.0694361
-postcode: 07548
+postcode: "07548"
 city: Gera
 street: "Leibnizstraße"
 housenumber: 4

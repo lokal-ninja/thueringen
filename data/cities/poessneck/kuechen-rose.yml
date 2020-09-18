@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.6984848
 longitude: 11.616299300000001
-postcode: 07381
+postcode: "07381"
 city: Pößneck
 street: "Naßäckerstraße"
 housenumber: 3

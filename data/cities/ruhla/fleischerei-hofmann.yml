@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.8932353
 longitude: 10.365525400000001
-postcode: 99842
+postcode: "99842"
 city: Ruhla
 street: "Untere Lindenstraße"
 housenumber: 30

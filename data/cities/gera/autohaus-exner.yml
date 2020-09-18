@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.8642181
 longitude: 12.080862100000001
-postcode: 07548
+postcode: "07548"
 city: Gera
 street: "Hinter dem Südbahnhof"
 housenumber: 19

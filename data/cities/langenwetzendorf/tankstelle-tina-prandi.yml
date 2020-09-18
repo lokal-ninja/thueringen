@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.71731380000001
 longitude: 12.1122373
-postcode: 07957
+postcode: "07957"
 city: Langenwetzendorf
 street: "An der B92"
 housenumber: 1

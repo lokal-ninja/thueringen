@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.719418100000006
 longitude: 11.3353854
-postcode: 07407
+postcode: "07407"
 city: Rudolstadt
 street: "Marktstraße"
 housenumber: 73

@@ -3,10 +3,10 @@ type: way
 shop: Autohaus
 latitude: 50.847460000000005
 longitude: 10.9575113
-postcode: 99310
+postcode: "99310"
 city: Arnstadt
 street: "Ichtershäuser Straße"
 housenumber: 47-49
-phone: "03628 74221420"
+phone: "+49 3628 74221420"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00"
 website: ""

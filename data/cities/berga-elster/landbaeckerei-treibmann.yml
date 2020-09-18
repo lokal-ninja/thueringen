@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.7497425
 longitude: 12.160182500000001
-postcode: 07980
+postcode: "07980"
 city: Berga/Elster
 street: "Bahnhofstraße"
 housenumber: 16a

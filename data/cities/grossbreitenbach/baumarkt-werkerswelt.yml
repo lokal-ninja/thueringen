@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.5864162
 longitude: 11.012659300000001
-postcode: 98701
+postcode: "98701"
 city: Großbreitenbach
 street: "Johannisstraße"
 housenumber: 1

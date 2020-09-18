@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsgeräte
 latitude: 50.940048600000004
 longitude: 12.1293471
-postcode: 07554
+postcode: "07554"
 city: Gera
 street: "Cretzschwitz"
 housenumber: 43

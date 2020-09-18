@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.7162285
 longitude: 10.60988
-postcode: 98587
+postcode: "98587"
 city: Steinbach-Hallenberg
 street: "Hauptstraße"
 housenumber: 62

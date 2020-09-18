@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5041403
 longitude: 10.803158300000002
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Löbnitzstraße"
 housenumber: 13

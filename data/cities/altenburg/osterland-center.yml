@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 50.982229700000005
 longitude: 12.4160008
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Geraer Straße"
 housenumber: 72-76

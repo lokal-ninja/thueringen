@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.580787300000004
 longitude: 11.807456700000001
-postcode: 07907
+postcode: "07907"
 city: Schleiz
 street: "Geraer Straße"
 housenumber: 21

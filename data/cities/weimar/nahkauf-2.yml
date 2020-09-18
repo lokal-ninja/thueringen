@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9878602
 longitude: 11.318526100000001
-postcode: 99423
+postcode: "99423"
 city: Weimar
 street: "Röhrstraße"
 housenumber: 21

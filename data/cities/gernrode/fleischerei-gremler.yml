@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.3954365
 longitude: 10.400327500000001
-postcode: 37339
+postcode: "37339"
 city: Gernrode
 street: "Neue Sorge"
 housenumber: 2

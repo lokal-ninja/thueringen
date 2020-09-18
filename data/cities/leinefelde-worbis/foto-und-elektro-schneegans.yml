@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.38854370000001
 longitude: 10.325248700000001
-postcode: 37327
+postcode: "37327"
 city: Leinefelde-Worbis
 street: "Bahnhofstraße"
 housenumber: 30

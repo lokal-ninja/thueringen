@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.8658517
 longitude: 12.177776900000001
-postcode: 07580
+postcode: "07580"
 city: Ronneburg
 street: "Am Kühlen Grund"
 housenumber: 1

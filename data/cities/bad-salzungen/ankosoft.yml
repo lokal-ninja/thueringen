@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.813188100000005
 longitude: 10.2384689
-postcode: 36433
+postcode: "36433"
 city: Bad Salzungen
 street: "Friedrich-Eckardt-Straße"
 housenumber: 20

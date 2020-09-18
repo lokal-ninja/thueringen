@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.41583
 longitude: 10.36611
-postcode: 37339
+postcode: "37339"
 city: Leinefelde-Worbis
 street: "Hausener Weg"
 housenumber: 21

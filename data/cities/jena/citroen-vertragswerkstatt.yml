@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.9590856
 longitude: 11.5069835
-postcode: 07751
+postcode: "07751"
 city: Jena
 street: "Weimarische Straße"
 housenumber: 4

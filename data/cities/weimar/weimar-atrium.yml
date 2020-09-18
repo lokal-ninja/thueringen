@@ -3,7 +3,7 @@ type: node
 shop: Einkaufszentrum
 latitude: 50.9853144
 longitude: 11.328969200000001
-postcode: 99423
+postcode: "99423"
 city: Weimar
 street: "Friedensstraße"
 housenumber: 1

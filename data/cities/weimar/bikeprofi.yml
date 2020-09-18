@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.9816073
 longitude: 11.329945100000002
-postcode: 99423
+postcode: "99423"
 city: Weimar
 street: "Jakobstraße"
 housenumber: 1

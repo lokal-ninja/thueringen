@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0427388
 longitude: 12.301033200000001
-postcode: 04610
+postcode: "04610"
 city: Meuselwitz
 street: "Baderdamm"
 housenumber: 17

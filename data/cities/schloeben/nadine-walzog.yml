@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.893670900000004
 longitude: 11.6869715
-postcode: 07646
+postcode: "07646"
 city: Schlöben
 street: "Am Wallgraben"
 housenumber: 5

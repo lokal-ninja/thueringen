@@ -1,12 +1,12 @@
-id: 254846506
-type: way
-shop: Autowerkstatt
-latitude: 50.3773015
-longitude: 11.0761959
-postcode: 96528
+id: 1360087766
+type: node
+shop: Autohaus
+latitude: 50.3781466
+longitude: 11.076083200000001
+postcode: "96528"
 city: Frankenblick
-street: "Ecke"
-housenumber: 4b
+street: "Sonneberger Straße"
+housenumber: 56
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:30; Su,PH off"
 website: ""

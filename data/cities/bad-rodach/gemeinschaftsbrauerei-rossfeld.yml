@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 50.3477236
 longitude: 10.7413212
-postcode: 96476
+postcode: "96476"
 city: Bad Rodach
 street: "Rudelsdorfer Straße"
 housenumber: 18

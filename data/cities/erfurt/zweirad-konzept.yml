@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.9997343
 longitude: 11.019418900000002
-postcode: 99089
+postcode: "99089"
 city: Erfurt
 street: "Wermutmühlenweg"
 housenumber: 22

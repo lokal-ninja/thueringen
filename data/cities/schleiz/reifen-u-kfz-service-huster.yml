@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 50.5801467
 longitude: 11.823983100000001
-postcode: 07907
+postcode: "07907"
 city: Schleiz
 street: "Greizer Straße"
 housenumber: 48

@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 50.721806
 longitude: 10.4519844
-postcode: 98574
+postcode: "98574"
 city: Schmalkalden
 street: "Salzbrücke"
 housenumber: 1

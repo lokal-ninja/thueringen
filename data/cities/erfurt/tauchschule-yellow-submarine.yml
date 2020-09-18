@@ -3,7 +3,7 @@ type: way
 shop: Tauchen
 latitude: 50.997316000000005
 longitude: 11.049988
-postcode: 99085
+postcode: "99085"
 city: Erfurt
 street: "Zum Nordstrand"
 housenumber: 4

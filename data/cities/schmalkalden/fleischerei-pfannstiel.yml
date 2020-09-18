@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.7221996
 longitude: 10.4525465
-postcode: 98574
+postcode: "98574"
 city: Schmalkalden
 street: "Steingasse"
 housenumber: 7

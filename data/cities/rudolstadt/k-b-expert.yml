@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 50.7206903
 longitude: 11.3499542
-postcode: 07407
+postcode: "07407"
 city: Rudolstadt
 street: "Gartenstraße"
 housenumber: 16

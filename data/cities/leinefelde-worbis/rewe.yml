@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4229539
 longitude: 10.357286400000001
-postcode: 37339
+postcode: "37339"
 city: Leinefelde-Worbis
 street: "Franz-Weinrich-Straße"
 housenumber: 27

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.7784946
 longitude: 12.065183900000001
-postcode: 07570
+postcode: "07570"
 city: Weida
 street: "Uferstraße"
 housenumber: 1

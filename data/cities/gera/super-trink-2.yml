@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.8470305
 longitude: 12.0697077
-postcode: 07549
+postcode: "07549"
 city: Gera
 street: "Sommerleithe"
 housenumber: 2a

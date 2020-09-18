@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.978009
 longitude: 11.3448381
-postcode: 99425
+postcode: "99425"
 city: Weimar
 street: "Am Waldschlößchen"
 housenumber: 8

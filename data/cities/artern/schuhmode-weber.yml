@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 51.364685900000005
 longitude: 11.294268200000001
-postcode: 06556
+postcode: "06556"
 city: Artern
 street: "Leipziger Straße"
 housenumber: 12

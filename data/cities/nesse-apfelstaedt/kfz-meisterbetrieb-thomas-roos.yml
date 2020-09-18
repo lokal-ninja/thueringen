@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.8974272
 longitude: 10.9224379
-postcode: 99192
+postcode: "99192"
 city: Nesse-Apfelstädt
 street: "Am Hochheimer See"
 housenumber: 16a

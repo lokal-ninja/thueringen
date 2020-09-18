@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.5095095
 longitude: 10.7526223
-postcode: 98553
+postcode: "98553"
 city: Schleusingen
 street: "Markt"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 50.928685300000005
 longitude: 12.3189454
-postcode: 04626
+postcode: "04626"
 city: Schmölln
 street: "Mohliser Weg"
 housenumber: 6

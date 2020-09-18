@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.0058729
 longitude: 12.439993900000001
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Alte Poststraße"
 housenumber: 3

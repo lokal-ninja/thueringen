@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 50.758790600000005
 longitude: 11.2270105
-postcode: 07407
+postcode: "07407"
 city: Rudolstadt
 street: "Sundremdaer Straße"
 housenumber: 13

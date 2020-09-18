@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.607788500000005
 longitude: 10.813978800000001
-postcode: 98528
+postcode: "98528"
 city: Suhl
 street: "Brunnenstraße"
 housenumber: 3

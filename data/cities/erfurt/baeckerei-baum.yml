@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.023030500000004
 longitude: 10.9961283
-postcode: 99091
+postcode: "99091"
 city: Erfurt
 street: "Bernauer Straße"
 housenumber: 17

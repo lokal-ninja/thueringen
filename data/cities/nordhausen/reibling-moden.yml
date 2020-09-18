@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.5081745
 longitude: 10.801445600000001
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Stolberger Straße"
 housenumber: 55

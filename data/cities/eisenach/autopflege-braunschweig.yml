@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.9766628
 longitude: 10.297901600000001
-postcode: 99817
+postcode: "99817"
 city: Eisenach
 street: "Siebenbornstraße"
 housenumber: 41

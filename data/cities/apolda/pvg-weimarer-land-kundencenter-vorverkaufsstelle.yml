@@ -3,7 +3,7 @@ type: way
 shop: Tickets
 latitude: 51.027674100000006
 longitude: 11.515477800000001
-postcode: 99510
+postcode: "99510"
 city: Apolda
 street: "Am Busbahnhof"
 housenumber: 

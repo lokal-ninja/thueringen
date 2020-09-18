@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.645582000000005
 longitude: 11.361259
-postcode: 07318
+postcode: "07318"
 city: Saalfeld/Saale
 street: "Obere Straße"
 housenumber: 34

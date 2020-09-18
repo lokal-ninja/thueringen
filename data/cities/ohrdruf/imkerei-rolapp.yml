@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.805608400000004
 longitude: 10.7777282
-postcode: 99885
+postcode: "99885"
 city: Ohrdruf
 street: "Auf der Schwemme"
 housenumber: 11

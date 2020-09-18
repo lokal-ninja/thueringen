@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.0006768
 longitude: 10.3223103
-postcode: 99817
+postcode: "99817"
 city: Eisenach
 street: "Ringstraße"
 housenumber: 7

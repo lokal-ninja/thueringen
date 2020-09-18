@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.3027798
 longitude: 11.185806600000001
-postcode: 06577
+postcode: "06577"
 city: Heldrungen
 street: "Am Bahnhof"
 housenumber: 18a

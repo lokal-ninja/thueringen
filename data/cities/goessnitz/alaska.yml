@@ -3,7 +3,7 @@ type: node
 shop: Tiefkühl
 latitude: 50.884165200000005
 longitude: 12.4335315
-postcode: 04639
+postcode: "04639"
 city: Gößnitz
 street: "Kauritzer Straße"
 housenumber: 29

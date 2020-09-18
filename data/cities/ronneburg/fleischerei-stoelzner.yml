@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.8634606
 longitude: 12.1805994
-postcode: 07580
+postcode: "07580"
 city: Ronneburg
 street: "August-Bebel-Straße"
 housenumber: 3

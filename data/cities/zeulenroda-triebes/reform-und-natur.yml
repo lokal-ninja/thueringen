@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.647814700000005
 longitude: 11.979568100000002
-postcode: 07937
+postcode: "07937"
 city: Zeulenroda-Triebes
 street: "Schleizer Straße"
 housenumber: 10-12

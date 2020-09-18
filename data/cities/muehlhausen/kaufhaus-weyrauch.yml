@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 51.2096579
 longitude: 10.4650861
-postcode: 99974
+postcode: "99974"
 city: Mühlhausen
 street: "Unter der Linde"
 housenumber: 1

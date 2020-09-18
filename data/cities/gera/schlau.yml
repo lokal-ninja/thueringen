@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 50.87653340000001
 longitude: 12.1167546
-postcode: 07546
+postcode: "07546"
 city: Gera
 street: "Naulitzer Straße"
 housenumber: 41

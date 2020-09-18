@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.6827125
 longitude: 11.2675698
-postcode: 07422
+postcode: "07422"
 city: Bad Blankenburg
 street: "Georgstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 51.264531000000005
 longitude: 11.4144412
-postcode: 06571
+postcode: "06571"
 city: Roßleben-Wiehe
 street: "Leopold-von-Ranke-Straße"
 housenumber: 31

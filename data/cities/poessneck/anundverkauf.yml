@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 50.6959876
 longitude: 11.5946295
-postcode: 07381
+postcode: "07381"
 city: Pößneck
 street: "Gerberstraße"
 housenumber: 53

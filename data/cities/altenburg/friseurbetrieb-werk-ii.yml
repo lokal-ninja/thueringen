@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9823986
 longitude: 12.437524300000002
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Teichvorstadt"
 housenumber: 5

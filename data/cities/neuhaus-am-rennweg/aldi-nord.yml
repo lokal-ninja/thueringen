@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.492685
 longitude: 11.159815400000001
-postcode: 98724
+postcode: "98724"
 city: Neuhaus am Rennweg
 street: "Sonneberger Straße"
 housenumber: 246

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.04250570000001
 longitude: 12.3006375
-postcode: 04610
+postcode: "04610"
 city: Meuselwitz
 street: "Am Rathaus"
 housenumber: 10

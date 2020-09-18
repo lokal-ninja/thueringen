@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.9743027
 longitude: 10.3233107
-postcode: 99817
+postcode: "99817"
 city: Eisenach
 street: "Goldschmiedenstraße"
 housenumber: 23

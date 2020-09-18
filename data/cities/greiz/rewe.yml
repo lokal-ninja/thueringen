@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.665739300000006
 longitude: 12.2159949
-postcode: 07973
+postcode: "07973"
 city: Greiz
 street: "Gerhart-Hauptmann-Straße"
 housenumber: 30

@@ -3,10 +3,10 @@ type: node
 shop: Angeln
 latitude: 50.6530192
 longitude: 11.988903500000001
-postcode: 07937
+postcode: "07937"
 city: Zeulenroda-Triebes
 street: "Schopperstraße"
 housenumber: 61a
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-12:00; Su,PH off"
+opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-12:00; PH,Su off"
 website: ""

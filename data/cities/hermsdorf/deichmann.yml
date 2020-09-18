@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 50.9037792
 longitude: 11.8547025
-postcode: 07629
+postcode: "07629"
 city: Hermsdorf
 street: "Eisenberger Straße"
 housenumber: 87

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.7385419
 longitude: 11.8757316
-postcode: 07819
+postcode: "07819"
 city: Triptis
 street: "Geraer Straße"
 housenumber: 53

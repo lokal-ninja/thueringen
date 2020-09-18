@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.048153500000005
 longitude: 12.2924596
-postcode: 04610
+postcode: "04610"
 city: Meuselwitz
 street: "Zeitzer Straße"
 housenumber: 51

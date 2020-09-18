@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 50.9671296
 longitude: 11.262098400000001
-postcode: 99428
+postcode: "99428"
 city: Grammetal
 street: "Querenstraße"
 housenumber: 9

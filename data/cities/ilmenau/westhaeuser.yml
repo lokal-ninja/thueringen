@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 50.6845464
 longitude: 10.912694
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "Straße des Friedens"
 housenumber: 30

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.8841327
 longitude: 11.607669600000001
-postcode: 07747
+postcode: "07747"
 city: Jena
 street: "Karl-Marx-Allee"
 housenumber: 20

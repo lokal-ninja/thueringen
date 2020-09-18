@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.3424319
 longitude: 11.1552424
-postcode: 96515
+postcode: "96515"
 city: Sonneberg
 street: "An der Lehmgrube"
 housenumber: 1

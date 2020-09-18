@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.9350132
 longitude: 10.992286700000001
-postcode: 99094
+postcode: "99094"
 city: Erfurt
 street: "Zur Sandecke"
 housenumber: 14B

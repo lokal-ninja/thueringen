@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.857471700000005
 longitude: 10.570331000000001
-postcode: 99894
+postcode: "99894"
 city: Friedrichroda
 street: "Friedrichsplatz"
 housenumber: 20

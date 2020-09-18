@@ -3,7 +3,7 @@ type: node
 shop: Nähzubehör
 latitude: 50.6554754
 longitude: 12.196897400000001
-postcode: 07973
+postcode: "07973"
 city: Greiz
 street: "Bruno-Bergner-Straße"
 housenumber: 7

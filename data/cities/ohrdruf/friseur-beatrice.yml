@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.808959900000005
 longitude: 10.7857383
-postcode: 99885
+postcode: "99885"
 city: Ohrdruf
 street: "Kupferstraße"
 housenumber: 15

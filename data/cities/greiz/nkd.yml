@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.656234700000006
 longitude: 12.198045800000001
-postcode: 07973
+postcode: "07973"
 city: Greiz
 street: "Brückenstraße"
 housenumber: 11

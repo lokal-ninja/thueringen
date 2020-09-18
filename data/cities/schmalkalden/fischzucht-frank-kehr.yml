@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 50.717977600000005
 longitude: 10.4384619
-postcode: 98574
+postcode: "98574"
 city: Schmalkalden
 street: "Kasseler Straße"
 housenumber: 5

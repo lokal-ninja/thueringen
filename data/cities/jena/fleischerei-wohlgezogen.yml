@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.947604500000004
 longitude: 11.599505800000001
-postcode: 07743
+postcode: "07743"
 city: Jena
 street: "Dornburger Straße"
 housenumber: 163

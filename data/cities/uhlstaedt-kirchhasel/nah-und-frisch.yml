@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.7426862
 longitude: 11.463177700000001
-postcode: 07407
+postcode: "07407"
 city: Uhlstädt-Kirchhasel
 street: "Bahnhofstraße"
 housenumber: 184

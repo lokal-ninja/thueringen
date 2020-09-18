@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 50.991394400000004
 longitude: 12.439213700000002
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Johann-Sebastian-Bach-Straße"
 housenumber: 2

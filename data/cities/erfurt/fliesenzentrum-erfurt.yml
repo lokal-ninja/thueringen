@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 50.975064100000004
 longitude: 11.065293500000001
-postcode: 99099
+postcode: "99099"
 city: Erfurt
 street: "Weimarische Straße"
 housenumber: 30

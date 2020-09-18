@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.5378077
 longitude: 10.768930000000001
-postcode: 99768
+postcode: "99768"
 city: Harztor
 street: "An der Dittfuhrt"
 housenumber: 2

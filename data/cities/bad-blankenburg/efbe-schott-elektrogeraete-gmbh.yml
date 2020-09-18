@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 50.6857046
 longitude: 11.2838431
-postcode: 07422
+postcode: "07422"
 city: Bad Blankenburg
 street: "Gustav-Töpfer-Straße"
 housenumber: 6

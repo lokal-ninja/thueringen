@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.641428100000006
 longitude: 11.3604391
-postcode: 07318
+postcode: "07318"
 city: Saalfeld/Saale
 street: "Reinhardtstraße"
 housenumber: 56

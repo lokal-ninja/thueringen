@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.8473738
 longitude: 10.7056903
-postcode: 99887
+postcode: "99887"
 city: Georgenthal
 street: "Friedensstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.673126100000005
 longitude: 10.9739544
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "Margarethenstraße"
 housenumber: 9

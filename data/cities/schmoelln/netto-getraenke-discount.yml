@@ -1,12 +1,12 @@
-id: 248465974
-type: way
+id: 7558812520
+type: node
 shop: Getränke
-latitude: 50.9016053
-longitude: 12.354356800000001
-postcode: 04626
+latitude: 50.9017593
+longitude: 12.3542299
+postcode: "04626"
 city: Schmölln
 street: "Bergstraße"
 housenumber: 74
 phone: ""
-opening_hours: ""
-website: "https://www.netto-online.de/impressum"
+opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+website: ""

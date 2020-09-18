@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.578627600000004
 longitude: 11.8204639
-postcode: 07907
+postcode: "07907"
 city: Schleiz
 street: "Greizer Straße"
 housenumber: 44

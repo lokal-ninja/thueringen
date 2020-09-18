@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.9662591
 longitude: 11.2541367
-postcode: 99428
+postcode: "99428"
 city: Grammetal
 street: "Steinbrüchenstraße"
 housenumber: 9

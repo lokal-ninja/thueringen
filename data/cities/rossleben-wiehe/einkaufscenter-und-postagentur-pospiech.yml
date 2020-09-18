@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 51.303054800000005
 longitude: 11.4051367
-postcode: 06571
+postcode: "06571"
 city: Roßleben-Wiehe
 street: "Hauptstraße"
 housenumber: 1

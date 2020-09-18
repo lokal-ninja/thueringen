@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.6482036
 longitude: 11.975411300000001
-postcode: 07937
+postcode: "07937"
 city: Zeulenroda-Triebes
 street: "Friedrich-Engels-Straße"
 housenumber: 41

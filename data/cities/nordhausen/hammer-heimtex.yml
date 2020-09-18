@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.49494910000001
 longitude: 10.8060383
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Hallesche Straße"
 housenumber: 53a

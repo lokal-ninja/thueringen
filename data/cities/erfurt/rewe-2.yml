@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.0039038
 longitude: 11.0155151
-postcode: 99089
+postcode: "99089"
 city: Erfurt
 street: "Mainzer Straße"
 housenumber: 39

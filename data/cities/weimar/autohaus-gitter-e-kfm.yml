@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.983040700000004
 longitude: 11.380606100000001
-postcode: 99425
+postcode: "99425"
 city: Weimar
 street: "Landhausallee"
 housenumber: 5

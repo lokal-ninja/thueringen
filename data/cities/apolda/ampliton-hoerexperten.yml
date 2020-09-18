@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.02269870000001
 longitude: 11.5123768
-postcode: 99510
+postcode: "99510"
 city: Apolda
 street: "Markt"
 housenumber: 7

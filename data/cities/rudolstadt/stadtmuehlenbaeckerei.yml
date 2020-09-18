@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.6912546
 longitude: 11.3243202
-postcode: 07407
+postcode: "07407"
 city: Rudolstadt
 street: "Anne-Frank-Straße"
 housenumber: 

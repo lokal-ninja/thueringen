@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.297496800000005
 longitude: 11.4348159
-postcode: 06571
+postcode: "06571"
 city: Roßleben-Wiehe
 street: "Am Bahnhof"
 housenumber: 1b

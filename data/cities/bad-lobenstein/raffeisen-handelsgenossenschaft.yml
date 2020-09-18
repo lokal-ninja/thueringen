@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.4502339
 longitude: 11.650671
-postcode: 07356
+postcode: "07356"
 city: Bad Lobenstein
 street: "Langer Weg"
 housenumber: 9b

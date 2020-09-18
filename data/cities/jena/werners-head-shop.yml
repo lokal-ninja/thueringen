@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.9293088
 longitude: 11.5859935
-postcode: 07743
+postcode: "07743"
 city: Jena
 street: "Jenergasse"
 housenumber: 1a

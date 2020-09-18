@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.6543579
 longitude: 11.9966576
-postcode: 07937
+postcode: "07937"
 city: Zeulenroda-Triebes
 street: "Heinrich-Heine-Straße"
 housenumber: 86

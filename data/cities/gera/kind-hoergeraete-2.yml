@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 50.8400672
 longitude: 12.0650331
-postcode: 07549
+postcode: "07549"
 city: Gera
 street: "Otto-Rothe-Straße"
 housenumber: 2

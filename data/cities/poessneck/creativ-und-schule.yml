@@ -3,9 +3,9 @@ type: node
 shop: Schreibwaren
 latitude: 50.695354200000004
 longitude: 11.5942042
-postcode: 07381
+postcode: "07381"
 city: Pößneck
-street: ""
+street: "Vordere Brauhausgasse"
 housenumber: 
 phone: ""
 opening_hours: ""

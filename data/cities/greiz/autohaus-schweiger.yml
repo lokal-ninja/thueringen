@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.656631600000004
 longitude: 12.1638576
-postcode: 07973
+postcode: "07973"
 city: Greiz
 street: "Äußere Zeulenrodaer Straße"
 housenumber: 19

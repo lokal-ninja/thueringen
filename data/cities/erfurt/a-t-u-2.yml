@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.9756803
 longitude: 11.073094300000001
-postcode: 99099
+postcode: "99099"
 city: Erfurt
 street: "Weimarische Straße"
 housenumber: 22b

@@ -3,7 +3,7 @@ type: way
 shop: Sanitätshaus
 latitude: 50.9208386
 longitude: 12.051869900000002
-postcode: 07552
+postcode: "07552"
 city: Gera
 street: "Eisenberger Straße"
 housenumber: 8

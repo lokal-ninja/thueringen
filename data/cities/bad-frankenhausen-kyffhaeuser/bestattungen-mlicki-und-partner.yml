@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 51.3592462
 longitude: 11.0962856
-postcode: 06567
+postcode: "06567"
 city: Bad Frankenhausen/Kyffhäuser
 street: "An der Wipper"
 housenumber: 1

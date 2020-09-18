@@ -3,10 +3,10 @@ type: way
 shop: Autowerkstatt
 latitude: 50.883186900000005
 longitude: 11.614634500000001
-postcode: 07747
+postcode: "07747"
 city: Jena
 street: "Emil-Wölk-Straße"
 housenumber: 1
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
 website: ""

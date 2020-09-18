@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.670029400000004
 longitude: 10.5521607
-postcode: 98587
+postcode: "98587"
 city: Steinbach-Hallenberg
 street: "Mühlstraße"
 housenumber: 52

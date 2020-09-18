@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.719087200000004
 longitude: 10.846822000000001
-postcode: 99331
+postcode: "99331"
 city: Geratal
 street: "Arnstädter Straße"
 housenumber: 18

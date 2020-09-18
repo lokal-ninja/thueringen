@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.37750440000001
 longitude: 10.13789
-postcode: 37308
+postcode: "37308"
 city: Heilbad Heiligenstadt
 street: "Wilhelmstraße"
 housenumber: 49

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.8577056
 longitude: 10.5705753
-postcode: 99894
+postcode: "99894"
 city: Friedrichroda
 street: "Friedrichstraße"
 housenumber: 5

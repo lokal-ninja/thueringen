@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 50.9961465
 longitude: 11.3398126
-postcode: 99427
+postcode: "99427"
 city: Weimar
 street: "Kromsdorfer Straße"
 housenumber: 17

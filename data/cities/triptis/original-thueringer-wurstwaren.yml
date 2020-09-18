@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.741105000000005
 longitude: 11.889118300000002
-postcode: 07819
+postcode: "07819"
 city: Triptis
 street: "Zeppelinstraße"
 housenumber: 10

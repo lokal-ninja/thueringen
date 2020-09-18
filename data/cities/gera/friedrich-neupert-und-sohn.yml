@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 50.877724900000004
 longitude: 12.082086
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: "Sorge"
 housenumber: 1

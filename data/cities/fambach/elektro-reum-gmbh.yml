@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.7377514
 longitude: 10.360989400000001
-postcode: 98597
+postcode: "98597"
 city: Fambach
 street: "Neue Wiese"
 housenumber: 3

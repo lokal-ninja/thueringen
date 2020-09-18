@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.4960232
 longitude: 10.8020335
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Hallesche Straße"
 housenumber: 30

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.1905416
 longitude: 11.0612375
-postcode: 99631
+postcode: "99631"
 city: Weißensee
 street: "Am Seerasen"
 housenumber: 4

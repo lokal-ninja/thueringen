@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 50.811669900000005
 longitude: 10.225090300000002
-postcode: 36433
+postcode: "36433"
 city: Bad Salzungen
 street: "Rhönstraße"
 housenumber: 25
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-20:00"
 website: "https://www.lidl.de/"

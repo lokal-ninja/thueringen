@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 50.5683815
 longitude: 11.806636800000001
-postcode: 07907
+postcode: "07907"
 city: Schleiz
 street: "Hofer Straße"
 housenumber: 62

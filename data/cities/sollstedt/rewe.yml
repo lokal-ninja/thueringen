@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4130776
 longitude: 10.532759
-postcode: 99759
+postcode: "99759"
 city: Sollstedt
 street: "Halle-Kasseler-Straße"
 housenumber: 57

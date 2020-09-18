@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.7173998
 longitude: 10.3911245
-postcode: 98574
+postcode: "98574"
 city: Schmalkalden
 street: "Hauptstraße"
 housenumber: 115

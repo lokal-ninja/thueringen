@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.0429588
 longitude: 12.301164400000001
-postcode: 04610
+postcode: "04610"
 city: Meuselwitz
 street: "Baderdamm"
 housenumber: 17

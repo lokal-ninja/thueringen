@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.979019
 longitude: 11.329263200000002
-postcode: 99423
+postcode: "99423"
 city: Weimar
 street: "Frauentorstraße"
 housenumber: 2

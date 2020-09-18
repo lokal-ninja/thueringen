@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.683367100000005
 longitude: 10.911101100000002
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "Lindenstraße"
 housenumber: 18

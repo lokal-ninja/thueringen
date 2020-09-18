@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.603376000000004
 longitude: 10.6780763
-postcode: 98529
+postcode: "98529"
 city: Suhl
 street: "Würzburger Straße"
 housenumber: 29

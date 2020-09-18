@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.9849212
 longitude: 12.4497704
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Rousseaustraße"
 housenumber: 60

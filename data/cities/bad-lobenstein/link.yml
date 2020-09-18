@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.4496819
 longitude: 11.6513
-postcode: 07356
+postcode: "07356"
 city: Bad Lobenstein
 street: "Langer Weg"
 housenumber: 9 B

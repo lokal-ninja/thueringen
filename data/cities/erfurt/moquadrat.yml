@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 50.9760337
 longitude: 11.027234100000001
-postcode: 99084
+postcode: "99084"
 city: Erfurt
 street: "Paulstraße"
 housenumber: 29/30
-phone: "0361/43039948"
+phone: "+49 361 43039948"
 opening_hours: "Mo-Fr 9:30-18:30, Sa 10:00-17:00"
 website: "http://www.moquadrat.de"

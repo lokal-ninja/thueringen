@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.96910930000001
 longitude: 11.981498
-postcode: 07613
+postcode: "07613"
 city: Crossen an der Elster
 street: "Lange Wiese"
 housenumber: 2

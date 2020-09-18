@@ -3,10 +3,10 @@ type: node
 shop: Metzgerei
 latitude: 50.889527400000006
 longitude: 12.429518900000001
-postcode: 04639
+postcode: "04639"
 city: Gößnitz
 street: "Bahnhofstraße"
 housenumber: 18
-phone: "+49 34493 713663"
+phone: ""
 opening_hours: ""
 website: ""

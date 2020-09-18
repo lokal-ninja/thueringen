@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.354833600000006
 longitude: 10.9095694
-postcode: 99706
+postcode: "99706"
 city: Sondershausen
 street: "Jechaer Weg"
 housenumber: 

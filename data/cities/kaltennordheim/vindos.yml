@@ -3,10 +3,10 @@ type: node
 shop: Andenken
 latitude: 50.627030500000004
 longitude: 10.1589313
-postcode: 36452
+postcode: "36452"
 city: Kaltennordheim
 street: "Kirchstraße"
 housenumber: 22
-phone: "036966-273997"
+phone: "+49 36966 273997"
 opening_hours: ""
 website: ""

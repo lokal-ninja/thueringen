@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.8901265
 longitude: 12.432894500000002
-postcode: 04639
+postcode: "04639"
 city: Gößnitz
 street: "Altenburger Straße"
 housenumber: 13

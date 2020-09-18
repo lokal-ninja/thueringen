@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8871222
 longitude: 12.073333400000001
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: "Theaterstraße"
 housenumber: 19

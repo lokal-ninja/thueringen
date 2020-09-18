@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.6553419
 longitude: 12.197263300000001
-postcode: 07973
+postcode: "07973"
 city: Greiz
 street: "Bruno-Bergner-Straße"
 housenumber: 4

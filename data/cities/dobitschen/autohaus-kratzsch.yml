@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.9605528
 longitude: 12.2691046
-postcode: 04626
+postcode: "04626"
 city: Dobitschen
 street: "Bahnhofstraße"
 housenumber: 32

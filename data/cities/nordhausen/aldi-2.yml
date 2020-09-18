@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.508181400000005
 longitude: 10.7794485
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Wilhelm-Raabe-Straße"
 housenumber: 1

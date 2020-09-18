@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.7127897
 longitude: 10.8309906
-postcode: 99331
+postcode: "99331"
 city: Geratal
 street: "Gewerbepark"
 housenumber: 7

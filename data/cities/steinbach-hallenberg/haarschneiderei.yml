@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.6641096
 longitude: 10.556383400000001
-postcode: 98587
+postcode: "98587"
 city: Steinbach-Hallenberg
 street: "Ernst-Thälmann-Straße"
 housenumber: 52

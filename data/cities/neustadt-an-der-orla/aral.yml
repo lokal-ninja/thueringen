@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.739000100000005
 longitude: 11.768222900000001
-postcode: 07806
+postcode: "07806"
 city: Neustadt an der Orla
 street: "Triptiser Straße"
 housenumber: 36

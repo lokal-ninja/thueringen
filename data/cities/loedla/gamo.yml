@@ -3,10 +3,10 @@ type: node
 shop: Autowerkstatt
 latitude: 50.998972300000005
 longitude: 12.401928300000002
-postcode: 04617
+postcode: "04617"
 city: Lödla
 street: "An der Lödlaer Chaussee"
-housenumber: 4
-phone: "+49 3447 510660"
-opening_hours: ""
+housenumber: 3 - 4
+phone: ""
+opening_hours: "Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-15:30; Sa,Su,PH off"
 website: ""

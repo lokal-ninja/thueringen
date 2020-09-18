@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4130796
 longitude: 10.5824505
-postcode: 99759
+postcode: "99759"
 city: Bleicherode
 street: "Kurze Trift"
 housenumber: 102

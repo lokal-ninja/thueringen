@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.9775513
 longitude: 11.0864398
-postcode: 99098
+postcode: "99098"
 city: Erfurt
 street: "Über dem Feldgarten"
 housenumber: 3

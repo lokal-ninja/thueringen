@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.998468
 longitude: 12.442150000000002
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Eisenbahnstraße"
 housenumber: 1A

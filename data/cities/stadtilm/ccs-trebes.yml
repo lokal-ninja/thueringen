@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.750446200000006
 longitude: 11.0435295
-postcode: 99326
+postcode: "99326"
 city: Stadtilm
 street: "Zum Rieth"
 housenumber: 7

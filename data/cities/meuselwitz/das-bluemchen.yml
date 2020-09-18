@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.0477799
 longitude: 12.292143000000001
-postcode: 04610
+postcode: "04610"
 city: Meuselwitz
 street: "Zeitzer Straße"
 housenumber: 51

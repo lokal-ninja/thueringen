@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 50.3257496
 longitude: 11.284049900000001
-postcode: 96342
+postcode: "96342"
 city: Stockheim
 street: "Ludwigsstädter Straße"
 housenumber: 95

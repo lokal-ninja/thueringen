@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 50.9791303
 longitude: 11.029123
-postcode: 99084
+postcode: "99084"
 city: Erfurt
 street: "Michaelisstraße"
 housenumber: 44

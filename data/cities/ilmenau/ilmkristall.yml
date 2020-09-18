@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.682646500000004
 longitude: 10.9111332
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "Lindenstraße"
 housenumber: 31

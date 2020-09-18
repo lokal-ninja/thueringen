@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 51.50007840000001
 longitude: 10.780265100000001
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Bochumer Straße"
 housenumber: 22

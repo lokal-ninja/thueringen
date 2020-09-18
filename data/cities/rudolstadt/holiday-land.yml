@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.7198511
 longitude: 11.337446700000001
-postcode: 07407
+postcode: "07407"
 city: Rudolstadt
 street: "Angerstraße"
 housenumber: 1

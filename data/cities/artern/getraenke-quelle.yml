@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.3743172
 longitude: 11.285718600000001
-postcode: 06556
+postcode: "06556"
 city: Artern
 street: "Kachstedter Straße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.935172300000005
 longitude: 10.3898088
-postcode: 99848
+postcode: "99848"
 city: Wutha-Farnroda
 street: "Hauptstraße"
 housenumber: 43

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4402206
 longitude: 10.488445700000002
-postcode: 37339
+postcode: "37339"
 city: Buhla
 street: "Karl-Marx-Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.693385000000006
 longitude: 11.589037000000001
-postcode: 07381
+postcode: "07381"
 city: Pößneck
 street: "Saalfelder Straße"
 housenumber: 21

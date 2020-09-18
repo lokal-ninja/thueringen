@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.0464442
 longitude: 12.2825743
-postcode: 04610
+postcode: "04610"
 city: Meuselwitz
 street: "Zeitzer Straße"
 housenumber: 84

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9816974
 longitude: 12.4489239
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Eschenstraße"
 housenumber: 2

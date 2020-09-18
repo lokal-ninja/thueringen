@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.7060717
 longitude: 10.4812613
-postcode: 98574
+postcode: "98574"
 city: Schmalkalden
 street: "Suhler Straße"
 housenumber: 1a

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.4952521
 longitude: 10.7875318
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Emil-Reichardt-Straße"
 housenumber: 9a

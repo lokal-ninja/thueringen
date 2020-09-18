@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.9685238
 longitude: 11.0514881
-postcode: 99099
+postcode: "99099"
 city: Erfurt
 street: "Hans-Grundig-Straße"
 housenumber: 28

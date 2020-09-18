@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.671107400000004
 longitude: 12.1547823
-postcode: 07973
+postcode: "07973"
 city: Greiz
 street: "Geraer Straße"
 housenumber: 4

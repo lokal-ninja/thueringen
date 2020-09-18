@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.698557400000006
 longitude: 11.620510300000001
-postcode: 07381
+postcode: "07381"
 city: Pößneck
 street: "Malmsgelänge"
 housenumber: 8

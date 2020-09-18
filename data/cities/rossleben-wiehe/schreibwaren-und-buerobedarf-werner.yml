@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 51.2965765
 longitude: 11.432387400000001
-postcode: 06571
+postcode: "06571"
 city: Roßleben-Wiehe
 street: "Bottendorfer Straße"
 housenumber: 2

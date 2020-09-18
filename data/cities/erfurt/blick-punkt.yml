@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.9877983
 longitude: 11.036127
-postcode: 99086
+postcode: "99086"
 city: Erfurt
 street: "Friedrich-Engels-Straße"
 housenumber: 63

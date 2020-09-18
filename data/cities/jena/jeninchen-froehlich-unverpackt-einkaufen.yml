@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.9347762
 longitude: 11.5886166
-postcode: 07743
+postcode: "07743"
 city: Jena
 street: "Sophienstraße"
 housenumber: 37-39

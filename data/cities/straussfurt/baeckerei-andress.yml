@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.161048
 longitude: 10.9929805
-postcode: 99634
+postcode: "99634"
 city: Straußfurt
 street: "Damaschkestraße"
 housenumber: 14

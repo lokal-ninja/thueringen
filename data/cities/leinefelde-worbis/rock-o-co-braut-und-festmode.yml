@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.388091900000006
 longitude: 10.3230885
-postcode: 37327
+postcode: "37327"
 city: Leinefelde-Worbis
 street: "Bahnhofstraße"
 housenumber: 15

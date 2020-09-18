@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0366316
 longitude: 12.3140411
-postcode: 04610
+postcode: "04610"
 city: Meuselwitz
 street: "Ackerstraße"
 housenumber: 3

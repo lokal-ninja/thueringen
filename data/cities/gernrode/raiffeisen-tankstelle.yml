@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.384282500000005
 longitude: 10.4134434
-postcode: 37339
+postcode: "37339"
 city: Gernrode
 street: "Bahnhofstraße"
 housenumber: 31

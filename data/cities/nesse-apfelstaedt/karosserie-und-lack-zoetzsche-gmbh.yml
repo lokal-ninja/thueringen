@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.900928500000006
 longitude: 10.8782853
-postcode: 99192
+postcode: "99192"
 city: Nesse-Apfelstädt
 street: "Wandersleber Straße"
 housenumber: 9

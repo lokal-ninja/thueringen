@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 50.9346309
 longitude: 12.005870600000002
-postcode: 07586
+postcode: "07586"
 city: Bad Köstritz
 street: "Deegenstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.165389700000006
 longitude: 10.4189027
-postcode: 99986
+postcode: "99986"
 city: Vogtei
 street: "Am Anger"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.998705400000006
 longitude: 12.400139600000001
-postcode: 04617
+postcode: "04617"
 city: Lödla
 street: "Lödlaer Chaussee"
 housenumber: 10A

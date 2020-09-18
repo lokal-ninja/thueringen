@@ -3,7 +3,7 @@ type: way
 shop: Fisch
 latitude: 50.7784818
 longitude: 11.918518
-postcode: 07570
+postcode: "07570"
 city: Harth-Pöllnitz
 street: "Birkhausen"
 housenumber: 12

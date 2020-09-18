@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.888834900000006
 longitude: 12.081065800000001
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: "Berliner Straße"
 housenumber: 69

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.7279805
 longitude: 10.4921894
-postcode: 98574
+postcode: "98574"
 city: Schmalkalden
 street: "Hüttenwiese"
 housenumber: 14

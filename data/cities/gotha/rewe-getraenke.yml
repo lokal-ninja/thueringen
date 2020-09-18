@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 50.94520300000001
 longitude: 10.6843439
-postcode: 99867
+postcode: "99867"
 city: Gotha
 street: "Coburger Platz"
 housenumber: 3

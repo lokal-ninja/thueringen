@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.7048852
 longitude: 11.610279100000001
-postcode: 07381
+postcode: "07381"
 city: Pößneck
 street: "Köstitzer Straße"
 housenumber: 19

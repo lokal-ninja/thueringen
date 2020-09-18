@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.0181113
 longitude: 12.366628500000001
-postcode: 04617
+postcode: "04617"
 city: Rositz
 street: "Ringstraße"
 housenumber: 11

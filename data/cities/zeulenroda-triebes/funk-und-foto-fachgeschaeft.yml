@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 50.648730400000005
 longitude: 11.982452700000001
-postcode: 07937
+postcode: "07937"
 city: Zeulenroda-Triebes
 street: "Bendenreihe"
 housenumber: 3

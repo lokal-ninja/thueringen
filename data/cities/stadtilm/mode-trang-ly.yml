@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.7748639
 longitude: 11.081158
-postcode: 99326
+postcode: "99326"
 city: Stadtilm
 street: "Markt"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.416729000000004
 longitude: 10.914113100000002
-postcode: 98673
+postcode: "98673"
 city: Eisfeld
 street: "Coburger Straße"
 housenumber: 73

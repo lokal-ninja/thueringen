@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.893098300000005
 longitude: 12.0799205
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: "Berliner Straße"
 housenumber: 147

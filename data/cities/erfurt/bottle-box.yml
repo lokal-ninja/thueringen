@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.9861091
 longitude: 11.0337984
-postcode: 99086
+postcode: "99086"
 city: Erfurt
 street: "Josef-Ries-Straße"
 housenumber: 84

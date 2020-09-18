@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.652844900000005
 longitude: 11.0096748
-postcode: 98694
+postcode: "98694"
 city: Ilmenau
 street: "Königseer Straße"
 housenumber: 3-5

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.299711200000004
 longitude: 11.2021043
-postcode: 06577
+postcode: "06577"
 city: Heldrungen
 street: "An der Schmücke"
 housenumber: 10

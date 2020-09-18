@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 50.8153091
 longitude: 10.3539835
-postcode: 36448
+postcode: "36448"
 city: Bad Liebenstein
 street: "Herzog-Georg-Straße"
 housenumber: 33

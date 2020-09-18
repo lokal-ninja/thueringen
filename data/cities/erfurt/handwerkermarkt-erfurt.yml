@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.0111027
 longitude: 11.0223227
-postcode: 99086
+postcode: "99086"
 city: Erfurt
 street: "An der Lache"
 housenumber: 32

@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 50.8829447
 longitude: 12.162629200000001
-postcode: 07554
+postcode: "07554"
 city: Korbußen
 street: "Zu den Wettelwiesen"
 housenumber: 2

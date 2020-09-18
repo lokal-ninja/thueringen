@@ -1,9 +1,9 @@
 id: 2458007719
 type: node
 shop: Lebensmittel
-latitude: 50.927689
-longitude: 11.5881129
-postcode: 07743
+latitude: 50.927689300000004
+longitude: 11.588135600000001
+postcode: "07743"
 city: Jena
 street: "Markt"
 housenumber: 19

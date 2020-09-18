@@ -3,10 +3,10 @@ type: way
 shop: Drogerie
 latitude: 50.7142325
 longitude: 9.9574757
-postcode: 36419
+postcode: "36419"
 city: Geisa
 street: "Rhönstraße"
 housenumber: 23
 phone: ""
-opening_hours: ""
-website: "https://www.rossmann.de"
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
+website: ""

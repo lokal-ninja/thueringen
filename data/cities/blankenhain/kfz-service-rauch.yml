@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.855122300000005
 longitude: 11.3433655
-postcode: 99444
+postcode: "99444"
 city: Blankenhain
 street: "Rudolstädter Straße"
 housenumber: 31a

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.902688600000005
 longitude: 12.1961007
-postcode: 07580
+postcode: "07580"
 city: Großenstein
 street: "Schulplatz"
 housenumber: 2

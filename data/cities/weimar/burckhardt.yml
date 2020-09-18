@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.966309300000006
 longitude: 11.3442957
-postcode: 99425
+postcode: "99425"
 city: Weimar
 street: "Mittelstraße"
 housenumber: 13

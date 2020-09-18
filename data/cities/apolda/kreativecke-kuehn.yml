@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 51.0281597
 longitude: 11.517718100000002
-postcode: 99510
+postcode: "99510"
 city: Apolda
 street: "Bernhardstraße"
 housenumber: 43

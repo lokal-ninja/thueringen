@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.311763600000006
 longitude: 11.2429786
-postcode: 96524
+postcode: "96524"
 city: Föritztal
 street: "Hofwiese"
 housenumber: 6

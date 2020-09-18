@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.922280400000005
 longitude: 12.445264400000001
-postcode: 04603
+postcode: "04603"
 city: Nobitz
 street: "Zehma"
 housenumber: 64

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.9000263
 longitude: 11.855964100000001
-postcode: 07629
+postcode: "07629"
 city: Hermsdorf
 street: "Eisenberger Straße"
 housenumber: 78

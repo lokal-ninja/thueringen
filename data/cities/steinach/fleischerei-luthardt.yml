@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.425546000000004
 longitude: 11.1628778
-postcode: 96523
+postcode: "96523"
 city: Steinach
 street: "Grüntalstraße"
 housenumber: 26

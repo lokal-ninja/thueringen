@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 50.918464400000005
 longitude: 11.868728800000001
-postcode: 07639
+postcode: "07639"
 city: Bad Klosterlausnitz
 street: "Gartenstraße"
 housenumber: 1

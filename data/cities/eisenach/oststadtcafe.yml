@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.977338800000005
 longitude: 10.343145900000001
-postcode: 99817
+postcode: "99817"
 city: Eisenach
 street: "Ludwigstraße"
 housenumber: 2

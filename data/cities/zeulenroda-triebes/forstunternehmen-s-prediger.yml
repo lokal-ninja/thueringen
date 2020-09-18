@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.6619679
 longitude: 12.0036787
-postcode: 07937
+postcode: "07937"
 city: Zeulenroda-Triebes
 street: "Industriestraße"
 housenumber: 7

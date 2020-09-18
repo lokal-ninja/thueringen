@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 50.7995895
 longitude: 10.306006100000001
-postcode: 36456
+postcode: "36456"
 city: Barchfeld-Immelborn
 street: "Steinbacher Straße"
 housenumber: 7

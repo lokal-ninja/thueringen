@@ -3,7 +3,7 @@ type: node
 shop: Mieten
 latitude: 50.604469400000006
 longitude: 10.812308
-postcode: 98528
+postcode: "98528"
 city: Suhl
 street: "Am Wald"
 housenumber: 4

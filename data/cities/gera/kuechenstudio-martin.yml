@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 50.880126600000004
 longitude: 12.0844447
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: "Leipziger Straße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.024777400000005
 longitude: 11.510328600000001
-postcode: 99510
+postcode: "99510"
 city: Apolda
 street: "Martinskirchgasse"
 housenumber: 11

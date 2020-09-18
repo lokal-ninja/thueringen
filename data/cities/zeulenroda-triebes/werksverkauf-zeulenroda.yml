@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 50.655622900000004
 longitude: 11.9958471
-postcode: 07937
+postcode: "07937"
 city: Zeulenroda-Triebes
 street: "Albin-May-Straße"
 housenumber: 3

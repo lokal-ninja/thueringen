@@ -3,7 +3,7 @@ type: node
 shop: Kamine & Öfen
 latitude: 50.9209717
 longitude: 11.5808575
-postcode: 07745
+postcode: "07745"
 city: Jena
 street: "Kahlaische Straße"
 housenumber: 4

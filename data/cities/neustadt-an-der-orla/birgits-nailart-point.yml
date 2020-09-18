@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.744920900000004
 longitude: 11.764218300000001
-postcode: 07806
+postcode: "07806"
 city: Neustadt an der Orla
 street: "Walkmühlenstraße"
 housenumber: 8

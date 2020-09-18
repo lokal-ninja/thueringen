@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.004955100000004
 longitude: 12.4272161
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Bonhoefferstraße"
 housenumber: 44

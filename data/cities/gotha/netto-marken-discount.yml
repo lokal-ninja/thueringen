@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.944386
 longitude: 10.7313664
-postcode: 99867
+postcode: "99867"
 city: Gotha
 street: "Bertha-Schneyer-Straße"
 housenumber: 5-7

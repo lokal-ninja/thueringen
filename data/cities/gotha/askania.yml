@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 50.950333400000005
 longitude: 10.697700300000001
-postcode: 99867
+postcode: "99867"
 city: Gotha
 street: "Bertha-von-Suttner-Straße"
 housenumber: 2-8

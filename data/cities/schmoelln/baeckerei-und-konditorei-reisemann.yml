@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 50.900803100000005
 longitude: 12.3531302
-postcode: 04626
+postcode: "04626"
 city: Schmölln
 street: "August-Bebel-Straße"
 housenumber: 21
-phone: "034491 2 32 78"
+phone: "+49 34491 2 32 78"
 opening_hours: ""
 website: ""

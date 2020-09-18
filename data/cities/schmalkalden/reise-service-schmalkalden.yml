@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.7210017
 longitude: 10.4496775
-postcode: 98574
+postcode: "98574"
 city: Schmalkalden
 street: "Auer Gasse"
 housenumber: 12

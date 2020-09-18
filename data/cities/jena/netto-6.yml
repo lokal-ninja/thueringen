@@ -1,12 +1,12 @@
-id: 267229505
+id: 292911479
 type: way
 shop: Supermarkt
-latitude: 50.920861800000004
-longitude: 11.568635500000001
-postcode: 07745
+latitude: 50.8922971
+longitude: 11.608191900000001
+postcode: "07747"
 city: Jena
-street: "Friedrich-Körner-Straße"
-housenumber: 2
+street: "Marktstraße"
+housenumber: 17
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00"
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

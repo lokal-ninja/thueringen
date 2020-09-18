@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.8579218
 longitude: 11.7266384
-postcode: 07646
+postcode: "07646"
 city: Stadtroda
 street: "Straße des Friedens"
 housenumber: 9

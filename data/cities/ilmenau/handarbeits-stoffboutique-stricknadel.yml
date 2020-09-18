@@ -3,7 +3,7 @@ type: way
 shop: Textil
 latitude: 50.686832100000004
 longitude: 10.91484
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "Marktstraße"
 housenumber: 26

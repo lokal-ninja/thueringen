@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 50.7216146
 longitude: 10.451668600000001
-postcode: 98574
+postcode: "98574"
 city: Schmalkalden
 street: "Mohrengasse"
 housenumber: 1a

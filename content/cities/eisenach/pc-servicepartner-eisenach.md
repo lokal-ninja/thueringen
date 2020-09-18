@@ -1,4 +1,4 @@
 ---
-title: "PC-SERVICEPARTNER-EISENACH"
+title: "PC-Servicepartner Eisenach"
 url: /eisenach/pc-servicepartner-eisenach/
 ---

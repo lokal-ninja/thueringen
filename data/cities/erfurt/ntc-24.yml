@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.9520781
 longitude: 11.0926294
-postcode: 99099
+postcode: "99099"
 city: Erfurt
 street: "Am Herrenberg"
 housenumber: 101

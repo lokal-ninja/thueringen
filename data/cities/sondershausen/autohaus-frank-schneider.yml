@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.3748802
 longitude: 10.8567543
-postcode: 99706
+postcode: "99706"
 city: Sondershausen
 street: "Nordhäuser Straße"
 housenumber: 1a

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.5796676
 longitude: 10.3313146
-postcode: 98617
+postcode: "98617"
 city: Meiningen
 street: "An der Haig"
 housenumber: 9

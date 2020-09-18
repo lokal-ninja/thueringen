@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.6909715
 longitude: 11.327155900000001
-postcode: 07407
+postcode: "07407"
 city: Rudolstadt
 street: "Schwarzburger Straße"
 housenumber: 1

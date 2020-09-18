@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.694155200000004
 longitude: 10.9284383
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "Ziolkowskistraße"
 housenumber: 8

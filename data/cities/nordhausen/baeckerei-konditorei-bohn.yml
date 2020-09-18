@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5005864
 longitude: 10.8086979
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Jahnstraße"
 housenumber: 78

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.7749992
 longitude: 12.063180000000001
-postcode: 07570
+postcode: "07570"
 city: Weida
 street: "Geraer Straße"
 housenumber: 40

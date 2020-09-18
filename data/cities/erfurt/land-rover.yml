@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.9780565
 longitude: 11.0843515
-postcode: 99085
+postcode: "99085"
 city: Erfurt
 street: "An der Henne"
 housenumber: 22

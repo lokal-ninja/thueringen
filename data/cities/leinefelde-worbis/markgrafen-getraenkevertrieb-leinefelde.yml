@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.3833032
 longitude: 10.3288606
-postcode: 37327
+postcode: "37327"
 city: Leinefelde-Worbis
 street: "Birkunger Straße"
 housenumber: 29b

@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 50.45239410000001
 longitude: 11.640403300000001
-postcode: 07356
+postcode: "07356"
 city: Bad Lobenstein
 street: "Poststraße"
 housenumber: 11

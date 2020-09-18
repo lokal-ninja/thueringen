@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.9066247
 longitude: 11.845425700000002
-postcode: 07629
+postcode: "07629"
 city: Hermsdorf
 street: "Erich-Weinert-Straße"
 housenumber: 45

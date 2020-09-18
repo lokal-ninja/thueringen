@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.631151200000005
 longitude: 10.1580321
-postcode: 36452
+postcode: "36452"
 city: Kaltennordheim
 street: "Feldabahnstraße"
 housenumber: 6

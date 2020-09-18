@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.3798327
 longitude: 10.345098100000001
-postcode: 37327
+postcode: "37327"
 city: Leinefelde-Worbis
 street: "Waldstraße"
 housenumber: 60

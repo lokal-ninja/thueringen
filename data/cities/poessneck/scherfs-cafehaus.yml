@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.694991200000004
 longitude: 11.5941056
-postcode: 07381
+postcode: "07381"
 city: Pößneck
 street: "Breite Straße"
 housenumber: 35

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.9468213
 longitude: 11.604561100000002
-postcode: 07743
+postcode: "07743"
 city: Jena
 street: "Altenburger Straße"
 housenumber: 1

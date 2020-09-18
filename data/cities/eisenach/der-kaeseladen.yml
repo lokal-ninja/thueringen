@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 50.9737365
 longitude: 10.3234633
-postcode: 99817
+postcode: "99817"
 city: Eisenach
 street: "Johannisplatz"
 housenumber: 4

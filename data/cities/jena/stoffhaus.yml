@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 50.9276435
 longitude: 11.590674400000001
-postcode: 
+postcode: ""
 city: Jena
 street: "Löbdergraben"
 housenumber: 24

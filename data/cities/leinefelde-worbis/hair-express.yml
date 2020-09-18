@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.388192000000004
 longitude: 10.327691900000001
-postcode: 37327
+postcode: "37327"
 city: Leinefelde-Worbis
 street: "Bahnhofstraße"
 housenumber: 48

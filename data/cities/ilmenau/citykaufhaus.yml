@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 50.684553300000005
 longitude: 10.9157031
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "Friedrich-Hofmann-Straße"
 housenumber: 4-6

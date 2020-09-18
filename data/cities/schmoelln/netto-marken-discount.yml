@@ -1,12 +1,12 @@
-id: 120464857
-type: way
+id: 7558812519
+type: node
 shop: Supermarkt
-latitude: 50.9013599
-longitude: 12.354878300000001
-postcode: 04626
+latitude: 50.901253800000006
+longitude: 12.3543651
+postcode: "04626"
 city: Schmölln
 street: "Bergstraße"
-housenumber: 72
+housenumber: 72 / 74
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de/"
+opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00; Su,PH off"
+website: ""

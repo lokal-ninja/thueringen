@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.8773076
 longitude: 12.084525500000002
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: "Große Kirchstraße"
 housenumber: 17

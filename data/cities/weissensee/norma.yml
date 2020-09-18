@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.193786700000004
 longitude: 11.0669722
-postcode: 99631
+postcode: "99631"
 city: Weißensee
 street: "Ulmenallee"
 housenumber: 1

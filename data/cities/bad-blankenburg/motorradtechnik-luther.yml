@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 50.6854346
 longitude: 11.2779544
-postcode: 07422
+postcode: "07422"
 city: Bad Blankenburg
 street: "Hermann-Petersilge-Straße"
 housenumber: 12

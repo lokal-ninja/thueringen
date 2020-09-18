@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.8387643
 longitude: 12.050681800000001
-postcode: 07549
+postcode: "07549"
 city: Gera
 street: "Rudolf-Hundt-Straße"
 housenumber: 1

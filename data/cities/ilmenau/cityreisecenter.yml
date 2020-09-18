@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 50.6846602
 longitude: 10.912768300000002
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "Straße des Friedens"
 housenumber: 26

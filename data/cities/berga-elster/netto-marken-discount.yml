@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.749836300000005
 longitude: 12.1600037
-postcode: 07980
+postcode: "07980"
 city: Berga/Elster
 street: "Bahnhofstraße"
 housenumber: 16a

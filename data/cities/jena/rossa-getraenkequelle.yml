@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.8924491
 longitude: 11.6091966
-postcode: 07747
+postcode: "07747"
 city: Jena
 street: "Nikolaus-Theiner-Straße"
 housenumber: 1

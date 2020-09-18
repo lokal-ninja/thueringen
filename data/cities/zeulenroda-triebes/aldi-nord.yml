@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.6593462
 longitude: 11.9946865
-postcode: 07937
+postcode: "07937"
 city: Zeulenroda-Triebes
 street: "Meinersdorfer Straße"
 housenumber: 8

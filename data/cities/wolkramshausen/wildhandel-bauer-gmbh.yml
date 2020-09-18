@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.4222229
 longitude: 10.7339303
-postcode: 99735
+postcode: "99735"
 city: Wolkramshausen
 street: "Sondershäuser Straße"
 housenumber: 22

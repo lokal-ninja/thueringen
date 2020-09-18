@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.008372900000005
 longitude: 10.9985464
-postcode: 99091
+postcode: "99091"
 city: Erfurt
 street: "Moskauer Platz"
 housenumber: 20

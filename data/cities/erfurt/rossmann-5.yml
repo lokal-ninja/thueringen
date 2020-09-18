@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.004288200000005
 longitude: 11.014658200000001
-postcode: 99089
+postcode: "99089"
 city: Erfurt
 street: "Mainzer Straße"
 housenumber: 38

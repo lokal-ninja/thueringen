@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.4962169
 longitude: 10.7797412
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Paul-Ernst-Straße"
 housenumber: 4

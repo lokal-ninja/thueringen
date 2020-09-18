@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 50.9749671
 longitude: 12.420058800000001
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Schmöllnsche Landstraße"
 housenumber: 31

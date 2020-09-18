@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.6291299
 longitude: 10.156013900000001
-postcode: 36452
+postcode: "36452"
 city: Kaltennordheim
 street: "August-Bebel-Straße"
 housenumber: 30

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1570836
 longitude: 11.1342359
-postcode: 99610
+postcode: "99610"
 city: Sömmerda
 street: "Straße der Einheit"
 housenumber: 15

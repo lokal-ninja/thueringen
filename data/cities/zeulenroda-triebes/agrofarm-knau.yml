@@ -1,12 +1,12 @@
 id: 6965931418
 type: node
 shop: Metzgerei
-latitude: 50.6884074
-longitude: 12.0251278
-postcode: 07950
+latitude: 50.688718400000006
+longitude: 12.025189500000002
+postcode: "07950"
 city: Zeulenroda-Triebes
 street: "Hauptstraße"
 housenumber: 55
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: "Mo-Sa 07:00-20:00; PH,Su off"
 website: ""

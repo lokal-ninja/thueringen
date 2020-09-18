@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1053008
 longitude: 11.1411446
-postcode: 99195
+postcode: "99195"
 city: Schloßvippach
 street: "Kirchgasse"
 housenumber: 2

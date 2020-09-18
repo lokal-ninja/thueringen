@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 50.9782986
 longitude: 10.3061428
-postcode: 99817
+postcode: "99817"
 city: Eisenach
 street: "Bleichrasen"
 housenumber: 41

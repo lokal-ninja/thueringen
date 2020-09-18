@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.9375525
 longitude: 11.482343100000001
-postcode: 99441
+postcode: "99441"
 city: Großschwabhausen
 street: "Am Bahnhof"
 housenumber: 3

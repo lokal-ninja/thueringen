@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 50.682686600000004
 longitude: 10.910630300000001
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "Lindenstraße"
 housenumber: 26

@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 50.8840444
 longitude: 11.618794600000001
-postcode: 07747
+postcode: "07747"
 city: Jena
 street: "Salvador-Allende-Platz"
 housenumber: 27

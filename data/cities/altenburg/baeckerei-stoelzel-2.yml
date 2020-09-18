@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9876543
 longitude: 12.445241500000002
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Münsaer Straße"
 housenumber: 8 A

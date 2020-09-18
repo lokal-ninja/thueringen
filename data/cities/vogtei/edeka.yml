@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.165247900000004
 longitude: 10.4374537
-postcode: 99986
+postcode: "99986"
 city: Vogtei
 street: "Eisenacher Landstraße"
 housenumber: 7

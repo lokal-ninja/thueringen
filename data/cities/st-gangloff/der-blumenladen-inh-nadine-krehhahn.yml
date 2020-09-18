@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.8552733
 longitude: 11.893543000000001
-postcode: 07629
+postcode: "07629"
 city: St. Gangloff
 street: "Straße der Republik"
 housenumber: 36

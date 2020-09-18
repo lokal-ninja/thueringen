@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.002777800000004
 longitude: 11.033297600000001
-postcode: 99086
+postcode: "99086"
 city: Erfurt
 street: "Teichstraße"
 housenumber: 63

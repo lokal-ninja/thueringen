@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 50.628179
 longitude: 10.1600149
-postcode: 36452
+postcode: "36452"
 city: Kaltennordheim
 street: "Gartenstraße"
 housenumber: 4

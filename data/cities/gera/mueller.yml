@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 50.8784374
 longitude: 12.082263600000001
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: "Schloßstraße"
 housenumber: 12

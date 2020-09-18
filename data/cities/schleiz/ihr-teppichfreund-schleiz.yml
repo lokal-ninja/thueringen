@@ -3,7 +3,7 @@ type: node
 shop: Gardinen
 latitude: 50.574026100000005
 longitude: 11.800066300000001
-postcode: 07907
+postcode: "07907"
 city: Schleiz
 street: "Oschitzer Straße"
 housenumber: 33

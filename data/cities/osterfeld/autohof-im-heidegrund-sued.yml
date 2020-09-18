@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.040217000000005
 longitude: 11.938443300000001
-postcode: 06721
+postcode: "06721"
 city: Osterfeld
 street: "Im Heidegrund-Süd"
 housenumber: 

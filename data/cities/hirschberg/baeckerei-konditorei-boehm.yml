@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.4061686
 longitude: 11.8184009
-postcode: 07927
+postcode: "07927"
 city: Hirschberg
 street: "Brunnenplatz"
 housenumber: 1

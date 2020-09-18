@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.9487461
 longitude: 11.092794600000001
-postcode: 99099
+postcode: "99099"
 city: Erfurt
 street: "Am Urbicher Kreuz"
 housenumber: 12

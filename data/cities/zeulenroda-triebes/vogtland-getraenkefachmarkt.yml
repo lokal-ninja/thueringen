@@ -1,12 +1,12 @@
 id: 592851110
 type: way
 shop: Getränke
-latitude: 50.6876551
-longitude: 12.022804800000001
-postcode: 07950
+latitude: 50.687664100000006
+longitude: 12.0228044
+postcode: "07950"
 city: Zeulenroda-Triebes
 street: "Triebesgrund"
 housenumber: 5
 phone: "+49 36622 51223"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-14:00; Su,PH off"
+opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-14:00; PH,Su off"
 website: "https://www.vogtland-getraenke.de/"

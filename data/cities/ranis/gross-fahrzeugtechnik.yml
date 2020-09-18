@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.668866300000005
 longitude: 11.583762
-postcode: 07389
+postcode: "07389"
 city: Ranis
 street: "Ludwigshof"
 housenumber: 14

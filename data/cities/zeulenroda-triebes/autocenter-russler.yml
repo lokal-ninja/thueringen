@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.6625961
 longitude: 11.9961292
-postcode: 07937
+postcode: "07937"
 city: Zeulenroda-Triebes
 street: "Weißendorfer Straße"
 housenumber: 1;3

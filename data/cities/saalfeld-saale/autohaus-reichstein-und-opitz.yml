@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.65226740000001
 longitude: 11.349124000000002
-postcode: 07318
+postcode: "07318"
 city: Saalfeld/Saale
 street: "Beulwitzer Straße"
 housenumber: 9-11

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.607614100000006
 longitude: 10.8140494
-postcode: 98528
+postcode: "98528"
 city: Suhl
 street: "Brunnenstraße"
 housenumber: 3

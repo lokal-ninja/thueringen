@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8894152
 longitude: 12.0061332
-postcode: 07586
+postcode: "07586"
 city: Kraftsdorf
 street: "Ernst-Thälmann-Straße"
 housenumber: 19

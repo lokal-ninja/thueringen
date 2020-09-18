@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9335734
 longitude: 12.346030200000001
-postcode: 04626
+postcode: "04626"
 city: Schmölln
 street: "Am Freibad"
 housenumber: 6B

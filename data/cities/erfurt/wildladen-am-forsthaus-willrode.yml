@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.9178433
 longitude: 11.0899409
-postcode: 99097
+postcode: "99097"
 city: Erfurt
 street: "Forststraße"
 housenumber: 71

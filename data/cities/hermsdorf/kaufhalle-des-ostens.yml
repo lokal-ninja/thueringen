@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.906247300000004
 longitude: 11.859987700000001
-postcode: 07629
+postcode: "07629"
 city: Hermsdorf
 street: "Industriestraße"
 housenumber: 7

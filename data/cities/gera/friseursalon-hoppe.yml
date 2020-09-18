@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.955849
 longitude: 12.092383
-postcode: 07554
+postcode: "07554"
 city: Gera
 street: "Kastanienallee"
 housenumber: 26

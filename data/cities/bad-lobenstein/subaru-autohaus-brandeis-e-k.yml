@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.4507995
 longitude: 11.650971400000001
-postcode: 07356
+postcode: "07356"
 city: Bad Lobenstein
 street: "Langer Weg"
 housenumber: 38

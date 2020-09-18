@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 50.9769318
 longitude: 10.3095611
-postcode: 99817
+postcode: "99817"
 city: Eisenach
 street: "Katharinenstraße"
 housenumber: 78

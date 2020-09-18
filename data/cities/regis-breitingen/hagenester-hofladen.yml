@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.087889000000004
 longitude: 12.3576821
-postcode: 04565
+postcode: "04565"
 city: Regis-Breitingen
 street: "Hagenest"
 housenumber: 38

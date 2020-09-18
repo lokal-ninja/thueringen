@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.4739951
 longitude: 10.8464641
-postcode: 98673
+postcode: "98673"
 city: Auengrund
 street: "Schleusinger Straße"
 housenumber: 64

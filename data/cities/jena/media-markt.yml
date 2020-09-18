@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.8775137
 longitude: 11.627353900000001
-postcode: 07747
+postcode: "07747"
 city: Jena
 street: "Stadtrodaer Straße"
 housenumber: 105

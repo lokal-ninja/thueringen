@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.0051016
 longitude: 11.0143374
-postcode: 99089
+postcode: "99089"
 city: Erfurt
 street: "Vilniuser Straße"
 housenumber: 36-37

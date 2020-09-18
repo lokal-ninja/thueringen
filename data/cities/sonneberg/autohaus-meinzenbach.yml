@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.37399490000001
 longitude: 11.1665764
-postcode: 96515
+postcode: "96515"
 city: Sonneberg
 street: "Forschengereuther Straße"
 housenumber: 79

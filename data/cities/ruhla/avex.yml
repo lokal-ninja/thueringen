@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.904280400000005
 longitude: 10.3712709
-postcode: 99842
+postcode: "99842"
 city: Ruhla
 street: "Bahnhofstraße"
 housenumber: 38

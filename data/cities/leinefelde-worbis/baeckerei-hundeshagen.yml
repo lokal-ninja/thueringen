@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3815249
 longitude: 10.326949500000001
-postcode: 37327
+postcode: "37327"
 city: Leinefelde-Worbis
 street: "Käthe-Kollwitz-Straße"
 housenumber: 24

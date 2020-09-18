@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9011299
 longitude: 12.0377799
-postcode: 07548
+postcode: "07548"
 city: Gera
 street: "Rubitzer Straße"
 housenumber: 12

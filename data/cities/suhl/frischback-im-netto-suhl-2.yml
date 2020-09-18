@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.60168650000001
 longitude: 10.6722116
-postcode: 98529
+postcode: "98529"
 city: Suhl
 street: "Leonhard-Frank-Straße"
 housenumber: 13

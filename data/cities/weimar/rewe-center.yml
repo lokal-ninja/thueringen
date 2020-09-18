@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.008636100000004
 longitude: 11.334827500000001
-postcode: 99427
+postcode: "99427"
 city: Weimar
 street: "Ernst-Busse-Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.8393877
 longitude: 10.946444600000001
-postcode: 99310
+postcode: "99310"
 city: Arnstadt
 street: "Arnsbergstraße"
 housenumber: 36

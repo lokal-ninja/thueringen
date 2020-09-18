@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 50.3601941
 longitude: 11.164818400000001
-postcode: 96515
+postcode: "96515"
 city: Sonneberg
 street: "Bismarckstraße"
 housenumber: 10

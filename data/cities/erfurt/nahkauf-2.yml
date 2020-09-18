@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.9253646
 longitude: 10.991234400000002
-postcode: 99094
+postcode: "99094"
 city: Erfurt
 street: "Mühlgarten"
 housenumber: 2

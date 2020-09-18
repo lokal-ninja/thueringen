@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.0078735
 longitude: 10.251787400000001
-postcode: 99819
+postcode: "99819"
 city: Krauthausen
 street: "An der Autobahn"
 housenumber: 

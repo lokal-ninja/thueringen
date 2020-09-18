@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.978136400000004
 longitude: 11.321828100000001
-postcode: 99423
+postcode: "99423"
 city: Weimar
 street: "Lisztstraße"
 housenumber: 1

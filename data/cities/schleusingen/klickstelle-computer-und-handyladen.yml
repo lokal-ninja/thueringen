@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.509999400000005
 longitude: 10.755384600000001
-postcode: 98553
+postcode: "98553"
 city: Schleusingen
 street: "Klosterstraße"
 housenumber: 25

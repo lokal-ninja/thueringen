@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.920962900000006
 longitude: 10.583526500000001
-postcode: 99880
+postcode: "99880"
 city: Hörsel
 street: "Nazzenbrunner Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.8636205
 longitude: 11.8509854
-postcode: 07629
+postcode: "07629"
 city: St. Gangloff
 street: "An der Autobahnabfahrt"
 housenumber: 4,5

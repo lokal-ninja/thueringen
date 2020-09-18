@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.507680500000006
 longitude: 11.132721100000001
-postcode: 98724
+postcode: "98724"
 city: Neuhaus am Rennweg
 street: "Eisfelder Straße"
 housenumber: 34

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.1924867
 longitude: 11.2435238
-postcode: 99625
+postcode: "99625"
 city: Kölleda
 street: "Hinter den Herrengärten"
 housenumber: 1

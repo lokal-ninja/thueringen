@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.411050700000004
 longitude: 10.424181500000001
-postcode: 37339
+postcode: "37339"
 city: Breitenworbis
 street: "Weststraße"
 housenumber: 1

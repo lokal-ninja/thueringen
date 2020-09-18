@@ -1,12 +1,12 @@
-id: 1722158147
+id: 411638239
 type: node
 shop: Bäckerei
-latitude: 50.977953400000004
-longitude: 11.028304700000001
-postcode: 99084
+latitude: 50.9729426
+longitude: 11.036815500000001
+postcode: "99084"
 city: Erfurt
-street: "Fischmarkt"
-housenumber: 10
-phone: ""
-opening_hours: ""
+street: "Willy-Brandt-Platz"
+housenumber: 12
+phone: "+49 361 2623889"
+opening_hours: "Mo-Fr 05:30-19:00; Sa 08:00-18:00; Su 08:00-17:00"
 website: ""

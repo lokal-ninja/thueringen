@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.983100900000004
 longitude: 11.3829752
-postcode: 99425
+postcode: "99425"
 city: Weimar
 street: "Landhausallee"
 housenumber: 7

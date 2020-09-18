@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.958928400000005
 longitude: 11.062141
-postcode: 99099
+postcode: "99099"
 city: Erfurt
 street: "Scharnhorststraße"
 housenumber: 64

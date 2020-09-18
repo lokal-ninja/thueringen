@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.37725450000001
 longitude: 10.141056200000001
-postcode: 37308
+postcode: "37308"
 city: Heiligenstadt
 street: "Wilhelmstraße"
 housenumber: 80

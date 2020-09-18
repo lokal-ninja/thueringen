@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 50.983791200000006
 longitude: 11.0378599
-postcode: 99085
+postcode: "99085"
 city: Erfurt
 street: "Fritz-Noack-Straße"
 housenumber: 17

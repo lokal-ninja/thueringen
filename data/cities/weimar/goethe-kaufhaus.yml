@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 50.9802611
 longitude: 11.3249227
-postcode: 99423
+postcode: "99423"
 city: Weimar
 street: "Theaterplatz"
 housenumber: 2a

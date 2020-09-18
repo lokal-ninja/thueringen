@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.9563636
 longitude: 12.3205019
-postcode: 04626
+postcode: "04626"
 city: Göllnitz
 street: "Lindenstraße"
 housenumber: 1

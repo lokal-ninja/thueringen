@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.9845641
 longitude: 12.4335675
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Kornmarkt"
 housenumber: 19

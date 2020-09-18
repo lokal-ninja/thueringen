@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.5804448
 longitude: 11.808114400000001
-postcode: 07907
+postcode: "07907"
 city: Schleiz
 street: "Geraer Straße"
 housenumber: 21

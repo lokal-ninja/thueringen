@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8673693
 longitude: 12.078688600000001
-postcode: 07548
+postcode: "07548"
 city: Gera
 street: "Hinter dem Südbahnhof"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.7986331
 longitude: 10.617443900000001
-postcode: 99897
+postcode: "99897"
 city: Tambach-Dietharz
 street: "Bahnhofstraße"
 housenumber: 12 a

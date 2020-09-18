@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.97534
 longitude: 10.342673600000001
-postcode: 99817
+postcode: "99817"
 city: Eisenach
 street: "Am Köpping"
 housenumber: 

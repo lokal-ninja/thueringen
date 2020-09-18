@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.3944227
 longitude: 10.533272
-postcode: 98630
+postcode: "98630"
 city: Römhild
 street: "Mendhäuser Straße"
 housenumber: 11

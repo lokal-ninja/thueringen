@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.8811927
 longitude: 11.603799700000001
-postcode: 07747
+postcode: "07747"
 city: Jena
 street: "Stauffenbergstraße"
 housenumber: 43

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.9765804
 longitude: 11.031678000000001
-postcode: 99084
+postcode: "99084"
 city: Erfurt
 street: "Schlösserstraße"
 housenumber: 19

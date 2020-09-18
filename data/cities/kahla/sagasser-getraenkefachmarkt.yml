@@ -3,10 +3,10 @@ type: node
 shop: Getränke
 latitude: 50.805068000000006
 longitude: 11.585766000000001
-postcode: 07768
+postcode: "07768"
 city: Kahla
 street: "Bachstraße"
 housenumber: 7
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-18:00"
+opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-16:00; Su,PH off"
 website: ""

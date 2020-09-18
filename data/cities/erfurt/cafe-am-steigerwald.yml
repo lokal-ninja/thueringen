@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9563653
 longitude: 11.044829700000001
-postcode: 99096
+postcode: "99096"
 city: Erfurt
 street: "Blosenburgstraße"
 housenumber: 19

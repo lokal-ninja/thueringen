@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 50.9456081
 longitude: 10.780107300000001
-postcode: 99869
+postcode: "99869"
 city: Tüttleben
 street: "Hauptstraße"
 housenumber: 105

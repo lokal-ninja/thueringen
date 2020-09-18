@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.698827800000004
 longitude: 11.616375900000001
-postcode: 07381
+postcode: "07381"
 city: Pößneck
 street: "Naßäckerstraße"
 housenumber: 1

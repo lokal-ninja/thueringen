@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 50.978010700000006
 longitude: 11.031338700000001
-postcode: 99084
+postcode: "99084"
 city: Erfurt
 street: "Kürschnergasse"
 housenumber: 4

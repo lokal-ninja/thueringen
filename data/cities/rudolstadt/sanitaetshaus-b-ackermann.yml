@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 50.7192735
 longitude: 11.3335384
-postcode: 07407
+postcode: "07407"
 city: Rudolstadt
 street: "Marktstraße"
 housenumber: 76

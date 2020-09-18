@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 50.643601600000004
 longitude: 10.687837400000001
-postcode: 98544
+postcode: "98544"
 city: Zella-Mehlis
 street: "Industriestraße"
 housenumber: 4

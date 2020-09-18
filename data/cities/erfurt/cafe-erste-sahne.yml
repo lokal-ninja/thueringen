@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 50.9664018
 longitude: 11.0370048
-postcode: 99096
+postcode: "99096"
 city: Erfurt
 street: "Bodelschwinghstraße"
 housenumber: 25
-phone: "01590 1958822"
+phone: "+49 1590 1958822"
 opening_hours: "Mo-Th 14:00-16:30; Fr 13:00-17:00"
 website: ""

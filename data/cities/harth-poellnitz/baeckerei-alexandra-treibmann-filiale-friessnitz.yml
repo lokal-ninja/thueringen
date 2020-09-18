@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.7802645
 longitude: 11.991396900000002
-postcode: 07570
+postcode: "07570"
 city: Harth-Pöllnitz
 street: "Grochwitzer Straße"
 housenumber: 1

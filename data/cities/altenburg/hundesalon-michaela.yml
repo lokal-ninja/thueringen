@@ -3,10 +3,10 @@ type: node
 shop: Tiersalon
 latitude: 50.9923438
 longitude: 12.4403386
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Kanalstraße"
 housenumber: 43
 phone: ""
-opening_hours: "Mo,Th 08:00-18:00; Tu-We,Fr 08:00-16:00; Sa,Su,PH off"
+opening_hours: "Mo-Fr 08:00-16:00; Sa,Su,PH off"
 website: ""

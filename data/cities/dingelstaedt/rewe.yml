@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.3179315
 longitude: 10.3170593
-postcode: 37351
+postcode: "37351"
 city: Dingelstädt
 street: "Steinstraße"
 housenumber: 10

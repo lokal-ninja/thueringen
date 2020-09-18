@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.936459600000006
 longitude: 11.595535700000001
-postcode: 07749
+postcode: "07749"
 city: Jena
 street: "Löbstedter Straße"
 housenumber: 33

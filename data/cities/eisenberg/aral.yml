@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.969852800000005
 longitude: 11.889800800000002
-postcode: 07607
+postcode: "07607"
 city: Eisenberg
 street: "Jenaer Straße"
 housenumber: 13

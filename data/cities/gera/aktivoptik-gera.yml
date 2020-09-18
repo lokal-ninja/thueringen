@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.8866876
 longitude: 12.138000700000001
-postcode: 07554
+postcode: "07554"
 city: Gera
 street: "An der Beerweinschänke"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.822211200000005
 longitude: 12.220767700000001
-postcode: 07580
+postcode: "07580"
 city: Rückersdorf
 street: "Paitzdorfer Straße"
 housenumber: 2

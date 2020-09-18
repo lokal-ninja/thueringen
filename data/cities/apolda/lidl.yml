@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.031131200000004
 longitude: 11.5150859
-postcode: 99510
+postcode: "99510"
 city: Apolda
 street: "Buttstädter Straße"
 housenumber: 3

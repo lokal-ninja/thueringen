@@ -3,7 +3,7 @@ type: way
 shop: Modehaus
 latitude: 50.856719000000005
 longitude: 10.5660618
-postcode: 99894
+postcode: "99894"
 city: Friedrichroda
 street: "Kirchgasse"
 housenumber: 1

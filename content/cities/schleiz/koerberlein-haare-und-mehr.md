@@ -1,4 +1,4 @@
 ---
-title: "Körberlein Haare &  Mehr"
+title: "Körberlein Haare & Mehr"
 url: /schleiz/koerberlein-haare-und-mehr/
 ---

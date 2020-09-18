@@ -3,7 +3,7 @@ type: node
 shop: Friseurbedarf
 latitude: 50.880045100000004
 longitude: 12.084501600000001
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: "Leipziger Straße"
 housenumber: 20

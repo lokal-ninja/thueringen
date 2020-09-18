@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.973037100000006
 longitude: 10.3449892
-postcode: 99817
+postcode: "99817"
 city: Eisenach
 street: "Weimarische Straße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.8947671
 longitude: 12.3474204
-postcode: 04626
+postcode: "04626"
 city: Schmölln
 street: "Wehrstraße"
 housenumber: 5

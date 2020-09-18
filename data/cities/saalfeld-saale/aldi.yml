@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.6528312
 longitude: 11.342281300000002
-postcode: 07318
+postcode: "07318"
 city: Saalfeld/Saale
 street: "Mittlerer Watzenbach"
 housenumber: 27

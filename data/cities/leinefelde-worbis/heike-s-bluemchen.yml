@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.421322800000006
 longitude: 10.360939100000001
-postcode: 37339
+postcode: "37339"
 city: Leinefelde-Worbis
 street: "Lange Straße"
 housenumber: 72

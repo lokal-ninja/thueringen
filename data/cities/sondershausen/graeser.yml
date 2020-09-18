@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.370921700000004
 longitude: 10.8729647
-postcode: 99706
+postcode: "99706"
 city: Sondershausen
 street: "Hauptstraße"
 housenumber: 34

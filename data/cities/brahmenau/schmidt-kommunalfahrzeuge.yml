@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.9209759
 longitude: 12.172804500000002
-postcode: 07554
+postcode: "07554"
 city: Brahmenau
 street: "Nauendorfer Weg"
 housenumber: 1

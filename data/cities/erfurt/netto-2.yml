@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.961773400000006
 longitude: 11.0284695
-postcode: 99096
+postcode: "99096"
 city: Erfurt
 street: "Geibelstraße"
 housenumber: 27

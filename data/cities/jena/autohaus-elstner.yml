@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.8994219
 longitude: 11.5863853
-postcode: 07745
+postcode: "07745"
 city: Jena
 street: "Damaschkeweg"
 housenumber: 65

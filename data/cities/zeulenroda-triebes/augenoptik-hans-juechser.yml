@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.6485989
 longitude: 11.982424100000001
-postcode: 07937
+postcode: "07937"
 city: Zeulenroda-Triebes
 street: "Greizer Straße"
 housenumber: 23

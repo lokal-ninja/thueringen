@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 50.972401500000004
 longitude: 11.0496818
-postcode: 99099
+postcode: "99099"
 city: Erfurt
 street: "Weimarische Straße"
 housenumber: 39a

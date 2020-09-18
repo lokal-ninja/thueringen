@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.9755589
 longitude: 10.337499600000001
-postcode: 99817
+postcode: "99817"
 city: Eisenach
 street: "Altstadtstraße"
 housenumber: 2

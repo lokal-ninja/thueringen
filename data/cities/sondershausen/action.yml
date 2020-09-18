@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.3651051
 longitude: 10.889056400000001
-postcode: 99706
+postcode: "99706"
 city: Sondershausen
 street: "Frankenhäuser Straße"
 housenumber: 52

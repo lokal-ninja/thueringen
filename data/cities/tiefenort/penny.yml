@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 50.8249397
 longitude: 10.162701
-postcode: 36469
+postcode: "36469"
 city: Tiefenort
 street: "Lengsfelder Straße"
 housenumber: 37
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

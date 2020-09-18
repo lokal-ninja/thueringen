@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.9044782
 longitude: 12.0450697
-postcode: 07548
+postcode: "07548"
 city: Gera
 street: "Köstritzer Weg"
 housenumber: 1

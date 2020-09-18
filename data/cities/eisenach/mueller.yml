@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.974946100000004
 longitude: 10.3216487
-postcode: 99817
+postcode: "99817"
 city: Eisenach
 street: "Karlstraße"
 housenumber: 8

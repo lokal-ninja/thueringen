@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.295517100000005
 longitude: 11.4326164
-postcode: 06571
+postcode: "06571"
 city: Roßleben-Wiehe
 street: "Ernst-Thälmann-Straße"
 housenumber: 10

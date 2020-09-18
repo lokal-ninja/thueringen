@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.9765785
 longitude: 10.3401239
-postcode: 99817
+postcode: "99817"
 city: Eisenach
 street: "Georg-Eucken-Straße"
 housenumber: 49

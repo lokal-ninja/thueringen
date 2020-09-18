@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.2947598
 longitude: 11.430332
-postcode: 06571
+postcode: "06571"
 city: Roßleben-Wiehe
 street: "Wiehesche Straße"
 housenumber: 3

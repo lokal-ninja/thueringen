@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9824154
 longitude: 11.3274722
-postcode: 99423
+postcode: "99423"
 city: Weimar
 street: "Graben"
 housenumber: 19

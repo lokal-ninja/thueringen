@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 50.9789607
 longitude: 11.0293875
-postcode: 99084
+postcode: "99084"
 city: Erfurt
 street: "Michaelisstraße"
 housenumber: 46

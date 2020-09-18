@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.4634105
 longitude: 11.6315538
-postcode: 07356
+postcode: "07356"
 city: Bad Lobenstein
 street: "Gewerbegebiet Unterlemnitz"
 housenumber: 11

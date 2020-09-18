@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.9697923
 longitude: 11.8584776
-postcode: 07607
+postcode: "07607"
 city: Eisenberg
 street: "Jenaer Straße"
 housenumber: 71

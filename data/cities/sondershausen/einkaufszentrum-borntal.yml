@@ -3,7 +3,7 @@ type: way
 shop: Dorfladen
 latitude: 51.3632269
 longitude: 10.8767984
-postcode: 99706
+postcode: "99706"
 city: Sondershausen
 street: "Albert-Kuntz-Straße"
 housenumber: 1b

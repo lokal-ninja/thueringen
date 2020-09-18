@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.655422900000005
 longitude: 12.1753031
-postcode: 07973
+postcode: "07973"
 city: Greiz
 street: "Zeulenrodaer Straße"
 housenumber: 31

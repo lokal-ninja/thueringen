@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.951311000000004
 longitude: 11.067121400000001
-postcode: 99097
+postcode: "99097"
 city: Erfurt
 street: "Färberwaidweg"
 housenumber: 2

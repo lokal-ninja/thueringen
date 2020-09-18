@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9233448
 longitude: 11.578279700000001
-postcode: 07745
+postcode: "07745"
 city: Jena
 street: "Westbahnhofstraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.697695200000005
 longitude: 11.618359900000002
-postcode: 07381
+postcode: "07381"
 city: Pößneck
 street: "Malmsgelänge"
 housenumber: 5

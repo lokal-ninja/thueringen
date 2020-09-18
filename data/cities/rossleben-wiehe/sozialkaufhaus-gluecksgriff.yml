@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.2967061
 longitude: 11.4294393
-postcode: 06571
+postcode: "06571"
 city: Roßleben-Wiehe
 street: "Bottendorfer Straße"
 housenumber: 18a

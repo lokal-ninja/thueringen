@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.991928900000005
 longitude: 10.3138137
-postcode: 99817
+postcode: "99817"
 city: Eisenach
 street: "Mühlhäuser Straße"
 housenumber: 115

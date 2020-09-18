@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.261775300000004
 longitude: 11.4226065
-postcode: 06571
+postcode: "06571"
 city: Roßleben-Wiehe
 street: "Allerstedter Straße"
 housenumber: 4

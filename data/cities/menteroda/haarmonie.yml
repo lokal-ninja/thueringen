@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.308231500000005
 longitude: 10.5580266
-postcode: 99996
+postcode: "99996"
 city: Menteroda
 street: "Bergstraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.048043400000005
 longitude: 10.6285589
-postcode: 99947
+postcode: "99947"
 city: Bad Langensalza
 street: "Anger"
 housenumber: 74

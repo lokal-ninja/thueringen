@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9501573
 longitude: 10.707768600000001
-postcode: 99867
+postcode: "99867"
 city: Gotha
 street: "Arnoldiplatz"
 housenumber: 8

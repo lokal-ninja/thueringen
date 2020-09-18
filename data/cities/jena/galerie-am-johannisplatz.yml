@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 50.929475000000004
 longitude: 11.5829336
-postcode: 07743
+postcode: "07743"
 city: Jena
 street: "Johannisplatz"
 housenumber: 10

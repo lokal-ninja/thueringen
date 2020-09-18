@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.21123600000001
 longitude: 10.465407
-postcode: 99974
+postcode: "99974"
 city: Mühlhausen
 street: "Sondershäuser Straße"
 housenumber: 49

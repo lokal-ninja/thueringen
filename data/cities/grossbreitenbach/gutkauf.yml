@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.6274178
 longitude: 11.0479246
-postcode: 98701
+postcode: "98701"
 city: Großbreitenbach
 street: "Geschwister-Scholl-Straße"
 housenumber: 37b

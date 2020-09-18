@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.376279100000005
 longitude: 10.1364155
-postcode: 37308
+postcode: "37308"
 city: Heilbad Heiligenstadt
 street: "Windische Gasse"
 housenumber: 38

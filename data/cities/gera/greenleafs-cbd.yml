@@ -3,7 +3,7 @@ type: node
 shop: Hanf
 latitude: 50.8739524
 longitude: 12.0766937
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: "Heinrichstraße"
 housenumber: 60

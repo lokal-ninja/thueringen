@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.6719419
 longitude: 10.107486
-postcode: 36466
+postcode: "36466"
 city: Dermbach
 street: "Goethestraße"
 housenumber: 15

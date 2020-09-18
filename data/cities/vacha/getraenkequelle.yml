@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.8223769
 longitude: 10.0215394
-postcode: 36404
+postcode: "36404"
 city: Vacha
 street: "Goethestraße"
 housenumber: 

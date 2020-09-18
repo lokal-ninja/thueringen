@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.972870300000004
 longitude: 11.0510569
-postcode: 99099
+postcode: "99099"
 city: Erfurt
 street: "Weimarische Straße"
 housenumber: 39a

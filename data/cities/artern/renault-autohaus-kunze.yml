@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.377583900000005
 longitude: 11.2818281
-postcode: 06556
+postcode: "06556"
 city: Artern
 street: "Am Westerfeld"
 housenumber: 1

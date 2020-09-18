@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 50.9967041
 longitude: 11.026994400000001
-postcode: 99086
+postcode: "99086"
 city: Erfurt
 street: "Ammertalweg"
 housenumber: 1

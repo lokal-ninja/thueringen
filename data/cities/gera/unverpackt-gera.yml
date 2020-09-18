@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.8767629
 longitude: 12.0827737
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: "Markt"
 housenumber: 10

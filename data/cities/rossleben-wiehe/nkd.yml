@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.29747690000001
 longitude: 11.4348948
-postcode: 06571
+postcode: "06571"
 city: Roßleben-Wiehe
 street: "Am Bahnhof"
 housenumber: 1c

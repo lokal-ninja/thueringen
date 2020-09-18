@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.984793700000004
 longitude: 12.434810700000002
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Kronengasse"
 housenumber: 3

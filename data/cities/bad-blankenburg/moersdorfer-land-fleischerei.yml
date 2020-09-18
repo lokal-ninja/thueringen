@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.6846861
 longitude: 11.2868253
-postcode: 07422
+postcode: "07422"
 city: Bad Blankenburg
 street: "Rudolstädter Straße"
 housenumber: 17

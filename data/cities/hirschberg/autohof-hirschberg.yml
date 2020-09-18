@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.4279164
 longitude: 11.795526200000001
-postcode: 07927
+postcode: "07927"
 city: Hirschberg
 street: ""
 housenumber: 

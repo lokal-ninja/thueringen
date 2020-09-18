@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9658042
 longitude: 11.0405344
-postcode: 99096
+postcode: "99096"
 city: Erfurt
 street: "Damaschkestraße"
 housenumber: 18

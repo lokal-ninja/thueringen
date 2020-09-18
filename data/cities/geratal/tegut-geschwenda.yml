@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.7342711
 longitude: 10.823618000000002
-postcode: 99331
+postcode: "99331"
 city: Geratal
 street: "Gothaer Straße"
 housenumber: 8

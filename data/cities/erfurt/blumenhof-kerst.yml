@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.0043772
 longitude: 11.0151778
-postcode: 99089
+postcode: "99089"
 city: Erfurt
 street: "Mainzer Straße"
 housenumber: 38

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.5651366
 longitude: 11.750645800000001
-postcode: 07907
+postcode: "07907"
 city: Schleiz
 street: "Burgker Straße"
 housenumber: 10

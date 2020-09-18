@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.985269100000004
 longitude: 12.430805600000001
-postcode: 04600
+postcode: "04600"
 city: Altenburg
 street: "Bei der Brüderkirche"
 housenumber: 3

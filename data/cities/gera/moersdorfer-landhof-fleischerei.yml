@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.8872506
 longitude: 12.089128800000001
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: "Dornaer Straße"
 housenumber: 2

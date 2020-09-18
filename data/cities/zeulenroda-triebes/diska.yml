@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.648276
 longitude: 11.9756356
-postcode: 07937
+postcode: "07937"
 city: Zeulenroda-Triebes
 street: "Friedrich-Engels-Straße"
 housenumber: 41

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.89327230000001
 longitude: 12.0839108
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: "Straße des Bergmanns"
 housenumber: 10

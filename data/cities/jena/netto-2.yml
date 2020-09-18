@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.9343385
 longitude: 11.5984613
-postcode: 07749
+postcode: "07749"
 city: Jena
 street: "Heinrich-Heine-Straße"
 housenumber: 1

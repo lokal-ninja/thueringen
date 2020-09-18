@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.9638495
 longitude: 12.0981644
-postcode: 07554
+postcode: "07554"
 city: Gera
 street: "Straße der Freundschaft"
 housenumber: 25A

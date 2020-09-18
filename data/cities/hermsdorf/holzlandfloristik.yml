@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.9065687
 longitude: 11.845775100000001
-postcode: 07629
+postcode: "07629"
 city: Hermsdorf
 street: "Erich-Weinert-Straße"
 housenumber: 45

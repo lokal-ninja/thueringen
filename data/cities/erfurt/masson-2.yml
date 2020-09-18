@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 51.003406600000005
 longitude: 11.004949400000001
-postcode: 99091
+postcode: "99091"
 city: Erfurt
 street: "Berliner Platz"
 housenumber: 3
-phone: "+49361 792130 3"
+phone: "+49 361 7921303"
 opening_hours: "Mo-Fr 08:00-18:00"
 website: "http://www.masson-friseure.de/salons/details/erfurt-berliner-platz/"

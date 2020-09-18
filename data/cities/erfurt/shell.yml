@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.9781307
 longitude: 11.124726
-postcode: 99098
+postcode: "99098"
 city: Erfurt
 street: "Bei den Froschäckern"
 housenumber: 2

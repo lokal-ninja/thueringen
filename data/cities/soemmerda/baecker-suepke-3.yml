@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1534088
 longitude: 11.190626700000001
-postcode: 99610
+postcode: "99610"
 city: Sömmerda
 street: "Schloßvippacher Straße"
 housenumber: 5

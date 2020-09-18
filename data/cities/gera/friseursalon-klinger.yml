@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.921636400000004
 longitude: 12.0557896
-postcode: 07552
+postcode: "07552"
 city: Gera
 street: "Schulstraße"
 housenumber: 36

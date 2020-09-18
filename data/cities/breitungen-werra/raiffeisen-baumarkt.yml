@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.754218300000005
 longitude: 10.3235148
-postcode: 98597
+postcode: "98597"
 city: Breitungen/Werra
 street: "Am Köpfchen"
 housenumber: 3

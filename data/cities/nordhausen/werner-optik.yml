@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.501626200000004
 longitude: 10.7947311
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Weberstraße"
 housenumber: 1

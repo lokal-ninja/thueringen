@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9811367
 longitude: 12.484785800000001
-postcode: 04603
+postcode: "04603"
 city: Nobitz
 street: "Altenburger Straße"
 housenumber: 29

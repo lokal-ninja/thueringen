@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9810196
 longitude: 12.484307600000001
-postcode: 04603
+postcode: "04603"
 city: Nobitz
 street: "Altenburger Straße"
 housenumber: 29

@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 51.501755
 longitude: 10.781785000000001
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Bochumer Straße"
 housenumber: 27a

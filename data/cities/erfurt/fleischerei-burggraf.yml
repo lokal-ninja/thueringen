@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.937408500000004
 longitude: 10.9867016
-postcode: 99094
+postcode: "99094"
 city: Erfurt
 street: "Dorstbornstraße"
 housenumber: 3

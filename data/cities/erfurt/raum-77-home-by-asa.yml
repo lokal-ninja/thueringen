@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 50.9784567
 longitude: 11.0305748
-postcode: 99084
+postcode: "99084"
 city: Erfurt
 street: "Rathausbrücke"
 housenumber: 1

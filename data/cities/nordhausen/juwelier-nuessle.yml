@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.5028845
 longitude: 10.7941854
-postcode: 99734
+postcode: "99734"
 city: Nordhausen
 street: "Kranichstraße"
 housenumber: 26

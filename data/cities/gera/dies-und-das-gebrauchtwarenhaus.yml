@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 50.87132020000001
 longitude: 12.0811448
-postcode: 07545
+postcode: "07545"
 city: Gera
 street: "Schülerstraße"
 housenumber: 45

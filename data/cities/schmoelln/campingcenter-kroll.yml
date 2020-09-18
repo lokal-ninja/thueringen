@@ -3,7 +3,7 @@ type: way
 shop: Wohnwagen
 latitude: 50.8819651
 longitude: 12.3506593
-postcode: 04626
+postcode: "04626"
 city: Schmölln
 street: "Am Kemnitzgrund"
 housenumber: 11

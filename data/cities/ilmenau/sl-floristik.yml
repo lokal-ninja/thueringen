@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.6855084
 longitude: 10.914812000000001
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "Marktstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.767707400000006
 longitude: 11.0647818
-postcode: 99326
+postcode: "99326"
 city: Stadtilm
 street: "Ilmenauer Straße"
 housenumber: 2

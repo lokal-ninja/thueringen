@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 50.8563964
 longitude: 12.073517200000001
-postcode: 07548
+postcode: "07548"
 city: Gera
 street: "Handwerkerhof"
 housenumber: 3

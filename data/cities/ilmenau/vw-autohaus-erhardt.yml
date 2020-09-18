@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.690812900000005
 longitude: 10.9436587
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
 street: "Bücheloher Straße"
 housenumber: 19

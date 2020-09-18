@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.981016000000004
 longitude: 12.484551100000001
-postcode: 04603
+postcode: "04603"
 city: Nobitz
 street: "Altenburger Straße"
 housenumber: 29

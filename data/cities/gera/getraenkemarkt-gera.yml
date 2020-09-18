@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.8629388
 longitude: 12.0762335
-postcode: 07548
+postcode: "07548"
 city: Gera
 street: "Fröbelstraße"
 housenumber: 15

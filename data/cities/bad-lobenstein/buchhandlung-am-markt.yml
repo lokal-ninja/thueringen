@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.4477677
 longitude: 11.6398235
-postcode: 07356
+postcode: "07356"
 city: Bad Lobenstein
 street: "Straße der Jugend"
 housenumber: 1

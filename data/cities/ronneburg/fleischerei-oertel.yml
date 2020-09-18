@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.8662689
 longitude: 12.1861821
-postcode: 07580
+postcode: "07580"
 city: Ronneburg
 street: "Schillerstraße"
 housenumber: 16

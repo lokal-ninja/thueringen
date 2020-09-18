@@ -3,10 +3,10 @@ type: way
 shop: Gemüse & Obst
 latitude: 51.0149635
 longitude: 12.4578077
-postcode: 04603
+postcode: "04603"
 city: Windischleuba
 street: "Fünfminutenweg Nord"
 housenumber: 11
-phone: "+49 3447 85100"
+phone: ""
 opening_hours: ""
-website: "http://www.fruchtexpress.de/"
+website: ""

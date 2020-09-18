@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.9297363
 longitude: 11.5818536
-postcode: 07743
+postcode: "07743"
 city: Jena
 street: "Bachstraße"
 housenumber: 34

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.694142600000006
 longitude: 11.594260100000001
-postcode: 07381
+postcode: "07381"
 city: Pößneck
 street: "Markt"
 housenumber: 2-3
