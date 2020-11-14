@@ -1,6 +1,6 @@
 ---
 title: Floh-Seligenthal
 url: /floh-seligenthal/
-latitude: 50.7581536
-longitude: 10.4805832
+latitude: 50.756196200000005
+longitude: 10.479199600000001
 ---

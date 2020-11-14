@@ -1,0 +1,4 @@
+---
+title: "Raiffeisengenossenschaft Eichsfeld eG"
+url: /leinefelde-worbis/raiffeisengenossenschaft-eichsfeld-eg/
+---

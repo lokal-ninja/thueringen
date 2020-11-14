@@ -1,4 +1,4 @@
 ---
-title: "Schokoladenwerk Berggold Werksverkauf"
+title: "Schokoladenwerk Berggold - Werksverkauf"
 url: /poessneck/schokoladenwerk-berggold-werksverkauf/
 ---

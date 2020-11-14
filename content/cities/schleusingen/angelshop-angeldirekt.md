@@ -1,0 +1,4 @@
+---
+title: "Angelshop Angeldirekt"
+url: /schleusingen/angelshop-angeldirekt/
+---

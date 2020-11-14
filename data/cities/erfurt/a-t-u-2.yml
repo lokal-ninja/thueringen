@@ -1,12 +1,12 @@
-id: 204409646
-type: way
+id: 8077432563
+type: node
 shop: Autowerkstatt
-latitude: 50.9756803
-longitude: 11.073094300000001
-postcode: "99099"
+latitude: 51.0125887
+longitude: 10.9866291
+postcode: "99091"
 city: Erfurt
-street: "Weimarische Straße"
-housenumber: 22b
+street: "Dubliner Straße"
+housenumber: 17
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 07:30-19:00; Sa 08:00-16:00"
+website: "https://www.atu.de/pages/service/filialen/f_detail.html?lkz=DE&nr=303"
