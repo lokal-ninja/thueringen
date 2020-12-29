@@ -1,0 +1,4 @@
+---
+title: "Floris Backstübchen"
+url: /geratal/floris-backstuebchen/
+---

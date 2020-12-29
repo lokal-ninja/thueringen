@@ -1,6 +1,6 @@
 ---
 title: Heldburg
 url: /heldburg/
-latitude: 50.2805382
-longitude: 10.7252772
+latitude: 50.2808914
+longitude: 10.7448265
 ---

@@ -1,12 +1,12 @@
-id: 128725756
-type: way
+id: 8218809639
+type: node
 shop: Supermarkt
-latitude: 50.958978900000005
-longitude: 11.6185939
-postcode: "07743"
+latitude: 50.880870800000004
+longitude: 11.6301833
+postcode: "07747"
 city: Jena
-street: "Naumburger Straße"
-housenumber: 118
+street: "Erlanger Allee"
+housenumber: 102
 phone: ""
 opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00"
 website: ""

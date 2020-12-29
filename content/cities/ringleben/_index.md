@@ -1,6 +1,6 @@
 ---
 title: Ringleben
 url: /ringleben/
-latitude: 51.365990800000006
-longitude: 11.222204300000001
+latitude: 51.104959900000004
+longitude: 10.953547
 ---

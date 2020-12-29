@@ -1,12 +1,12 @@
-id: 119332680
-type: way
+id: 7623142827
+type: node
 shop: Motorrad
-latitude: 50.9732299
-longitude: 10.9718552
-postcode: "99092"
+latitude: 50.977901100000004
+longitude: 11.083547600000001
+postcode: "99099"
 city: Erfurt
-street: "Binderslebener Landstraße"
-housenumber: 93
+street: "Weimarische Straße"
+housenumber: 15d
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-14:00; Su,PH off"
-website: "http://www.harley-davidson-erfurt.de/"
+opening_hours: ""
+website: ""
