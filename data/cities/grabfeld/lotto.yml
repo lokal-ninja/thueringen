@@ -1,6 +1,5 @@
 id: 3439551344
 type: node
-shop: Lotterie
 latitude: 50.4809362
 longitude: 10.502153100000001
 postcode: "98631"
@@ -8,5 +7,5 @@ city: Grabfeld
 street: "Markt"
 housenumber: 11
 phone: ""
-opening_hours: "Tu-Fr 08:30–12:00,15:00–18:00; Sa 08:00-12:00; Mo,Su,PH off"
+opening_hours: "Tu-Fr 08:30-12:00,15:00-18:00; Sa 08:00-12:00; Mo,Su,PH off"
 website: ""

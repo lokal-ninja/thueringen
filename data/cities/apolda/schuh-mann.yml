@@ -1,12 +1,11 @@
 id: 5496566970
 type: node
-shop: Schuhe
-latitude: 51.022780600000004
-longitude: 11.511327900000001
+latitude: 51.0227042
+longitude: 11.511351900000001
 postcode: "99510"
 city: Apolda
 street: "Straße des Friedens"
 housenumber: 2
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.schuh-mann.de"
+opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-16:00; Su,PH off"
+website: ""

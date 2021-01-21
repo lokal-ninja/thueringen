@@ -1,6 +1,5 @@
 id: 121591725
 type: way
-shop: Einkaufszentrum
 latitude: 51.0231605
 longitude: 11.5108026
 postcode: "99510"
@@ -8,5 +7,5 @@ city: Apolda
 street: "Straße des Friedens"
 housenumber: 2
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
 website: ""

@@ -1,6 +1,5 @@
 id: 7140765757
 type: node
-shop: Elektronik
 latitude: 50.8792107
 longitude: 12.0850893
 postcode: "07545"
@@ -8,5 +7,5 @@ city: Gera
 street: "Leipziger Straße"
 housenumber: 14
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 10:00-18:00"
 website: ""

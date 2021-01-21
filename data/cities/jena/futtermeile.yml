@@ -1,6 +1,5 @@
 id: 6828711511
 type: node
-shop: Tiere
 latitude: 50.933269300000006
 longitude: 11.5889241
 postcode: "07743"
@@ -8,5 +7,5 @@ city: Jena
 street: "Sophienstraße"
 housenumber: 22
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 10:00-14:00,16:00-20:00; We,Sa 10:00-14:00"
+opening_hours: "Mo-Sa 10:00-14:00, Tu,Th 16:00-20:00"
 website: ""

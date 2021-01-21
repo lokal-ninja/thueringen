@@ -1,6 +1,5 @@
 id: 7510325313
 type: node
-shop: Massage
 latitude: 50.9232388
 longitude: 11.5767211
 postcode: "07745"
@@ -8,5 +7,5 @@ city: Jena
 street: "Otto-Schott-Straße"
 housenumber: 3
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-15:00"
 website: "http://www.punwisa.de/"

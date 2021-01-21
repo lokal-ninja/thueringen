@@ -1,6 +1,5 @@
 id: 77777378
 type: way
-shop: Kopieren
 latitude: 50.558261200000004
 longitude: 10.3761542
 postcode: "98617"
@@ -9,4 +8,4 @@ street: "Gleimershäuser Straße"
 housenumber: 11
 phone: ""
 opening_hours: ""
-website: "beschriftungsteam.com"
+website: "http://beschriftungsteam.com"

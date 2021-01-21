@@ -1,6 +1,6 @@
 ---
 title: Großwechsungen
 url: /grosswechsungen/
-latitude: 
-longitude: 
+latitude: 51.49236500000001
+longitude: 10.6906508
 ---

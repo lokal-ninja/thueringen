@@ -1,12 +1,11 @@
 id: 409831556
 type: node
-shop: Garten-Center
 latitude: 50.8994471
 longitude: 12.4295842
 postcode: "04639"
 city: Gößnitz
 street: "Walter-Rabold-Straße"
 housenumber: 77
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 34493 21435"
+opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00; PH off"
+website: "http://www.gartenbaubetrieb-stenzel.de/"

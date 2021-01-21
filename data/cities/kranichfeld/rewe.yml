@@ -1,12 +1,11 @@
 id: 94069513
 type: way
-shop: Supermarkt
 latitude: 50.8610411
 longitude: 11.207002300000001
 postcode: "99448"
 city: Kranichfeld
 street: "Erfurter Straße"
 housenumber: 3
-phone: "+49 36450 42334"
-opening_hours: "Mo-Fr 06:00-22:00; Sa 06:00-20:00"
+phone: ""
+opening_hours: "Mo-Fr 06:00-22:00; Sa 06:00-20:00; Su,PH off"
 website: ""

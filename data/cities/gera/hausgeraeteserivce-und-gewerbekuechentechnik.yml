@@ -1,6 +1,5 @@
 id: 1054328422
 type: node
-shop: Haushaltsgeräte
 latitude: 50.940048600000004
 longitude: 12.1293471
 postcode: "07554"
@@ -8,5 +7,5 @@ city: Gera
 street: "Cretzschwitz"
 housenumber: 43
 phone: ""
-opening_hours: "Mo-Th 08:15-17.30; Fr 08:15-16:00; Sa,Su,PH off"
+opening_hours: "Mo-Th 08:15-17:30; Fr 08:15-16:00; Sa,Su,PH off"
 website: ""

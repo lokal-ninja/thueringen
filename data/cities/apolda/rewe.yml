@@ -1,12 +1,11 @@
-id: 345395128
-type: way
-shop: Supermarkt
-latitude: 51.0231344
-longitude: 11.523196700000002
+id: 4882158840
+type: node
+latitude: 51.0225207
+longitude: 11.5107657
 postcode: "99510"
 city: Apolda
-street: "Utenbacher Straße"
-housenumber: 18
+street: "Straße des Friedens"
+housenumber: 2
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
 website: ""

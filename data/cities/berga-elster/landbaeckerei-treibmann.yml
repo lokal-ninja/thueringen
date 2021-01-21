@@ -1,6 +1,5 @@
 id: 6449601336
 type: node
-shop: Bäckerei
 latitude: 50.7497425
 longitude: 12.160182500000001
 postcode: "07980"
@@ -8,5 +7,5 @@ city: Berga/Elster
 street: "Bahnhofstraße"
 housenumber: 16a
 phone: ""
-opening_hours: "Mo-Sa: 06:00-19:00; Su 07:00-10:00; PH off"
+opening_hours: "Mo-Sa 06:00-19:00; Su 07:00-10:00; PH off"
 website: ""

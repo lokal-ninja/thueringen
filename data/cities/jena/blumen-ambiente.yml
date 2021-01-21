@@ -1,6 +1,5 @@
 id: 3935829302
 type: node
-shop: Blumen
 latitude: 50.9380881
 longitude: 11.589003900000002
 postcode: "07743"
@@ -8,5 +7,5 @@ city: Jena
 street: "Dornburger Straße"
 housenumber: 32
 phone: ""
-opening_hours: "Mo-Fr: 08:00-18:00, Sa: 08:00-13:00, Su: 09:00-13:00"
+opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-13:00, Su 09:00-13:00"
 website: ""

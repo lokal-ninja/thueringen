@@ -1,4 +1,5 @@
 ---
-title: "EDEKA"
+title: "Edeka"
 url: /menteroda/edeka/
+shop: Supermarkt
 ---

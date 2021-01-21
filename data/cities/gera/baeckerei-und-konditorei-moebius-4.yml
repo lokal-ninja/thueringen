@@ -1,6 +1,5 @@
 id: 7144154185
 type: node
-shop: Bäckerei
 latitude: 50.8692159
 longitude: 12.072736500000001
 postcode: "07548"
@@ -8,5 +7,5 @@ city: Gera
 street: "Wiesestraße"
 housenumber: 3
 phone: ""
-opening_hours: "Mo-Fr: 06:30-18:00; Sa 06:30-11:00; Su,PH off"
+opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-11:00; Su,PH off"
 website: ""

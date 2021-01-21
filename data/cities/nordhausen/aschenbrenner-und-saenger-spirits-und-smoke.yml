@@ -1,6 +1,5 @@
 id: 3739961669
 type: node
-shop: Spirituosen
 latitude: 51.502726100000004
 longitude: 10.7945363
 postcode: "99734"
@@ -8,5 +7,5 @@ city: Nordhausen
 street: "Kornmarkt"
 housenumber: 1
 phone: "+49 3631 990172"
-opening_hours: "Mo-Fr 09:30-18:00 Sa 09:30-13:00"
+opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:00"
 website: "https://www.spiritsandsmoke.de/"

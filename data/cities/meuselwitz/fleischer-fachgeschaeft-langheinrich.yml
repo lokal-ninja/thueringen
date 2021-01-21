@@ -1,6 +1,5 @@
 id: 2379130570
 type: node
-shop: Metzgerei
 latitude: 51.0538636
 longitude: 12.3539007
 postcode: "04610"
@@ -8,5 +7,5 @@ city: Meuselwitz
 street: "Zirndorfer Straße"
 housenumber: 35
 phone: ""
-opening_hours: "Mo 09:00-11:00; Tu,We 09:00–13:00,14:00–17:00; Th,Fr 09:00–13:00,14:00–17:30; Sa 07:00-10:00; Su,PH off"
+opening_hours: "Mo 09:00-11:00; Tu,We 09:00-13:00,14:00-17:00; Th,Fr 09:00-13:00,14:00-17:30; Sa 07:00-10:00; Su,PH off"
 website: ""

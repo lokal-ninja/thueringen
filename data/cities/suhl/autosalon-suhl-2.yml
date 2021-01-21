@@ -1,6 +1,5 @@
 id: 7913773341
 type: node
-shop: Autohaus
 latitude: 50.587240900000005
 longitude: 10.7149803
 postcode: "98527"
@@ -8,5 +7,5 @@ city: Suhl
 street: "Hubertusstraße"
 housenumber: 6
 phone: ""
-opening_hours: "Mo-Fr 09:00-18.00; Sa 09:00-13:00; Su,PH off"
+opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off"
 website: ""

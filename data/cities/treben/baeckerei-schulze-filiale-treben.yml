@@ -1,6 +1,5 @@
 id: 6432347953
 type: node
-shop: Bäckerei
 latitude: 51.053431200000006
 longitude: 12.452383600000001
 postcode: "04617"
@@ -8,5 +7,5 @@ city: Treben
 street: "Hauptstraße"
 housenumber: 11 A
 phone: "+49 34343 54461"
-opening_hours: "Mo-Fr 06:00-12:00 + 14:00-17:00, Sa: 07:00-10:00"
+opening_hours: "Mo-Fr 06:00-12:00,14:00-17:00; Sa 07:00-10:00"
 website: "http://www.schulze-baeckerei.de/"

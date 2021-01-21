@@ -1,6 +1,5 @@
 id: 534810759
 type: node
-shop: Metzgerei
 latitude: 50.8025935
 longitude: 11.5870926
 postcode: "07768"
@@ -8,5 +7,5 @@ city: Kahla
 street: "Roßstraße"
 housenumber: 33
 phone: ""
-opening_hours: "Tu,We 08:00–15:00; Th,Fr 08:00–17:00; Sa 08:00-12:00; Mo,Su,PH off"
+opening_hours: "Tu,We 08:00-15:00; Th,Fr 08:00-17:00; Sa 08:00-12:00; Mo,Su,PH off"
 website: ""

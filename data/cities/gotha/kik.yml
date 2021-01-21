@@ -1,6 +1,5 @@
 id: 348023843
 type: node
-shop: Kleidung
 latitude: 50.950521
 longitude: 10.6855727
 postcode: "99867"
@@ -9,4 +8,4 @@ street: "Eschleber Straße"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "http://www.kik-textilien.de"
+website: "https://www.kik.de/"

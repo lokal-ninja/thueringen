@@ -1,6 +1,5 @@
 id: 3748874012
 type: node
-shop: Kleidung
 latitude: 51.503087300000004
 longitude: 10.7936218
 postcode: "99734"
@@ -8,5 +7,5 @@ city: Nordhausen
 street: "Engelsburg"
 housenumber: 10
 phone: "+493631/988520"
-opening_hours: "Mo-Fr 09:30-18:00 Sa 09:30-13:00"
+opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:00"
 website: "https://www.modehit-bierwisch.de/"

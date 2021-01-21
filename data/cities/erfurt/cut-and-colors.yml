@@ -1,6 +1,5 @@
 id: 3669723656
 type: node
-shop: Friseur
 latitude: 50.971246300000004
 longitude: 11.0583206
 postcode: "99099"
@@ -8,5 +7,5 @@ city: Erfurt
 street: ""
 housenumber: 
 phone: "+49 361 6026638"
-opening_hours: "Mo-Sa: 9.00 - 20.00"
+opening_hours: "Mo-Sa 09:00-20:00"
 website: ""
