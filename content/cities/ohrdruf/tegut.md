@@ -1,5 +1,5 @@
 ---
-title: "tegut"
+title: "Tegut"
 url: /ohrdruf/tegut/
 shop: Supermarkt
 ---

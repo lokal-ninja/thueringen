@@ -1,11 +1,11 @@
-id: 24018383
-type: way
-latitude: 50.9012904
-longitude: 11.5793373
-postcode: "07745"
+id: 8354271015
+type: node
+latitude: 50.9287274
+longitude: 11.592721200000002
+postcode: "07743"
 city: Jena
-street: "Rudolstädter Straße"
-housenumber: 31
+street: "Steinweg"
+housenumber: 10
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00, Sa 07:00-20:00"
+opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00"
 website: ""

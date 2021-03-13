@@ -1,5 +1,5 @@
 ---
 title: "Inge's Modelädchen"
 url: /grossenstein/inges-modelaedchen/
-shop: Modehaus
+shop: Kleidung
 ---
