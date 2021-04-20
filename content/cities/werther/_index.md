@@ -1,6 +1,6 @@
 ---
 title: Werther
 url: /werther/
-latitude: 51.467819500000004
-longitude: 10.7370415
+latitude: 51.4739645
+longitude: 10.741828100000001
 ---
