@@ -1,5 +1,5 @@
 ---
 title: "Abschleppdienst Jens Baumgart"
 url: /erfurt/abschleppdienst-jens-baumgart/
-shop: Autoservice
+shop: Autowerkstatt
 ---

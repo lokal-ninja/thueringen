@@ -1,11 +1,11 @@
-id: 205741574
-type: way
-latitude: 51.0396896
-longitude: 12.296777400000002
+id: 8731666030
+type: node
+latitude: 51.03972460000001
+longitude: 12.296711700000001
 postcode: "04610"
 city: Meuselwitz
 street: "Bebelstraße"
 housenumber: 9
 phone: ""
-opening_hours: "Mo,Tu,TH 09:00-12:00,14:00-17:00; We 09:00-12:00; Fr 09:00-17:00; Sa,,Su,PH off"
+opening_hours: "Mo,Tu,Th 09:00-12:00,14:00-17:00; We 09:00-12:00; Fr 09:00-17:00; Sa,Su,PH off"
 website: ""

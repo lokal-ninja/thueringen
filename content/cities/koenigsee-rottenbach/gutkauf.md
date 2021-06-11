@@ -1,5 +1,5 @@
 ---
 title: "Gutkauf"
 url: /koenigsee-rottenbach/gutkauf/
-shop: Lebensmittel
+shop: Supermarkt
 ---

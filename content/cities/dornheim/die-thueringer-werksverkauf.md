@@ -1,5 +1,5 @@
 ---
 title: "Die Thüringer - Werksverkauf"
 url: /dornheim/die-thueringer-werksverkauf/
-shop: Allgemein
+shop: Metzgerei
 ---
