@@ -1,0 +1,20 @@
+baseURL = "https://de.shoogle.net/thueringen/"
+languageCode = "de"
+title = "Thüringen"
+theme = "ln-base"
+
+disableKinds = ["RSS", "robotsTXT"]
+enableGitInfo = true
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "thueringen"
+
+[taxonomies]
+  shop = "shops"
+
