@@ -1,5 +1,5 @@
 ---
-title: "Tedi"
+title: "TEDi"
 url: /eisenach/tedi/
-shop: Supermarkt
+shop: Kramladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aquaexot"
 url: /jena/aquaexot/
-shop: Allgemein
+shop: Tiere
 ---
