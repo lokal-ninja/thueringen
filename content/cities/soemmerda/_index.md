@@ -1,6 +1,6 @@
 ---
 title: Sömmerda
 url: /soemmerda/
-latitude: 51.158
-longitude: 11.114
+latitude: 51.161
+longitude: 11.118
 ---
