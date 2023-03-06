@@ -1,5 +1,5 @@
 ---
-title: "Helbing-mein Lieblingsbäcker"
+title: "Helbing mein Lieblingsbäcker"
 url: /nordhausen/helbing-mein-lieblingsbaecker/
 shop: Bäckerei
 ---
