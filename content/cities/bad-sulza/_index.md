@@ -1,6 +1,6 @@
 ---
 title: Bad Sulza
 url: /bad-sulza/
-latitude: 51.091
-longitude: 11.627
+latitude: 51.087
+longitude: 11.623
 ---
