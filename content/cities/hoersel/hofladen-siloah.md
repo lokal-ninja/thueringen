@@ -1,5 +1,5 @@
 ---
 title: "Hofladen Siloah"
 url: /hoersel/hofladen-siloah/
-shop: Supermarkt
+shop: Hofladen
 ---
