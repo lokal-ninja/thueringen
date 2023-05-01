@@ -1,5 +1,5 @@
 ---
 title: "Fleischerei Liebing"
 url: /sondershausen/fleischerei-liebing/
-shop: Metzgerei
+shop: Leerstehend
 ---

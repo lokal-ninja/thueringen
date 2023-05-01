@@ -1,6 +1,6 @@
 ---
 title: Körner
 url: /koerner/
-latitude: 51.23
-longitude: 10.584
+latitude: 51.231
+longitude: 10.586
 ---
