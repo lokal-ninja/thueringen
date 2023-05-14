@@ -1,6 +1,6 @@
 ---
 title: Gotha
 url: /gotha/
-latitude: 50.94
-longitude: 10.711
+latitude: 50.937
+longitude: 10.704
 ---
