@@ -1,6 +1,6 @@
 ---
 title: Wildeck
 url: /wildeck/
-latitude: 50.955
-longitude: 10.02
+latitude: 50.95
+longitude: 10.035
 ---

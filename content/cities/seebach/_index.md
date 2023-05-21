@@ -1,6 +1,6 @@
 ---
 title: Seebach
 url: /seebach/
-latitude: 50.917
-longitude: 10.417
+latitude: 50.912
+longitude: 10.426
 ---
