@@ -1,5 +1,5 @@
 ---
 title: "Multipolster"
 url: /weimar/multipolster/
-shop: Teppiche
+shop: Möbel
 ---
