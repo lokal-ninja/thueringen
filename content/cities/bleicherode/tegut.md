@@ -1,5 +1,5 @@
 ---
-title: "Tegut"
+title: "tegut"
 url: /bleicherode/tegut/
 shop: Supermarkt
 ---
