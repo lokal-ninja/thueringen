@@ -1,6 +1,6 @@
 ---
 title: Bad Liebenstein
 url: /bad-liebenstein/
-latitude: 50.815
-longitude: 10.353
+latitude: 50.835
+longitude: 10.367
 ---

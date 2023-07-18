@@ -5,7 +5,7 @@ longitude: 10.34703
 postcode: "36448"
 city: Bad Liebenstein
 street: "Bahnhofstraße"
-housenumber: 3a
+housenumber: 3
 phone: ""
-opening_hours: "Mo-Th 07:00-20:00; Fr 07:00-21:00; Sa 07:00-20:00"
-website: "https://www.tegut.com/maerkte/markt/tegut-bad-liebenstein-bahnhofstr-3.html"
+opening_hours: "Mo-Th,Sa 07:00-20:00; Fr 07:00-21:00; Su,PH off"
+website: ""

@@ -1,5 +1,5 @@
 ---
-title: "RudolSham"
+title: "Rudolsham"
 url: /rudolstadt/rudolsham/
-shop: Feinkost
+shop: Lebensmittel
 ---

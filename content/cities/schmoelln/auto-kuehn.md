@@ -1,5 +1,5 @@
 ---
-title: "Auto Kühn"
+title: "Auto-Kühn"
 url: /schmoelln/auto-kuehn/
-shop: Autowerkstatt
+shop: Autohaus
 ---
