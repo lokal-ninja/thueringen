@@ -1,6 +1,6 @@
 ---
 title: Kaulsdorf
 url: /kaulsdorf/
-latitude: 50.617
-longitude: 11.43
+latitude: 50.608
+longitude: 11.395
 ---
