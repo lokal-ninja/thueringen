@@ -1,5 +1,5 @@
 ---
-title: "Marktkauf"
+title: "MARKTKAUF"
 url: /saalfeld-saale/marktkauf/
-shop: Getränke
+shop: Supermarkt
 ---
