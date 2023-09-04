@@ -7,5 +7,5 @@ city: Meuselwitz
 street: "Am Rathaus"
 housenumber: 8
 phone: ""
-opening_hours: "Mo,We,Fr 09:00-12:30,13:30-18:00; Tu,Th 09:00-12:30,13:30-16:00; Sa,Su,PH off"
+opening_hours: "Mo,Fr 09:00-12:30,13:30-16:00; Tu,Th 09:00-12:30; We 09:00-12:30,13:30-17:00; Su off"
 website: ""
