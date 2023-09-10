@@ -1,6 +1,6 @@
 ---
 title: Steinbach-Hallenberg
 url: /steinbach-hallenberg/
-latitude: 50.717
-longitude: 10.606
+latitude: 50.716
+longitude: 10.61
 ---
