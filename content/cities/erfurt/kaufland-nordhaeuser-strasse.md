@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /erfurt/kaufland/
+url: /erfurt/kaufland-nordhaeuser-strasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /weimar/vodafone/
+url: /weimar/vodafone-kaufstrasse/
 shop: Handy
 ---

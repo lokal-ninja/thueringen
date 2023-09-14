@@ -1,5 +1,5 @@
 ---
 title: "Autoland"
-url: /erfurt/autoland/
+url: /erfurt/autoland-heinrich-credner-strasse/
 shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Penny"
-url: /gotha/penny/
+url: /gotha/penny-reinhardsbrunner-strasse/
 shop: Supermarkt
 ---

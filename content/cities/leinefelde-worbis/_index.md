@@ -1,6 +1,6 @@
 ---
 title: Leinefelde-Worbis
 url: /leinefelde-worbis/
-latitude: 51.416
-longitude: 10.366
+latitude: 51.413
+longitude: 10.362
 ---

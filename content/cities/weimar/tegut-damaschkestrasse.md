@@ -1,5 +1,5 @@
 ---
 title: "tegut"
-url: /weimar/tegut/
+url: /weimar/tegut-damaschkestrasse/
 shop: Supermarkt
 ---

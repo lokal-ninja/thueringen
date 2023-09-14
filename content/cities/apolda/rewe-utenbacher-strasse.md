@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /apolda/rewe/
+url: /apolda/rewe-utenbacher-strasse/
 shop: Supermarkt
 ---

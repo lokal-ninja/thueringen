@@ -1,6 +1,6 @@
 ---
 title: Elxleben
 url: /elxleben/
-latitude: 51.045
-longitude: 10.951
+latitude: 51.047
+longitude: 10.95
 ---

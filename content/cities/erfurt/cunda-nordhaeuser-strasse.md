@@ -1,5 +1,5 @@
 ---
 title: "C&A"
-url: /erfurt/cunda/
+url: /erfurt/cunda-nordhaeuser-strasse/
 shop: Kleidung
 ---

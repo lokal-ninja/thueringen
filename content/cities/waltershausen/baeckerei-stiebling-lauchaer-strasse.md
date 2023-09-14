@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Stiebling"
-url: /waltershausen/baeckerei-stiebling/
+url: /waltershausen/baeckerei-stiebling-lauchaer-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /schmalkalden/edeka/
+url: /schmalkalden/edeka-talstrasse/
 shop: Supermarkt
 ---

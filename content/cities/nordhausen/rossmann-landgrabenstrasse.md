@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /nordhausen/rossmann/
+url: /nordhausen/rossmann-landgrabenstrasse/
 shop: Drogerie
 ---

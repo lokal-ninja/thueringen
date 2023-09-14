@@ -1,5 +1,5 @@
 ---
 title: "Sternenbäck"
-url: /jena/sternenbaeck/
+url: /jena/sternenbaeck-kesslerstrasse/
 shop: Bäckerei
 ---

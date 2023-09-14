@@ -1,5 +1,5 @@
 ---
 title: "Sternenbäck"
-url: /gera/sternenbaeck/
+url: /gera/sternenbaeck-heinrichstrasse/
 shop: Bäckerei
 ---

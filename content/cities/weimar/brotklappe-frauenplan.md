@@ -1,5 +1,5 @@
 ---
 title: "Brotklappe"
-url: /weimar/brotklappe/
+url: /weimar/brotklappe-frauenplan/
 shop: Bäckerei
 ---

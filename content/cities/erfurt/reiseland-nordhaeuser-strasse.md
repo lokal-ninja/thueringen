@@ -1,5 +1,5 @@
 ---
 title: "Reiseland"
-url: /erfurt/reiseland/
+url: /erfurt/reiseland-nordhaeuser-strasse/
 shop: Reisebüro
 ---

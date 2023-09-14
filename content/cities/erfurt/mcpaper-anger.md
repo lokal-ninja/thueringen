@@ -1,5 +1,5 @@
 ---
 title: "McPaper"
-url: /erfurt/mcpaper/
+url: /erfurt/mcpaper-anger/
 shop: Schreibwaren
 ---

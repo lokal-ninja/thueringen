@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /gera/deichmann/
+url: /gera/deichmann-schleizer-strasse/
 shop: Schuhe
 ---

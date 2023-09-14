@@ -1,5 +1,5 @@
 ---
 title: "Total"
-url: /ilmenau/total/
+url: /ilmenau/total-grenzhammer/
 shop: Kiosk
 ---

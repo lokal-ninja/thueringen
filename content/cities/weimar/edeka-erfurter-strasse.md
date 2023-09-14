@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /weimar/edeka/
+url: /weimar/edeka-erfurter-strasse/
 shop: Supermarkt
 ---

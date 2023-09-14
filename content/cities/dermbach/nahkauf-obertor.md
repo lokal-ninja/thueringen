@@ -1,5 +1,5 @@
 ---
 title: "Nahkauf"
-url: /dermbach/nahkauf/
+url: /dermbach/nahkauf-obertor/
 shop: Supermarkt
 ---

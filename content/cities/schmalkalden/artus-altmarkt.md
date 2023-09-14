@@ -1,5 +1,5 @@
 ---
 title: "Artus"
-url: /schmalkalden/artus/
+url: /schmalkalden/artus-altmarkt/
 shop: Bäckerei
 ---

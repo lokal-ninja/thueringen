@@ -1,5 +1,5 @@
 ---
 title: "frischBack"
-url: /roemhild/frischback/
+url: /roemhild/frischback-heurichstrasse/
 shop: Bäckerei
 ---

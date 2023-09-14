@@ -1,5 +1,5 @@
 ---
 title: "Helbing"
-url: /gotha/helbing/
+url: /gotha/helbing-schubertstrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Norma"
-url: /erfurt/norma/
+url: /erfurt/norma-lowetscher-strasse/
 shop: Supermarkt
 ---

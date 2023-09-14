@@ -1,5 +1,5 @@
 ---
 title: "Multipolster"
-url: /erfurt/multipolster/
+url: /erfurt/multipolster-salinenstrasse/
 shop: Möbel
 ---

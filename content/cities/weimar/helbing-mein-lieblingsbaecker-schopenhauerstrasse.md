@@ -1,5 +1,5 @@
 ---
 title: "Helbing mein Lieblingsbäcker"
-url: /weimar/helbing-mein-lieblingsbaecker/
+url: /weimar/helbing-mein-lieblingsbaecker-schopenhauerstrasse/
 shop: Bäckerei
 ---

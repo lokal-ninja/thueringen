@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
-url: /gera/jysk/
+url: /gera/jysk-carl-zeiss-strasse/
 shop: Möbel
 ---

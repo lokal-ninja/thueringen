@@ -1,5 +1,5 @@
 ---
 title: "Bergmann"
-url: /erfurt/bergmann/
+url: /erfurt/bergmann-faerberwaidweg/
 shop: Bäckerei
 ---

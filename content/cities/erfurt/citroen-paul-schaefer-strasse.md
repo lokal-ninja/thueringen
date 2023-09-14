@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
-url: /erfurt/citroen/
+url: /erfurt/citroen-paul-schaefer-strasse/
 shop: Autohaus
 ---

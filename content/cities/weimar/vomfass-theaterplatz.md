@@ -1,5 +1,5 @@
 ---
 title: "vomFASS"
-url: /weimar/vomfass/
+url: /weimar/vomfass-theaterplatz/
 shop: Feinkost
 ---

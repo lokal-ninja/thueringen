@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /saalfeld-saale/lidl/
+url: /saalfeld-saale/lidl-fingersteinstrasse/
 shop: Supermarkt
 ---

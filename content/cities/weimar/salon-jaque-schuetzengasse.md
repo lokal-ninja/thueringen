@@ -1,5 +1,5 @@
 ---
 title: "Salon Jaquè"
-url: /weimar/salon-jaque/
+url: /weimar/salon-jaque-schuetzengasse/
 shop: Friseur
 ---

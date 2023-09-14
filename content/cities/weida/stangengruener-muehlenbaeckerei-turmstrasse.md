@@ -1,5 +1,5 @@
 ---
 title: "Stangengrüner Mühlenbäckerei"
-url: /weida/stangengruener-muehlenbaeckerei/
+url: /weida/stangengruener-muehlenbaeckerei-turmstrasse/
 shop: Bäckerei
 ---

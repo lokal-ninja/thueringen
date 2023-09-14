@@ -1,5 +1,5 @@
 ---
 title: "KIK"
-url: /hermsdorf/kik/
+url: /hermsdorf/kik-waldsiedlungsmarkt/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /altenburg/kaufland/
+url: /altenburg/kaufland-kaethe-kollwitz-strasse/
 shop: Supermarkt
 ---

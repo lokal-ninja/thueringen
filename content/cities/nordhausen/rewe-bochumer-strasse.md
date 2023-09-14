@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /nordhausen/rewe/
+url: /nordhausen/rewe-bochumer-strasse/
 shop: Supermarkt
 ---

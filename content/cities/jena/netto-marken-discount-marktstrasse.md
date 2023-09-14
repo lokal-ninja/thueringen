@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /jena/netto-marken-discount/
+url: /jena/netto-marken-discount-marktstrasse/
 shop: Supermarkt
 ---

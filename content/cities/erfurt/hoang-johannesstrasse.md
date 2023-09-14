@@ -1,5 +1,5 @@
 ---
 title: "Hoang"
-url: /erfurt/hoang/
+url: /erfurt/hoang-johannesstrasse/
 shop: Schneiderei
 ---

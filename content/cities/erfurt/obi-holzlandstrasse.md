@@ -1,5 +1,5 @@
 ---
 title: "OBI"
-url: /erfurt/obi/
+url: /erfurt/obi-holzlandstrasse/
 shop: Baumarkt
 ---

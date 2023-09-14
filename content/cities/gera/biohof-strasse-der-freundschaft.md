@@ -1,5 +1,5 @@
 ---
 title: "Biohof"
-url: /gera/biohof/
+url: /gera/biohof-strasse-der-freundschaft/
 shop: Allgemein
 ---

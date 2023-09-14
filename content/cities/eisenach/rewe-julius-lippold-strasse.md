@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /eisenach/rewe/
+url: /eisenach/rewe-julius-lippold-strasse/
 shop: Supermarkt
 ---

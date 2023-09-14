@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
-url: /schmoelln/amplifon/
+url: /schmoelln/amplifon-markt/
 shop: Hörgeräte
 ---

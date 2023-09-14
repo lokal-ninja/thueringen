@@ -1,5 +1,5 @@
 ---
 title: "Landbäckerei Plötner"
-url: /serba/landbaeckerei-ploetner/
+url: /serba/landbaeckerei-ploetner-hinterm-teiche/
 shop: Bäckerei
 ---

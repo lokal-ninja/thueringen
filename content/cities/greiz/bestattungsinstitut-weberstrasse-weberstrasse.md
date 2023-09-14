@@ -1,5 +1,5 @@
 ---
 title: "Bestattungsinstitut Weberstraße"
-url: /greiz/bestattungsinstitut-weberstrasse/
+url: /greiz/bestattungsinstitut-weberstrasse-weberstrasse/
 shop: Bestattungen
 ---

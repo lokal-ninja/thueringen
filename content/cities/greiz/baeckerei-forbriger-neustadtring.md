@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Forbriger"
-url: /greiz/baeckerei-forbriger/
+url: /greiz/baeckerei-forbriger-neustadtring/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RudolSham"
-url: /rudolstadt/rudolsham/
+url: /rudolstadt/rudolsham-angerstrasse/
 shop: Feinkost
 ---

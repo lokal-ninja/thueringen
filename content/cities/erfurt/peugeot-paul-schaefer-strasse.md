@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
-url: /erfurt/peugeot/
+url: /erfurt/peugeot-paul-schaefer-strasse/
 shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hugendubel"
-url: /erfurt/hugendubel/
+url: /erfurt/hugendubel-nordhaeuser-strasse/
 shop: Bücher
 ---

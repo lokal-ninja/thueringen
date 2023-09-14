@@ -1,5 +1,5 @@
 ---
 title: "Helbing"
-url: /erfurt/helbing/
+url: /erfurt/helbing-haesslerstrasse/
 shop: Bäckerei
 ---

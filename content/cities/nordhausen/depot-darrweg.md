@@ -1,5 +1,5 @@
 ---
 title: "Depot"
-url: /nordhausen/depot/
+url: /nordhausen/depot-darrweg/
 shop: Raumausstattung
 ---

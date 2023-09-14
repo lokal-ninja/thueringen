@@ -1,5 +1,5 @@
 ---
 title: "NORMA"
-url: /rudolstadt/norma/
+url: /rudolstadt/norma-schwarzburger-strasse/
 shop: Supermarkt
 ---

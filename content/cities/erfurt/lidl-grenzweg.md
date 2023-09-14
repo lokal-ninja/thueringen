@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /erfurt/lidl/
+url: /erfurt/lidl-grenzweg/
 shop: Supermarkt
 ---

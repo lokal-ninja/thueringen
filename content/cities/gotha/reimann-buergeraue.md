@@ -1,5 +1,5 @@
 ---
 title: "Reimann"
-url: /gotha/reimann/
+url: /gotha/reimann-buergeraue/
 shop: Metzgerei
 ---

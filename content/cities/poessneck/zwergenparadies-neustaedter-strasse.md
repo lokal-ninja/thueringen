@@ -1,5 +1,5 @@
 ---
 title: "Zwergenparadies"
-url: /poessneck/zwergenparadies/
+url: /poessneck/zwergenparadies-neustaedter-strasse/
 shop: Gebrauchtwaren
 ---

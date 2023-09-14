@@ -1,5 +1,5 @@
 ---
 title: "Globus"
-url: /erfurt/globus/
+url: /erfurt/globus-erfurter-strasse/
 shop: Supermarkt
 ---

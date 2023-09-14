@@ -1,5 +1,5 @@
 ---
 title: "Autoservice Lämmer"
-url: /geratal/autoservice-laemmer/
+url: /geratal/autoservice-laemmer-gothaer-strasse/
 shop: Autowerkstatt
 ---

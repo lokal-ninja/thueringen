@@ -1,5 +1,5 @@
 ---
 title: "Sanitätshaus Carqueville"
-url: /gera/sanitaetshaus-carqueville/
+url: /gera/sanitaetshaus-carqueville-heinrichstrasse/
 shop: Sanitätshaus
 ---

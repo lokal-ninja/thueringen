@@ -1,5 +1,5 @@
 ---
 title: "Berufsbekleidung"
-url: /poessneck/berufsbekleidung/
+url: /poessneck/berufsbekleidung-schuhgasse/
 shop: Kleidung
 ---

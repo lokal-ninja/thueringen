@@ -1,5 +1,5 @@
 ---
 title: "Stadtmühlenbäckerei Bielert"
-url: /rudolstadt/stadtmuehlenbaeckerei-bielert/
+url: /rudolstadt/stadtmuehlenbaeckerei-bielert-gartenstrasse/
 shop: Bäckerei
 ---

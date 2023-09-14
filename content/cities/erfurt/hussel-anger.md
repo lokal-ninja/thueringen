@@ -1,5 +1,5 @@
 ---
 title: "Hussel"
-url: /erfurt/hussel/
+url: /erfurt/hussel-anger/
 shop: Süßwaren
 ---

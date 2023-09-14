@@ -1,5 +1,5 @@
 ---
 title: "Masson"
-url: /erfurt/masson/
+url: /erfurt/masson-nordhaeuser-strasse-2/
 shop: Friseur
 ---

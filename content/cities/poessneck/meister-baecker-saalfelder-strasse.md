@@ -1,5 +1,5 @@
 ---
 title: "Meister Bäcker"
-url: /poessneck/meister-baecker/
+url: /poessneck/meister-baecker-saalfelder-strasse/
 shop: Bäckerei
 ---

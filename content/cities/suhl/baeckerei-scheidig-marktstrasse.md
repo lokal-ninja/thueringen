@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Scheidig"
-url: /suhl/baeckerei-scheidig/
+url: /suhl/baeckerei-scheidig-marktstrasse/
 shop: Bäckerei
 ---

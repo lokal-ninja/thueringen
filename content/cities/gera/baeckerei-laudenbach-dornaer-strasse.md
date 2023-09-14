@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Laudenbach"
-url: /gera/baeckerei-laudenbach/
+url: /gera/baeckerei-laudenbach-dornaer-strasse/
 shop: Bäckerei
 ---

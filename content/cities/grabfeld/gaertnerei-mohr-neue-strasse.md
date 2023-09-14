@@ -1,5 +1,5 @@
 ---
 title: "Gärtnerei Mohr"
-url: /grabfeld/gaertnerei-mohr/
+url: /grabfeld/gaertnerei-mohr-neue-strasse/
 shop: Garten-Center
 ---

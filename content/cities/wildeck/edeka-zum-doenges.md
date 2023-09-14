@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /wildeck/edeka/
+url: /wildeck/edeka-zum-doenges/
 shop: Supermarkt
 ---

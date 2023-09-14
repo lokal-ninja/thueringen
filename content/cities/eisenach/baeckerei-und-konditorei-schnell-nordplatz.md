@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei & Konditorei Schnell"
-url: /eisenach/baeckerei-und-konditorei-schnell/
+url: /eisenach/baeckerei-und-konditorei-schnell-nordplatz/
 shop: Bäckerei
 ---

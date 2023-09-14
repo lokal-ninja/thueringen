@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /eisenach/lidl/
+url: /eisenach/lidl-am-stadtweg/
 shop: Supermarkt
 ---

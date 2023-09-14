@@ -1,5 +1,5 @@
 ---
 title: "Nahkauf"
-url: /erfurt/nahkauf/
+url: /erfurt/nahkauf-geraer-strasse/
 shop: Supermarkt
 ---

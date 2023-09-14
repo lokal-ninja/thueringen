@@ -1,5 +1,5 @@
 ---
 title: "Landbäckerei Treibmann"
-url: /gera/landbaeckerei-treibmann/
+url: /gera/landbaeckerei-treibmann-karl-liebknecht-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fleischerei Rhönland"
-url: /kaltennordheim/fleischerei-rhoenland/
+url: /kaltennordheim/fleischerei-rhoenland-hinterm-kirchhof/
 shop: Metzgerei
 ---

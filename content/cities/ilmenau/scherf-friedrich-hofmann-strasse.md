@@ -1,5 +1,5 @@
 ---
 title: "Scherf"
-url: /ilmenau/scherf/
+url: /ilmenau/scherf-friedrich-hofmann-strasse/
 shop: Bäckerei
 ---

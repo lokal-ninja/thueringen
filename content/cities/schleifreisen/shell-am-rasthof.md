@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /schleifreisen/shell/
+url: /schleifreisen/shell-am-rasthof/
 shop: Lebensmittel
 ---

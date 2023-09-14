@@ -1,5 +1,5 @@
 ---
 title: "haarkunst"
-url: /erfurt/haarkunst/
+url: /erfurt/haarkunst-magdeburger-allee/
 shop: Friseur
 ---

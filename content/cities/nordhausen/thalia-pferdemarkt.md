@@ -1,5 +1,5 @@
 ---
 title: "Thalia"
-url: /nordhausen/thalia/
+url: /nordhausen/thalia-pferdemarkt/
 shop: Bücher
 ---

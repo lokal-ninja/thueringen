@@ -1,5 +1,5 @@
 ---
 title: "Premium Goldankauf"
-url: /erfurt/premium-goldankauf/
+url: /erfurt/premium-goldankauf-bahnhofstrasse/
 shop: Schmuck
 ---

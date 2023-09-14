@@ -1,5 +1,5 @@
 ---
 title: "Haarkosmetik Nordhausen GmbH"
-url: /nordhausen/haarkosmetik-nordhausen-gmbh/
+url: /nordhausen/haarkosmetik-nordhausen-gmbh-taschenberg/
 shop: Friseur
 ---

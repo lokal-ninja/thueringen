@@ -1,5 +1,5 @@
 ---
 title: "Laudenbach"
-url: /gera/laudenbach/
+url: /gera/laudenbach-maler-reinhold-strasse/
 shop: Bäckerei
 ---

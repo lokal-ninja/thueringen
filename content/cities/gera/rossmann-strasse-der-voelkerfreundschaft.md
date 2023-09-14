@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /gera/rossmann/
+url: /gera/rossmann-strasse-der-voelkerfreundschaft/
 shop: Drogerie
 ---

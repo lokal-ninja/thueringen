@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Martin"
-url: /windischleuba/autohaus-martin/
+url: /windischleuba/autohaus-martin-fuenfminutenweg-nord/
 shop: Autohaus
 ---

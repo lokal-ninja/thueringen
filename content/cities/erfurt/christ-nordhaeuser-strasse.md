@@ -1,5 +1,5 @@
 ---
 title: "Christ"
-url: /erfurt/christ/
+url: /erfurt/christ-nordhaeuser-strasse/
 shop: Schmuck
 ---

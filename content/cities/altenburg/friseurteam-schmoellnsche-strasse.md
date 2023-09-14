@@ -1,5 +1,5 @@
 ---
 title: "Friseurteam"
-url: /altenburg/friseurteam/
+url: /altenburg/friseurteam-schmoellnsche-strasse/
 shop: Friseur
 ---

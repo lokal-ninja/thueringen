@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Triebel"
-url: /erfurt/baeckerei-triebel/
+url: /erfurt/baeckerei-triebel-magdeburger-allee/
 shop: Bäckerei
 ---

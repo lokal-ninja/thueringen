@@ -1,5 +1,5 @@
 ---
 title: "Fleischerei Schumm"
-url: /ilmenau/fleischerei-schumm/
+url: /ilmenau/fleischerei-schumm-am-helmholtzring/
 shop: Metzgerei
 ---

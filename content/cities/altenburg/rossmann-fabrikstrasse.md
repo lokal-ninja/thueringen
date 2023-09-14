@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /altenburg/rossmann/
+url: /altenburg/rossmann-fabrikstrasse/
 shop: Drogerie
 ---

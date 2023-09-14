@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /erfurt/tedi/
+url: /erfurt/tedi-faerberwaidweg/
 shop: Kramladen
 ---

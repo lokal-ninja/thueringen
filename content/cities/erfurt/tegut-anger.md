@@ -1,5 +1,5 @@
 ---
 title: "Tegut"
-url: /erfurt/tegut/
+url: /erfurt/tegut-anger/
 shop: Supermarkt
 ---

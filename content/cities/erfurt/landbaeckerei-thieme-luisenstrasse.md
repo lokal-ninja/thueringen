@@ -1,5 +1,5 @@
 ---
 title: "Landbäckerei Thieme"
-url: /erfurt/landbaeckerei-thieme/
+url: /erfurt/landbaeckerei-thieme-luisenstrasse/
 shop: Bäckerei
 ---

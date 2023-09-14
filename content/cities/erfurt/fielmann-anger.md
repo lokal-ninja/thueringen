@@ -1,5 +1,5 @@
 ---
 title: "Fielmann"
-url: /erfurt/fielmann/
+url: /erfurt/fielmann-anger/
 shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Edelweiß"
-url: /erfurt/edelweiss/
+url: /erfurt/edelweiss-nordhaeuser-strasse/
 shop: Blumen
 ---

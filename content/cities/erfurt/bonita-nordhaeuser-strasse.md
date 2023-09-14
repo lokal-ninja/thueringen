@@ -1,5 +1,5 @@
 ---
 title: "BONITA"
-url: /erfurt/bonita/
+url: /erfurt/bonita-nordhaeuser-strasse/
 shop: Kleidung
 ---

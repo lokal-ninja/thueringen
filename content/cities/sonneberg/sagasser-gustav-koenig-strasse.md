@@ -1,5 +1,5 @@
 ---
 title: "Sagasser"
-url: /sonneberg/sagasser/
+url: /sonneberg/sagasser-gustav-koenig-strasse/
 shop: Getränke
 ---

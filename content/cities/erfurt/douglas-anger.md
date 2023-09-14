@@ -1,5 +1,5 @@
 ---
 title: "Douglas"
-url: /erfurt/douglas/
+url: /erfurt/douglas-anger/
 shop: Parfümerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NKD"
-url: /schmoelln/nkd/
+url: /schmoelln/nkd-ronneburger-strasse/
 shop: Kleidung
 ---

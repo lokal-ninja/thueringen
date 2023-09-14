@@ -1,5 +1,5 @@
 ---
 title: "Landbäckerei Treibmann"
-url: /gera/landbaeckerei-treibmann/
+url: /gera/landbaeckerei-treibmann-schafwiesenstrasse/
 shop: Bäckerei
 ---

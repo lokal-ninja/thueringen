@@ -1,5 +1,5 @@
 ---
 title: "Sternenbäck"
-url: /erfurt/sternenbaeck/
+url: /erfurt/sternenbaeck-nordhaeuser-strasse/
 shop: Bäckerei
 ---

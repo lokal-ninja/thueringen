@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /jena/deichmann/
+url: /jena/deichmann-leutragraben/
 shop: Schuhe
 ---

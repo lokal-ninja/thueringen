@@ -1,5 +1,5 @@
 ---
 title: "Thüfleiwa"
-url: /apolda/thuefleiwa/
+url: /apolda/thuefleiwa-bernhard-prager-gasse/
 shop: Metzgerei
 ---

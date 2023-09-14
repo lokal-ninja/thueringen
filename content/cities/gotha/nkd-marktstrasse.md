@@ -1,5 +1,5 @@
 ---
 title: "NKD"
-url: /gotha/nkd/
+url: /gotha/nkd-marktstrasse/
 shop: Kleidung
 ---

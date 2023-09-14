@@ -1,5 +1,5 @@
 ---
 title: "TTM"
-url: /erfurt/ttm/
+url: /erfurt/ttm-august-roebling-strasse/
 shop: Baumarkt
 ---

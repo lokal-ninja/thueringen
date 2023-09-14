@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /gera/kik/
+url: /gera/kik-reichsstrasse/
 shop: Kleidung
 ---

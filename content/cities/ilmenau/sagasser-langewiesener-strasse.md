@@ -1,5 +1,5 @@
 ---
 title: "Sagasser"
-url: /ilmenau/sagasser/
+url: /ilmenau/sagasser-langewiesener-strasse/
 shop: Getränke
 ---

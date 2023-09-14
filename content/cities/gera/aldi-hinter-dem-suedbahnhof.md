@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /gera/aldi/
+url: /gera/aldi-hinter-dem-suedbahnhof/
 shop: Supermarkt
 ---

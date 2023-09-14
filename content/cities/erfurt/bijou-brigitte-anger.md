@@ -1,5 +1,5 @@
 ---
 title: "Bijou Brigitte"
-url: /erfurt/bijou-brigitte/
+url: /erfurt/bijou-brigitte-anger/
 shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stilleben"
-url: /erfurt/stilleben/
+url: /erfurt/stilleben-kraemerbruecke/
 shop: Raumausstattung
 ---

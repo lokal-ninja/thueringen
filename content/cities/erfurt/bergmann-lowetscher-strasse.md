@@ -1,5 +1,5 @@
 ---
 title: "Bergmann"
-url: /erfurt/bergmann/
+url: /erfurt/bergmann-lowetscher-strasse/
 shop: Bäckerei
 ---

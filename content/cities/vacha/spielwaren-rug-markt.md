@@ -1,5 +1,5 @@
 ---
 title: "Spielwaren Rug"
-url: /vacha/spielwaren-rug/
+url: /vacha/spielwaren-rug-markt/
 shop: Spielzeug
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tchibo"
-url: /nordhausen/tchibo/
+url: /nordhausen/tchibo-darrweg/
 shop: Kaffee
 ---

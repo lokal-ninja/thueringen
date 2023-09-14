@@ -1,5 +1,5 @@
 ---
 title: "Helbing mein Lieblingsbäcker"
-url: /bad-tennstedt/helbing-mein-lieblingsbaecker/
+url: /bad-tennstedt/helbing-mein-lieblingsbaecker-schuetzenplatz/
 shop: Bäckerei
 ---

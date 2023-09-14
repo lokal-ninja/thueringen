@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /gera/kaufland/
+url: /gera/kaufland-heinrichstrasse/
 shop: Supermarkt
 ---

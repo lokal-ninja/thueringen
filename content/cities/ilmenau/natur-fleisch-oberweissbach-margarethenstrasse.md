@@ -1,5 +1,5 @@
 ---
 title: "NATUR-Fleisch Oberweißbach"
-url: /ilmenau/natur-fleisch-oberweissbach/
+url: /ilmenau/natur-fleisch-oberweissbach-margarethenstrasse/
 shop: Metzgerei
 ---

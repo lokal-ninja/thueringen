@@ -1,5 +1,5 @@
 ---
 title: "Nahkauf"
-url: /weimar/nahkauf/
+url: /weimar/nahkauf-roehrstrasse/
 shop: Supermarkt
 ---

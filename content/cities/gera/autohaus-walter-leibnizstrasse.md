@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Walter"
-url: /gera/autohaus-walter/
+url: /gera/autohaus-walter-leibnizstrasse/
 shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Porzig"
-url: /goessnitz/autohaus-porzig/
+url: /goessnitz/autohaus-porzig-altenburger-strasse/
 shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Expert"
-url: /gotha/expert/
+url: /gotha/expert-rudloffstrasse/
 shop: Elektronik
 ---

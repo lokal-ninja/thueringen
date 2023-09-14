@@ -1,5 +1,5 @@
 ---
 title: "Auto Haupt"
-url: /harth-poellnitz/auto-haupt/
+url: /harth-poellnitz/auto-haupt-grossebersdorf/
 shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stadtgärtnerei"
-url: /schleiz/stadtgaertnerei/
+url: /schleiz/stadtgaertnerei-greizer-strasse/
 shop: Garten-Center
 ---

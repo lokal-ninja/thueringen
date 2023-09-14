@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /gotha/kik/
+url: /gotha/kik-salzgitterstrasse/
 shop: Kleidung
 ---

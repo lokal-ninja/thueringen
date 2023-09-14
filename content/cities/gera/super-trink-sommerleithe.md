@@ -1,5 +1,5 @@
 ---
 title: "Super-Trink"
-url: /gera/super-trink/
+url: /gera/super-trink-sommerleithe/
 shop: Getränke
 ---

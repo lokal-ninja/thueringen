@@ -1,5 +1,5 @@
 ---
 title: "Norma"
-url: /jena/norma/
+url: /jena/norma-ziegenhainer-strasse/
 shop: Supermarkt
 ---

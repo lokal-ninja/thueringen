@@ -1,5 +1,5 @@
 ---
 title: "Norma"
-url: /eisenach/norma/
+url: /eisenach/norma-gothaer-strasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /altenburg/kik/
+url: /altenburg/kik-fabrikstrasse/
 shop: Kleidung
 ---

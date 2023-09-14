@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /eisenach/kaufland/
+url: /eisenach/kaufland-bahnhofstrasse/
 shop: Supermarkt
 ---

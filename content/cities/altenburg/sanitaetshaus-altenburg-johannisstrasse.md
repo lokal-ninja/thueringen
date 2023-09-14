@@ -1,5 +1,5 @@
 ---
 title: "Sanitätshaus Altenburg"
-url: /altenburg/sanitaetshaus-altenburg/
+url: /altenburg/sanitaetshaus-altenburg-johannisstrasse/
 shop: Sanitätshaus
 ---

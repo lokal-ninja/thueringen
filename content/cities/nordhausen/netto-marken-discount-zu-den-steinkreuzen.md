@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /nordhausen/netto-marken-discount/
+url: /nordhausen/netto-marken-discount-zu-den-steinkreuzen/
 shop: Supermarkt
 ---

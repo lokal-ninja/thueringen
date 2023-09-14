@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /erfurt/kik/
+url: /erfurt/kik-leipziger-strasse/
 shop: Kleidung
 ---
