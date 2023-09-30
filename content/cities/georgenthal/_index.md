@@ -1,6 +1,6 @@
 ---
 title: Georgenthal
 url: /georgenthal/
-latitude: 50.835
-longitude: 10.667
+latitude: 50.83
+longitude: 10.658
 ---
