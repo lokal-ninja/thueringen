@@ -1,6 +1,6 @@
 ---
 title: Sulza
 url: /sulza/
-latitude: 50.877
-longitude: 11.628
+latitude: 50.875
+longitude: 11.621
 ---
