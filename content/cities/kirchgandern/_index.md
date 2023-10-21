@@ -1,6 +1,6 @@
 ---
 title: Kirchgandern
 url: /kirchgandern/
-latitude: 51.38
-longitude: 9.969
+latitude: 51.383
+longitude: 9.964
 ---
