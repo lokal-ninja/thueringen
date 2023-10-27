@@ -1,6 +1,6 @@
 ---
 title: Meura
 url: /meura/
-latitude: 50.585
-longitude: 11.21
+latitude: 50.583
+longitude: 11.205
 ---
