@@ -1,6 +1,6 @@
 ---
 title: Martinroda
 url: /martinroda/
-latitude: 50.729
-longitude: 10.887
+latitude: 50.725
+longitude: 10.888
 ---
