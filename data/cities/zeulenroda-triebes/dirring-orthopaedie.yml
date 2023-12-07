@@ -7,5 +7,5 @@ city: Zeulenroda-Triebes
 street: "Sandberg"
 housenumber: 12
 phone: "+49 36622 51853"
-opening_hours: "Mo, Tu 08:00-18:00; Th 08:00-12:00"
+opening_hours: "Mo, Tu 08:00-18:00 ||nach Termin"
 website: "http://dirring-orthopaedie.de"
