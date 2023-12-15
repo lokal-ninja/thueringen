@@ -1,6 +1,6 @@
 ---
 title: Dünwald
 url: /duenwald/
-latitude: 51.326
-longitude: 10.444
+latitude: 51.333
+longitude: 10.425
 ---

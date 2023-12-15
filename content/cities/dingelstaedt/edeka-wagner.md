@@ -1,5 +1,5 @@
 ---
 title: "Edeka Wagner"
-url: /duenwald/edeka-wagner/
+url: /dingelstaedt/edeka-wagner/
 shop: Supermarkt
 ---

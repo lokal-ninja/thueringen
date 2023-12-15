@@ -1,5 +1,5 @@
 ---
 title: "NORMA"
-url: /muehlhausen-thueringen/norma/
+url: /ilmenau/norma/
 shop: Supermarkt
 ---
