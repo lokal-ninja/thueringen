@@ -1,6 +1,6 @@
 ---
 title: Hainspitz
 url: /hainspitz/
-latitude: 50.966
-longitude: 11.837
+latitude: 50.958
+longitude: 11.838
 ---
