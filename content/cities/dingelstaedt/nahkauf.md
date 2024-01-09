@@ -1,5 +1,5 @@
 ---
 title: "Nahkauf"
-url: /anrode/nahkauf/
+url: /dingelstaedt/nahkauf/
 shop: Supermarkt
 ---
