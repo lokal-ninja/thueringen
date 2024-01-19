@@ -1,5 +1,5 @@
 ---
-title: "REWE to go"
+title: "REWE To Go"
 url: /zeulenroda-triebes/rewe-to-go/
-shop: Supermarkt
+shop: Lebensmittel
 ---
