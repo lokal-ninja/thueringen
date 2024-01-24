@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /jena/kaufland-naumburger-strasse/
+url: /jena/kaufland-karl-marx-allee/
 shop: Supermarkt
 ---
