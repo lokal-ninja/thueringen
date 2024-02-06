@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /rudolstadt/lidl-frenzelstrasse/
+url: /zella-mehlis/lidl/
 shop: Supermarkt
 ---
