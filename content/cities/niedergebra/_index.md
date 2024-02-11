@@ -1,6 +1,6 @@
 ---
 title: Niedergebra
 url: /niedergebra/
-latitude: 51.42
+latitude: 51.423
 longitude: 10.601
 ---
