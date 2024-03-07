@@ -1,6 +1,6 @@
 ---
 title: Zella-Mehlis
 url: /zella-mehlis/
-latitude: 50.644
-longitude: 10.688
+latitude: 50.662
+longitude: 10.659
 ---
