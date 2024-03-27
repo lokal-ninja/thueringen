@@ -1,6 +1,6 @@
 ---
 title: Ilmenau
 url: /ilmenau/
-latitude: 50.658
-longitude: 11.05
+latitude: 50.584
+longitude: 10.859
 ---
