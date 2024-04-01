@@ -1,5 +1,5 @@
 ---
-title: "PC-Servicepartner Eisenach"
+title: "PC-SERVICEPARTNER EISENACH"
 url: /eisenach/pc-servicepartner-eisenach/
 shop: Computer
 ---
