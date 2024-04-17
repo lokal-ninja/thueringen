@@ -1,6 +1,6 @@
 ---
 title: Petersberg
 url: /petersberg/
-latitude: 50.967
-longitude: 11.851
+latitude: 50.969
+longitude: 11.853
 ---

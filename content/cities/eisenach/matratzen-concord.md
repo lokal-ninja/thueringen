@@ -1,5 +1,5 @@
 ---
-title: "Matratzen CONCORD"
+title: "Matratzen Concord"
 url: /eisenach/matratzen-concord/
-shop: Möbel
+shop: Betten
 ---
