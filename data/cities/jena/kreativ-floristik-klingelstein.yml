@@ -7,5 +7,5 @@ city: Jena
 street: "Jenaische Straße"
 housenumber: 19
 phone: "+493641391145"
-opening_hours: "Mo-Tu 10:00-18:00; Th-Fr 10:00-18:00; Sa 08:00-12:00"
+opening_hours: "Mo,Tu,Th,Fr 10:00-18:00; Sa 08:00-12:00"
 website: ""
