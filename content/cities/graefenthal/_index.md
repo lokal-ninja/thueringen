@@ -1,6 +1,6 @@
 ---
 title: Gräfenthal
 url: /graefenthal/
-latitude: 50.528
-longitude: 11.313
+latitude: 50.527
+longitude: 11.239
 ---
