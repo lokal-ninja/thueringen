@@ -1,5 +1,5 @@
 ---
 title: "Vergölst"
 url: /erfurt/vergoelst/
-shop: Autowerkstatt
+shop: Reifen
 ---
