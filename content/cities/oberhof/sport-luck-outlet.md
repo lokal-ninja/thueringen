@@ -1,5 +1,5 @@
 ---
-title: "Sport Luck OUTLET"
+title: "Sport Luck Outlet"
 url: /oberhof/sport-luck-outlet/
 shop: Sport
 ---
