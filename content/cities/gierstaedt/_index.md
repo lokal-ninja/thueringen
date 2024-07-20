@@ -1,6 +1,6 @@
 ---
 title: Gierstädt
 url: /gierstaedt/
-latitude: 51.046
-longitude: 10.827
+latitude: 51.043
+longitude: 10.822
 ---
