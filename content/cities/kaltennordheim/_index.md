@@ -1,6 +1,6 @@
 ---
 title: Kaltennordheim
 url: /kaltennordheim/
-latitude: 50.63
-longitude: 10.156
+latitude: 50.627
+longitude: 10.159
 ---
