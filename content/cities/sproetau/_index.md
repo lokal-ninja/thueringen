@@ -1,6 +1,6 @@
 ---
 title: Sprötau
 url: /sproetau/
-latitude: 51.125
-longitude: 11.203
+latitude: 51.126
+longitude: 11.204
 ---
