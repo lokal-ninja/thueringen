@@ -1,5 +1,5 @@
 ---
-title: "Bahnhofs Buchhandlung"
+title: "Bahnhofs-Buchhandlung"
 url: /nordhausen/bahnhofs-buchhandlung/
 shop: Bücher
 ---
