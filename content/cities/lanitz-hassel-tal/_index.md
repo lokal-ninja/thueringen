@@ -1,6 +1,6 @@
 ---
 title: Lanitz-Hassel-Tal
 url: /lanitz-hassel-tal/
-latitude: 51.116
-longitude: 11.64
+latitude: 51.113
+longitude: 11.642
 ---
