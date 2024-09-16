@@ -4,8 +4,8 @@ latitude: 51.22124
 longitude: 10.45999
 postcode: "99974"
 city: Mühlhausen
-street: "Friedrich-Naumann-Straße"
-housenumber: 75
-phone: "+49 3601 8882990"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 10:00-13:00"
-website: "https://www.radhalle.com/"
+street: Friedrich-Naumann-Straße
+housenumber: "75"
+phone: +49 3601 8882990
+opening_hours: Tu-Fr 09:00-18:00; Sa 10:00-13:00
+website: https://www.radhalle.com/

@@ -1,11 +1,11 @@
 id: 38308979
-type: way
+type: node
 latitude: 50.69166
 longitude: 10.92585
 postcode: "98693"
 city: Ilmenau
-street: "Auf dem Mittelfeld"
-housenumber: 6
-phone: "+49 3677 6434-0"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-12:00"
-website: "https://www.autohaus-schenk.de/"
+street: Auf dem Mittelfeld
+housenumber: "6"
+phone: +49 3677 6434-0
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-12:00
+website: https://www.autohaus-schenk.de/

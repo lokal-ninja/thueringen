@@ -1,11 +1,11 @@
 id: 391008006
-type: way
+type: node
 latitude: 51.50024
 longitude: 10.80831
 postcode: "99734"
 city: Nordhausen
-street: "Hohekreuzstraße"
-housenumber: 20
+street: Hohekreuzstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

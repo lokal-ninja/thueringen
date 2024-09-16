@@ -1,11 +1,11 @@
 id: 777495153
-type: way
+type: node
 latitude: 50.97744
 longitude: 10.29229
 postcode: "99817"
 city: Eisenach
-street: "Siebenbornstraße"
-housenumber: 101
+street: Siebenbornstraße
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

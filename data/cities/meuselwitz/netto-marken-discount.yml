@@ -1,11 +1,11 @@
 id: 59530424
-type: way
+type: node
 latitude: 51.03667
 longitude: 12.31358
 postcode: "04610"
 city: Meuselwitz
-street: "Ackerstraße"
-housenumber: 3
+street: Ackerstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-20:00; Su,PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.42696
 longitude: 10.71231
 postcode: "98646"
 city: Hildburghausen
-street: "Häselriether Straße"
-housenumber: 9
-phone: "+49 3685 7948 0"
-opening_hours: "Mo-Fr 08:30-18:00, Sa 08:30-16:00"
-website: "https://www.drei-aehren-baeckerei.de/"
+street: Häselriether Straße
+housenumber: "9"
+phone: +49 3685 7948 0
+opening_hours: Mo-Fr 08:30-18:00, Sa 08:30-16:00
+website: https://www.drei-aehren-baeckerei.de/

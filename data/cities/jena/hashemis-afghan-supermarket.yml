@@ -4,8 +4,8 @@ latitude: 50.93206
 longitude: 11.58998
 postcode: "07743"
 city: Jena
-street: "Saalbahnhofstraße"
-housenumber: 12
+street: Saalbahnhofstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 10:00-20:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 10:00-20:00
 website: ""

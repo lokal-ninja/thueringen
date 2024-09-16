@@ -1,11 +1,11 @@
 id: 60047140
-type: way
+type: node
 latitude: 50.68654
 longitude: 10.91385
 postcode: "98693"
 city: Ilmenau
-street: "Topfmarkt"
-housenumber: 12
+street: Topfmarkt
+housenumber: "12"
 phone: ""
-opening_hours: "Tu,Th,Fr 06:30-13:00,14:30-17:00; We 06:30-13:00; Sa 06:30-11:00"
+opening_hours: Tu,Th,Fr 06:30-13:00,14:30-17:00; We 06:30-13:00; Sa 06:30-11:00
 website: ""

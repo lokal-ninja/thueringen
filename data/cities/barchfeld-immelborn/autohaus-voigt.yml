@@ -1,11 +1,11 @@
 id: 1122862832
-type: way
+type: node
 latitude: 50.79991
 longitude: 10.26969
 postcode: "36456"
 city: Barchfeld-Immelborn
-street: "Salzunger Straße"
-housenumber: 34
+street: Salzunger Straße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

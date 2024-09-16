@@ -4,8 +4,8 @@ latitude: 50.47535
 longitude: 11.44961
 postcode: "07349"
 city: Lehesten
-street: "Obere Marktstraße"
-housenumber: 10
-phone: "+49 36653 269422"
-opening_hours: "Mo-Fr 07:30-18:00, Sa 07:30-12:00"
-website: "https://www.lehstner-laedchen.de/"
+street: Obere Marktstraße
+housenumber: "10"
+phone: +49 36653 269422
+opening_hours: Mo-Fr 07:30-18:00, Sa 07:30-12:00
+website: https://www.lehstner-laedchen.de/

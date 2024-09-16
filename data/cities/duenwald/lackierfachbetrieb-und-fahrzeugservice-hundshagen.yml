@@ -1,11 +1,11 @@
 id: 513239776
-type: way
+type: node
 latitude: 51.33267
 longitude: 10.42452
 postcode: "37351"
 city: Dünwald
-street: "Reifensteiner Straße"
-housenumber: 5
+street: Reifensteiner Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

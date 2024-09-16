@@ -4,8 +4,8 @@ latitude: 50.98226
 longitude: 11.32992
 postcode: "99423"
 city: Weimar
-street: "Jakobstraße"
-housenumber: 18
+street: Jakobstraße
+housenumber: "18"
 phone: "+4917663238460"
-opening_hours: "Mo-Fr 12:00-19:00; Sa 13:00-18:00"
+opening_hours: Mo-Fr 12:00-19:00; Sa 13:00-18:00
 website: ""

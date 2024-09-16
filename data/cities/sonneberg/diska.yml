@@ -1,11 +1,11 @@
 id: 102861854
-type: way
+type: node
 latitude: 50.35154
 longitude: 11.16588
 postcode: "96515"
 city: Sonneberg
-street: "Bert-Brecht-Straße"
-housenumber: 22
+street: Bert-Brecht-Straße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

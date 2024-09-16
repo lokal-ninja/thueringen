@@ -1,11 +1,11 @@
 id: 42488053
-type: way
+type: node
 latitude: 50.99193
 longitude: 10.31381
 postcode: "99817"
 city: Eisenach
-street: "Mühlhäuser Straße"
-housenumber: 115
-phone: "+49 3691 611926"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 8:00-14:00"
+street: Mühlhäuser Straße
+housenumber: "115"
+phone: +49 3691 611926
+opening_hours: Mo-Fr 07:30-18:00; Sa 8:00-14:00
 website: ""

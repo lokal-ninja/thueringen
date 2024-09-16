@@ -1,11 +1,11 @@
 id: 610995173
-type: way
+type: node
 latitude: 50.89345
 longitude: 12.17058
 postcode: "07554"
 city: Korbußen
-street: "Mückernscher Weg"
-housenumber: 7
+street: Mückernscher Weg
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

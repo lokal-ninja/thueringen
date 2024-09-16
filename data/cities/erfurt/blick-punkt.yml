@@ -4,8 +4,8 @@ latitude: 50.98775
 longitude: 11.03599
 postcode: "99086"
 city: Erfurt
-street: "Friedrich-Engels-Straße"
-housenumber: 63
+street: Friedrich-Engels-Straße
+housenumber: "63"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
-website: "https://www.blickpunkt-ihr-optiker.de/"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
+website: https://www.blickpunkt-ihr-optiker.de/

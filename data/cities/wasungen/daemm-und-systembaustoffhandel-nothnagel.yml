@@ -1,11 +1,11 @@
 id: 1110405595
-type: way
+type: node
 latitude: 50.65561
 longitude: 10.37555
 postcode: "98634"
 city: Wasungen
-street: "Meininger Straße"
-housenumber: 56
-phone: "+49 36941 602870"
+street: Meininger Straße
+housenumber: "56"
+phone: +49 36941 602870
 opening_hours: ""
 website: ""

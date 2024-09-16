@@ -1,11 +1,11 @@
 id: 79522687
-type: way
+type: node
 latitude: 51.4958
 longitude: 10.81373
 postcode: "99734"
 city: Nordhausen
-street: "Stresemannring"
-housenumber: 54
+street: Stresemannring
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

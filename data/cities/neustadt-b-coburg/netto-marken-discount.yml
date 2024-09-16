@@ -1,11 +1,11 @@
 id: 80475333
-type: way
+type: node
 latitude: 50.33664
 longitude: 11.13905
 postcode: "96465"
 city: Neustadt b. Coburg
-street: "An der Gebrannten Brücke"
-housenumber: 2
+street: An der Gebrannten Brücke
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

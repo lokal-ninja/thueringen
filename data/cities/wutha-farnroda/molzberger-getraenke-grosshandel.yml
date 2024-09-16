@@ -1,11 +1,11 @@
 id: 395062390
-type: way
+type: node
 latitude: 50.94868
 longitude: 10.3912
 postcode: "99848"
 city: Wutha-Farnroda
-street: "An der Allee"
-housenumber: 8
+street: An der Allee
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

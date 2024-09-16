@@ -1,11 +1,11 @@
 id: 200830806
-type: way
+type: node
 latitude: 50.85237
 longitude: 11.60129
 postcode: "07751"
 city: Rothenstein
-street: "An der Trebe"
-housenumber: 11
+street: An der Trebe
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

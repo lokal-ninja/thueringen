@@ -1,11 +1,11 @@
 id: 105759921
-type: way
+type: node
 latitude: 50.79586
 longitude: 12.09704
 postcode: "07980"
 city: Berga-Wünschendorf
-street: "Lindenstraße"
+street: Lindenstraße
 housenumber: 1a
-phone: "+49 152 27045268"
-opening_hours: "Mo 07:00-12:00; Tu-Fr 07:00-17:30; Sa 07:00-11:00; Su 07:00-10:00"
-website: "https://www.junghans-baeckerei.de/"
+phone: +49 152 27045268
+opening_hours: Mo 07:00-12:00; Tu-Fr 07:00-17:30; Sa 07:00-11:00; Su 07:00-10:00
+website: https://www.junghans-baeckerei.de/

@@ -1,11 +1,11 @@
 id: 115097567
-type: way
+type: node
 latitude: 50.70048
 longitude: 11.60313
 postcode: "07381"
 city: Pößneck
-street: "Jüdeweiner Straße"
+street: Jüdeweiner Straße
 housenumber: 16;18
 phone: "+493647449655"
 opening_hours: ""
-website: "http://www.kad-automobile.de/"
+website: http://www.kad-automobile.de/

@@ -1,11 +1,11 @@
 id: 240163935
-type: way
+type: node
 latitude: 50.7228
 longitude: 10.84999
 postcode: "99331"
 city: Geratal
-street: "Arnstädter Straße"
-housenumber: 75
+street: Arnstädter Straße
+housenumber: "75"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-12:00
 website: ""

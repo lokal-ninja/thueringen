@@ -1,11 +1,11 @@
 id: 231103539
-type: way
+type: node
 latitude: 50.98113
 longitude: 11.33096
 postcode: "99423"
 city: Weimar
-street: "Vorwerksgasse"
-housenumber: 4
+street: Vorwerksgasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Th 09:30-18:00; Fr 09:30-16:00"
+opening_hours: Mo-Th 09:30-18:00; Fr 09:30-16:00
 website: ""

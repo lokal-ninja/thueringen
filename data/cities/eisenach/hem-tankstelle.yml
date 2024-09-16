@@ -1,11 +1,11 @@
 id: 335332850
-type: way
+type: node
 latitude: 50.98099
 longitude: 10.30118
 postcode: "99817"
 city: Eisenach
-street: "Kasseler Straße"
-housenumber: 55
+street: Kasseler Straße
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Fr 05:00-23:00, Sa-Su,PH 06:00-23:00"
-website: "https://www.hem-tankstelle.de/partner/HEM/Eisenach/Kasseler-Str-55"
+opening_hours: Mo-Fr 05:00-23:00, Sa-Su,PH 06:00-23:00
+website: https://www.hem-tankstelle.de/partner/HEM/Eisenach/Kasseler-Str-55

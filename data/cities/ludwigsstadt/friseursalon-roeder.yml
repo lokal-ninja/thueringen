@@ -1,11 +1,11 @@
 id: 480458628
-type: way
+type: node
 latitude: 50.50953
 longitude: 11.37052
 postcode: "96337"
 city: Ludwigsstadt
-street: "Orlamünder Straße"
-housenumber: 8
+street: Orlamünder Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

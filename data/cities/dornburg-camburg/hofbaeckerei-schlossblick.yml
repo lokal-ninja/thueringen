@@ -1,11 +1,11 @@
 id: 645448065
-type: way
+type: node
 latitude: 51.00507
 longitude: 11.67387
 postcode: "07774"
 city: Dornburg-Camburg
-street: "Bürgelsche Straße"
-housenumber: 2
+street: Bürgelsche Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://hofbaeckerei-schloesserblick.de/index.php"
+website: https://hofbaeckerei-schloesserblick.de/index.php

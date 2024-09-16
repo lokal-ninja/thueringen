@@ -1,11 +1,11 @@
 id: 355016239
-type: way
+type: node
 latitude: 50.86817
 longitude: 12.18459
 postcode: "07580"
 city: Ronneburg
-street: "Zeitzer Straße"
-housenumber: 11
+street: Zeitzer Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 06:30-21:00; Sa 06:30-20:00; Su,PH off"
+opening_hours: Mo-Fr 06:30-21:00; Sa 06:30-20:00; Su,PH off
 website: ""

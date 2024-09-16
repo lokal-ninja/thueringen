@@ -1,11 +1,11 @@
 id: 113297510
-type: way
+type: node
 latitude: 50.58206
 longitude: 10.93409
 postcode: "98701"
 city: Großbreitenbach
-street: "Rennsteigstraße"
-housenumber: 36
+street: Rennsteigstraße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-14:00; Su,PH off"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-14:00; Su,PH off
 website: ""

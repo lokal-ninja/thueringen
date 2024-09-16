@@ -4,8 +4,8 @@ latitude: 50.97686
 longitude: 11.03128
 postcode: "99084"
 city: Erfurt
-street: "Junkersand"
-housenumber: 4
-phone: "+49 361 55560"
-opening_hours: "Mo-Th 10:00-19:00; Fr,Sa 10:00-20:00"
-website: "https://www.e-breuninger.de/en/stores/erfurt/"
+street: Junkersand
+housenumber: "4"
+phone: +49 361 55560
+opening_hours: Mo-Th 10:00-19:00; Fr,Sa 10:00-20:00
+website: https://www.e-breuninger.de/en/stores/erfurt/

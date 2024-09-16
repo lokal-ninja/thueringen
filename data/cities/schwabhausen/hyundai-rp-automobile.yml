@@ -1,11 +1,11 @@
 id: 109768083
-type: way
+type: node
 latitude: 50.89118
 longitude: 10.72834
 postcode: "99869"
 city: Schwabhausen
-street: "Gottlieb-Daimler-Straße"
-housenumber: 1
+street: Gottlieb-Daimler-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-13:00; Su,PH off"
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-13:00; Su,PH off
 website: ""

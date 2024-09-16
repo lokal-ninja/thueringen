@@ -1,11 +1,11 @@
 id: 42354272
-type: way
+type: node
 latitude: 51.00149
 longitude: 12.45556
 postcode: "04600"
 city: Altenburg
-street: "Am Weißen Berg"
-housenumber: 1
-phone: "+49 3447 85370"
-opening_hours: "Mo-Fr 07:00-17:00; Sa,Su off"
-website: "https://www.hercher-servicefamilie.de/altenburg/"
+street: Am Weißen Berg
+housenumber: "1"
+phone: +49 3447 85370
+opening_hours: Mo-Fr 07:00-17:00; Sa,Su off
+website: https://www.hercher-servicefamilie.de/altenburg/

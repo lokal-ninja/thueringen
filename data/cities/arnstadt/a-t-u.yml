@@ -4,8 +4,8 @@ latitude: 50.84745
 longitude: 10.95345
 postcode: "99310"
 city: Arnstadt
-street: "Ichtershäuser Straße"
-housenumber: 34
+street: Ichtershäuser Straße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:30; Sa 08:00-16:00"
-website: "https://www.atu.de/"
+opening_hours: Mo-Fr 07:30-18:30; Sa 08:00-16:00
+website: https://www.atu.de/

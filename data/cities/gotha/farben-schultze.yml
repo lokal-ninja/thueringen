@@ -1,11 +1,11 @@
 id: 177394243
-type: way
+type: node
 latitude: 50.92081
 longitude: 10.71957
 postcode: "99867"
 city: Gotha
-street: "Dr.-Troch-Straße"
-housenumber: 6
+street: Dr.-Troch-Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00; Sa-Su off"
-website: "https://www.farben-schultze.de/de/standortgotha"
+opening_hours: Mo-Fr 07:00-17:00; Sa-Su off
+website: https://www.farben-schultze.de/de/standortgotha

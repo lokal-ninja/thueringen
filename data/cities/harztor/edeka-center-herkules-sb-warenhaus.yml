@@ -1,11 +1,11 @@
 id: 35264469
-type: way
+type: node
 latitude: 51.54166
 longitude: 10.77003
 postcode: "99768"
 city: Harztor
-street: "Im Steinfeld"
-housenumber: 5
+street: Im Steinfeld
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.herkulesmarkt.de/standorte/niedersachswerfen/lebensmittel/angebote"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.herkulesmarkt.de/standorte/niedersachswerfen/lebensmittel/angebote

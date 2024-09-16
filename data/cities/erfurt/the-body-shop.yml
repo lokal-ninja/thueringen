@@ -4,8 +4,8 @@ latitude: 50.97736
 longitude: 11.03583
 postcode: "99084"
 city: Erfurt
-street: "Anger"
-housenumber: 1
+street: Anger
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Th 10:00-19:00; Fr,Sa 10:00-20:00"
+opening_hours: Mo-Th 10:00-19:00; Fr,Sa 10:00-20:00
 website: ""

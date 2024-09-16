@@ -1,11 +1,11 @@
 id: 1230102497
-type: way
+type: node
 latitude: 50.67008
 longitude: 12.26541
 postcode: "07987"
 city: Mohlsdorf-Teichwolframsdorf
-street: "Greizer Straße"
-housenumber: 16
+street: Greizer Straße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

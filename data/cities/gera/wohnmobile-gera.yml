@@ -1,11 +1,11 @@
 id: 96350420
-type: way
+type: node
 latitude: 50.85543
 longitude: 12.07434
 postcode: "07549"
 city: Gera
-street: "Keplerstraße"
-housenumber: 4
+street: Keplerstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

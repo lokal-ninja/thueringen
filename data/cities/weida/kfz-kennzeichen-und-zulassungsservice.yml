@@ -4,8 +4,9 @@ latitude: 50.78058
 longitude: 12.03922
 postcode: "07570"
 city: Weida
-street: "Am Schafberge"
+street: Am Schafberge
 housenumber: 3a
 phone: ""
-opening_hours: "Mo 08:00-12:00; Tu 08:00-15:00; We 08:00-12:00; Th 08:00-17:00; Fr 08:00-12:00"
+opening_hours: Mo 08:00-12:00; Tu 08:00-15:00; We 08:00-12:00; Th 08:00-17:00; Fr
+    08:00-12:00
 website: ""

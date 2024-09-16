@@ -1,11 +1,12 @@
 id: 584419801
-type: way
+type: node
 latitude: 51.1499
 longitude: 10.41752
 postcode: "99986"
 city: Vogtei
-street: "Jakobstraße"
-housenumber: 7
+street: Jakobstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Tu,Fr 09:00-13:00, 14:00-18:00; We,Sa 09:00-13:00; Th 09:00-13:00, 14:00-19:00; Su,PH off"
+opening_hours: Tu,Fr 09:00-13:00, 14:00-18:00; We,Sa 09:00-13:00; Th 09:00-13:00,
+    14:00-19:00; Su,PH off
 website: ""

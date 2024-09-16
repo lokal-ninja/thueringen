@@ -4,8 +4,8 @@ latitude: 50.99507
 longitude: 11.32521
 postcode: "99427"
 city: Weimar
-street: "Industriestraße"
-housenumber: 6
+street: Industriestraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00
 website: ""

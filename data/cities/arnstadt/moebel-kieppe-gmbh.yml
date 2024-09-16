@@ -4,8 +4,8 @@ latitude: 50.8482
 longitude: 10.95345
 postcode: "99310"
 city: Arnstadt
-street: "Ichtershäuser Straße"
-housenumber: 40
+street: Ichtershäuser Straße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo,Th,Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.kieppe.de/"
+opening_hours: Mo,Th,Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.kieppe.de/

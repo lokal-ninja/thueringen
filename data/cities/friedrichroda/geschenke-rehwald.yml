@@ -1,11 +1,11 @@
 id: 227628485
-type: way
+type: node
 latitude: 50.83435
 longitude: 10.58953
 postcode: "99894"
 city: Friedrichroda
-street: "Angerstraße"
-housenumber: 23
+street: Angerstraße
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

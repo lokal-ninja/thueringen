@@ -4,8 +4,8 @@ latitude: 50.92527
 longitude: 11.58106
 postcode: "07745"
 city: Jena
-street: "Westbahnhofstraße"
-housenumber: 4
-phone: "+49 3641 6334636"
-opening_hours: "Mo-Sa 13:00-24:00; Su 11:00-22:30"
-website: "https://casual-trottoir.de/"
+street: Westbahnhofstraße
+housenumber: "4"
+phone: +49 3641 6334636
+opening_hours: Mo-Sa 13:00-24:00; Su 11:00-22:30
+website: https://casual-trottoir.de/

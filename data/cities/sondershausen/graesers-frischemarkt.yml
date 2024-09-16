@@ -1,11 +1,11 @@
 id: 402923455
-type: way
+type: node
 latitude: 51.32847
 longitude: 10.7677
 postcode: "99706"
 city: Sondershausen
-street: "Am Marktplatz"
-housenumber: 5
+street: Am Marktplatz
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

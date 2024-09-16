@@ -4,8 +4,8 @@ latitude: 51.00367
 longitude: 11.03724
 postcode: "99085"
 city: Erfurt
-street: "Salinenstraße"
-housenumber: 56
+street: Salinenstraße
+housenumber: "56"
 phone: "+4936126232610"
-opening_hours: "Mo-Fr 04:30-23:00; Sa 06:00-23:00; Su 07:00-23:00"
-website: "https://tankstelle.aral.de/erfurt/salinenstrasse-56/27041800"
+opening_hours: Mo-Fr 04:30-23:00; Sa 06:00-23:00; Su 07:00-23:00
+website: https://tankstelle.aral.de/erfurt/salinenstrasse-56/27041800

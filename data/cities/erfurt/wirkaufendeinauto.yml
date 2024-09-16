@@ -4,8 +4,8 @@ latitude: 50.99589
 longitude: 11.04128
 postcode: "99086"
 city: Erfurt
-street: "Dieselstraße"
-housenumber: 2
+street: Dieselstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.wirkaufendeinauto.de/standorte/erfurt-johannesvorstadt-99086/?kw=gmb"
+website: https://www.wirkaufendeinauto.de/standorte/erfurt-johannesvorstadt-99086/?kw=gmb

@@ -4,8 +4,8 @@ latitude: 50.90149
 longitude: 12.35543
 postcode: "04626"
 city: Schmölln
-street: "Clara-Zetkin-Straße"
-housenumber: 27
-phone: "+49 34491 5822 0"
-opening_hours: "Mo-Fr 08:00-17:30"
-website: "https://cs-hess.de"
+street: Clara-Zetkin-Straße
+housenumber: "27"
+phone: +49 34491 5822 0
+opening_hours: Mo-Fr 08:00-17:30
+website: https://cs-hess.de

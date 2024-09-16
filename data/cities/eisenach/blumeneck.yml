@@ -4,8 +4,8 @@ latitude: 50.97435
 longitude: 10.32467
 postcode: "99817"
 city: Eisenach
-street: "Johannisstraße"
-housenumber: 11
+street: Johannisstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 08:00-13:00"
+opening_hours: Mo-Fr 09:00-17:00; Sa 08:00-13:00
 website: ""

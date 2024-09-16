@@ -1,11 +1,11 @@
 id: 80120036
-type: way
+type: node
 latitude: 50.77827
 longitude: 12.0465
 postcode: "07570"
 city: Weida
-street: "Neustädter Straße"
-housenumber: 42
+street: Neustädter Straße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00; Sa 06:00-20:00; Su,PH off"
+opening_hours: Mo-Fr 06:00-22:00; Sa 06:00-20:00; Su,PH off
 website: ""

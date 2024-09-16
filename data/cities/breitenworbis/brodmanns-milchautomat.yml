@@ -1,11 +1,11 @@
 id: 1114895932
-type: way
+type: node
 latitude: 51.41497
 longitude: 10.42767
 postcode: "37339"
 city: Breitenworbis
-street: "Schäfergasse"
-housenumber: 1
+street: Schäfergasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

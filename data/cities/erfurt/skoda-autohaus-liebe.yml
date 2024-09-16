@@ -1,11 +1,11 @@
 id: 83893285
-type: way
+type: node
 latitude: 51.0007
 longitude: 11.03385
 postcode: "99086"
 city: Erfurt
-street: "Salzstraße"
-housenumber: 10
+street: Salzstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.liebeautos.de/"
+website: https://www.liebeautos.de/

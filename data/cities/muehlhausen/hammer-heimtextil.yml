@@ -1,11 +1,11 @@
 id: 101745632
-type: way
+type: node
 latitude: 51.18597
 longitude: 10.4982
 postcode: "99998"
 city: Mühlhausen
-street: "Im Felde"
-housenumber: 1
+street: Im Felde
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

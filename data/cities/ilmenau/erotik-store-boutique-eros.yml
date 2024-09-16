@@ -1,11 +1,11 @@
 id: 66398658
-type: way
+type: node
 latitude: 50.69789
 longitude: 10.94362
 postcode: "98693"
 city: Ilmenau
-street: "Gewerbepark Am Wald"
-housenumber: 19
+street: Gewerbepark Am Wald
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

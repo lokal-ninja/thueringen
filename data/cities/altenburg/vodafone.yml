@@ -4,8 +4,8 @@ latitude: 50.98448
 longitude: 12.43454
 postcode: "04600"
 city: Altenburg
-street: "Topfgasse"
-housenumber: 3
+street: Topfgasse
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-12:00; Su,PH off"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-12:00; Su,PH off
 website: ""

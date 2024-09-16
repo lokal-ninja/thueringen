@@ -1,11 +1,11 @@
 id: 145416790
-type: way
+type: node
 latitude: 51.49258
 longitude: 10.8081
 postcode: "99734"
 city: Nordhausen
-street: "Am Rasen"
-housenumber: 9
+street: Am Rasen
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

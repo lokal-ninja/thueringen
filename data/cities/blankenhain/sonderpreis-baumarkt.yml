@@ -1,11 +1,11 @@
 id: 154897328
-type: way
+type: node
 latitude: 50.85583
 longitude: 11.34341
 postcode: "99444"
 city: Blankenhain
-street: "Rudolstädter Straße"
-housenumber: 31
+street: Rudolstädter Straße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su,PH off"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su,PH off
 website: ""

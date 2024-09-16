@@ -1,11 +1,11 @@
 id: 45896503
-type: way
+type: node
 latitude: 50.51904
 longitude: 10.75536
 postcode: "98553"
 city: Schleusingen
-street: "Suhler Straße"
-housenumber: 
+street: Suhler Straße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

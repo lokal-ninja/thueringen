@@ -4,8 +4,8 @@ latitude: 50.44688
 longitude: 11.64195
 postcode: "07356"
 city: Bad Lobenstein
-street: "Am Tor"
-housenumber: 7
+street: Am Tor
+housenumber: "7"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,14:00-18:00; We 09:00-13:00; Sa,Su,PH off"
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,14:00-18:00; We 09:00-13:00; Sa,Su,PH off
 website: ""

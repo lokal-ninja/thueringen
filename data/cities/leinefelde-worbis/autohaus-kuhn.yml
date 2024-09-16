@@ -4,8 +4,8 @@ latitude: 51.41583
 longitude: 10.36611
 postcode: "37339"
 city: Leinefelde-Worbis
-street: "Hausener Weg"
-housenumber: 21
-phone: "+49 36074 92024"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-12:00"
-website: "https://www.kfz-kuhn.de/"
+street: Hausener Weg
+housenumber: "21"
+phone: +49 36074 92024
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-12:00
+website: https://www.kfz-kuhn.de/

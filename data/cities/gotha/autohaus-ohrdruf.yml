@@ -1,11 +1,11 @@
 id: 231791508
-type: way
+type: node
 latitude: 50.92392
 longitude: 10.71449
 postcode: "99867"
 city: Gotha
-street: "Harjesstraße"
-housenumber: 15
-phone: "+49 3621 735 0"
+street: Harjesstraße
+housenumber: "15"
+phone: +49 3621 735 0
 opening_hours: ""
-website: "https://www.autohaus-ohrdruf.de/standort%20gotha.htm"
+website: https://www.autohaus-ohrdruf.de/standort%20gotha.htm

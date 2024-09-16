@@ -1,11 +1,11 @@
 id: 351932890
-type: way
+type: node
 latitude: 50.86397
 longitude: 11.05678
 postcode: "99334"
 city: Elxleben
-street: "Alkerslebener Straße"
-housenumber: 2
-phone: "+49 36200 60249"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-14:00"
-website: "https://www.gmhartl.de"
+street: Alkerslebener Straße
+housenumber: "2"
+phone: +49 36200 60249
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-14:00
+website: https://www.gmhartl.de

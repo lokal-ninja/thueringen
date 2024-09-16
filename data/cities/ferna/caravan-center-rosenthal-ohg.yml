@@ -1,11 +1,11 @@
 id: 680975367
-type: way
+type: node
 latitude: 51.45953
 longitude: 10.30383
 postcode: "37339"
 city: Ferna
-street: "Dorfstraße"
-housenumber: 2
+street: Dorfstraße
+housenumber: "2"
 phone: "+493607196680"
-opening_hours: "Mo-Fr 09:00-12:00,12:45-18:00; Sa 09:00-13:00"
-website: "https://www.caravan-rosenthal.de/"
+opening_hours: Mo-Fr 09:00-12:00,12:45-18:00; Sa 09:00-13:00
+website: https://www.caravan-rosenthal.de/

@@ -1,11 +1,11 @@
 id: 218492446
-type: way
+type: node
 latitude: 50.71958
 longitude: 12.2447
 postcode: "07987"
 city: Mohlsdorf-Teichwolframsdorf
-street: "Hauptstraße"
-housenumber: 52
+street: Hauptstraße
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

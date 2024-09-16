@@ -4,8 +4,8 @@ latitude: 50.78844
 longitude: 10.60877
 postcode: "99897"
 city: Tambach-Dietharz
-street: "Burgstallstraße"
-housenumber: 45
-phone: "+49 36252 46 68 24"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-13:00"
+street: Burgstallstraße
+housenumber: "45"
+phone: +49 36252 46 68 24
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-13:00
 website: ""

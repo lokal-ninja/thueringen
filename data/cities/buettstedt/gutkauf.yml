@@ -1,11 +1,11 @@
 id: 932442545
-type: way
+type: node
 latitude: 51.25906
 longitude: 10.30665
 postcode: "37359"
 city: Büttstedt
-street: "Kleine Gasse"
-housenumber: 3
+street: Kleine Gasse
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

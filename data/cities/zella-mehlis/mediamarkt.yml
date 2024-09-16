@@ -4,8 +4,8 @@ latitude: 50.64353
 longitude: 10.68807
 postcode: "98544"
 city: Zella-Mehlis
-street: "Industriestraße"
-housenumber: 
+street: Industriestraße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.mediamarkt.de/de/store/zella-mehlis-553"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.mediamarkt.de/de/store/zella-mehlis-553

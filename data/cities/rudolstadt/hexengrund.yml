@@ -4,8 +4,9 @@ latitude: 50.71238
 longitude: 11.34589
 postcode: "07407"
 city: Rudolstadt
-street: "Am Gänsebach"
-housenumber: 19
+street: Am Gänsebach
+housenumber: "19"
 phone: ""
-opening_hours: "Mo off; Tu 10:00-12:00; We off; Th, Fr 10:00-12:00, 15:00-17:30; Sa 9:00-11:00"
+opening_hours: Mo off; Tu 10:00-12:00; We off; Th, Fr 10:00-12:00, 15:00-17:30; Sa
+    9:00-11:00
 website: ""

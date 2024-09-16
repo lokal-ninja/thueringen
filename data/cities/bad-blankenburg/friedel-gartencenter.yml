@@ -1,11 +1,11 @@
 id: 220848415
-type: way
+type: node
 latitude: 50.68679
 longitude: 11.2491
 postcode: "07422"
 city: Bad Blankenburg
-street: "Schneidemühle"
-housenumber: 1
+street: Schneidemühle
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

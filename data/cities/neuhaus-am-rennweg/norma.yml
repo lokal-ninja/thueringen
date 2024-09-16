@@ -1,11 +1,11 @@
 id: 46760295
-type: way
+type: node
 latitude: 50.5204
 longitude: 11.14563
 postcode: "98724"
 city: Neuhaus am Rennweg
-street: "Brandweg"
-housenumber: 23
+street: Brandweg
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.norma-online.de/_d_"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.norma-online.de/_d_

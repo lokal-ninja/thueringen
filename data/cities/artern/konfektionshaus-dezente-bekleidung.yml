@@ -1,11 +1,11 @@
 id: 178732258
-type: way
+type: node
 latitude: 51.36488
 longitude: 11.29113
 postcode: "06556"
 city: Artern
-street: "Wasserstraße"
-housenumber: 3
+street: Wasserstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

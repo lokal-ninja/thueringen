@@ -1,11 +1,11 @@
 id: 375910054
-type: way
+type: node
 latitude: 51.50353
 longitude: 10.79255
 postcode: "99734"
 city: Nordhausen
-street: "Kranichstraße"
-housenumber: 21
+street: Kranichstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo,We-Sa 11:00-19:00; Su 11:00-17:00"
+opening_hours: Mo,We-Sa 11:00-19:00; Su 11:00-17:00
 website: ""

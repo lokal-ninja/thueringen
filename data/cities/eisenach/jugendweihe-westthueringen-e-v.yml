@@ -4,8 +4,8 @@ latitude: 50.97629
 longitude: 10.31493
 postcode: "99817"
 city: Eisenach
-street: "Georgenstraße"
-housenumber: 52
-phone: "+49 3691 732677"
+street: Georgenstraße
+housenumber: "52"
+phone: +49 3691 732677
 opening_hours: ""
-website: "https://jugendweihe.org/"
+website: https://jugendweihe.org/

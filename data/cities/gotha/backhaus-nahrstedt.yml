@@ -4,8 +4,8 @@ latitude: 50.95275
 longitude: 10.71611
 postcode: "99867"
 city: Gotha
-street: "Oststraße"
-housenumber: 52
-phone: "+49 3621223440"
-opening_hours: "Mo-Sa 06:00-20:00; Su,PH off"
-website: "https://nahrstedt.de/standorte/rewe-gotha-ost"
+street: Oststraße
+housenumber: "52"
+phone: +49 3621223440
+opening_hours: Mo-Sa 06:00-20:00; Su,PH off
+website: https://nahrstedt.de/standorte/rewe-gotha-ost

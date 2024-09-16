@@ -1,11 +1,11 @@
 id: 110660777
-type: way
+type: node
 latitude: 50.94882
 longitude: 10.04044
 postcode: "36208"
 city: Wildeck
-street: "Auweg"
-housenumber: 20
+street: Auweg
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

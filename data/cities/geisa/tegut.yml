@@ -1,11 +1,11 @@
 id: 37772896
-type: way
+type: node
 latitude: 50.71501
 longitude: 9.95592
 postcode: "36419"
 city: Geisa
-street: "Gartenweg"
-housenumber: 3
+street: Gartenweg
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

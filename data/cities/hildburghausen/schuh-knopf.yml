@@ -4,8 +4,8 @@ latitude: 50.42514
 longitude: 10.72773
 postcode: "98646"
 city: Hildburghausen
-street: "Johann-Sebastian-Bach-Platz"
-housenumber: 7
-phone: "03685 4196023"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-16:00"
-website: "https://www.schuhknopf.de/startseite/"
+street: Johann-Sebastian-Bach-Platz
+housenumber: "7"
+phone: 03685 4196023
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-16:00
+website: https://www.schuhknopf.de/startseite/

@@ -4,8 +4,8 @@ latitude: 50.93492
 longitude: 10.67625
 postcode: "99867"
 city: Gotha
-street: "Leinastraße"
-housenumber: 78
+street: Leinastraße
+housenumber: "78"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-20:00"
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-20:00
 website: ""

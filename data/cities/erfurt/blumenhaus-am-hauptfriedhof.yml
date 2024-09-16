@@ -1,11 +1,11 @@
 id: 109201281
-type: way
+type: node
 latitude: 50.97224
 longitude: 10.99252
 postcode: "99092"
 city: Erfurt
-street: "Binderslebener Landstraße"
-housenumber: 75
+street: Binderslebener Landstraße
+housenumber: "75"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su off"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su off
 website: ""

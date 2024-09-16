@@ -1,11 +1,11 @@
 id: 99860703
-type: way
+type: node
 latitude: 50.37046
 longitude: 10.59309
 postcode: "98630"
 city: Römhild
-street: "Untere Bergstraße"
-housenumber: 9
+street: Untere Bergstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00, Mo,Tu,Th,Fr 15:00-18:00, Sa 09:00-11:00, Su 09:30-11:00"
+opening_hours: Mo-Fr 09:00-13:00, Mo,Tu,Th,Fr 15:00-18:00, Sa 09:00-11:00, Su 09:30-11:00
 website: ""

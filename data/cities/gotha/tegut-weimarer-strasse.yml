@@ -1,11 +1,11 @@
 id: 222143730
-type: way
+type: node
 latitude: 50.94326
 longitude: 10.74207
 postcode: "99867"
 city: Gotha
-street: "Weimarer Straße"
+street: Weimarer Straße
 housenumber: 120 b
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00"
-website: "https://www.tegut.com/maerkte/markt/tegut-gotha-siebleben-weimarer-str-120-b.html"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00
+website: https://www.tegut.com/maerkte/markt/tegut-gotha-siebleben-weimarer-str-120-b.html

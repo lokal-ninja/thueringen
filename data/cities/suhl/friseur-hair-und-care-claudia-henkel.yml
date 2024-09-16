@@ -4,8 +4,8 @@ latitude: 50.61174
 longitude: 10.69906
 postcode: "98527"
 city: Suhl
-street: "Röderfeld"
-housenumber: 1
-phone: "+49 3681 352095"
-opening_hours: "Mo-Fr 09:00-18:00"
+street: Röderfeld
+housenumber: "1"
+phone: +49 3681 352095
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

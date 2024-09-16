@@ -1,11 +1,11 @@
 id: 122698283
-type: way
+type: node
 latitude: 50.85569
 longitude: 10.95462
 postcode: "99310"
 city: Arnstadt
-street: "Alfred-Ley-Straße"
-housenumber: 12
+street: Alfred-Ley-Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:30"
-website: "https://www.baustoffmarkt-gruppe.de/"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-12:30
+website: https://www.baustoffmarkt-gruppe.de/

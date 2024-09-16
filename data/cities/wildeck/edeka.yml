@@ -1,11 +1,11 @@
 id: 85613628
-type: way
+type: node
 latitude: 50.95475
 longitude: 10.02152
 postcode: "36208"
 city: Wildeck
-street: "Zum Dönges"
-housenumber: 4
+street: Zum Dönges
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

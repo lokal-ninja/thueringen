@@ -4,8 +4,8 @@ latitude: 50.65627
 longitude: 10.658
 postcode: "98544"
 city: Zella-Mehlis
-street: "Talstraße"
-housenumber: 50
+street: Talstraße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

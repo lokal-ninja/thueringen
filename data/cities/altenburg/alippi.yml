@@ -4,8 +4,9 @@ latitude: 50.98559
 longitude: 12.44681
 postcode: "04600"
 city: Altenburg
-street: "Darwinstraße"
+street: Darwinstraße
 housenumber: 1/2
 phone: ""
-opening_hours: "Mo 08:00-12:15,13:15-18:00; Tu 08:00-12:15,13:15-17:00; We 07:00-12:15,13:15-16:00; Th 08:00-12:15,12:45-15:00; Fr 08:00-11:30; Sa,Su,PH off"
+opening_hours: Mo 08:00-12:15,13:15-18:00; Tu 08:00-12:15,13:15-17:00; We 07:00-12:15,13:15-16:00;
+    Th 08:00-12:15,12:45-15:00; Fr 08:00-11:30; Sa,Su,PH off
 website: ""

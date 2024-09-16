@@ -1,11 +1,11 @@
 id: 205754890
-type: way
+type: node
 latitude: 50.47243
 longitude: 10.84719
 postcode: "98673"
 city: Auengrund
-street: "Schleusinger Straße"
-housenumber: 35
-phone: "+49 36878 20835"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-14:00; PH off"
-website: "https://sagasser.de/"
+street: Schleusinger Straße
+housenumber: "35"
+phone: +49 36878 20835
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-14:00; PH off
+website: https://sagasser.de/

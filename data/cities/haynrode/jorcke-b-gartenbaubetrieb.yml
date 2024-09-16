@@ -1,11 +1,11 @@
 id: 188322813
-type: way
+type: node
 latitude: 51.44651
 longitude: 10.43817
 postcode: "37339"
 city: Haynrode
-street: "Bleiche"
-housenumber: 27
+street: Bleiche
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

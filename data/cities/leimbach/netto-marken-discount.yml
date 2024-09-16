@@ -1,11 +1,11 @@
 id: 236471632
-type: way
+type: node
 latitude: 50.81683
 longitude: 10.1884
 postcode: "36433"
 city: Leimbach
-street: "Salzunger Straße"
-housenumber: 121
+street: Salzunger Straße
+housenumber: "121"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

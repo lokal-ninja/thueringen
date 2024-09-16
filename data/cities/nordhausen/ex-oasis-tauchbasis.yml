@@ -1,11 +1,11 @@
 id: 183300688
-type: way
+type: node
 latitude: 51.47584
 longitude: 10.82113
 postcode: "99734"
 city: Nordhausen
-street: "Uthleber Weg"
-housenumber: 45
+street: Uthleber Weg
+housenumber: "45"
 phone: ""
 opening_hours: ""
-website: "http://www.tauchen-nordhausen.de/"
+website: http://www.tauchen-nordhausen.de/

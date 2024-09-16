@@ -1,11 +1,11 @@
 id: 432327856
-type: way
+type: node
 latitude: 51.49372
 longitude: 10.8018
 postcode: "99734"
 city: Nordhausen
-street: "Rothenburgstraße"
-housenumber: 40
-phone: "+49 3631 462690"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "http://www.autotuninglier.de"
+street: Rothenburgstraße
+housenumber: "40"
+phone: +49 3631 462690
+opening_hours: Mo-Fr 08:00-18:00
+website: http://www.autotuninglier.de

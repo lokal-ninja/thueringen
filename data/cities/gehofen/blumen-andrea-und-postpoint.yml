@@ -1,11 +1,11 @@
 id: 176795588
-type: way
+type: node
 latitude: 51.32371
 longitude: 11.32024
 postcode: "06571"
 city: Gehofen
-street: "Hauptstraße"
-housenumber: 13
-phone: "+49-3466-319664"
-opening_hours: "Mo 08:30-10:00; Tu-Fr 08:30-11:00,14:00-17:00; Sa 08:00-11:00; Su off"
+street: Hauptstraße
+housenumber: "13"
+phone: +49-3466-319664
+opening_hours: Mo 08:30-10:00; Tu-Fr 08:30-11:00,14:00-17:00; Sa 08:00-11:00; Su off
 website: ""

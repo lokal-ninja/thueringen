@@ -1,11 +1,11 @@
 id: 216065350
-type: way
+type: node
 latitude: 50.45079
 longitude: 11.6408
 postcode: "07356"
 city: Bad Lobenstein
-street: "Straße der Jugend"
-housenumber: 6
+street: Straße der Jugend
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

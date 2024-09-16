@@ -1,11 +1,11 @@
 id: 202567949
-type: way
+type: node
 latitude: 50.90838
 longitude: 11.84258
 postcode: "07639"
 city: Bad Klosterlausnitz
-street: "An der Autobahn"
-housenumber: 2
+street: An der Autobahn
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

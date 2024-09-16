@@ -1,11 +1,11 @@
 id: 101765051
-type: way
+type: node
 latitude: 50.90106
 longitude: 12.10666
 postcode: "07552"
 city: Gera
-street: "Thüringer Straße"
-housenumber: 1
+street: Thüringer Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
 website: ""

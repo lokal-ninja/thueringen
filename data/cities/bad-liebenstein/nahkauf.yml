@@ -1,11 +1,11 @@
 id: 300678647
-type: way
+type: node
 latitude: 50.82281
 longitude: 10.3362
 postcode: "36448"
 city: Bad Liebenstein
-street: "Rudolf-Breitscheid-Straße"
-housenumber: 9
+street: Rudolf-Breitscheid-Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-19:00; Su,PH off"
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-19:00; Su,PH off
 website: ""

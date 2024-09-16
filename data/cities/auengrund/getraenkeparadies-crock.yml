@@ -4,8 +4,8 @@ latitude: 50.45196
 longitude: 10.88644
 postcode: "98673"
 city: Auengrund
-street: "Hirschgraben"
-housenumber: 2
-phone: "+49 3686 6158746"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:00-13:00"
-website: "https://www.rohrer-gv.de/"
+street: Hirschgraben
+housenumber: "2"
+phone: +49 3686 6158746
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:00-13:00
+website: https://www.rohrer-gv.de/

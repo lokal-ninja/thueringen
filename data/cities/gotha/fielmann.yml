@@ -4,8 +4,8 @@ latitude: 50.94982
 longitude: 10.70262
 postcode: "99867"
 city: Gotha
-street: "Marktstraße"
-housenumber: 9
-phone: "+49 3621 29332"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 09:00-14:00"
-website: "https://www.fielmann.de/niederlassungen/gotha/99867-marktstrasse-9/"
+street: Marktstraße
+housenumber: "9"
+phone: +49 3621 29332
+opening_hours: Mo-Fr 08:30-19:00; Sa 09:00-14:00
+website: https://www.fielmann.de/niederlassungen/gotha/99867-marktstrasse-9/

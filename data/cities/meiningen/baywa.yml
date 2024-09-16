@@ -1,11 +1,11 @@
 id: 77110768
-type: way
+type: node
 latitude: 50.55741
 longitude: 10.37248
 postcode: "98617"
 city: Meiningen
-street: "Berkeser Straße"
-housenumber: 12
+street: Berkeser Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

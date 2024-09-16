@@ -1,11 +1,11 @@
 id: 248047073
-type: way
+type: node
 latitude: 51.01921
 longitude: 10.84811
 postcode: "99100"
 city: Bienstädt
-street: "Erfurter Straße"
-housenumber: 186
+street: Erfurter Straße
+housenumber: "186"
 phone: ""
 opening_hours: ""
 website: ""

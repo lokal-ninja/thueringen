@@ -1,11 +1,11 @@
 id: 146953462
-type: way
+type: node
 latitude: 51.49349
 longitude: 10.78893
 postcode: "99734"
 city: Nordhausen
-street: "Bahnhofsplatz"
-housenumber: 5
+street: Bahnhofsplatz
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

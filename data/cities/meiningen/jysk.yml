@@ -1,11 +1,11 @@
 id: 605251834
-type: way
+type: node
 latitude: 50.5589
 longitude: 10.41277
 postcode: "98617"
 city: Meiningen
-street: "Steinweg"
-housenumber: 28
+street: Steinweg
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

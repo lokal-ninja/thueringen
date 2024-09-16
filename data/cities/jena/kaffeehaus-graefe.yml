@@ -4,8 +4,8 @@ latitude: 50.92938
 longitude: 11.58343
 postcode: "07743"
 city: Jena
-street: "Johannisplatz"
-housenumber: 8
+street: Johannisplatz
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00; Su 12:00-18:00"
-website: "https://www.kaffeehausgraefe.de/filialen/jena"
+opening_hours: Mo-Sa 08:00-18:00; Su 12:00-18:00
+website: https://www.kaffeehausgraefe.de/filialen/jena

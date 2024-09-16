@@ -1,11 +1,11 @@
 id: 139398284
-type: way
+type: node
 latitude: 51.35743
 longitude: 10.89371
 postcode: "99706"
 city: Sondershausen
-street: "Wallröder Straße"
-housenumber: 4
-phone: "+49 3632 700029"
-opening_hours: "Tu-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "https://www.riedel-friseursalon.de/"
+street: Wallröder Straße
+housenumber: "4"
+phone: +49 3632 700029
+opening_hours: Tu-Fr 08:00-18:00; Sa 08:00-12:00
+website: https://www.riedel-friseursalon.de/

@@ -4,8 +4,9 @@ latitude: 50.93357
 longitude: 12.34603
 postcode: "04626"
 city: Schmölln
-street: "Am Freibad"
+street: Am Freibad
 housenumber: 6B
-phone: "+49 34491 83059"
-opening_hours: "Tu 09:00-18:30; We 09:00-12:00; Th 09:00-19:30; Fr 09:00-18:30; Su 08:00-12:00"
+phone: +49 34491 83059
+opening_hours: Tu 09:00-18:30; We 09:00-12:00; Th 09:00-19:30; Fr 09:00-18:30; Su
+    08:00-12:00
 website: ""

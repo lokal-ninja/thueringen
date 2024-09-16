@@ -1,11 +1,11 @@
 id: 824939850
-type: way
+type: node
 latitude: 50.98218
 longitude: 10.31319
 postcode: "99817"
 city: Eisenach
-street: "Amrastraße"
-housenumber: 
+street: Amrastraße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

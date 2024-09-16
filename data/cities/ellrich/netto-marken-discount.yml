@@ -1,11 +1,11 @@
 id: 303794824
-type: way
+type: node
 latitude: 51.58749
 longitude: 10.65179
 postcode: "99755"
 city: Ellrich
-street: "Am Auwald"
-housenumber: 23
+street: Am Auwald
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

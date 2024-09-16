@@ -4,8 +4,8 @@ latitude: 50.98125
 longitude: 11.32819
 postcode: "99423"
 city: Weimar
-street: "Eisfeld"
-housenumber: 5
-phone: "+49 177 726 2985"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00"
-website: "https://www.fahrradhaus-weidensee.de/"
+street: Eisfeld
+housenumber: "5"
+phone: +49 177 726 2985
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00
+website: https://www.fahrradhaus-weidensee.de/

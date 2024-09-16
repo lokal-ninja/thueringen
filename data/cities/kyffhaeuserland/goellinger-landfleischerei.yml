@@ -4,8 +4,8 @@ latitude: 51.34456
 longitude: 11.01429
 postcode: "99707"
 city: Kyffhäuserland
-street: "Göllinger Hauptstraße"
-housenumber: 16
-phone: "+49 34671 78630"
-opening_hours: "Mo-Fr 08-12:00, 15:00-17:00: Sa 07:00-11:00"
+street: Göllinger Hauptstraße
+housenumber: "16"
+phone: +49 34671 78630
+opening_hours: 'Mo-Fr 08-12:00, 15:00-17:00: Sa 07:00-11:00'
 website: ""

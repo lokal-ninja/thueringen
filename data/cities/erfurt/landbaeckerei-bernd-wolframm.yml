@@ -4,8 +4,8 @@ latitude: 50.96569
 longitude: 11.02398
 postcode: "99096"
 city: Erfurt
-street: "Gerhart-Hauptmann-Straße"
-housenumber: 32
-phone: "+49 361 3736010"
-opening_hours: "Mo-Fr 06:00-19:00; Sa 06:30-12:00"
+street: Gerhart-Hauptmann-Straße
+housenumber: "32"
+phone: +49 361 3736010
+opening_hours: Mo-Fr 06:00-19:00; Sa 06:30-12:00
 website: ""

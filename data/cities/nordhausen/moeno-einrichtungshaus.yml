@@ -1,11 +1,11 @@
 id: 156935490
-type: way
+type: node
 latitude: 51.5001
 longitude: 10.78027
 postcode: "99734"
 city: Nordhausen
-street: "Bochumer Straße"
-housenumber: 22
-phone: "+49 3631 90490"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 10:00-16:00"
-website: "https://www.moeno-einrichtungshaus.de/"
+street: Bochumer Straße
+housenumber: "22"
+phone: +49 3631 90490
+opening_hours: Mo-Fr 09:30-19:00; Sa 10:00-16:00
+website: https://www.moeno-einrichtungshaus.de/

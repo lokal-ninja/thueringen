@@ -4,8 +4,8 @@ latitude: 50.47319
 longitude: 11.45338
 postcode: "07349"
 city: Lehesten
-street: "Neustadt"
-housenumber: 24
-phone: "+49 36653 22388"
-opening_hours: "Tu,Th 08:00-12:00,14:30-17:30; Fr 08:00-17:00; PH off"
+street: Neustadt
+housenumber: "24"
+phone: +49 36653 22388
+opening_hours: Tu,Th 08:00-12:00,14:30-17:30; Fr 08:00-17:00; PH off
 website: ""

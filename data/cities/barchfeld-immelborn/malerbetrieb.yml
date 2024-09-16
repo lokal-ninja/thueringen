@@ -1,11 +1,11 @@
 id: 150700319
-type: way
+type: node
 latitude: 50.79959
 longitude: 10.30601
 postcode: "36456"
 city: Barchfeld-Immelborn
-street: "Steinbacher Straße"
-housenumber: 7
+street: Steinbacher Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

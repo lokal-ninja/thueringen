@@ -1,11 +1,11 @@
 id: 149705283
-type: way
+type: node
 latitude: 51.38539
 longitude: 10.84998
 postcode: "99706"
 city: Sondershausen
-street: "Schachtstraße"
-housenumber: 3
-phone: "+49 3632 702010"
+street: Schachtstraße
+housenumber: "3"
+phone: +49 3632 702010
 opening_hours: ""
-website: "https://www.ttl-ttm.de/"
+website: https://www.ttl-ttm.de/

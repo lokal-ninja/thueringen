@@ -1,11 +1,11 @@
 id: 448574840
-type: way
+type: node
 latitude: 51.35757
 longitude: 11.10074
 postcode: "06567"
 city: Bad Frankenhausen/Kyffhäuser
-street: "Kräme"
-housenumber: 9
+street: Kräme
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-12:00"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-12:00
 website: ""

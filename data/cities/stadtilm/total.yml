@@ -1,11 +1,11 @@
 id: 125170567
-type: way
+type: node
 latitude: 50.76771
 longitude: 11.06478
 postcode: "99326"
 city: Stadtilm
-street: "Ilmenauer Straße"
-housenumber: 2
+street: Ilmenauer Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 05:00-21:00; Sa,Su,PH 07:00-21:00"
+opening_hours: Mo-Fr 05:00-21:00; Sa,Su,PH 07:00-21:00
 website: ""

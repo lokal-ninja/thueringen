@@ -1,11 +1,11 @@
 id: 775555040
-type: way
+type: node
 latitude: 50.97511
 longitude: 10.34054
 postcode: "99817"
 city: Eisenach
-street: "Altstadtstraße"
-housenumber: 37
+street: Altstadtstraße
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

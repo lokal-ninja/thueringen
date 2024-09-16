@@ -4,8 +4,8 @@ latitude: 50.99082
 longitude: 12.43838
 postcode: "04600"
 city: Altenburg
-street: "Dr.-Wilhelm-Külz-Straße"
-housenumber: 13
-phone: "+49 3447 5118950"
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.edeka.de/eh/nordbayern-sachsen-th%C3%BCringen/edeka-soba-dr.-w.-k%C3%BClz-str.-13/index.jsp"
+street: Dr.-Wilhelm-Külz-Straße
+housenumber: "13"
+phone: +49 3447 5118950
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://www.edeka.de/eh/nordbayern-sachsen-th%C3%BCringen/edeka-soba-dr.-w.-k%C3%BClz-str.-13/index.jsp

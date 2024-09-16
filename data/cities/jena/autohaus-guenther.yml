@@ -1,11 +1,11 @@
 id: 262422286
-type: way
+type: node
 latitude: 50.9066
 longitude: 11.59046
 postcode: "07749"
 city: Jena
-street: "Unterdorfstraße"
-housenumber: 37
+street: Unterdorfstraße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-12:00
 website: ""

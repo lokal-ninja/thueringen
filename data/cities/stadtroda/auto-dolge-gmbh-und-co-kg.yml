@@ -1,11 +1,11 @@
 id: 891876852
-type: way
+type: node
 latitude: 50.85946
 longitude: 11.74593
 postcode: "07646"
 city: Stadtroda
-street: "Geraer Straße"
-housenumber: 80
+street: Geraer Straße
+housenumber: "80"
 phone: "+49364284960"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-12:00
 website: ""

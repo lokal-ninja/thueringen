@@ -1,11 +1,11 @@
 id: 594563375
-type: way
+type: node
 latitude: 51.45165
 longitude: 10.66123
 postcode: "99752"
 city: Bleicherode
-street: "Sondershäuser Straße"
-housenumber: 1
+street: Sondershäuser Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

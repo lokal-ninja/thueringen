@@ -1,11 +1,11 @@
 id: 324093819
-type: way
+type: node
 latitude: 51.34443
 longitude: 11.1111
 postcode: "06567"
 city: Bad Frankenhausen/Kyffhäuser
-street: "Seehäuser Straße"
-housenumber: 73
+street: Seehäuser Straße
+housenumber: "73"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

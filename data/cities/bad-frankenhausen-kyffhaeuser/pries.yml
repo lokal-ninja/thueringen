@@ -1,11 +1,11 @@
 id: 448578540
-type: way
+type: node
 latitude: 51.35807
 longitude: 11.10059
 postcode: "06567"
 city: Bad Frankenhausen/Kyffhäuser
-street: "Anger"
-housenumber: 17
+street: Anger
+housenumber: "17"
 phone: ""
-opening_hours: "Tu-Fr 08:00-12:00,13:00-18:00; Sa 07:30-12:00"
+opening_hours: Tu-Fr 08:00-12:00,13:00-18:00; Sa 07:30-12:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.98971
 longitude: 11.0262
 postcode: "99086"
 city: Erfurt
-street: "Magdeburger Allee"
-housenumber: 49
-phone: "+49 361 6461201"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-12:00"
+street: Magdeburger Allee
+housenumber: "49"
+phone: +49 361 6461201
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-12:00
 website: ""

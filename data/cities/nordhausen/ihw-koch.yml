@@ -1,11 +1,11 @@
 id: 371929187
-type: way
+type: node
 latitude: 51.50216
 longitude: 10.78628
 postcode: "99734"
 city: Nordhausen
-street: "Grimmelallee"
-housenumber: 48
+street: Grimmelallee
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

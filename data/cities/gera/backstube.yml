@@ -1,11 +1,11 @@
 id: 96106972
-type: way
+type: node
 latitude: 50.86945
 longitude: 12.06821
 postcode: "07548"
 city: Gera
-street: "Jägerstraße"
-housenumber: 
+street: Jägerstraße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:00; Sa 06:00-18:00; Su 07:00-10:00"
+opening_hours: Mo-Fr 06:00-19:00; Sa 06:00-18:00; Su 07:00-10:00
 website: ""

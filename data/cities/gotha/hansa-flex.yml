@@ -4,8 +4,8 @@ latitude: 50.9668
 longitude: 10.73092
 postcode: "99867"
 city: Gotha
-street: "Fritz-Bothmann-Straße"
-housenumber: 8
-phone: "+49 3621 22387 5"
-opening_hours: "Mo-Fr 07:00-16:00"
-website: "https://www.hansa-flex.com/niederlassungen/inland/land/de/ort/gotha/betrieb/got.html"
+street: Fritz-Bothmann-Straße
+housenumber: "8"
+phone: +49 3621 22387 5
+opening_hours: Mo-Fr 07:00-16:00
+website: https://www.hansa-flex.com/niederlassungen/inland/land/de/ort/gotha/betrieb/got.html

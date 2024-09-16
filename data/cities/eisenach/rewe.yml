@@ -4,8 +4,8 @@ latitude: 50.97808
 longitude: 10.30806
 postcode: "99817"
 city: Eisenach
-street: "Bleichrasen"
-housenumber: 
+street: Bleichrasen
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00 SA 07:00-20:00"
-website: "https://www.rewe.de/angebote/eisenach/4031003/rewe-center-fabrikstr-1-bleichrasen/"
+opening_hours: Mo-Fr 07:00-22:00 SA 07:00-20:00
+website: https://www.rewe.de/angebote/eisenach/4031003/rewe-center-fabrikstr-1-bleichrasen/

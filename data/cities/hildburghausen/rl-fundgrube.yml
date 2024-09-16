@@ -1,11 +1,11 @@
 id: 1112736395
-type: way
+type: node
 latitude: 50.43764
 longitude: 10.70638
 postcode: "98646"
 city: Hildburghausen
-street: "Mohnhäcksweg"
-housenumber: 12
-phone: "+49 3685 706210"
-opening_hours: "Mo-Fr 09:00-19:00, Sa 08:00-16:00"
+street: Mohnhäcksweg
+housenumber: "12"
+phone: +49 3685 706210
+opening_hours: Mo-Fr 09:00-19:00, Sa 08:00-16:00
 website: ""

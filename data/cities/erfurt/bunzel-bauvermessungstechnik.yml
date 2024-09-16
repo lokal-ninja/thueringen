@@ -4,8 +4,8 @@ latitude: 51.03677
 longitude: 10.98159
 postcode: "99090"
 city: Erfurt
-street: "Kühnhäuser Straße"
-housenumber: 106
-phone: "+49 361 743890"
-opening_hours: "Mo-Fr 07:00-17:00"
-website: "https://www.bauvermessungstechnik.de"
+street: Kühnhäuser Straße
+housenumber: "106"
+phone: +49 361 743890
+opening_hours: Mo-Fr 07:00-17:00
+website: https://www.bauvermessungstechnik.de

@@ -1,11 +1,11 @@
 id: 235021094
-type: way
+type: node
 latitude: 51.10535
 longitude: 10.66279
 postcode: "99947"
 city: Bad Langensalza
-street: "Tonnaer Straße"
-housenumber: 24
-phone: "+49  3603 89300"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-16:00"
-website: "https://profiwesch.de"
+street: Tonnaer Straße
+housenumber: "24"
+phone: +49  3603 89300
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-16:00
+website: https://profiwesch.de

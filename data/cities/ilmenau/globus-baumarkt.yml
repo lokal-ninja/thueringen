@@ -1,11 +1,11 @@
 id: 24841497
-type: way
+type: node
 latitude: 50.69077
 longitude: 10.94633
 postcode: "98693"
 city: Ilmenau
-street: "Bücheloher Straße"
-housenumber: 31
-phone: "+49 (0)3677 6610"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Bücheloher Straße
+housenumber: "31"
+phone: +49 (0)3677 6610
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

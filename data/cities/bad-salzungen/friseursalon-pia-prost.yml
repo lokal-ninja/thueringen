@@ -1,11 +1,11 @@
 id: 217747788
-type: way
+type: node
 latitude: 50.81336
 longitude: 10.2366
 postcode: "36433"
 city: Bad Salzungen
-street: "Riemesborngasse"
-housenumber: 1
+street: Riemesborngasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

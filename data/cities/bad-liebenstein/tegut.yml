@@ -1,11 +1,11 @@
 id: 123221487
-type: way
+type: node
 latitude: 50.81605
 longitude: 10.34703
 postcode: "36448"
 city: Bad Liebenstein
-street: "Bahnhofstraße"
-housenumber: 3
+street: Bahnhofstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Th,Sa 07:00-20:00; Fr 07:00-21:00; Su,PH off"
+opening_hours: Mo-Th,Sa 07:00-20:00; Fr 07:00-21:00; Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 204350103
-type: way
+type: node
 latitude: 51.20928
 longitude: 10.4633
 postcode: "99974"
 city: Mühlhausen
-street: "Görmarstraße"
-housenumber: 58
+street: Görmarstraße
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa,Su,PH off"
+opening_hours: Mo-Fr 09:00-17:00; Sa,Su,PH off
 website: ""

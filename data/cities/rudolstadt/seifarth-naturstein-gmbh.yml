@@ -1,11 +1,11 @@
 id: 232206528
-type: way
+type: node
 latitude: 50.78752
 longitude: 11.31736
 postcode: "07407"
 city: Rudolstadt
-street: "Hinter der Kirche"
-housenumber: 5
+street: Hinter der Kirche
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "http://www.naturstein-seifarth.de"
+website: http://www.naturstein-seifarth.de

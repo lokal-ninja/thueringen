@@ -1,11 +1,11 @@
 id: 38309632
-type: way
+type: node
 latitude: 50.69091
 longitude: 10.92557
 postcode: "98693"
 city: Ilmenau
-street: "Auf dem Mittelfeld"
-housenumber: 4
+street: Auf dem Mittelfeld
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

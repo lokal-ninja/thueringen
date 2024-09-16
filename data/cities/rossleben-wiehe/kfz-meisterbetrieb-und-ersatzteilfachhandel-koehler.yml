@@ -1,11 +1,11 @@
 id: 175593216
-type: way
+type: node
 latitude: 51.26503
 longitude: 11.41109
 postcode: "06571"
 city: Roßleben-Wiehe
-street: "Brauhausstraße"
-housenumber: 9
-phone: "+49-34672-82397"
+street: Brauhausstraße
+housenumber: "9"
+phone: +49-34672-82397
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 274262478
-type: way
+type: node
 latitude: 50.36189
 longitude: 11.16713
 postcode: "96515"
 city: Sonneberg
-street: "Bettelhecker Straße"
-housenumber: 14
+street: Bettelhecker Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 08:00-13:00; Su,PH off"
+opening_hours: Mo-Fr 09:00-17:00; Sa 08:00-13:00; Su,PH off
 website: ""

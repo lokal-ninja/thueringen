@@ -4,8 +4,8 @@ latitude: 50.92852
 longitude: 11.588
 postcode: "07743"
 city: Jena
-street: "Markt"
-housenumber: 5
+street: Markt
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
 website: ""

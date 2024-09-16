@@ -1,11 +1,11 @@
 id: 29488105
-type: way
+type: node
 latitude: 51.35335
 longitude: 11.0999
 postcode: "06567"
 city: Bad Frankenhausen/Kyffhäuser
-street: "Bahnhofstraße"
-housenumber: 1
+street: Bahnhofstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

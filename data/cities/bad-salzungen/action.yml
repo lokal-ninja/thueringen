@@ -4,8 +4,8 @@ latitude: 50.81122
 longitude: 10.21936
 postcode: "36433"
 city: Bad Salzungen
-street: "Untere Beete"
-housenumber: 3
+street: Untere Beete
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.action.com"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.action.com

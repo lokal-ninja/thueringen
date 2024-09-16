@@ -4,8 +4,8 @@ latitude: 50.8612
 longitude: 11.34486
 postcode: "99444"
 city: Blankenhain
-street: "Luisenstraße"
-housenumber: 1
+street: Luisenstraße
+housenumber: "1"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

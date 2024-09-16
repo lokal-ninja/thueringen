@@ -1,11 +1,11 @@
 id: 515330831
-type: way
+type: node
 latitude: 51.03939
 longitude: 11.83157
 postcode: "07619"
 city: Schkölen
-street: "Eisenberger Straße"
+street: Eisenberger Straße
 housenumber: 17b
-phone: "+49 36694 22246"
+phone: +49 36694 22246
 opening_hours: ""
-website: "http://www.fischgut-mitte.org/"
+website: http://www.fischgut-mitte.org/

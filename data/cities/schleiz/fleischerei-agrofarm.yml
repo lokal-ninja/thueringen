@@ -4,8 +4,8 @@ latitude: 50.57729
 longitude: 11.80945
 postcode: "07907"
 city: Schleiz
-street: "Neumarkt"
-housenumber: 5
-phone: "+49 3663 424105"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-11:30"
-website: "https://www.agrofarm-knau.de/"
+street: Neumarkt
+housenumber: "5"
+phone: +49 3663 424105
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-11:30
+website: https://www.agrofarm-knau.de/

@@ -4,8 +4,8 @@ latitude: 50.97814
 longitude: 11.32183
 postcode: "99423"
 city: Weimar
-street: "Lisztstraße"
-housenumber: 1
+street: Lisztstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Fr 07:00-18:00; Sa 07:00-13:00; PH,Mo off"
+opening_hours: Tu-Fr 07:00-18:00; Sa 07:00-13:00; PH,Mo off
 website: ""

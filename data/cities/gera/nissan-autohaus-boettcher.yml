@@ -1,11 +1,11 @@
 id: 487712436
-type: way
+type: node
 latitude: 50.84839
 longitude: 12.06792
 postcode: "07549"
 city: Gera
-street: "Schleizer Straße"
-housenumber: 41
+street: Schleizer Straße
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

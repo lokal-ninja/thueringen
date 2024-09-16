@@ -4,8 +4,8 @@ latitude: 50.95054
 longitude: 11.0756
 postcode: "99097"
 city: Erfurt
-street: "Am Drosselberg"
-housenumber: 49
+street: Am Drosselberg
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-14:00"
-website: "https://www.kaulenoptik.de/"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:00-14:00
+website: https://www.kaulenoptik.de/

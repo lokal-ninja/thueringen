@@ -1,11 +1,11 @@
 id: 25414813
-type: way
+type: node
 latitude: 50.64938
 longitude: 12.19304
 postcode: "07973"
 city: Greiz
-street: "Neustadtring"
-housenumber: 4
+street: Neustadtring
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

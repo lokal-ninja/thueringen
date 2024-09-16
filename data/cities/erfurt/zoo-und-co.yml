@@ -4,8 +4,8 @@ latitude: 50.97561
 longitude: 11.10796
 postcode: "99098"
 city: Erfurt
-street: "Weimarische Straße"
-housenumber: 123
-phone: "+49 361 789 65388"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.zooundco-erfurt.de/"
+street: Weimarische Straße
+housenumber: "123"
+phone: +49 361 789 65388
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.zooundco-erfurt.de/

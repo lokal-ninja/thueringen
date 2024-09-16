@@ -1,11 +1,11 @@
 id: 371929189
-type: way
+type: node
 latitude: 51.50212
 longitude: 10.78579
 postcode: "99734"
 city: Nordhausen
-street: "Hesseröder Straße"
-housenumber: 2
+street: Hesseröder Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

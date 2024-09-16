@@ -1,11 +1,11 @@
 id: 100199879
-type: way
+type: node
 latitude: 50.9036
 longitude: 12.07256
 postcode: "07546"
 city: Gera
-street: "Tinzer Straße"
-housenumber: 30
+street: Tinzer Straße
+housenumber: "30"
 phone: ""
 opening_hours: ""
-website: "https://autoland.de/"
+website: https://autoland.de/

@@ -4,8 +4,8 @@ latitude: 50.69124
 longitude: 10.92099
 postcode: "98693"
 city: Ilmenau
-street: "Unterpörlitzer Straße"
-housenumber: 35
+street: Unterpörlitzer Straße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:00; Sa-Su 07:00-18:00"
-website: "https://nahrstedt.de/standorte/cafe-ilmenau-autohaus"
+opening_hours: Mo-Fr 06:00-19:00; Sa-Su 07:00-18:00
+website: https://nahrstedt.de/standorte/cafe-ilmenau-autohaus

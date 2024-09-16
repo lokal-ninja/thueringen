@@ -4,8 +4,8 @@ latitude: 50.70171
 longitude: 10.57004
 postcode: "98587"
 city: Steinbach-Hallenberg
-street: "Hauptstraße"
-housenumber: 92
+street: Hauptstraße
+housenumber: "92"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 07:00-10:00"
-website: "https://nahrstedt.de/standorte/edeka-steinbach"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 07:00-10:00
+website: https://nahrstedt.de/standorte/edeka-steinbach

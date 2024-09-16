@@ -1,11 +1,11 @@
 id: 326741924
-type: way
+type: node
 latitude: 50.8445
 longitude: 10.96771
 postcode: "99310"
 city: Arnstadt
-street: "An der Bachschleife"
-housenumber: 30
+street: An der Bachschleife
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 254359813
-type: way
+type: node
 latitude: 50.95348
 longitude: 11.61982
 postcode: "07743"
 city: Jena
-street: "Wiesenstraße"
-housenumber: 102
+street: Wiesenstraße
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

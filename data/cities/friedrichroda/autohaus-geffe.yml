@@ -1,11 +1,11 @@
 id: 291753592
-type: way
+type: node
 latitude: 50.86755
 longitude: 10.62031
 postcode: "99894"
 city: Friedrichroda
-street: "Cumbacher Straße"
-housenumber: 17
+street: Cumbacher Straße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Th 09:00-18:00; Fr 09:00-17:00; Sa 09:00-12:00; Su,PH off"
+opening_hours: Mo-Th 09:00-18:00; Fr 09:00-17:00; Sa 09:00-12:00; Su,PH off
 website: ""

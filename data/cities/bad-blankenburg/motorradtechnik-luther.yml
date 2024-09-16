@@ -1,11 +1,11 @@
 id: 90144715
-type: way
+type: node
 latitude: 50.68543
 longitude: 11.27796
 postcode: "07422"
 city: Bad Blankenburg
-street: "Hermann-Petersilge-Straße"
-housenumber: 12
+street: Hermann-Petersilge-Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.motorradtechnikluther.de/"
+website: https://www.motorradtechnikluther.de/

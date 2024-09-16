@@ -1,11 +1,11 @@
 id: 1031020407
-type: way
+type: node
 latitude: 51.48362
 longitude: 10.84032
 postcode: "99734"
 city: Nordhausen
-street: "Friedrichsweg"
-housenumber: 2
+street: Friedrichsweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

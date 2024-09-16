@@ -1,11 +1,11 @@
 id: 197727101
-type: way
+type: node
 latitude: 50.57933
 longitude: 11.8044
 postcode: "07907"
 city: Schleiz
-street: "Austeg"
-housenumber: 3
+street: Austeg
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 93905581
-type: way
+type: node
 latitude: 50.65435
 longitude: 11.34211
 postcode: "07318"
 city: Saalfeld/Saale
-street: "Mittlerer Watzenbach"
-housenumber: 10
+street: Mittlerer Watzenbach
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "https://www.fressnapf.de/stores/fressnapf-saalfeld/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
+website: https://www.fressnapf.de/stores/fressnapf-saalfeld/

@@ -4,8 +4,8 @@ latitude: 50.97815
 longitude: 11.32647
 postcode: "99423"
 city: Weimar
-street: "Schützengasse"
-housenumber: 12
+street: Schützengasse
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 07:00-18:00"
+opening_hours: Mo-Sa 07:00-18:00
 website: ""

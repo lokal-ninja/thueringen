@@ -4,8 +4,8 @@ latitude: 50.48975
 longitude: 10.90879
 postcode: "98666"
 city: Masserberg
-street: "Bibergrundstraße"
-housenumber: 11
-phone: "+49 36874 37838"
-opening_hours: "Tu-Fr 08:30-13:00,15:00-18:00; Sa 08:30-11:00; Mo,Su,PH off"
+street: Bibergrundstraße
+housenumber: "11"
+phone: +49 36874 37838
+opening_hours: Tu-Fr 08:30-13:00,15:00-18:00; Sa 08:30-11:00; Mo,Su,PH off
 website: ""

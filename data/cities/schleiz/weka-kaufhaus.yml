@@ -4,8 +4,8 @@ latitude: 50.57773
 longitude: 11.8094
 postcode: "07907"
 city: Schleiz
-street: "Teichstraße"
-housenumber: 1
+street: Teichstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo,We,Th 09:00-18:30; Tu,Fr 08:30-18:30; Sa 09:00-13:00"
+opening_hours: Mo,We,Th 09:00-18:30; Tu,Fr 08:30-18:30; Sa 09:00-13:00
 website: ""

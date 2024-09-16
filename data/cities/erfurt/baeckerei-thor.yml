@@ -1,11 +1,11 @@
 id: 300038559
-type: way
+type: node
 latitude: 50.98794
 longitude: 10.931
 postcode: "99090"
 city: Erfurt
-street: "Brauhausgasse"
-housenumber: 20
+street: Brauhausgasse
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.3775
 longitude: 10.13789
 postcode: "37308"
 city: Heilbad Heiligenstadt
-street: "Wilhelmstraße"
-housenumber: 49
-phone: "+49 3606 612 092"
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-13:00"
+street: Wilhelmstraße
+housenumber: "49"
+phone: +49 3606 612 092
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:30-13:00
 website: ""

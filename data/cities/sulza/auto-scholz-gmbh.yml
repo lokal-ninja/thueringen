@@ -1,11 +1,11 @@
 id: 238244500
-type: way
+type: node
 latitude: 50.87681
 longitude: 11.62387
 postcode: "07751"
 city: Sulza
-street: "Daimler-Benz-Straße"
-housenumber: 1
+street: Daimler-Benz-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

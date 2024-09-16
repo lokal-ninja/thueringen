@@ -1,11 +1,11 @@
 id: 131487308
-type: way
+type: node
 latitude: 51.49545
 longitude: 10.7865
 postcode: "99734"
 city: Nordhausen
-street: "Emil-Reichardt-Straße"
-housenumber: 2
+street: Emil-Reichardt-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

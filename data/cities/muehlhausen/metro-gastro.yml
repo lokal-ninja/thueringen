@@ -1,11 +1,11 @@
 id: 99715744
-type: way
+type: node
 latitude: 51.19688
 longitude: 10.47733
 postcode: "99974"
 city: Mühlhausen
-street: "Beim Schwarzen Feld"
-housenumber: 14
+street: Beim Schwarzen Feld
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

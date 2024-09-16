@@ -1,11 +1,11 @@
 id: 798429702
-type: way
+type: node
 latitude: 51.57872
 longitude: 10.67278
 postcode: "99755"
 city: Ellrich
-street: "Pontelstraße"
-housenumber: 1
+street: Pontelstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

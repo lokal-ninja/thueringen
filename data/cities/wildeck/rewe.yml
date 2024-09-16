@@ -1,11 +1,11 @@
 id: 188718430
-type: way
+type: node
 latitude: 50.95076
 longitude: 10.02187
 postcode: "36208"
 city: Wildeck
-street: "Eisenacher Straße"
-housenumber: 192
+street: Eisenacher Straße
+housenumber: "192"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

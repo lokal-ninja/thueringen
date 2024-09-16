@@ -1,11 +1,11 @@
 id: 177828226
-type: way
+type: node
 latitude: 50.67502
 longitude: 10.85697
 postcode: "98693"
 city: Ilmenau
-street: "Schmücker Straße"
-housenumber: 
+street: Schmücker Straße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

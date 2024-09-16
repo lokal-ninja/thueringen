@@ -1,11 +1,11 @@
 id: 144954704
-type: way
+type: node
 latitude: 51.02929
 longitude: 11.50796
 postcode: "99510"
 city: Apolda
-street: "Hanfstraße"
-housenumber: 20
+street: Hanfstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
-website: "https://www.sonderpreis-baumarkt.de/"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00
+website: https://www.sonderpreis-baumarkt.de/

@@ -1,11 +1,11 @@
 id: 374877158
-type: way
+type: node
 latitude: 51.09088
 longitude: 10.73634
 postcode: "99958"
 city: Tonna
-street: "Erfurter Straße"
-housenumber: 2
+street: Erfurter Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00"
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-20:00
 website: ""

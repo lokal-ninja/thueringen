@@ -1,11 +1,11 @@
 id: 802838404
-type: way
+type: node
 latitude: 51.13283
 longitude: 10.24559
 postcode: "99830"
 city: Treffurt
-street: "Teichhof"
-housenumber: 13
+street: Teichhof
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

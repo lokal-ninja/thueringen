@@ -1,11 +1,11 @@
 id: 100199970
-type: way
+type: node
 latitude: 50.90681
 longitude: 12.07
 postcode: "07552"
 city: Gera
-street: "Carl-L.-Hirsch-Straße"
-housenumber: 7
+street: Carl-L.-Hirsch-Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

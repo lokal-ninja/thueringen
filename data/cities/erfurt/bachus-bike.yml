@@ -4,8 +4,8 @@ latitude: 50.96547
 longitude: 11.02126
 postcode: "99096"
 city: Erfurt
-street: "Steigerstraße"
-housenumber: 1
+street: Steigerstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo, Tu, Th, Fr 13:30-20:00; Sa 10:00-16:00"
+opening_hours: Mo, Tu, Th, Fr 13:30-20:00; Sa 10:00-16:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.63594
 longitude: 11.9559
 postcode: "07937"
 city: Langenwolschendorf
-street: "Hauptstraße"
-housenumber: 82
-phone: "+49 36628 82656"
-opening_hours: "Mo-Fr 07:30-17:00"
-website: "https://www.auto-lawo.de/"
+street: Hauptstraße
+housenumber: "82"
+phone: +49 36628 82656
+opening_hours: Mo-Fr 07:30-17:00
+website: https://www.auto-lawo.de/

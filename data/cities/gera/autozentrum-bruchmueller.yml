@@ -1,11 +1,11 @@
 id: 1161300327
-type: way
+type: node
 latitude: 50.90284
 longitude: 12.10947
 postcode: "07552"
 city: Gera
-street: "Otto-Hahn-Straße"
-housenumber: 4
+street: Otto-Hahn-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 07:00-17:00; Sa 08:00-12:00
 website: ""

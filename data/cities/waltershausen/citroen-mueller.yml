@@ -1,11 +1,11 @@
 id: 242691344
-type: way
+type: node
 latitude: 50.90029
 longitude: 10.47825
 postcode: "99880"
 city: Waltershausen
-street: "Inselsbergstraße"
-housenumber: 1
+street: Inselsbergstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

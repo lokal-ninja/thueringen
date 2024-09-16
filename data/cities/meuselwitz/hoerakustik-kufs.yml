@@ -4,8 +4,8 @@ latitude: 51.0427
 longitude: 12.29921
 postcode: "04610"
 city: Meuselwitz
-street: "Am Rathaus"
-housenumber: 1
+street: Am Rathaus
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Th 08:30-12:00,12:30-17:30; Fr 08:30-12:00; Sa,Su,PH off"
+opening_hours: Mo-Th 08:30-12:00,12:30-17:30; Fr 08:30-12:00; Sa,Su,PH off
 website: ""

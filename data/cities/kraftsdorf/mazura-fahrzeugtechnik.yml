@@ -1,11 +1,11 @@
 id: 452834364
-type: way
+type: node
 latitude: 50.87454
 longitude: 11.91234
 postcode: "07586"
 city: Kraftsdorf
-street: "St. Gangloffer Straße"
-housenumber: 14
+street: St. Gangloffer Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

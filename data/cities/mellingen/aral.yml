@@ -1,11 +1,11 @@
 id: 30191528
-type: way
+type: node
 latitude: 50.93479
 longitude: 11.3891
 postcode: "99441"
 city: Mellingen
-street: "Aralallee"
-housenumber: 1
+street: Aralallee
+housenumber: "1"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

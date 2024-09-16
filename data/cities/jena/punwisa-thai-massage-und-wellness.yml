@@ -4,8 +4,8 @@ latitude: 50.92324
 longitude: 11.57672
 postcode: "07745"
 city: Jena
-street: "Otto-Schott-Straße"
-housenumber: 3
-phone: "+49 3641 22 54 865"
-opening_hours: "Mo-Fr 08:00-11:00, Mo,Th 15:00-18:00"
-website: "http://www.punwisa.de/"
+street: Otto-Schott-Straße
+housenumber: "3"
+phone: +49 3641 22 54 865
+opening_hours: Mo-Fr 08:00-11:00, Mo,Th 15:00-18:00
+website: http://www.punwisa.de/

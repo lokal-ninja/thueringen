@@ -4,8 +4,8 @@ latitude: 51.01496
 longitude: 11.03087
 postcode: "99087"
 city: Erfurt
-street: "Lilienthalweg"
-housenumber: 5
-phone: "+49 361 735688"
-opening_hours: "Tu,Th 16:00-18:00"
-website: "http://www.bestellservice-stollberg.de"
+street: Lilienthalweg
+housenumber: "5"
+phone: +49 361 735688
+opening_hours: Tu,Th 16:00-18:00
+website: http://www.bestellservice-stollberg.de

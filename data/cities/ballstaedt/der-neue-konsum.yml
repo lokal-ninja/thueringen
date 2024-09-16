@@ -1,11 +1,11 @@
 id: 405516082
-type: way
+type: node
 latitude: 51.03442
 longitude: 10.71773
 postcode: "99869"
 city: Ballstädt
-street: "Stubengasse"
-housenumber: 2
+street: Stubengasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

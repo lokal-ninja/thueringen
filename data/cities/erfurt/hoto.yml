@@ -4,8 +4,8 @@ latitude: 50.97658
 longitude: 11.03234
 postcode: "99084"
 city: Erfurt
-street: "Schlösserstraße"
-housenumber: 13
-phone: "+49 361 5668880"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-14:00; PH off"
-website: "https://www.hoto-erfurt.de/"
+street: Schlösserstraße
+housenumber: "13"
+phone: +49 361 5668880
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-14:00; PH off
+website: https://www.hoto-erfurt.de/

@@ -1,11 +1,11 @@
 id: 660170805
-type: way
+type: node
 latitude: 50.99229
 longitude: 12.4313
 postcode: "04600"
 city: Altenburg
-street: "Rudolf-Breitscheid-Straße"
-housenumber: 45
+street: Rudolf-Breitscheid-Straße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.norma-online.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.norma-online.de/

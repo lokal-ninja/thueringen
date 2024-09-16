@@ -1,11 +1,11 @@
 id: 605001538
-type: way
+type: node
 latitude: 50.86681
 longitude: 11.33795
 postcode: "99444"
 city: Blankenhain
-street: "Weimarer Straße"
-housenumber: 19
+street: Weimarer Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:00; Su,PH off"
-website: "https://jysk.de/"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-16:00; Su,PH off
+website: https://jysk.de/

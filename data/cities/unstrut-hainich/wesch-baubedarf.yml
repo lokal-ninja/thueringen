@@ -1,11 +1,11 @@
 id: 751066254
-type: way
+type: node
 latitude: 51.1488
 longitude: 10.56461
 postcode: "99991"
 city: Unstrut-Hainich
-street: "Schulstraße"
-housenumber: 9
+street: Schulstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

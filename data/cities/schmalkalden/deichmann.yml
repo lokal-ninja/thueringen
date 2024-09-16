@@ -4,8 +4,8 @@ latitude: 50.72122
 longitude: 10.4573
 postcode: "98574"
 city: Schmalkalden
-street: "Renthofstraße"
-housenumber: 8
-phone: "+49 3683 606820"
-opening_hours: "Mo-Fr 9:00-18:00; Sa 9:00-14:00"
-website: "https://stores.deichmann.com/de-de/de/thueringen/schmalkalden/renthofstrasse-8"
+street: Renthofstraße
+housenumber: "8"
+phone: +49 3683 606820
+opening_hours: Mo-Fr 9:00-18:00; Sa 9:00-14:00
+website: https://stores.deichmann.com/de-de/de/thueringen/schmalkalden/renthofstrasse-8

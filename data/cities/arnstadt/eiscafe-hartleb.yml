@@ -1,11 +1,11 @@
 id: 316081132
-type: way
+type: node
 latitude: 50.8606
 longitude: 10.97101
 postcode: "99310"
 city: Arnstadt
-street: "Hauptstraße"
-housenumber: 25
-phone: "+49 3628 784 6"
-opening_hours: "Tu-Fr 12:00+; Sa 13:00+; Su 11:00+; Mo off"
-website: "https://eiscafe-hartleb.de/"
+street: Hauptstraße
+housenumber: "25"
+phone: +49 3628 784 6
+opening_hours: Tu-Fr 12:00+; Sa 13:00+; Su 11:00+; Mo off
+website: https://eiscafe-hartleb.de/

@@ -4,8 +4,8 @@ latitude: 50.92079
 longitude: 11.33284
 postcode: "99438"
 city: Buchfart
-street: "Schenkgasse"
-housenumber: 23
+street: Schenkgasse
+housenumber: "23"
 phone: ""
-opening_hours: "Fr-Su 12:00-18:00"
+opening_hours: Fr-Su 12:00-18:00
 website: ""

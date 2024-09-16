@@ -4,8 +4,8 @@ latitude: 51.35649
 longitude: 11.10064
 postcode: "06567"
 city: Bad Frankenhausen
-street: "Kräme"
-housenumber: 23
+street: Kräme
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 08:30-13:00"
-website: "https://www.kyf-rad.de"
+opening_hours: Mo-Fr 10:00-18:00; Sa 08:30-13:00
+website: https://www.kyf-rad.de

@@ -1,11 +1,11 @@
 id: 30765667
-type: way
+type: node
 latitude: 50.3763
 longitude: 11.5133
 postcode: "96365"
 city: Nordhalben
-street: "Klöppelschule"
-housenumber: 8
+street: Klöppelschule
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

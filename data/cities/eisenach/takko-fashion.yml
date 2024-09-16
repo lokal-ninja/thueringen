@@ -4,8 +4,8 @@ latitude: 50.99274
 longitude: 10.31489
 postcode: "99817"
 city: Eisenach
-street: "Mühlhäuser Straße"
-housenumber: 121
-phone: "+49 3691 612189"
-opening_hours: "Mo-Fr 9:30-19:00; Sa 9:30-18:00; PH off"
+street: Mühlhäuser Straße
+housenumber: "121"
+phone: +49 3691 612189
+opening_hours: Mo-Fr 9:30-19:00; Sa 9:30-18:00; PH off
 website: ""

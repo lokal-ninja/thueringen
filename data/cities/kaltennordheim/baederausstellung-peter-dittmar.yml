@@ -1,11 +1,11 @@
 id: 204717855
-type: way
+type: node
 latitude: 50.62412
 longitude: 10.15522
 postcode: "36452"
 city: Kaltennordheim
-street: "Im Tälchen"
-housenumber: 3
+street: Im Tälchen
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 329143243
-type: way
+type: node
 latitude: 50.64169
 longitude: 11.96681
 postcode: "07937"
 city: Langenwolschendorf
-street: "Dr.-Riese-Straße"
-housenumber: 1
+street: Dr.-Riese-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa 09:00-12:00; PH off"
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00; Sa 09:00-12:00; PH off
 website: ""

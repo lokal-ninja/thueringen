@@ -1,11 +1,11 @@
 id: 261837403
-type: way
+type: node
 latitude: 50.65389
 longitude: 12.1754
 postcode: "07973"
 city: Greiz
-street: "Untergrochlitzer Straße"
-housenumber: 2
+street: Untergrochlitzer Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

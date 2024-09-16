@@ -1,11 +1,11 @@
 id: 37721836
-type: way
+type: node
 latitude: 50.68646
 longitude: 10.92125
 postcode: "98693"
 city: Ilmenau
-street: "Friedrich-Ebert-Straße"
-housenumber: 23
+street: Friedrich-Ebert-Straße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

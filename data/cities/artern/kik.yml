@@ -1,11 +1,11 @@
 id: 641751074
-type: way
+type: node
 latitude: 51.36342
 longitude: 11.28765
 postcode: "06556"
 city: Artern
-street: "Schönfelder Straße"
+street: Schönfelder Straße
 housenumber: 4a
 phone: ""
-opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-14:00; Su off"
-website: "https://www.kik-textilien.de/"
+opening_hours: Mo-Fr 08:30-20:00; Sa 08:30-14:00; Su off
+website: https://www.kik-textilien.de/

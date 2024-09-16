@@ -1,11 +1,11 @@
 id: 203993290
-type: way
+type: node
 latitude: 50.46578
 longitude: 11.08071
 postcode: "98724"
 city: Neuhaus am Rennweg
-street: "Ringstraße"
-housenumber: 9
+street: Ringstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

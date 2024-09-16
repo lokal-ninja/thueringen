@@ -4,8 +4,8 @@ latitude: 50.98299
 longitude: 11.32609
 postcode: "99423"
 city: Weimar
-street: "Rollplatz"
-housenumber: 7
-phone: "+49 3643 495999"
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "http://www.hifi-senf.de/"
+street: Rollplatz
+housenumber: "7"
+phone: +49 3643 495999
+opening_hours: Mo-Fr 10:00-18:00
+website: http://www.hifi-senf.de/

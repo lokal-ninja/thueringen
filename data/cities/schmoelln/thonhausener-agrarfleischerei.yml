@@ -4,8 +4,8 @@ latitude: 50.89549
 longitude: 12.34998
 postcode: "04626"
 city: Schmölln
-street: "Zur Farbe"
-housenumber: 1
+street: Zur Farbe
+housenumber: "1"
 phone: ""
-opening_hours: "Mo 08:30-12:30; Tu-Fr 08:30-17:30; Sa 08:30-11:00; Su,PH off"
+opening_hours: Mo 08:30-12:30; Tu-Fr 08:30-17:30; Sa 08:30-11:00; Su,PH off
 website: ""

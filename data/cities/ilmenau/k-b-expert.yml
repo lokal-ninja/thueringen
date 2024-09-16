@@ -1,11 +1,11 @@
 id: 35449412
-type: way
+type: node
 latitude: 50.6821
 longitude: 10.92533
 postcode: "98693"
 city: Ilmenau
-street: "Langewiesener Straße"
-housenumber: 22
+street: Langewiesener Straße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
 website: ""

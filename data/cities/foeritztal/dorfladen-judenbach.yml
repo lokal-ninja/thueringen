@@ -4,8 +4,8 @@ latitude: 50.39048
 longitude: 11.21676
 postcode: "96524"
 city: Föritztal
-street: "Bellershöhe"
-housenumber: 1
+street: Bellershöhe
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "https://dorfladen-judenbach.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
+website: https://dorfladen-judenbach.de/

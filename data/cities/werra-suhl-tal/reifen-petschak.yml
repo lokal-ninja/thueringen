@@ -1,11 +1,11 @@
 id: 186587504
-type: way
+type: node
 latitude: 50.94571
 longitude: 10.07613
 postcode: "99837"
 city: Werra-Suhl-Tal
-street: "Wildecker Straße"
-housenumber: 13
+street: Wildecker Straße
+housenumber: "13"
 phone: "+493692231500"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:30-13:00; PH off"
-website: "https://www.reifen-petschak.de/"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:30-13:00; PH off
+website: https://www.reifen-petschak.de/

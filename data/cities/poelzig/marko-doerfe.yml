@@ -4,8 +4,8 @@ latitude: 50.95761
 longitude: 12.1848
 postcode: "07554"
 city: Pölzig
-street: "Gewerbegebiet"
+street: Gewerbegebiet
 housenumber: 2A
-phone: "+49 36695 22433"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:30"
-website: "https://www.kfz-doerfer.de/"
+phone: +49 36695 22433
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:30
+website: https://www.kfz-doerfer.de/

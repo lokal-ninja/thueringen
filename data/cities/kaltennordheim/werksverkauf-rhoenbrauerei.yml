@@ -4,8 +4,8 @@ latitude: 50.62409
 longitude: 10.15676
 postcode: "36452"
 city: Kaltennordheim
-street: "Oberstraße"
-housenumber: 15
-phone: "+49 36966 83490"
-opening_hours: "Mo-Sa 09:00-17:00"
-website: "https://rhoenbrauerei.de/"
+street: Oberstraße
+housenumber: "15"
+phone: +49 36966 83490
+opening_hours: Mo-Sa 09:00-17:00
+website: https://rhoenbrauerei.de/

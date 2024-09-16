@@ -1,11 +1,11 @@
 id: 112695176
-type: way
+type: node
 latitude: 50.9046
 longitude: 10.37257
 postcode: "99842"
 city: Ruhla
-street: "Bahnhofstraße"
-housenumber: 40
+street: Bahnhofstraße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

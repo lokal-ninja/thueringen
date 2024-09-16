@@ -1,11 +1,11 @@
 id: 883456206
-type: way
+type: node
 latitude: 51.46946
 longitude: 10.26415
 postcode: "37339"
 city: Teistungen
-street: "Lange Straße"
+street: Lange Straße
 housenumber: 2e
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de/filialen/teistungen/lange-str-2-e/5835"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de/filialen/teistungen/lange-str-2-e/5835

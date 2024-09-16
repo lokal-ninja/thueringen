@@ -1,11 +1,11 @@
 id: 271987951
-type: way
+type: node
 latitude: 51.10283
 longitude: 10.63736
 postcode: "99947"
 city: Bad Langensalza
-street: "Poststraße"
-housenumber: 16
+street: Poststraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Su 05:00-23:00"
+opening_hours: Mo-Su 05:00-23:00
 website: ""

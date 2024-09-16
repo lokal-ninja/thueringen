@@ -4,8 +4,8 @@ latitude: 51.0086
 longitude: 10.99833
 postcode: "99091"
 city: Erfurt
-street: "Moskauer Platz"
-housenumber: 20
+street: Moskauer Platz
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off
 website: ""

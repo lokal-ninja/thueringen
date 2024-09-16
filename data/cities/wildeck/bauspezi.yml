@@ -1,11 +1,11 @@
 id: 85613681
-type: way
+type: node
 latitude: 50.95421
 longitude: 10.02433
 postcode: "36208"
 city: Wildeck
-street: "Rohbergstraße"
-housenumber: 4
+street: Rohbergstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

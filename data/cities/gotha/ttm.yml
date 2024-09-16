@@ -4,8 +4,8 @@ latitude: 50.9293
 longitude: 10.71754
 postcode: "99867"
 city: Gotha
-street: "Ohrdrufer Straße"
-housenumber: 51
-phone: "+49 3621 730617"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "https://www.ttl-ttm.de/fachmarkt/ttm-gotha-ohrdrufer-strasse"
+street: Ohrdrufer Straße
+housenumber: "51"
+phone: +49 3621 730617
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
+website: https://www.ttl-ttm.de/fachmarkt/ttm-gotha-ohrdrufer-strasse

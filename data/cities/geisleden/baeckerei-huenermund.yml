@@ -4,8 +4,8 @@ latitude: 51.34952
 longitude: 10.20093
 postcode: "37308"
 city: Geisleden
-street: "Hauptstraße"
-housenumber: 1
+street: Hauptstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Fr 07:00-13:00,14:00-17:00; Sa 07:00-11:00; Mo,Su,PH 0ff"
+opening_hours: Tu-Fr 07:00-13:00,14:00-17:00; Sa 07:00-11:00; Mo,Su,PH 0ff
 website: ""

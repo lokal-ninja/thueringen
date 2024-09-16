@@ -1,11 +1,11 @@
 id: 107479529
-type: way
+type: node
 latitude: 50.85381
 longitude: 12.07373
 postcode: "07549"
 city: Gera
-street: "Keplerstraße"
-housenumber: 11
+street: Keplerstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-13:00; Su,PH off"
-website: "https://fischer-auto.de/"
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-13:00; Su,PH off
+website: https://fischer-auto.de/

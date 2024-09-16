@@ -4,8 +4,8 @@ latitude: 50.95052
 longitude: 10.68557
 postcode: "99867"
 city: Gotha
-street: "Eschleber Straße"
-housenumber: 22
+street: Eschleber Straße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.kik.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.kik.de/

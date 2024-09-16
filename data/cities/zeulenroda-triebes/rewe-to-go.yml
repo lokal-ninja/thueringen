@@ -1,11 +1,11 @@
 id: 435027180
-type: way
+type: node
 latitude: 50.65534
 longitude: 11.99355
 postcode: "07937"
 city: Zeulenroda-Triebes
-street: "Schopperstraße"
-housenumber: 83
+street: Schopperstraße
+housenumber: "83"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.68486
 longitude: 10.91409
 postcode: "98693"
 city: Ilmenau
-street: "Straße des Friedens"
-housenumber: 5
+street: Straße des Friedens
+housenumber: "5"
 phone: ""
-opening_hours: "Mo 14:00-18:00; Tu-Fr 9:00-12:00,12:30-18:00; Sa 09:00-13:00"
-website: "https://lose-lecker.de/"
+opening_hours: Mo 14:00-18:00; Tu-Fr 9:00-12:00,12:30-18:00; Sa 09:00-13:00
+website: https://lose-lecker.de/

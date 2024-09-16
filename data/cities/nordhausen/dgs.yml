@@ -1,11 +1,11 @@
 id: 207949538
-type: way
+type: node
 latitude: 51.50436
 longitude: 10.77281
 postcode: "99734"
 city: Nordhausen
-street: "Straße der Genossenschaften"
-housenumber: 18
+street: Straße der Genossenschaften
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

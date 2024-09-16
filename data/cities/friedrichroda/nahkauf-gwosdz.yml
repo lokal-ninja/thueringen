@@ -4,8 +4,8 @@ latitude: 50.85772
 longitude: 10.57057
 postcode: "99894"
 city: Friedrichroda
-street: "Friedrichstraße"
-housenumber: 5
+street: Friedrichstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1077372523
-type: way
+type: node
 latitude: 51.3474
 longitude: 11.17131
 postcode: "06567"
 city: Bad Frankenhausen
-street: "Frankenhäuser Straße"
-housenumber: 46
+street: Frankenhäuser Straße
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.75093
 longitude: 11.01039
 postcode: "99326"
 city: Stadtilm
-street: "Ziegelei"
-housenumber: 2
-phone: "+49 3629 801015"
-opening_hours: "Mo-Do 09:00-17:00; Fr 09:00-16:00, Sa nach Terminvereinbarung"
-website: "https://www.schulze-bauelemente.de/"
+street: Ziegelei
+housenumber: "2"
+phone: +49 3629 801015
+opening_hours: Mo-Do 09:00-17:00; Fr 09:00-16:00, Sa nach Terminvereinbarung
+website: https://www.schulze-bauelemente.de/

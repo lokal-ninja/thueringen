@@ -1,11 +1,11 @@
 id: 228098450
-type: way
+type: node
 latitude: 50.47728
 longitude: 11.16087
 postcode: "98724"
 city: Lauscha
-street: "Straße des Friedens"
-housenumber: 9
+street: Straße des Friedens
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.99234
 longitude: 12.44034
 postcode: "04600"
 city: Altenburg
-street: "Kanalstraße"
-housenumber: 43
+street: Kanalstraße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Fr 08:00-16:00; Sa,Su,PH off"
+opening_hours: Mo-Fr 08:00-16:00; Sa,Su,PH off
 website: ""

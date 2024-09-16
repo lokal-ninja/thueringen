@@ -4,8 +4,8 @@ latitude: 50.95544
 longitude: 10.7105
 postcode: "99867"
 city: Gotha
-street: "Kindleber Straße"
-housenumber: 30
-phone: "+49 3621 40 63 44"
-opening_hours: "Tu-Fr 10:00-13:00,14:00-18:00,Sa 9:00-13:00; PH off"
-website: "https://www.fahrrad-eberhardt.de/"
+street: Kindleber Straße
+housenumber: "30"
+phone: +49 3621 40 63 44
+opening_hours: Tu-Fr 10:00-13:00,14:00-18:00,Sa 9:00-13:00; PH off
+website: https://www.fahrrad-eberhardt.de/

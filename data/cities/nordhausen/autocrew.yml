@@ -1,11 +1,11 @@
 id: 372938558
-type: way
+type: node
 latitude: 51.49564
 longitude: 10.78443
 postcode: "99734"
 city: Nordhausen
-street: "Oskar-Cohn-Straße"
-housenumber: 35
-phone: "+49 3631 901951"
+street: Oskar-Cohn-Straße
+housenumber: "35"
+phone: +49 3631 901951
 opening_hours: ""
 website: ""

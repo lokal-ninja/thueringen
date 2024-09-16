@@ -1,11 +1,11 @@
 id: 790978937
-type: way
+type: node
 latitude: 50.9551
 longitude: 10.05174
 postcode: "99834"
 city: Gerstungen
-street: "Landstraße"
-housenumber: 49
-phone: "+49 36922 80 719"
+street: Landstraße
+housenumber: "49"
+phone: +49 36922 80 719
 opening_hours: ""
 website: ""

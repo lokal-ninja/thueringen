@@ -1,11 +1,11 @@
 id: 96350441
-type: way
+type: node
 latitude: 50.8564
 longitude: 12.07352
 postcode: "07548"
 city: Gera
-street: "Handwerkerhof"
-housenumber: 3
+street: Handwerkerhof
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

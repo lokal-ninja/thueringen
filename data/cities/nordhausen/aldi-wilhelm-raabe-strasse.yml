@@ -1,11 +1,11 @@
 id: 25545136
-type: way
+type: node
 latitude: 51.50815
 longitude: 10.77943
 postcode: "99734"
 city: Nordhausen
-street: "Wilhelm-Raabe-Straße"
-housenumber: 
+street: Wilhelm-Raabe-Straße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

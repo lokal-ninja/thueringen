@@ -4,8 +4,8 @@ latitude: 50.9739
 longitude: 11.03587
 postcode: "99084"
 city: Erfurt
-street: "Bahnhofstraße"
-housenumber: 37
-phone: "+49 3616638707"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
+street: Bahnhofstraße
+housenumber: "37"
+phone: +49 3616638707
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
 website: ""

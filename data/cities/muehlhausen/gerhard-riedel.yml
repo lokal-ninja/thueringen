@@ -4,8 +4,8 @@ latitude: 51.21045
 longitude: 10.45334
 postcode: "99974"
 city: Mühlhausen
-street: "Holzstraße"
-housenumber: 6
-phone: "+49 3601 44 13 52"
-opening_hours: "Mo,Sa-Su off; Tu-Fr 10:00-12:00"
-website: "https://www.antik-riedel.de/ueber-uns.html"
+street: Holzstraße
+housenumber: "6"
+phone: +49 3601 44 13 52
+opening_hours: Mo,Sa-Su off; Tu-Fr 10:00-12:00
+website: https://www.antik-riedel.de/ueber-uns.html

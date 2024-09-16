@@ -4,8 +4,8 @@ latitude: 50.82913
 longitude: 10.98528
 postcode: "99310"
 city: Dornheim
-street: "Am Lohfeld"
-housenumber: 1
-phone: "+49 3628 744-0"
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-16:00"
-website: "https://die-thueringer.de/"
+street: Am Lohfeld
+housenumber: "1"
+phone: +49 3628 744-0
+opening_hours: Mo-Th 07:00-17:00; Fr 07:00-16:00
+website: https://die-thueringer.de/

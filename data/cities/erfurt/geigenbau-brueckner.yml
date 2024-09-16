@@ -4,8 +4,8 @@ latitude: 50.97381
 longitude: 11.02692
 postcode: "99084"
 city: Erfurt
-street: "Regierungsstraße"
-housenumber: 66
+street: Regierungsstraße
+housenumber: "66"
 phone: "+493616461230"
 opening_hours: ""
-website: "https://geigenbau-brueckner.de/"
+website: https://geigenbau-brueckner.de/

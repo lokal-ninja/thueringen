@@ -1,11 +1,11 @@
 id: 180616057
-type: way
+type: node
 latitude: 51.50216
 longitude: 10.79217
 postcode: "99734"
 city: Nordhausen
-street: "Poststraße"
-housenumber: 7
+street: Poststraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00"
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:00
 website: ""

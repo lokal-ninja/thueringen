@@ -1,11 +1,11 @@
 id: 96850594
-type: way
+type: node
 latitude: 51.20617
 longitude: 10.46921
 postcode: "99974"
 city: Mühlhausen/Thüringen
-street: "Thomas-Müntzer-Straße"
-housenumber: 8
+street: Thomas-Müntzer-Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

@@ -1,11 +1,11 @@
 id: 199548717
-type: way
+type: node
 latitude: 50.91778
 longitude: 10.55423
 postcode: "99880"
 city: Waltershausen
-street: "Lauchaer Höhe"
-housenumber: 17
-phone: "+49 3622 2049581"
+street: Lauchaer Höhe
+housenumber: "17"
+phone: +49 3622 2049581
 opening_hours: ""
-website: "https://www.fliesen-studio-arnold.de/waltershausen.html"
+website: https://www.fliesen-studio-arnold.de/waltershausen.html

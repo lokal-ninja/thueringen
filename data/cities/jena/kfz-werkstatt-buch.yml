@@ -1,11 +1,11 @@
 id: 233678073
-type: way
+type: node
 latitude: 50.88308
 longitude: 11.59792
 postcode: "07745"
 city: Jena
-street: "Prüssingstraße"
-housenumber: 20
+street: Prüssingstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,14:00-17:00"
+opening_hours: Mo-Fr 09:00-12:00,14:00-17:00
 website: ""

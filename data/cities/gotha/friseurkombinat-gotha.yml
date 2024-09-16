@@ -4,8 +4,8 @@ latitude: 50.94935
 longitude: 10.70342
 postcode: "99867"
 city: Gotha
-street: "Hünersdorfstraße"
-housenumber: 11
-phone: "+49 3621 7332799"
-opening_hours: "Tu-Fr 08:30-18:30; Sa 09:00-13:00; Mo closed"
-website: "https://www.friseurkombinat-gotha.de"
+street: Hünersdorfstraße
+housenumber: "11"
+phone: +49 3621 7332799
+opening_hours: Tu-Fr 08:30-18:30; Sa 09:00-13:00; Mo closed
+website: https://www.friseurkombinat-gotha.de

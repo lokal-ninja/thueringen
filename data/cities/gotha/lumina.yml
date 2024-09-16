@@ -4,8 +4,8 @@ latitude: 50.94317
 longitude: 10.73223
 postcode: "99867"
 city: Gotha
-street: "Bertha-Schneyer-Straße"
-housenumber: 12
-phone: "+49 3621 306140"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://lumina-bad.de/badausstellung-gotha"
+street: Bertha-Schneyer-Straße
+housenumber: "12"
+phone: +49 3621 306140
+opening_hours: Mo-Fr 09:00-18:00
+website: https://lumina-bad.de/badausstellung-gotha

@@ -4,8 +4,8 @@ latitude: 50.31635
 longitude: 10.65969
 postcode: "98663"
 city: Westhausen
-street: "Hauptstraße"
-housenumber: 106
+street: Hauptstraße
+housenumber: "106"
 phone: ""
-opening_hours: "nach Vereinbarung"
-website: "https://bschreiner.de/wp/"
+opening_hours: '"nach Vereinbarung"'
+website: https://bschreiner.de/wp/

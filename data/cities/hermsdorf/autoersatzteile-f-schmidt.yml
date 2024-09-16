@@ -1,11 +1,11 @@
 id: 205080116
-type: way
+type: node
 latitude: 50.90607
 longitude: 11.86079
 postcode: "07629"
 city: Hermsdorf
-street: "Industriestraße"
-housenumber: 7
+street: Industriestraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

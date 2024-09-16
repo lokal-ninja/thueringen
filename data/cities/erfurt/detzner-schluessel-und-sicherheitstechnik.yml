@@ -4,8 +4,8 @@ latitude: 51.01801
 longitude: 10.98669
 postcode: "99091"
 city: Erfurt
-street: "Waltersweidenstraße"
-housenumber: 3
-phone: "+49 361 733983"
-opening_hours: "Mo-Th 09:00-18:00; Fr 09:00-17:00"
-website: "https://www.schluessel-detzner.de"
+street: Waltersweidenstraße
+housenumber: "3"
+phone: +49 361 733983
+opening_hours: Mo-Th 09:00-18:00; Fr 09:00-17:00
+website: https://www.schluessel-detzner.de

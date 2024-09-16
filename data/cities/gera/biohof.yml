@@ -4,8 +4,9 @@ latitude: 50.96385
 longitude: 12.09816
 postcode: "07554"
 city: Gera
-street: "Straße der Freundschaft"
+street: Straße der Freundschaft
 housenumber: 25A
 phone: ""
-opening_hours: "Tu 12:30-15:30; We, 09:00-12:00; Th,Fr 09:00-12:00, 13:30-18:00; Mo,Sa,Su,PH off"
+opening_hours: Tu 12:30-15:30; We, 09:00-12:00; Th,Fr 09:00-12:00, 13:30-18:00; Mo,Sa,Su,PH
+    off
 website: ""

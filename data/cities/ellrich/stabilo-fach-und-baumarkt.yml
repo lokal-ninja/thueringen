@@ -1,11 +1,11 @@
 id: 305131772
-type: way
+type: node
 latitude: 51.58741
 longitude: 10.65405
 postcode: "99755"
 city: Ellrich
-street: "Am Augraben"
-housenumber: 22
+street: Am Augraben
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

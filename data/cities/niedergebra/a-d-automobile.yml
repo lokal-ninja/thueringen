@@ -1,11 +1,11 @@
 id: 478146355
-type: way
+type: node
 latitude: 51.42363
 longitude: 10.60761
 postcode: "99759"
 city: Niedergebra
-street: "Halle-Kasseler-Straße"
-housenumber: 264
-phone: "+49 36338 484633"
+street: Halle-Kasseler-Straße
+housenumber: "264"
+phone: +49 36338 484633
 opening_hours: ""
 website: ""

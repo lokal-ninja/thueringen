@@ -4,8 +4,8 @@ latitude: 50.97614
 longitude: 11.03465
 postcode: "99084"
 city: Erfurt
-street: "Anger"
-housenumber: 15
+street: Anger
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://stores.claires.com/de-sh/erfurt/9028.html"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://stores.claires.com/de-sh/erfurt/9028.html

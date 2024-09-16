@@ -4,8 +4,8 @@ latitude: 50.98589
 longitude: 11.03921
 postcode: "99085"
 city: Erfurt
-street: "Schlachthofstraße"
-housenumber: 81
+street: Schlachthofstraße
+housenumber: "81"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-16:00"
-website: "https://www.stilleben-online.de/"
+opening_hours: Mo-Fr 11:00-19:00; Sa 10:00-16:00
+website: https://www.stilleben-online.de/

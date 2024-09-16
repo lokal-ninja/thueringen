@@ -1,11 +1,11 @@
 id: 1263235569
-type: way
+type: node
 latitude: 50.61667
 longitude: 11.42898
 postcode: "07338"
 city: Kaulsdorf
-street: "Am Sportplatz"
-housenumber: 5
+street: Am Sportplatz
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

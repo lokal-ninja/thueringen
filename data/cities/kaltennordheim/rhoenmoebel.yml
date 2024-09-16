@@ -1,11 +1,11 @@
 id: 100842433
-type: way
+type: node
 latitude: 50.61402
 longitude: 10.0594
 postcode: "36452"
 city: Kaltennordheim
-street: "Lutherstraße"
-housenumber: 17
+street: Lutherstraße
+housenumber: "17"
 phone: "+493694629779"
-opening_hours: "Mo-Fr 08:30-16:30"
+opening_hours: Mo-Fr 08:30-16:30
 website: ""

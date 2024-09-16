@@ -1,11 +1,11 @@
 id: 111097845
-type: way
+type: node
 latitude: 51.1573
 longitude: 11.14164
 postcode: "99610"
 city: Sömmerda
-street: "Mainzer Straße"
-housenumber: 26
-phone: "+49 3634 68180"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
-website: "https://www.obi.de/baumarkt/soemmerda/"
+street: Mainzer Straße
+housenumber: "26"
+phone: +49 3634 68180
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
+website: https://www.obi.de/baumarkt/soemmerda/

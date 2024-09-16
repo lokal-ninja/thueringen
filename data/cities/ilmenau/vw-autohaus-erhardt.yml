@@ -1,11 +1,11 @@
 id: 78343099
-type: way
+type: node
 latitude: 50.69083
 longitude: 10.94365
 postcode: "98693"
 city: Ilmenau
-street: "Bücheloher Straße"
-housenumber: 19
+street: Bücheloher Straße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 815659611
-type: way
+type: node
 latitude: 51.06739
 longitude: 10.72089
 postcode: "99958"
 city: Tonna
-street: "Hinter der Schenke"
-housenumber: 2
+street: Hinter der Schenke
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

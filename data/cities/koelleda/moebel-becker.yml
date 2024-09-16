@@ -4,8 +4,8 @@ latitude: 51.18994
 longitude: 11.24929
 postcode: "99625"
 city: Kölleda
-street: "Salzstraße"
-housenumber: 13
+street: Salzstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-12:00"
-website: "https://www.moebel-becker.de"
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-12:00
+website: https://www.moebel-becker.de

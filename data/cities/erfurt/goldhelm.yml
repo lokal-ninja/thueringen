@@ -4,8 +4,8 @@ latitude: 50.97882
 longitude: 11.03129
 postcode: "99084"
 city: Erfurt
-street: "Krämerbrücke"
-housenumber: 12
+street: Krämerbrücke
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00; Su 11:00-18:00"
-website: "https://www.goldhelm-schokolade.com"
+opening_hours: Mo-Sa 10:00-18:00; Su 11:00-18:00
+website: https://www.goldhelm-schokolade.com

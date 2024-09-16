@@ -4,8 +4,8 @@ latitude: 50.94976
 longitude: 10.70707
 postcode: "99867"
 city: Gotha
-street: "Mönchelsstraße"
-housenumber: 33
-phone: "+49 3621 738664"
-opening_hours: "Mo-Fr 10:00-18:00, Sa 10:00-13:00"
-website: "https://www.fahrrad-faehling.de/"
+street: Mönchelsstraße
+housenumber: "33"
+phone: +49 3621 738664
+opening_hours: Mo-Fr 10:00-18:00, Sa 10:00-13:00
+website: https://www.fahrrad-faehling.de/

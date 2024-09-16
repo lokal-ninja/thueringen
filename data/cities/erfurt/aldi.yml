@@ -4,8 +4,8 @@ latitude: 50.97103
 longitude: 11.06093
 postcode: "99099"
 city: Erfurt
-street: "Hermsdorfer Straße"
-housenumber: 4
+street: Hermsdorfer Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00"
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-20:00
 website: ""

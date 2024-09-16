@@ -4,8 +4,8 @@ latitude: 50.97125
 longitude: 11.04544
 postcode: "99099"
 city: Erfurt
-street: "Nonnenrain"
-housenumber: 57
+street: Nonnenrain
+housenumber: "57"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-12:00
 website: ""

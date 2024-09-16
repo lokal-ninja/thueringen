@@ -4,8 +4,8 @@ latitude: 51.20953
 longitude: 10.45208
 postcode: "99974"
 city: Mühlhausen
-street: "Herrenstraße"
-housenumber: 11
-phone: "+49 3601 405121"
-opening_hours: "Mo-Th 10:00-17:00; Fr 10:00-15:00; Sa 10:00-12:00"
+street: Herrenstraße
+housenumber: "11"
+phone: +49 3601 405121
+opening_hours: Mo-Th 10:00-17:00; Fr 10:00-15:00; Sa 10:00-12:00
 website: ""

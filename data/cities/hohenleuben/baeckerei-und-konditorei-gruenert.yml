@@ -1,11 +1,11 @@
 id: 571467936
-type: way
+type: node
 latitude: 50.7143
 longitude: 12.05485
 postcode: "07958"
 city: Hohenleuben
-street: "Breitscheidplatz"
-housenumber: 6
+street: Breitscheidplatz
+housenumber: "6"
 phone: ""
-opening_hours: "Tu-Fr 07:00-13:00,15:00-17:00; Sa 07:00-11:00"
-website: "http://www.aschkuchen.de/"
+opening_hours: Tu-Fr 07:00-13:00,15:00-17:00; Sa 07:00-11:00
+website: http://www.aschkuchen.de/

@@ -4,8 +4,8 @@ latitude: 50.9266
 longitude: 11.584
 postcode: "07743"
 city: Jena
-street: "Engelplatz"
-housenumber: 11
-phone: "+49 3641 442861"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "http://www.lauter-schuhe.de/Jena.html"
+street: Engelplatz
+housenumber: "11"
+phone: +49 3641 442861
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
+website: http://www.lauter-schuhe.de/Jena.html

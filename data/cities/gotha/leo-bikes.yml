@@ -1,11 +1,11 @@
 id: 265344150
-type: way
+type: node
 latitude: 50.92907
 longitude: 10.71557
 postcode: "99867"
 city: Gotha
-street: "Harjesstraße"
-housenumber: 2
-phone: "+49 3621 756137"
-opening_hours: "Mo-Fr 12:00-19:00; Sa 09:00-13:00"
-website: "https://leo-bikes.de/"
+street: Harjesstraße
+housenumber: "2"
+phone: +49 3621 756137
+opening_hours: Mo-Fr 12:00-19:00; Sa 09:00-13:00
+website: https://leo-bikes.de/

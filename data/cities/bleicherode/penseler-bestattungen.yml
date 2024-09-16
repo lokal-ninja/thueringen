@@ -1,11 +1,11 @@
 id: 892450752
-type: way
+type: node
 latitude: 51.43686
 longitude: 10.57168
 postcode: "99752"
 city: Bleicherode
-street: "Angerbergstraße"
-housenumber: 58
-phone: "+49 36338 42318"
+street: Angerbergstraße
+housenumber: "58"
+phone: +49 36338 42318
 opening_hours: ""
-website: "https://bestattungshaus-penseler.de"
+website: https://bestattungshaus-penseler.de

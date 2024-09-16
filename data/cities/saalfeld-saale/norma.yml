@@ -1,11 +1,11 @@
 id: 40700702
-type: way
+type: node
 latitude: 50.64971
 longitude: 11.37194
 postcode: "07318"
 city: Saalfeld/Saale
-street: "Kulmbacher Straße"
-housenumber: 20
+street: Kulmbacher Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.99595
 longitude: 11.02573
 postcode: "99086"
 city: Erfurt
-street: "Magdeburger Allee"
-housenumber: 141
-phone: "+49 361 7314115"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.wieneu.com/annahmestellen/"
+street: Magdeburger Allee
+housenumber: "141"
+phone: +49 361 7314115
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.wieneu.com/annahmestellen/

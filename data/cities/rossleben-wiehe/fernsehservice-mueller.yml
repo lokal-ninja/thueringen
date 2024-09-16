@@ -1,11 +1,11 @@
 id: 175592556
-type: way
+type: node
 latitude: 51.26749
 longitude: 11.40847
 postcode: "06571"
 city: Roßleben-Wiehe
-street: "Dr.-Külz-Straße"
-housenumber: 11
-phone: "+49-34672-82078"
-opening_hours: "Mo-Fr 09:00-12:00,15:00-18:00; Sa 09:00-11:30; Su off"
-website: "http://www.fernsehservice-mueller-wiehe.de/"
+street: Dr.-Külz-Straße
+housenumber: "11"
+phone: +49-34672-82078
+opening_hours: Mo-Fr 09:00-12:00,15:00-18:00; Sa 09:00-11:30; Su off
+website: http://www.fernsehservice-mueller-wiehe.de/

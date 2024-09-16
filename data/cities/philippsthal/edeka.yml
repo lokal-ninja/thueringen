@@ -1,11 +1,11 @@
 id: 518937924
-type: way
+type: node
 latitude: 50.83893
 longitude: 9.9899
 postcode: "36269"
 city: Philippsthal
-street: "Ulsterstraße"
-housenumber: 2
+street: Ulsterstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

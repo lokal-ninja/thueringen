@@ -1,11 +1,11 @@
 id: 140171959
-type: way
+type: node
 latitude: 51.3939
 longitude: 10.4027
 postcode: "37339"
 city: Gernrode
-street: "Bahnhofstraße"
-housenumber: 13
+street: Bahnhofstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

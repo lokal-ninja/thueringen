@@ -1,11 +1,11 @@
 id: 124538825
-type: way
+type: node
 latitude: 50.96799
 longitude: 11.0362
 postcode: "99096"
 city: Erfurt
-street: "Robert-Koch-Straße"
+street: Robert-Koch-Straße
 housenumber: 36/37
 phone: ""
 opening_hours: ""
-website: "https://bosch-carservice-erfurt.de"
+website: https://bosch-carservice-erfurt.de

@@ -4,8 +4,8 @@ latitude: 50.9272
 longitude: 11.58896
 postcode: "07743"
 city: Jena
-street: "Oberlauengasse"
-housenumber: 1
+street: Oberlauengasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-14:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-14:00
 website: ""

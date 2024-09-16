@@ -4,8 +4,8 @@ latitude: 50.72057
 longitude: 11.34352
 postcode: "07407"
 city: Rudolstadt
-street: "Marktstraße"
-housenumber: 7
+street: Marktstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.duphorn.com"
+website: https://www.duphorn.com

@@ -5,7 +5,7 @@ longitude: 12.41685
 postcode: "04603"
 city: Nobitz
 street: ""
-housenumber: 55
+housenumber: "55"
 phone: ""
-opening_hours: "Mo,We 08:00-13:00; Tu,Th,Fr 08:00-18:00; Sa,Su,PH off"
+opening_hours: Mo,We 08:00-13:00; Tu,Th,Fr 08:00-18:00; Sa,Su,PH off
 website: ""

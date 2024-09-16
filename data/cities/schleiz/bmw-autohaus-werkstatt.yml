@@ -1,11 +1,11 @@
 id: 158418001
-type: way
+type: node
 latitude: 50.58059
 longitude: 11.82321
 postcode: "07907"
 city: Schleiz
-street: "Greizer Straße"
-housenumber: 41
+street: Greizer Straße
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

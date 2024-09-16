@@ -4,8 +4,8 @@ latitude: 50.85891
 longitude: 11.34302
 postcode: "99444"
 city: Blankenhain
-street: "August-Bebel-Straße"
-housenumber: 7
+street: August-Bebel-Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo,Tu,Th 08:00-13:00,15:00-18:00; We,Fr 08:00-13:00; Sa,Su,PH off"
+opening_hours: Mo,Tu,Th 08:00-13:00,15:00-18:00; We,Fr 08:00-13:00; Sa,Su,PH off
 website: ""

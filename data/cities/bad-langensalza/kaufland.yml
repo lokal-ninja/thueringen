@@ -1,11 +1,11 @@
 id: 308666257
-type: way
+type: node
 latitude: 51.1051
 longitude: 10.64494
 postcode: "99947"
 city: Bad Langensalza
-street: "Lindenbühl"
-housenumber: 11
+street: Lindenbühl
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00"
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-20:00
 website: ""

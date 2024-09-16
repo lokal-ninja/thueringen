@@ -1,11 +1,11 @@
 id: 1094465156
-type: way
+type: node
 latitude: 50.82374
 longitude: 10.12353
 postcode: "36460"
 city: Krayenberggemeinde
-street: "Zufahrtstraße"
+street: Zufahrtstraße
 housenumber: 1a
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

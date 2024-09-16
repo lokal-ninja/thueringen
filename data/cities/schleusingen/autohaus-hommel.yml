@@ -1,11 +1,11 @@
 id: 300455058
-type: way
+type: node
 latitude: 50.51456
 longitude: 10.76335
 postcode: "98553"
 city: Schleusingen
-street: "Am Sättel"
-housenumber: 1
-phone: "+49 36841 3390"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-13:00; Su off, PH off"
-website: "https://www.auto-hommel.de"
+street: Am Sättel
+housenumber: "1"
+phone: +49 36841 3390
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-13:00; Su off, PH off
+website: https://www.auto-hommel.de

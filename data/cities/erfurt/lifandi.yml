@@ -4,8 +4,8 @@ latitude: 50.97536
 longitude: 11.03118
 postcode: "99084"
 city: Erfurt
-street: "Weitergasse"
-housenumber: 12
+street: Weitergasse
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:00; Sa 10:30-16:00"
+opening_hours: Mo-Fr 11:00-18:00; Sa 10:30-16:00
 website: ""

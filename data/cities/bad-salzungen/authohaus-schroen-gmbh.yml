@@ -1,11 +1,11 @@
 id: 25739394
-type: way
+type: node
 latitude: 50.80999
 longitude: 10.21118
 postcode: "36433"
 city: Bad Salzungen
-street: "Kopernikusstraße"
-housenumber: 5
+street: Kopernikusstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-schroen.de/"
+website: https://www.autohaus-schroen.de/

@@ -1,11 +1,11 @@
 id: 42353596
-type: way
+type: node
 latitude: 51.01163
 longitude: 12.45783
 postcode: "04603"
 city: Windischleuba
-street: "Fünfminutenweg Süd"
-housenumber: 2
+street: Fünfminutenweg Süd
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa,Su,PH off"
+opening_hours: Mo-Fr 08:00-17:00; Sa,Su,PH off
 website: ""

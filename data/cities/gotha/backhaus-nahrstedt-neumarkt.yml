@@ -4,8 +4,8 @@ latitude: 50.95009
 longitude: 10.7037
 postcode: "99867"
 city: Gotha
-street: "Neumarkt"
-housenumber: 1
-phone: "+49 3621 7379991"
-opening_hours: "Mo-Fr 07:00-17:30; Sa,Su,PH 07:00-17:00"
-website: "https://nahrstedt.de/standorte/cafe-gotha-neumarkt"
+street: Neumarkt
+housenumber: "1"
+phone: +49 3621 7379991
+opening_hours: Mo-Fr 07:00-17:30; Sa,Su,PH 07:00-17:00
+website: https://nahrstedt.de/standorte/cafe-gotha-neumarkt

@@ -4,8 +4,8 @@ latitude: 50.92898
 longitude: 11.58853
 postcode: "07743"
 city: Jena
-street: "Hinter der Kirche"
-housenumber: 1
+street: Hinter der Kirche
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-16:00; Sa 10:00-12:30"
+opening_hours: Mo-Fr 10:00-16:00; Sa 10:00-12:30
 website: ""

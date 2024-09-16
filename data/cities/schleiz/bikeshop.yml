@@ -1,11 +1,11 @@
 id: 167592411
-type: way
+type: node
 latitude: 50.5775
 longitude: 11.80654
 postcode: "07907"
 city: Schleiz
-street: "Gefängnisgässchen"
-housenumber: 9
+street: Gefängnisgässchen
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30; Sa 09:00-12:00"
+opening_hours: Mo-Fr 08:30-18:30; Sa 09:00-12:00
 website: ""

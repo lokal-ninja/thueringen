@@ -1,11 +1,11 @@
 id: 484689672
-type: way
+type: node
 latitude: 50.95669
 longitude: 10.39463
 postcode: "99848"
 city: Wutha-Farnroda
-street: "Eisenacher Straße"
-housenumber: 54
+street: Eisenacher Straße
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

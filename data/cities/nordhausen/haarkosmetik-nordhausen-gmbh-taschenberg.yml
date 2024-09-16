@@ -1,11 +1,11 @@
 id: 81099111
-type: way
+type: node
 latitude: 51.50188
 longitude: 10.80196
 postcode: "99734"
 city: Nordhausen
-street: "Taschenberg"
-housenumber: 65
+street: Taschenberg
+housenumber: "65"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

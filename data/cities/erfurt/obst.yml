@@ -4,8 +4,8 @@ latitude: 50.9873
 longitude: 11.04121
 postcode: "99085"
 city: Erfurt
-street: "Schlachthofstraße"
-housenumber: 23
+street: Schlachthofstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
 website: ""

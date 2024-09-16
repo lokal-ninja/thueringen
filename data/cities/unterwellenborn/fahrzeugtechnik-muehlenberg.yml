@@ -1,11 +1,11 @@
 id: 1167943213
-type: way
+type: node
 latitude: 50.64369
 longitude: 11.45717
 postcode: "07333"
 city: Unterwellenborn
-street: "Zollhäuser Straße"
-housenumber: 49
-phone: "03671/52 38 333"
-opening_hours: "Mo-Do 08-17; Fr 08-15:30"
-website: "https://www.fahrzeugtechnik-muehlenberg.de/"
+street: Zollhäuser Straße
+housenumber: "49"
+phone: 03671/52 38 333
+opening_hours: Mo-Do 08-17; Fr 08-15:30
+website: https://www.fahrzeugtechnik-muehlenberg.de/

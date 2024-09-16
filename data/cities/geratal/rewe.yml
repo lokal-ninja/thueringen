@@ -4,8 +4,8 @@ latitude: 50.74784
 longitude: 10.81165
 postcode: "99330"
 city: Geratal
-street: "Waldstraße"
-housenumber: 1
+street: Waldstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00; Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Fr 06:00-22:00; Sa 07:00-20:00; Su,PH off
 website: ""

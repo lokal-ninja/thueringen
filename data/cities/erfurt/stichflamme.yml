@@ -4,8 +4,8 @@ latitude: 50.98291
 longitude: 11.03006
 postcode: "99084"
 city: Erfurt
-street: "Johannesstraße"
-housenumber: 125
+street: Johannesstraße
+housenumber: "125"
 phone: ""
-opening_hours: "Mo-We 11:00-18:00; Th-Fr 12:00-19:00"
+opening_hours: Mo-We 11:00-18:00; Th-Fr 12:00-19:00
 website: ""

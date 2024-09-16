@@ -4,8 +4,8 @@ latitude: 50.94609
 longitude: 11.61034
 postcode: "07749"
 city: Jena
-street: "Löbstedter Straße"
-housenumber: 80
+street: Löbstedter Straße
+housenumber: "80"
 phone: ""
-opening_hours: "Mo-Th 06:30-16:00; Fr 06:30-14:00"
-website: "https://www.schlau-grosshandel.de/"
+opening_hours: Mo-Th 06:30-16:00; Fr 06:30-14:00
+website: https://www.schlau-grosshandel.de/

@@ -1,11 +1,11 @@
 id: 93293007
-type: way
+type: node
 latitude: 50.90193
 longitude: 11.27931
 postcode: "99438"
 city: Bad Berka
-street: "Weimarische Straße"
-housenumber: 21
+street: Weimarische Straße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

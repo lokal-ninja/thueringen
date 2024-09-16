@@ -1,11 +1,11 @@
 id: 60051688
-type: way
+type: node
 latitude: 50.68796
 longitude: 10.91057
 postcode: "98693"
 city: Ilmenau
-street: "Erfurter Straße"
-housenumber: 23
+street: Erfurter Straße
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

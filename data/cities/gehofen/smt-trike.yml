@@ -1,11 +1,11 @@
 id: 176796373
-type: way
+type: node
 latitude: 51.32066
 longitude: 11.32513
 postcode: "06571"
 city: Gehofen
-street: "Hauptstraße"
-housenumber: 83
-phone: "+49-3466-322570"
+street: Hauptstraße
+housenumber: "83"
+phone: +49-3466-322570
 opening_hours: ""
-website: "https://smt-trike.de/"
+website: https://smt-trike.de/

@@ -1,11 +1,11 @@
 id: 222860317
-type: way
+type: node
 latitude: 51.35577
 longitude: 11.11224
 postcode: "06567"
 city: Bad Frankenhausen/Kyffhäuser
-street: "Esperstedter Straße"
-housenumber: 25
+street: Esperstedter Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:30-13:00"
-website: "https://www.lerdon.seat.de/"
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:30-13:00
+website: https://www.lerdon.seat.de/

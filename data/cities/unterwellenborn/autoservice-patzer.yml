@@ -1,11 +1,11 @@
 id: 1119611998
-type: way
+type: node
 latitude: 50.65928
 longitude: 11.48854
 postcode: "07333"
 city: Unterwellenborn
-street: "Saalfelder Straße"
-housenumber: 13
+street: Saalfelder Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa,Su,PH off"
+opening_hours: Mo-Fr 08:00-18:00; Sa,Su,PH off
 website: ""

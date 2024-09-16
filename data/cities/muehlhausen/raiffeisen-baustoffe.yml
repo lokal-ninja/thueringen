@@ -1,11 +1,11 @@
 id: 943293110
-type: way
+type: node
 latitude: 51.21867
 longitude: 10.45526
 postcode: "99974"
 city: Mühlhausen
-street: "Industriestraße"
-housenumber: 46
-phone: "+49 3601 8317-0"
+street: Industriestraße
+housenumber: "46"
+phone: +49 3601 8317-0
 opening_hours: ""
-website: "https://shop.raiwa.net/Baustoffe/M%C3%BChlhausen"
+website: https://shop.raiwa.net/Baustoffe/M%C3%BChlhausen

@@ -1,11 +1,11 @@
 id: 308288502
-type: way
+type: node
 latitude: 50.9997
 longitude: 10.31621
 postcode: "99817"
 city: Eisenach
-street: "Am Stadtweg"
-housenumber: 4
-phone: "+49 221 22 243 333"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00 - 18:00; PH off"
-website: "https://www.mediamarkt.de/de/store/eisenach-1334"
+street: Am Stadtweg
+housenumber: "4"
+phone: +49 221 22 243 333
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00 - 18:00; PH off
+website: https://www.mediamarkt.de/de/store/eisenach-1334

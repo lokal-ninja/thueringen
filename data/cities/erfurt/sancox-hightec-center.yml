@@ -4,8 +4,8 @@ latitude: 51.00489
 longitude: 11.00381
 postcode: "99091"
 city: Erfurt
-street: "Berliner Platz"
-housenumber: 5
+street: Berliner Platz
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00"
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:00
 website: ""

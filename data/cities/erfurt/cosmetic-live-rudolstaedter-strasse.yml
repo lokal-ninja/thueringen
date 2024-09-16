@@ -4,8 +4,8 @@ latitude: 50.97103
 longitude: 11.05894
 postcode: "99099"
 city: Erfurt
-street: "Rudolstädter Straße"
-housenumber: 4
+street: Rudolstädter Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.cosmetic-live.com"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.cosmetic-live.com

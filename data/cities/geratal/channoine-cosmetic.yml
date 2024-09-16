@@ -4,8 +4,8 @@ latitude: 50.71533
 longitude: 10.83435
 postcode: "99331"
 city: Geratal
-street: "Geraer Straße"
-housenumber: 70
-phone: "+49 3677 792424"
-opening_hours: "Sa,Su off || nach Absprache"
+street: Geraer Straße
+housenumber: "70"
+phone: +49 3677 792424
+opening_hours: Sa,Su off || "nach Absprache"
 website: ""

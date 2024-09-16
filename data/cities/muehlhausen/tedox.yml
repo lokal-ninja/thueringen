@@ -1,11 +1,11 @@
 id: 99712319
-type: way
+type: node
 latitude: 51.19684
 longitude: 10.48202
 postcode: "99974"
 city: Mühlhausen
-street: "Vogteier Weg"
-housenumber: 16
+street: Vogteier Weg
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 175153579
-type: way
+type: node
 latitude: 51.29599
 longitude: 11.43237
 postcode: "06571"
 city: Roßleben-Wiehe
-street: "Ernst-Thälmann-Straße"
-housenumber: 15
+street: Ernst-Thälmann-Straße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 387345134
-type: way
+type: node
 latitude: 51.02695
 longitude: 11.51373
 postcode: "99510"
 city: Apolda
-street: "Königstraße"
-housenumber: 19
+street: Königstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

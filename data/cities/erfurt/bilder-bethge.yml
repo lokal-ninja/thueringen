@@ -4,8 +4,8 @@ latitude: 50.97524
 longitude: 11.02919
 postcode: "99084"
 city: Erfurt
-street: "Meister-Eckehart-Straße"
-housenumber: 4
+street: Meister-Eckehart-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://galerie-kunsthandel-erfurt.de/"
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-14:00
+website: https://galerie-kunsthandel-erfurt.de/

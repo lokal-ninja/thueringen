@@ -1,11 +1,11 @@
 id: 237367978
-type: way
+type: node
 latitude: 51.44811
 longitude: 10.87297
 postcode: "99765"
 city: Heringen/Helme
-street: "Straße der Einheit"
-housenumber: 123
+street: Straße der Einheit
+housenumber: "123"
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00"
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-20:00
 website: ""

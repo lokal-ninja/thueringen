@@ -1,11 +1,11 @@
 id: 507554618
-type: way
+type: node
 latitude: 50.85547
 longitude: 12.07199
 postcode: "07548"
 city: Gera
-street: "Wiesestraße"
-housenumber: 192
+street: Wiesestraße
+housenumber: "192"
 phone: ""
 opening_hours: ""
-website: "http://automobileheinrich.de"
+website: http://automobileheinrich.de

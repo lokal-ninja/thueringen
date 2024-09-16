@@ -1,11 +1,11 @@
 id: 62226455
-type: way
+type: node
 latitude: 50.7017
 longitude: 10.5699
 postcode: "98587"
 city: Steinbach-Hallenberg
-street: "Hauptstraße"
-housenumber: 92
+street: Hauptstraße
+housenumber: "92"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:15; Sa 08:00-18:00; PH off"
+opening_hours: Mo-Fr 08:00-20:15; Sa 08:00-18:00; PH off
 website: ""

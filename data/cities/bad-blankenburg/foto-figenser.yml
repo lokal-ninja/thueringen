@@ -1,11 +1,11 @@
 id: 90858523
-type: way
+type: node
 latitude: 50.68339
 longitude: 11.26912
 postcode: "07422"
 city: Bad Blankenburg
-street: "Bahnhofstraße"
-housenumber: 12
+street: Bahnhofstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:00; Sa nach Vereinbarung"
+opening_hours: Mo-Fr 09:00-13:00,15:00-18:00; "Sa nach Vereinbarung"
 website: ""

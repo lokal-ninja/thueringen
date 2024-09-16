@@ -1,11 +1,11 @@
 id: 254904009
-type: way
+type: node
 latitude: 50.58157
 longitude: 11.14258
 postcode: "98744"
 city: Schwarzatal
-street: "Sonneberger Straße"
-housenumber: 9
+street: Sonneberger Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

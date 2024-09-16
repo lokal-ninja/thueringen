@@ -1,11 +1,11 @@
 id: 156497088
-type: way
+type: node
 latitude: 50.72836
 longitude: 11.38619
 postcode: "07407"
 city: Uhlstädt-Kirchhasel
-street: "Heinrich-Assmann-Straße"
-housenumber: 2
+street: Heinrich-Assmann-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

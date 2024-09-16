@@ -4,8 +4,8 @@ latitude: 50.83278
 longitude: 10.94505
 postcode: "99310"
 city: Arnstadt
-street: "Pfarrhof"
-housenumber: 1
+street: Pfarrhof
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.bohnenstolz.de/"
+website: https://www.bohnenstolz.de/

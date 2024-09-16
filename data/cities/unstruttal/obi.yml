@@ -1,11 +1,11 @@
 id: 99712324
-type: way
+type: node
 latitude: 51.24143
 longitude: 10.45634
 postcode: "99996"
 city: Unstruttal
-street: "Am langen Rasen"
-housenumber: 2
+street: Am langen Rasen
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.95446
 longitude: 10.05152
 postcode: "99834"
 city: Gerstungen
-street: "Landstraße"
-housenumber: 51
-phone: "+49 36922 42 901"
-opening_hours: "Mo-Sa 07:00-18:00; Su 07:00-10:30"
+street: Landstraße
+housenumber: "51"
+phone: +49 36922 42 901
+opening_hours: Mo-Sa 07:00-18:00; Su 07:00-10:30
 website: ""

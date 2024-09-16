@@ -4,8 +4,8 @@ latitude: 50.93977
 longitude: 10.7114
 postcode: "99867"
 city: Gotha
-street: "Bahnhofsvorplatz"
-housenumber: 
-phone: "+49 3621 398270"
-opening_hours: "Mo-Fr 08:00-13:00,13:30-17:00; Sa 09:00-14:00"
-website: "https://www.nvg-gotha.info/"
+street: Bahnhofsvorplatz
+housenumber: ""
+phone: +49 3621 398270
+opening_hours: Mo-Fr 08:00-13:00,13:30-17:00; Sa 09:00-14:00
+website: https://www.nvg-gotha.info/

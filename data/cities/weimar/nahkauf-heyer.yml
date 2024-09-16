@@ -4,8 +4,8 @@ latitude: 50.93399
 longitude: 11.29038
 postcode: "99428"
 city: Weimar
-street: "Kastanienallee"
-housenumber: 3
+street: Kastanienallee
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.nahkauf.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.nahkauf.de/

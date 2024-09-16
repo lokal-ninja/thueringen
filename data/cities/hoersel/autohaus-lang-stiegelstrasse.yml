@@ -1,11 +1,11 @@
 id: 1045114924
-type: way
+type: node
 latitude: 50.94972
 longitude: 10.6284
 postcode: "99880"
 city: Hörsel
-street: "Stiegelstraße"
+street: Stiegelstraße
 housenumber: 2a
-phone: "+49 03621 757520"
+phone: +49 03621 757520
 opening_hours: ""
-website: "https://autohaus-lang-gmbh.de"
+website: https://autohaus-lang-gmbh.de

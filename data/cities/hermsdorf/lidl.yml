@@ -1,11 +1,11 @@
 id: 78715862
-type: way
+type: node
 latitude: 50.90623
 longitude: 11.85833
 postcode: "07629"
 city: Hermsdorf
-street: "Eisenberger Straße"
-housenumber: 120
+street: Eisenberger Straße
+housenumber: "120"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 321418174
-type: way
+type: node
 latitude: 51.44867
 longitude: 10.57141
 postcode: "99752"
 city: Bleicherode
-street: "Gewerbestraße"
-housenumber: 6
+street: Gewerbestraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 90853048
-type: way
+type: node
 latitude: 50.68389
 longitude: 11.26331
 postcode: "07422"
 city: Bad Blankenburg
-street: "Untere Mauergasse"
-housenumber: 43
+street: Untere Mauergasse
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 202330325
-type: way
+type: node
 latitude: 50.75012
 longitude: 10.34799
 postcode: "98597"
 city: Breitungen
-street: "Hauptstraße"
+street: Hauptstraße
 housenumber: 64a
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de/filialen/breitungen/hauptstr-64-a/1908"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de/filialen/breitungen/hauptstr-64-a/1908

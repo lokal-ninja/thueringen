@@ -4,8 +4,8 @@ latitude: 50.88013
 longitude: 12.08444
 postcode: "07545"
 city: Gera
-street: "Leipziger Straße"
-housenumber: 22
-phone: "+49 365 22059"
-opening_hours: "Mo-Fr 09:00-12:00,13:30-18:00; Sa 09:00-12:00"
-website: "https://www.martin-kuechen.de/"
+street: Leipziger Straße
+housenumber: "22"
+phone: +49 365 22059
+opening_hours: Mo-Fr 09:00-12:00,13:30-18:00; Sa 09:00-12:00
+website: https://www.martin-kuechen.de/

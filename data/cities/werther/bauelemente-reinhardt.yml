@@ -1,11 +1,11 @@
 id: 132788594
-type: way
+type: node
 latitude: 51.49921
 longitude: 10.68999
 postcode: "99735"
 city: Werther
-street: "Hauptstraße"
-housenumber: 65
+street: Hauptstraße
+housenumber: "65"
 phone: "+49363354250"
 opening_hours: ""
 website: ""

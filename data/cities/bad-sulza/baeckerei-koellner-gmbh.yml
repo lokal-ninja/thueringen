@@ -1,11 +1,11 @@
 id: 1022209269
-type: way
+type: node
 latitude: 51.05768
 longitude: 11.5383
 postcode: "99518"
 city: Bad Sulza
-street: "Hauptstraße"
-housenumber: 12
+street: Hauptstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

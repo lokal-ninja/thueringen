@@ -4,8 +4,8 @@ latitude: 50.94105
 longitude: 10.73016
 postcode: "99867"
 city: Gotha
-street: "Salzgitterstraße"
-housenumber: 36
-phone: "+49 3621 73951-0"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://toom.de/m/gotha-siebleben/"
+street: Salzgitterstraße
+housenumber: "36"
+phone: +49 3621 73951-0
+opening_hours: Mo-Sa 08:00-20:00
+website: https://toom.de/m/gotha-siebleben/

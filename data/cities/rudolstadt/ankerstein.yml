@@ -4,8 +4,8 @@ latitude: 50.69159
 longitude: 11.32905
 postcode: "07407"
 city: Rudolstadt
-street: "Breitscheidstraße"
-housenumber: 148
+street: Breitscheidstraße
+housenumber: "148"
 phone: ""
-opening_hours: "Mo-Th 08:00-12:00,13:00-15:00; Fr 08:00-12:00; Sa-Su off"
+opening_hours: Mo-Th 08:00-12:00,13:00-15:00; Fr 08:00-12:00; Sa-Su off
 website: ""

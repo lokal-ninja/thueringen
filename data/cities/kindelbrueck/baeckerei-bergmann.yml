@@ -1,11 +1,11 @@
 id: 199434685
-type: way
+type: node
 latitude: 51.25839
 longitude: 11.03795
 postcode: "99638"
 city: Kindelbrück
-street: "Am Angerberg"
-housenumber: 1
+street: Am Angerberg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

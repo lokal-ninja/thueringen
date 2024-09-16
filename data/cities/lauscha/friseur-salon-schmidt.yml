@@ -1,11 +1,11 @@
 id: 247690055
-type: way
+type: node
 latitude: 50.47688
 longitude: 11.15959
 postcode: "98724"
 city: Lauscha
-street: "Oberlandstraße"
-housenumber: 2
+street: Oberlandstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

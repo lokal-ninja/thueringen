@@ -4,8 +4,8 @@ latitude: 50.95212
 longitude: 11.09267
 postcode: "99099"
 city: Erfurt
-street: "Am Herrenberg"
-housenumber: 101
+street: Am Herrenberg
+housenumber: "101"
 phone: ""
 opening_hours: ""
-website: "https://www.ntc-24.de/"
+website: https://www.ntc-24.de/

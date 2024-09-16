@@ -1,11 +1,11 @@
 id: 37227172
-type: way
+type: node
 latitude: 50.68401
 longitude: 10.92073
 postcode: "98693"
 city: Ilmenau
-street: "Paul-Löbe-Straße"
-housenumber: 27
+street: Paul-Löbe-Straße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 96106946
-type: way
+type: node
 latitude: 50.87082
 longitude: 12.07001
 postcode: "07548"
 city: Gera
-street: "Kopernikusstraße"
-housenumber: 24
+street: Kopernikusstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:30"
+opening_hours: Mo-Fr 07:30-17:30
 website: ""

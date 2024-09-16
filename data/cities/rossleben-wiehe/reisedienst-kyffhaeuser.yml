@@ -1,11 +1,11 @@
 id: 175103009
-type: way
+type: node
 latitude: 51.2956
 longitude: 11.43439
 postcode: "06571"
 city: Roßleben-Wiehe
-street: "Richard-Hüttig-Platz"
-housenumber: 7
+street: Richard-Hüttig-Platz
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

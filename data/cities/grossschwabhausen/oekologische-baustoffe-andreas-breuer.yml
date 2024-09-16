@@ -1,11 +1,11 @@
 id: 330763047
-type: way
+type: node
 latitude: 50.95949
 longitude: 11.47923
 postcode: "99441"
 city: Großschwabhausen
-street: "Weimarer Straße"
-housenumber: 15
+street: Weimarer Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 08:00-12:00"
-website: "http://www.lehmwespe.de"
+opening_hours: Mo-Sa 08:00-12:00
+website: http://www.lehmwespe.de

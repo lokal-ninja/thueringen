@@ -4,8 +4,8 @@ latitude: 50.98901
 longitude: 11.3261
 postcode: "99423"
 city: Weimar
-street: "Carl-August-Allee"
-housenumber: 11
+street: Carl-August-Allee
+housenumber: "11"
 phone: ""
-opening_hours: "We 16:00-20:00; Fr 14:00-18:00; Su 12:00-18:00"
-website: "https://www.schenke-weimar.de"
+opening_hours: We 16:00-20:00; Fr 14:00-18:00; Su 12:00-18:00
+website: https://www.schenke-weimar.de

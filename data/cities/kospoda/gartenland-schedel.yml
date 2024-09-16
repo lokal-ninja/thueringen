@@ -1,11 +1,11 @@
 id: 49163883
-type: way
+type: node
 latitude: 50.71942
 longitude: 11.73938
 postcode: "07806"
 city: Kospoda
-street: "Ortsstraße"
-housenumber: 27
-phone: "+49 36481 23062"
+street: Ortsstraße
+housenumber: "27"
+phone: +49 36481 23062
 opening_hours: ""
-website: "http://www.gartenland-schedel.de"
+website: http://www.gartenland-schedel.de

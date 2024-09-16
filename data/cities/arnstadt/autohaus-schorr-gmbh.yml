@@ -4,8 +4,8 @@ latitude: 50.85287
 longitude: 10.95607
 postcode: "99310"
 city: Arnstadt
-street: "Ichtershäuser Straße"
-housenumber: 76
+street: Ichtershäuser Straße
+housenumber: "76"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00"
-website: "https://schorr.de/"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-12:00
+website: https://schorr.de/

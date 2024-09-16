@@ -1,11 +1,11 @@
 id: 931618081
-type: way
+type: node
 latitude: 51.34955
 longitude: 10.20089
 postcode: "37308"
 city: Geisleden
-street: "Hauptstraße"
-housenumber: 1
+street: Hauptstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

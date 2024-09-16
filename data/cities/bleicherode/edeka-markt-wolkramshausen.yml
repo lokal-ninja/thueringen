@@ -1,11 +1,11 @@
 id: 586121042
-type: way
+type: node
 latitude: 51.42391
 longitude: 10.73937
 postcode: "99752"
 city: Bleicherode
-street: "Hainleitestraße"
-housenumber: 40
+street: Hainleitestraße
+housenumber: "40"
 phone: "+493633453245"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-12:00"
-website: "https://www.edeka-vor-ort.de/edeka-wolkramshausen/"
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-12:00
+website: https://www.edeka-vor-ort.de/edeka-wolkramshausen/

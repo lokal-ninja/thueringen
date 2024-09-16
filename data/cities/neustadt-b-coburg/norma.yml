@@ -1,11 +1,11 @@
 id: 342355877
-type: way
+type: node
 latitude: 50.34033
 longitude: 11.14507
 postcode: "96465"
 city: Neustadt b. Coburg
-street: "Mühlweg"
-housenumber: 1
+street: Mühlweg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

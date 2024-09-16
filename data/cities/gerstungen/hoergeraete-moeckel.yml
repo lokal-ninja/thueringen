@@ -4,8 +4,8 @@ latitude: 50.96357
 longitude: 10.06723
 postcode: "99834"
 city: Gerstungen
-street: "Wilhelmstraße"
-housenumber: 67
-phone: "+49 36922 428393"
-opening_hours: "Mo-Tu 08:00-13:00,14:00-18:00; Th 08:00-13:00,14:00-18:00; We,Fr 08:00-13:00"
-website: "https://www.hoergeraete-moeckel.de/filialen-kontakt"
+street: Wilhelmstraße
+housenumber: "67"
+phone: +49 36922 428393
+opening_hours: Mo-Tu 08:00-13:00,14:00-18:00; Th 08:00-13:00,14:00-18:00; We,Fr 08:00-13:00
+website: https://www.hoergeraete-moeckel.de/filialen-kontakt

@@ -1,11 +1,11 @@
 id: 402225646
-type: way
+type: node
 latitude: 50.65958
 longitude: 12.21474
 postcode: "07973"
 city: Greiz
-street: "Pohlitzer Straße"
-housenumber: 118
+street: Pohlitzer Straße
+housenumber: "118"
 phone: ""
-opening_hours: "Mo-Fr 06:00-16:00; Sa 06:00-10:00; Su,PH off"
+opening_hours: Mo-Fr 06:00-16:00; Sa 06:00-10:00; Su,PH off
 website: ""

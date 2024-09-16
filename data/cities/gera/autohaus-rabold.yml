@@ -1,11 +1,11 @@
 id: 95982458
-type: way
+type: node
 latitude: 50.87974
 longitude: 12.10215
 postcode: "07546"
 city: Gera
-street: "Altenburger Straße"
-housenumber: 96
+street: Altenburger Straße
+housenumber: "96"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-12:00; Su,PH off"
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-12:00; Su,PH off
 website: ""

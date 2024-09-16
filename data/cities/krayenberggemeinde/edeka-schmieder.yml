@@ -1,11 +1,11 @@
 id: 273184859
-type: way
+type: node
 latitude: 50.84
 longitude: 10.08435
 postcode: "36460"
 city: Krayenberggemeinde
-street: "Eisenacher Straße"
-housenumber: 14
-phone: "+49 36963 21285"
-opening_hours: "Mo-Th 08:00-20:00; Fr-Sa 07:00-20:00"
+street: Eisenacher Straße
+housenumber: "14"
+phone: +49 36963 21285
+opening_hours: Mo-Th 08:00-20:00; Fr-Sa 07:00-20:00
 website: ""

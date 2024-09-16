@@ -1,11 +1,11 @@
 id: 159475594
-type: way
+type: node
 latitude: 51.0211
 longitude: 10.99217
 postcode: "99091"
 city: Erfurt
-street: "Ringstraße"
-housenumber: 19
+street: Ringstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

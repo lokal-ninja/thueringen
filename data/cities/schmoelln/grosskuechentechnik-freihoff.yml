@@ -1,11 +1,11 @@
 id: 546357811
-type: way
+type: node
 latitude: 50.91046
 longitude: 12.40341
 postcode: "04626"
 city: Schmölln
-street: "Kleinmückern"
-housenumber: 2
+street: Kleinmückern
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

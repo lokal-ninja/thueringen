@@ -1,11 +1,11 @@
 id: 161245158
-type: way
+type: node
 latitude: 50.89099
 longitude: 12.08672
 postcode: "07545"
 city: Gera
-street: "Trebnitzer Straße"
-housenumber: 13
+street: Trebnitzer Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00"
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

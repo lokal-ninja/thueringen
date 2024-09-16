@@ -1,11 +1,11 @@
 id: 124250410
-type: way
+type: node
 latitude: 50.96636
 longitude: 11.04194
 postcode: "99099"
 city: Erfurt
-street: "Clara-Zetkin-Straße"
-housenumber: 81
+street: Clara-Zetkin-Straße
+housenumber: "81"
 phone: ""
 opening_hours: ""
 website: ""

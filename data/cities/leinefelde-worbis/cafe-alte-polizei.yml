@@ -4,8 +4,8 @@ latitude: 51.41827
 longitude: 10.36282
 postcode: "37339"
 city: Leinefelde-Worbis
-street: "Nordhäuser Straße"
-housenumber: 2
-phone: "+49 36074 632270"
-opening_hours: "Mo-Su 07:30-17:00; PH 07:30-17:00"
-website: "https://www.baeckereihermann.de/filialen/worbis/"
+street: Nordhäuser Straße
+housenumber: "2"
+phone: +49 36074 632270
+opening_hours: Mo-Su 07:30-17:00; PH 07:30-17:00
+website: https://www.baeckereihermann.de/filialen/worbis/

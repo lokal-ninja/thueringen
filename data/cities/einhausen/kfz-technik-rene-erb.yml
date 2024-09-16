@@ -4,8 +4,8 @@ latitude: 50.52569
 longitude: 10.46087
 postcode: "98617"
 city: Einhausen
-street: "Gartenweg"
-housenumber: 1
+street: Gartenweg
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://www.kfz-erb.suedthueringen.info/"
+website: http://www.kfz-erb.suedthueringen.info/

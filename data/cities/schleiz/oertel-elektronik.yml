@@ -1,11 +1,11 @@
 id: 167592531
-type: way
+type: node
 latitude: 50.57795
 longitude: 11.80711
 postcode: "07907"
 city: Schleiz
-street: "Schmiedestraße"
-housenumber: 9
+street: Schmiedestraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

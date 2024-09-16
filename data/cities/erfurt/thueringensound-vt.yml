@@ -4,8 +4,8 @@ latitude: 51.00397
 longitude: 11.02616
 postcode: "99086"
 city: Erfurt
-street: "Vollbrachtstraße"
-housenumber: 15
+street: Vollbrachtstraße
+housenumber: "15"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

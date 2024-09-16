@@ -4,8 +4,8 @@ latitude: 50.97854
 longitude: 11.32893
 postcode: "99423"
 city: Weimar
-street: "Schillerstraße"
-housenumber: 1
+street: Schillerstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

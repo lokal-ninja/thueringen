@@ -1,11 +1,11 @@
 id: 295067456
-type: way
+type: node
 latitude: 50.89693
 longitude: 10.84545
 postcode: "99869"
 city: Drei Gleichen
-street: "Alte Schäferei"
-housenumber: 9
-phone: "+49 36202 90682"
+street: Alte Schäferei
+housenumber: "9"
+phone: +49 36202 90682
 opening_hours: ""
 website: ""

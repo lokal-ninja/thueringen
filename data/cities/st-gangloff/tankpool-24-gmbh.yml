@@ -1,11 +1,11 @@
 id: 140164670
-type: way
+type: node
 latitude: 50.85668
 longitude: 11.90934
 postcode: "07629"
 city: St. Gangloff
-street: "Straße der Republik"
-housenumber: 16
+street: Straße der Republik
+housenumber: "16"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 1116975923
-type: way
+type: node
 latitude: 51.44932
 longitude: 10.5722
 postcode: "99752"
 city: Bleicherode
-street: "Gewerbestraße"
-housenumber: 
+street: Gewerbestraße
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://traumgarne.eu/de/"
+website: https://traumgarne.eu/de/

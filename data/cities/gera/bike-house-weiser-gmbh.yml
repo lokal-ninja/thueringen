@@ -1,11 +1,11 @@
 id: 456639220
-type: way
+type: node
 latitude: 50.86612
 longitude: 12.08557
 postcode: "07545"
 city: Gera
-street: "Reichsstraße"
-housenumber: 39
-phone: "+49 365 8001211"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://bike-house-weiser.de/"
+street: Reichsstraße
+housenumber: "39"
+phone: +49 365 8001211
+opening_hours: Mo-Sa 09:00-18:00
+website: https://bike-house-weiser.de/

@@ -1,11 +1,11 @@
 id: 148506365
-type: way
+type: node
 latitude: 50.57664
 longitude: 11.1373
 postcode: "98744"
 city: Schwarzatal
-street: "Schneidemühlenweg"
-housenumber: 17
+street: Schneidemühlenweg
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-16:00"
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-16:00
 website: ""

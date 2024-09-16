@@ -1,11 +1,11 @@
 id: 571291055
-type: way
+type: node
 latitude: 51.54987
 longitude: 10.76802
 postcode: "99768"
 city: Harztor
-street: "Nordhäuser Straße"
-housenumber: 4
-phone: "+49 36331 42305"
+street: Nordhäuser Straße
+housenumber: "4"
+phone: +49 36331 42305
 opening_hours: ""
-website: "https://www.drive4life.de/"
+website: https://www.drive4life.de/

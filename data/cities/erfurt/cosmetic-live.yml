@@ -4,8 +4,8 @@ latitude: 50.97786
 longitude: 11.03469
 postcode: "99084"
 city: Erfurt
-street: "Kaufmännerstraße"
-housenumber: 76
+street: Kaufmännerstraße
+housenumber: "76"
 phone: ""
-opening_hours: "Sa 10:00-13:00; Mo-Fr 09:30-18:00"
-website: "https://www.cosmetic-live.com"
+opening_hours: Sa 10:00-13:00; Mo-Fr 09:30-18:00
+website: https://www.cosmetic-live.com

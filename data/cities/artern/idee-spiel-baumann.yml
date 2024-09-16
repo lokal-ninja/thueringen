@@ -1,11 +1,11 @@
 id: 178732312
-type: way
+type: node
 latitude: 51.365
 longitude: 11.29123
 postcode: "06556"
 city: Artern
-street: "Wasserstraße"
-housenumber: 1
-phone: "+49-3466-302373"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00; Su off"
-website: "https://www.ideeundspiel.com/de/fachgeschaefte/detail/idee+spiel-Baumann-06556-Artern--208/"
+street: Wasserstraße
+housenumber: "1"
+phone: +49-3466-302373
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00; Su off
+website: https://www.ideeundspiel.com/de/fachgeschaefte/detail/idee+spiel-Baumann-06556-Artern--208/

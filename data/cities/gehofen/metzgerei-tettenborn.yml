@@ -1,11 +1,11 @@
 id: 176796368
-type: way
+type: node
 latitude: 51.32331
 longitude: 11.31732
 postcode: "06571"
 city: Gehofen
-street: "Bahnhofstraße"
-housenumber: 26
-phone: "+49-3466-321252"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00; Su off"
-website: "https://www.metzgerei-tettenborn.de/"
+street: Bahnhofstraße
+housenumber: "26"
+phone: +49-3466-321252
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00; Su off
+website: https://www.metzgerei-tettenborn.de/

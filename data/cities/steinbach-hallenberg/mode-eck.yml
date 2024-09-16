@@ -1,11 +1,11 @@
 id: 448978517
-type: way
+type: node
 latitude: 50.68407
 longitude: 10.55714
 postcode: "98587"
 city: Steinbach-Hallenberg
-street: "Suhler Straße"
-housenumber: 36
+street: Suhler Straße
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

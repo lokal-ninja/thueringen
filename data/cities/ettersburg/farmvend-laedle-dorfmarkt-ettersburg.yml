@@ -1,11 +1,11 @@
 id: 1304245754
-type: way
+type: node
 latitude: 51.03332
 longitude: 11.28436
 postcode: "99439"
 city: Ettersburg
-street: "In der Grotte"
-housenumber: 6
+street: In der Grotte
+housenumber: "6"
 phone: ""
-opening_hours: "24/7"
-website: "https://farmvend-laedle.de/"
+opening_hours: 24/7
+website: https://farmvend-laedle.de/

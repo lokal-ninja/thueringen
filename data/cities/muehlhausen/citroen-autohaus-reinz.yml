@@ -1,11 +1,11 @@
 id: 368576897
-type: way
+type: node
 latitude: 51.19466
 longitude: 10.48214
 postcode: "99974"
 city: Mühlhausen
-street: "Großburschlaer Weg"
-housenumber: 1
+street: Großburschlaer Weg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

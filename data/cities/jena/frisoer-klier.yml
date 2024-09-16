@@ -4,8 +4,8 @@ latitude: 50.90006
 longitude: 11.59439
 postcode: "07745"
 city: Jena
-street: "Keßlerstraße"
-housenumber: 12
+street: Keßlerstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
 website: ""

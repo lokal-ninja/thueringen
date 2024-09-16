@@ -1,11 +1,11 @@
 id: 615625208
-type: way
+type: node
 latitude: 50.56521
 longitude: 11.75054
 postcode: "07907"
 city: Schleiz
-street: "Burgker Straße"
-housenumber: 12
+street: Burgker Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

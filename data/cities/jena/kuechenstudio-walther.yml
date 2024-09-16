@@ -4,8 +4,8 @@ latitude: 50.92864
 longitude: 11.58969
 postcode: "07743"
 city: Jena
-street: "Saalstraße"
-housenumber: 10
+street: Saalstraße
+housenumber: "10"
 phone: "+493641443804"
-opening_hours: "Mo-Fr 10:00-16:00"
-website: "https://www.hw-traumkueche.de/"
+opening_hours: Mo-Fr 10:00-16:00
+website: https://www.hw-traumkueche.de/

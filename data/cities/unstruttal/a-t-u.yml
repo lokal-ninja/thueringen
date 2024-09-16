@@ -1,11 +1,11 @@
 id: 142285132
-type: way
+type: node
 latitude: 51.23727
 longitude: 10.45599
 postcode: "99996"
 city: Unstruttal
-street: "Am Brühl"
-housenumber: 4
+street: Am Brühl
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

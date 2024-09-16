@@ -1,11 +1,11 @@
 id: 80438437
-type: way
+type: node
 latitude: 50.69966
 longitude: 11.32808
 postcode: "07407"
 city: Rudolstadt
-street: "Breitscheidstraße"
-housenumber: 128
+street: Breitscheidstraße
+housenumber: "128"
 phone: ""
 opening_hours: ""
 website: ""

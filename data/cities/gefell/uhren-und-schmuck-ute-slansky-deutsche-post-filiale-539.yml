@@ -4,8 +4,8 @@ latitude: 50.43821
 longitude: 11.85959
 postcode: "07926"
 city: Gefell
-street: "Markt"
-housenumber: 9
-phone: "+49 36649 82487"
-opening_hours: "Mo-Fr 09:00-12:30,14:30-17:30; Sa 09:00-11:00; Su, PH off"
+street: Markt
+housenumber: "9"
+phone: +49 36649 82487
+opening_hours: Mo-Fr 09:00-12:30,14:30-17:30; Sa 09:00-11:00; Su, PH off
 website: ""

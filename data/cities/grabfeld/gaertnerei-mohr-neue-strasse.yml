@@ -1,11 +1,11 @@
 id: 188487911
-type: way
+type: node
 latitude: 50.43152
 longitude: 10.45873
 postcode: "98631"
 city: Grabfeld
-street: "Neue Straße"
-housenumber: 19
+street: Neue Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
 website: ""

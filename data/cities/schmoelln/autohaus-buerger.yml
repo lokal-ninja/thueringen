@@ -1,11 +1,11 @@
 id: 120745082
-type: way
+type: node
 latitude: 50.88264
 longitude: 12.35069
 postcode: "04626"
 city: Schmölln
-street: "Am Kemnitzgrund"
-housenumber: 9
+street: Am Kemnitzgrund
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:00; Su,PH off"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-12:00; Su,PH off
 website: ""

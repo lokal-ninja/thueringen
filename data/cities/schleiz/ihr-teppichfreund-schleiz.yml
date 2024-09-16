@@ -1,11 +1,11 @@
 id: 393867568
-type: way
+type: node
 latitude: 50.56838
 longitude: 11.80664
 postcode: "07907"
 city: Schleiz
-street: "Hofer Straße"
-housenumber: 62
+street: Hofer Straße
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

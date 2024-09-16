@@ -4,8 +4,8 @@ latitude: 50.99744
 longitude: 12.41859
 postcode: "04600"
 city: Altenburg
-street: "Stauffenbergstraße"
-housenumber: 33
-phone: "+49 3447 81015"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
+street: Stauffenbergstraße
+housenumber: "33"
+phone: +49 3447 81015
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
 website: ""

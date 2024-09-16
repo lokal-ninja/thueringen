@@ -1,11 +1,11 @@
 id: 319799135
-type: way
+type: node
 latitude: 51.00165
 longitude: 10.32195
 postcode: "99817"
 city: Eisenach
-street: "Ringstraße"
-housenumber: 
+street: Ringstraße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

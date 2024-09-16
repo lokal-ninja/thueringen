@@ -1,11 +1,11 @@
 id: 199349216
-type: way
+type: node
 latitude: 50.45099
 longitude: 11.64985
 postcode: "07356"
 city: Bad Lobenstein
-street: "Langer Weg"
-housenumber: 39
+street: Langer Weg
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

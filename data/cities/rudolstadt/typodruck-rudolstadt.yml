@@ -4,8 +4,8 @@ latitude: 50.71998
 longitude: 11.33569
 postcode: "07407"
 city: Rudolstadt
-street: "Schillerstraße"
-housenumber: 8
+street: Schillerstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Th 08:00-12:00,12:30-16:00"
-website: "http://typodruck-rudolstadt.de"
+opening_hours: Mo-Th 08:00-12:00,12:30-16:00
+website: http://typodruck-rudolstadt.de

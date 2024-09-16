@@ -1,11 +1,11 @@
 id: 464522742
-type: way
+type: node
 latitude: 50.81867
 longitude: 11.93194
 postcode: "07589"
 city: Münchenbernsdorf
-street: "Akazienstraße"
-housenumber: 1
+street: Akazienstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

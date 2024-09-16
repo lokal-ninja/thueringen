@@ -4,8 +4,8 @@ latitude: 50.94974
 longitude: 10.70214
 postcode: "99867"
 city: Gotha
-street: "Marktstraße"
-housenumber: 1
-phone: "+49 3621 7380024"
-opening_hours: "Mo-Fr 10:00-16:00, Sa 10:00-13:00"
-website: "https://viba-sweets.de/filialen-in-ihrer-naehe/?store_id=25"
+street: Marktstraße
+housenumber: "1"
+phone: +49 3621 7380024
+opening_hours: Mo-Fr 10:00-16:00, Sa 10:00-13:00
+website: https://viba-sweets.de/filialen-in-ihrer-naehe/?store_id=25

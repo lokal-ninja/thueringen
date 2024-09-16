@@ -4,8 +4,8 @@ latitude: 50.83551
 longitude: 10.94687
 postcode: "99310"
 city: Arnstadt
-street: "An der Weiße"
-housenumber: 50
-phone: "+49 1525 3941139"
-opening_hours: "Mo-Fr 08:00-18:00"
+street: An der Weiße
+housenumber: "50"
+phone: +49 1525 3941139
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

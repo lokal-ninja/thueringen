@@ -4,8 +4,8 @@ latitude: 50.89876
 longitude: 11.57661
 postcode: ""
 city: Jena
-street: "Anna-Siemsen-Straße"
-housenumber: 33
+street: Anna-Siemsen-Straße
+housenumber: "33"
 phone: ""
-opening_hours: "Nur nach Vereinbarung"
-website: "https://www.kopier-plot-jena.de/"
+opening_hours: '"Nur nach Vereinbarung"'
+website: https://www.kopier-plot-jena.de/

@@ -1,11 +1,11 @@
 id: 41897796
-type: way
+type: node
 latitude: 50.98026
 longitude: 11.32492
 postcode: "99423"
 city: Weimar
-street: "Theaterplatz"
+street: Theaterplatz
 housenumber: 2a
 phone: "03643869624"
-opening_hours: "Mo-Fr 10:00-20:00, Sa 10:00-18:00"
+opening_hours: Mo-Fr 10:00-20:00, Sa 10:00-18:00
 website: ""

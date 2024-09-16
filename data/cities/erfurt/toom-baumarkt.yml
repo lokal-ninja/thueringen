@@ -4,8 +4,8 @@ latitude: 51.01243
 longitude: 11.02274
 postcode: "99086"
 city: Erfurt
-street: "An der Lache"
-housenumber: 38
+street: An der Lache
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://toom.de/m/erfurt-am-roten-berg/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://toom.de/m/erfurt-am-roten-berg/

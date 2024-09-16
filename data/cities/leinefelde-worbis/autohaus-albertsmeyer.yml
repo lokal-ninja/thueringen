@@ -1,11 +1,11 @@
 id: 73899243
-type: way
+type: node
 latitude: 51.41971
 longitude: 10.36787
 postcode: "37339"
 city: Leinefelde-Worbis
-street: "Am Stadion"
-housenumber: 1
-phone: "+49 36074 3830"
+street: Am Stadion
+housenumber: "1"
+phone: +49 36074 3830
 opening_hours: ""
 website: ""

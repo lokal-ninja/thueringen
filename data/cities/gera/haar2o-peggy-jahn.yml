@@ -4,8 +4,8 @@ latitude: 50.88775
 longitude: 12.0837
 postcode: "07545"
 city: Gera
-street: "Herderstraße"
-housenumber: 9
+street: Herderstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-19:00; Sa Nach Vereinbarung"
+opening_hours: Mo-Th 08:00-18:00; Fr 08:00-19:00; Sa "Nach Vereinbarung"
 website: ""

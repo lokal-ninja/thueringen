@@ -1,11 +1,11 @@
 id: 140129029
-type: way
+type: node
 latitude: 50.95184
 longitude: 10.40886
 postcode: "99848"
 city: Wutha-Farnroda
-street: "Hellwigstraße"
-housenumber: 10
+street: Hellwigstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-13:00"
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-13:00
 website: ""

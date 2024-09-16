@@ -1,11 +1,11 @@
 id: 135629953
-type: way
+type: node
 latitude: 51.19382
 longitude: 11.06702
 postcode: "99631"
 city: Weißensee
-street: "Ulmenallee"
-housenumber: 1
+street: Ulmenallee
+housenumber: "1"
 phone: ""
-opening_hours: "08:00-20:00"
+opening_hours: 08:00-20:00
 website: ""

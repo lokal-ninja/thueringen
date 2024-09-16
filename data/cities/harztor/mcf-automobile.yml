@@ -1,11 +1,11 @@
 id: 197576458
-type: way
+type: node
 latitude: 51.53781
 longitude: 10.76893
 postcode: "99768"
 city: Harztor
-street: "An der Dittfuhrt"
-housenumber: 2
-phone: "+49 36331 475680"
+street: An der Dittfuhrt
+housenumber: "2"
+phone: +49 36331 475680
 opening_hours: ""
-website: "https://www.mcf-auto.de/"
+website: https://www.mcf-auto.de/

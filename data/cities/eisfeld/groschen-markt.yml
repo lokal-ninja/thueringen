@@ -4,8 +4,8 @@ latitude: 50.41362
 longitude: 10.91552
 postcode: "98673"
 city: Eisfeld
-street: "Coburger Straße"
-housenumber: 106
-phone: "+49 36866 699293"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"
-website: "https://groschen-markt.de/"
+street: Coburger Straße
+housenumber: "106"
+phone: +49 36866 699293
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00
+website: https://groschen-markt.de/

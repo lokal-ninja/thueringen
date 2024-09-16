@@ -1,11 +1,11 @@
 id: 490022410
-type: way
+type: node
 latitude: 51.48713
 longitude: 10.78552
 postcode: "99734"
 city: Nordhausen
-street: "Darrweg"
-housenumber: 27
-phone: "+493631 979 22 22"
+street: Darrweg
+housenumber: "27"
+phone: +493631 979 22 22
 opening_hours: ""
-website: "https://www.munds-muehle.de/"
+website: https://www.munds-muehle.de/

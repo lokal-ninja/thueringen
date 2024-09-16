@@ -1,11 +1,11 @@
 id: 162939477
-type: way
+type: node
 latitude: 51.38559
 longitude: 10.84809
 postcode: "99706"
 city: Sondershausen
-street: "Schachtstraße"
-housenumber: 10
-phone: "+49 3632 66870"
+street: Schachtstraße
+housenumber: "10"
+phone: +49 3632 66870
 opening_hours: ""
 website: ""

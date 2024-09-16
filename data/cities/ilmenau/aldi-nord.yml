@@ -1,11 +1,11 @@
 id: 72612866
-type: way
+type: node
 latitude: 50.6758
 longitude: 10.92854
 postcode: "98693"
 city: Ilmenau
-street: "Johann-Friedrich-Böttger-Straße"
-housenumber: 17
+street: Johann-Friedrich-Böttger-Straße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

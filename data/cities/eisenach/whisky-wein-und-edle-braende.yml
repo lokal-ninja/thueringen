@@ -4,8 +4,8 @@ latitude: 50.97416
 longitude: 10.32308
 postcode: "99817"
 city: Eisenach
-street: "Goldschmiedenstraße"
-housenumber: 30
-phone: "+49 3691 887747"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.derschnapsladen.de/"
+street: Goldschmiedenstraße
+housenumber: "30"
+phone: +49 3691 887747
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.derschnapsladen.de/

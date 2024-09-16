@@ -4,8 +4,8 @@ latitude: 50.65495
 longitude: 10.66975
 postcode: "98544"
 city: Zella-Mehlis
-street: "Hauptstraße"
-housenumber: 128
+street: Hauptstraße
+housenumber: "128"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-17:00; Su 11:00-17:00; PH off"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-17:00; Su 11:00-17:00; PH off
 website: ""

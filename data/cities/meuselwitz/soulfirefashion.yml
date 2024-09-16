@@ -4,8 +4,8 @@ latitude: 51.03535
 longitude: 12.31329
 postcode: "04610"
 city: Meuselwitz
-street: "Haferstraße"
-housenumber: 10
+street: Haferstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa,Su 09:00-20:00; PH off"
+opening_hours: Mo-Fr 08:00-21:00; Sa,Su 09:00-20:00; PH off
 website: ""

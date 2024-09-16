@@ -4,8 +4,8 @@ latitude: 50.77146
 longitude: 10.38841
 postcode: "98596"
 city: Brotterode-Trusetal
-street: "Im Beierstal"
-housenumber: 1
-phone: "+49 36840 40554"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://reifen-schellenberg.de/"
+street: Im Beierstal
+housenumber: "1"
+phone: +49 36840 40554
+opening_hours: Mo-Fr 08:00-17:00
+website: https://reifen-schellenberg.de/

@@ -1,11 +1,11 @@
 id: 464933673
-type: way
+type: node
 latitude: 51.30823
 longitude: 10.55803
 postcode: "99996"
 city: Unstruttal
-street: "Bergstraße"
-housenumber: 7
+street: Bergstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

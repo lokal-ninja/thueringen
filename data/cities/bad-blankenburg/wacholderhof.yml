@@ -1,11 +1,11 @@
 id: 87691572
-type: way
+type: node
 latitude: 50.68768
 longitude: 11.25616
 postcode: "07422"
 city: Bad Blankenburg
-street: "Wacholderweg"
-housenumber: 5
+street: Wacholderweg
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://wacholder-hof.de/"
+website: https://wacholder-hof.de/

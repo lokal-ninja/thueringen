@@ -4,8 +4,8 @@ latitude: 50.97414
 longitude: 11.02849
 postcode: "99084"
 city: Erfurt
-street: "Regierungsstraße"
-housenumber: 71
-phone: "+49 361 6421111"
-opening_hours: "Mo-Fr 10:00-19:30; Sa 10:00-17:00"
-website: "https://mrs.hippie.de/laeden/#erfurt"
+street: Regierungsstraße
+housenumber: "71"
+phone: +49 361 6421111
+opening_hours: Mo-Fr 10:00-19:30; Sa 10:00-17:00
+website: https://mrs.hippie.de/laeden/#erfurt

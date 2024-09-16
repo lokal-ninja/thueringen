@@ -4,8 +4,8 @@ latitude: 51.04275
 longitude: 12.2996
 postcode: "04610"
 city: Meuselwitz
-street: "Baderdamm"
-housenumber: 2
+street: Baderdamm
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:30,14:00-18:00; Sa 09:00-12:00; Su,PH off"
+opening_hours: Mo-Fr 09:00-13:30,14:00-18:00; Sa 09:00-12:00; Su,PH off
 website: ""

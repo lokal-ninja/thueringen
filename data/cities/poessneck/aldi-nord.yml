@@ -1,11 +1,11 @@
 id: 117095564
-type: way
+type: node
 latitude: 50.69282
 longitude: 11.58521
 postcode: "07381"
 city: Pößneck
-street: "Saalfelder Straße"
-housenumber: 29
+street: Saalfelder Straße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.78571
 longitude: 10.40704
 postcode: "98596"
 city: Brotterode-Trusetal
-street: "Rathausstraße"
-housenumber: 3
-phone: "+49 36840 407481"
-opening_hours: "Mo-Fr 07:00-19:00; Sa,Su 08:00-17:00"
-website: "https://nahrstedt.de/standorte/trusetal-rathausstrasse"
+street: Rathausstraße
+housenumber: "3"
+phone: +49 36840 407481
+opening_hours: Mo-Fr 07:00-19:00; Sa,Su 08:00-17:00
+website: https://nahrstedt.de/standorte/trusetal-rathausstrasse

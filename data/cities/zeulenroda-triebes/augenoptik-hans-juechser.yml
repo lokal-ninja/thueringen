@@ -4,8 +4,8 @@ latitude: 50.6486
 longitude: 11.98242
 postcode: "07937"
 city: Zeulenroda-Triebes
-street: "Greizer Straße"
-housenumber: 23
-phone: "+49 36628 82628"
-opening_hours: "Mo,Tu,Th,Fr 09:30-17:30; We 09:30-13:00"
-website: "https://sichtbar-zeulenroda.de/"
+street: Greizer Straße
+housenumber: "23"
+phone: +49 36628 82628
+opening_hours: Mo,Tu,Th,Fr 09:30-17:30; We 09:30-13:00
+website: https://sichtbar-zeulenroda.de/

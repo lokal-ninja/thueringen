@@ -1,11 +1,11 @@
 id: 145682396
-type: way
+type: node
 latitude: 50.88736
 longitude: 11.84817
 postcode: "07629"
 city: Hermsdorf
-street: "Rodaer Straße"
-housenumber: 72
+street: Rodaer Straße
+housenumber: "72"
 phone: ""
 opening_hours: ""
 website: ""

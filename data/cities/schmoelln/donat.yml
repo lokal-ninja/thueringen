@@ -1,11 +1,11 @@
 id: 550886480
-type: way
+type: node
 latitude: 50.89133
 longitude: 12.34725
 postcode: "04626"
 city: Schmölln
-street: "Sommeritzer Straße"
-housenumber: 41
+street: Sommeritzer Straße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-12:00; Su,PH off"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-12:00; Su,PH off
 website: ""

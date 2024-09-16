@@ -4,8 +4,8 @@ latitude: 50.71909
 longitude: 11.33462
 postcode: "07407"
 city: Rudolstadt
-street: "Marktstraße"
-housenumber: 75
-phone: "+49 (0)3672 4896675"
-opening_hours: "Mo-Sa 09:00-20:00; Su off"
+street: Marktstraße
+housenumber: "75"
+phone: +49 (0)3672 4896675
+opening_hours: Mo-Sa 09:00-20:00; Su off
 website: ""

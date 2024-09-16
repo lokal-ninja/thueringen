@@ -1,11 +1,11 @@
 id: 584710475
-type: way
+type: node
 latitude: 51.15337
 longitude: 10.4209
 postcode: "99986"
 city: Vogtei
-street: "Oberdorlaer Straße"
-housenumber: 5
+street: Oberdorlaer Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

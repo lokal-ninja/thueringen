@@ -1,11 +1,11 @@
 id: 185079777
-type: way
+type: node
 latitude: 51.37034
 longitude: 10.87048
 postcode: "99706"
 city: Sondershausen
-street: "Hauptstraße"
-housenumber: 3
+street: Hauptstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

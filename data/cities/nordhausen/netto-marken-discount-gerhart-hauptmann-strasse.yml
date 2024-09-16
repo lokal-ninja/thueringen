@@ -1,11 +1,11 @@
 id: 227054861
-type: way
+type: node
 latitude: 51.50848
 longitude: 10.7833
 postcode: "99734"
 city: Nordhausen
-street: "Gerhart-Hauptmann-Straße"
-housenumber: 
+street: Gerhart-Hauptmann-Straße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

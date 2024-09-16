@@ -4,8 +4,8 @@ latitude: 50.66337
 longitude: 11.56798
 postcode: "07389"
 city: Ranis
-street: "Planstraße"
-housenumber: 1
+street: Planstraße
+housenumber: "1"
 phone: "+493647422741"
-opening_hours: "Mo,We 07:30-10:30; Tu,Th 07:30-18:00; Fr 07:30-12:00"
+opening_hours: Mo,We 07:30-10:30; Tu,Th 07:30-18:00; Fr 07:30-12:00
 website: ""

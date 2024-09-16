@@ -1,11 +1,11 @@
 id: 220921616
-type: way
+type: node
 latitude: 50.55763
 longitude: 10.41281
 postcode: "98617"
 city: Meiningen
-street: "Werrastraße"
-housenumber: 14
+street: Werrastraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00"
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-20:00
 website: ""

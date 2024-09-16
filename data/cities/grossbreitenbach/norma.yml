@@ -1,11 +1,11 @@
 id: 275815484
-type: way
+type: node
 latitude: 50.58017
 longitude: 11.00235
 postcode: "98701"
 city: Großbreitenbach
-street: "Am Bahnhof"
-housenumber: 1
+street: Am Bahnhof
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

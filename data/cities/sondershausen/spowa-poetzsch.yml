@@ -4,8 +4,8 @@ latitude: 51.37114
 longitude: 10.87594
 postcode: "99706"
 city: Sondershausen
-street: "Johann-Karl-Wezel-Straße"
-housenumber: 53
+street: Johann-Karl-Wezel-Straße
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.spowa-kyf.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.spowa-kyf.de/

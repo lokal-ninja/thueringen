@@ -1,11 +1,11 @@
 id: 204940628
-type: way
+type: node
 latitude: 50.89375
 longitude: 11.85954
 postcode: "07629"
 city: Hermsdorf
-street: "Alte Regensburger Straße"
-housenumber: 21
-phone: "+49 36601 83377"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa 09:00-12:00"
-website: "http://www.matthes-motorgeraete.de/"
+street: Alte Regensburger Straße
+housenumber: "21"
+phone: +49 36601 83377
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00; Sa 09:00-12:00
+website: http://www.matthes-motorgeraete.de/

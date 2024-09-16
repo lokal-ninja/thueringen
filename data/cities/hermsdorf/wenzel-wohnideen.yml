@@ -1,11 +1,11 @@
 id: 150829350
-type: way
+type: node
 latitude: 50.8888
 longitude: 11.84965
 postcode: "07629"
 city: Hermsdorf
-street: "Am Globus"
-housenumber: 
-phone: "+49 36601 8570"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "http://www.moebel-wenzel.com"
+street: Am Globus
+housenumber: ""
+phone: +49 36601 8570
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: http://www.moebel-wenzel.com

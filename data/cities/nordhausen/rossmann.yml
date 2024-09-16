@@ -4,8 +4,8 @@ latitude: 51.50312
 longitude: 10.79485
 postcode: "99734"
 city: Nordhausen
-street: "Pferdemarkt"
-housenumber: 1
+street: Pferdemarkt
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off
 website: ""

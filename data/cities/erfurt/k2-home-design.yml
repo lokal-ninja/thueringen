@@ -4,8 +4,8 @@ latitude: 50.97453
 longitude: 11.03472
 postcode: "99084"
 city: Erfurt
-street: "Mühlgasse"
-housenumber: 15
+street: Mühlgasse
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://k2-homedesign.com"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00
+website: https://k2-homedesign.com

@@ -4,8 +4,8 @@ latitude: 50.98479
 longitude: 12.43481
 postcode: "04600"
 city: Altenburg
-street: "Kronengasse"
-housenumber: 5
+street: Kronengasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off
 website: ""

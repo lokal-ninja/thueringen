@@ -1,11 +1,11 @@
 id: 259225878
-type: way
+type: node
 latitude: 50.54807
 longitude: 11.25896
 postcode: "07318"
 city: Saalfeld/Saale
-street: "Saalfelder Straße"
-housenumber: 69
+street: Saalfelder Straße
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

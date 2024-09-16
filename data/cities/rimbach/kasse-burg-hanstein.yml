@@ -1,11 +1,12 @@
 id: 377776595
-type: way
+type: node
 latitude: 51.33892
 longitude: 9.94076
 postcode: "37318"
 city: Rimbach
-street: "Hansteinstraße"
-housenumber: 
-phone: "+49 36081 67856"
-opening_hours: "Mar-Oct 10:00-18:00; Nov 10:00-16:00; Jan-Feb nach Vereinbarung; Dec Sa-Su 10:00-16:00, PH"
-website: "http://www.burgruine-hanstein.de/"
+street: Hansteinstraße
+housenumber: ""
+phone: +49 36081 67856
+opening_hours: Mar-Oct 10:00-18:00; Nov 10:00-16:00; Jan-Feb "nach Vereinbarung";
+    Dec Sa-Su 10:00-16:00, PH
+website: http://www.burgruine-hanstein.de/

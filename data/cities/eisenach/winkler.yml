@@ -1,11 +1,11 @@
 id: 371168599
-type: way
+type: node
 latitude: 50.98649
 longitude: 10.31211
 postcode: "99817"
 city: Eisenach
-street: "Treboniusstraße"
-housenumber: 14
+street: Treboniusstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Th, Fr 07:30-12:30; Fr 15:00-16:30; Sa 07:30-11:30; Su 07:30-10:00"
+opening_hours: Th, Fr 07:30-12:30; Fr 15:00-16:30; Sa 07:30-11:30; Su 07:30-10:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.51466
 longitude: 10.80017
 postcode: "99734"
 city: Nordhausen
-street: "Dr.-Robert-Koch-Straße"
-housenumber: 8
-phone: "+49 3631 881070"
-opening_hours: "Mo-Fr 09:00-18:00"
+street: Dr.-Robert-Koch-Straße
+housenumber: "8"
+phone: +49 3631 881070
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

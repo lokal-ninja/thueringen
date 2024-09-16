@@ -1,11 +1,11 @@
 id: 291365203
-type: way
+type: node
 latitude: 51.18497
 longitude: 11.24039
 postcode: "99625"
 city: Kölleda
-street: "Johannistor"
-housenumber: 2
+street: Johannistor
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

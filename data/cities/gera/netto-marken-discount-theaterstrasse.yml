@@ -1,11 +1,11 @@
 id: 94246006
-type: way
+type: node
 latitude: 50.88684
 longitude: 12.07264
 postcode: "07545"
 city: Gera
-street: "Theaterstraße"
-housenumber: 19
+street: Theaterstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

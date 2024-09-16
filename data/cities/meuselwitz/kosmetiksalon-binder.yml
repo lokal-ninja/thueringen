@@ -4,8 +4,8 @@ latitude: 51.04244
 longitude: 12.29902
 postcode: "04610"
 city: Meuselwitz
-street: "Georgenstraße"
-housenumber: 1
+street: Georgenstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-We,Fr 09:00-12:00,13:00-18:00; Th 09:00-12:00; Sa,Su,PH off"
+opening_hours: Mo-We,Fr 09:00-12:00,13:00-18:00; Th 09:00-12:00; Sa,Su,PH off
 website: ""

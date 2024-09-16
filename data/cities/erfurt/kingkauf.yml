@@ -4,8 +4,8 @@ latitude: 50.99029
 longitude: 11.04277
 postcode: "99085"
 city: Erfurt
-street: "Wustrower Weg"
-housenumber: 16
-phone: "+49 (0) 361 6548638"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00; PH off"
-website: "https://www.kingkauf.de/"
+street: Wustrower Weg
+housenumber: "16"
+phone: +49 (0) 361 6548638
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00; PH off
+website: https://www.kingkauf.de/

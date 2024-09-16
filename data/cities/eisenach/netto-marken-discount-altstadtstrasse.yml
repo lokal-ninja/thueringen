@@ -1,11 +1,11 @@
 id: 484236145
-type: way
+type: node
 latitude: 50.97382
 longitude: 10.34215
 postcode: "99817"
 city: Eisenach
-street: "Altstadtstraße"
-housenumber: 44
+street: Altstadtstraße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

@@ -4,8 +4,8 @@ latitude: 50.97816
 longitude: 11.02451
 postcode: "99084"
 city: Erfurt
-street: "Domplatz"
-housenumber: 2
+street: Domplatz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:30; Sa 07:30-14:00"
+opening_hours: Mo-Fr 07:30-18:30; Sa 07:30-14:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.98649
 longitude: 12.43444
 postcode: "04600"
 city: Altenburg
-street: "Johannisstraße"
-housenumber: 1
+street: Johannisstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Th 08:00-16:00; Fr 08:00-14:00; Sa,Su,PH off"
+opening_hours: Mo-Th 08:00-16:00; Fr 08:00-14:00; Sa,Su,PH off
 website: ""

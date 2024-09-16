@@ -1,11 +1,11 @@
 id: 312083663
-type: way
+type: node
 latitude: 50.86983
 longitude: 10.81836
 postcode: "99869"
 city: Drei Gleichen
-street: "Gothaer Straße"
-housenumber: 28
+street: Gothaer Straße
+housenumber: "28"
 phone: ""
-opening_hours: "Tu-Fr 08:00-17:00; Sa 08:00-11:00"
+opening_hours: Tu-Fr 08:00-17:00; Sa 08:00-11:00
 website: ""

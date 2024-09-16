@@ -1,11 +1,11 @@
 id: 122854696
-type: way
+type: node
 latitude: 50.43112
 longitude: 10.72858
 postcode: "98646"
 city: Hildburghausen
-street: "Schleusinger Straße"
-housenumber: 29
-phone: "+49 3685 4096690"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://edeka-blaufuss-suhl.de/hildburghausen/"
+street: Schleusinger Straße
+housenumber: "29"
+phone: +49 3685 4096690
+opening_hours: Mo-Sa 07:00-20:00
+website: https://edeka-blaufuss-suhl.de/hildburghausen/

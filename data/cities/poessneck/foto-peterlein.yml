@@ -4,8 +4,8 @@ latitude: 50.69498
 longitude: 11.59255
 postcode: "07381"
 city: Pößneck
-street: "Brauhausgasse"
-housenumber: 2
+street: Brauhausgasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo,Tu,Th 09:30-12:30,14:30-17:00; We,Fr 09:30-12:30"
+opening_hours: Mo,Tu,Th 09:30-12:30,14:30-17:00; We,Fr 09:30-12:30
 website: ""

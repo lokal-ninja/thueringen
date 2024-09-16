@@ -4,8 +4,9 @@ latitude: 50.51729
 longitude: 10.79322
 postcode: "98553"
 city: Schleusingen
-street: "Alte Hauptstraße"
-housenumber: 22
+street: Alte Hauptstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-We 08:30-12:00; Th,Fr 08:30-12:00,14:30-17:30; Sa 08:30-11:30; Su,PH off"
+opening_hours: Mo-We 08:30-12:00; Th,Fr 08:30-12:00,14:30-17:30; Sa 08:30-11:30; Su,PH
+    off
 website: ""

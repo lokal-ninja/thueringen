@@ -1,11 +1,11 @@
 id: 891252656
-type: way
+type: node
 latitude: 51.42399
 longitude: 10.60494
 postcode: "99759"
 city: Niedergebra
-street: "Baumschulenweg"
-housenumber: 281
+street: Baumschulenweg
+housenumber: "281"
 phone: ""
-opening_hours: "Mo-Fr 08:30-16:00; Sa,Su,PH off"
+opening_hours: Mo-Fr 08:30-16:00; Sa,Su,PH off
 website: ""

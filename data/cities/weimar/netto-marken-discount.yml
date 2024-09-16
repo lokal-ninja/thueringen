@@ -4,8 +4,8 @@ latitude: 50.99282
 longitude: 11.33225
 postcode: "99427"
 city: Weimar
-street: "Buttelstedter Straße"
-housenumber: 6
+street: Buttelstedter Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00; Su,PH off"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-20:00; Su,PH off
+website: https://www.netto-online.de

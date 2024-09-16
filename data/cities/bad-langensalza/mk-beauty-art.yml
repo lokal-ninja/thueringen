@@ -4,8 +4,8 @@ latitude: 51.11419
 longitude: 10.64392
 postcode: "99947"
 city: Bad Langensalza
-street: "Parkstraße"
-housenumber: 16
+street: Parkstraße
+housenumber: "16"
 phone: "+491741005511"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.mk-beautyart.de/"
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.mk-beautyart.de/

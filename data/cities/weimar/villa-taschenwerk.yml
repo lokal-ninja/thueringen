@@ -4,8 +4,8 @@ latitude: 50.98093
 longitude: 11.32716
 postcode: "99423"
 city: Weimar
-street: "Geleitstraße"
-housenumber: 7
-phone: "03643 855 29 40"
-opening_hours: "Th,Fr 14:00-17:00"
+street: Geleitstraße
+housenumber: "7"
+phone: 03643 855 29 40
+opening_hours: Th,Fr 14:00-17:00
 website: ""

@@ -4,8 +4,9 @@ latitude: 51.0431
 longitude: 12.30941
 postcode: "04610"
 city: Meuselwitz
-street: "Nordstraße"
-housenumber: 6
+street: Nordstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo,Th 08:00-16:00; Tu 08:00-15:00; We 08:00-17:00; Fr 08:00-14:00; Sa,Su,PH off"
+opening_hours: Mo,Th 08:00-16:00; Tu 08:00-15:00; We 08:00-17:00; Fr 08:00-14:00;
+    Sa,Su,PH off
 website: ""

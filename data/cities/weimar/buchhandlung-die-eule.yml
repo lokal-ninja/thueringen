@@ -4,8 +4,8 @@ latitude: 50.97826
 longitude: 11.32919
 postcode: "99423"
 city: Weimar
-street: "Frauentorstraße"
-housenumber: 11
+street: Frauentorstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-18:00, Su,PH 12:00-18:00"
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-18:00, Su,PH 12:00-18:00
 website: ""

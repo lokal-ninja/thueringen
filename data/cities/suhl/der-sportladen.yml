@@ -4,8 +4,8 @@ latitude: 50.60895
 longitude: 10.69247
 postcode: "98527"
 city: Suhl
-street: "Stadelstraße"
-housenumber: 3
-phone: "+49 3681 308899"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 9:30-13:00"
+street: Stadelstraße
+housenumber: "3"
+phone: +49 3681 308899
+opening_hours: Mo-Fr 09:30-18:00; Sa 9:30-13:00
 website: ""

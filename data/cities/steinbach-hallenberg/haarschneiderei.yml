@@ -1,11 +1,11 @@
 id: 265076894
-type: way
+type: node
 latitude: 50.66411
 longitude: 10.55638
 postcode: "98587"
 city: Steinbach-Hallenberg
-street: "Ernst-Thälmann-Straße"
-housenumber: 52
+street: Ernst-Thälmann-Straße
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

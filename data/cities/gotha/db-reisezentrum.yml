@@ -4,8 +4,9 @@ latitude: 50.93983
 longitude: 10.71185
 postcode: "99867"
 city: Gotha
-street: "Bahnhofstraße"
+street: Bahnhofstraße
 housenumber: 22b
 phone: ""
-opening_hours: "Mo 06:00-18:00; Tu-Th 06:45-12:00,12:45-17:00; Fr 06:00-18:00; Su,PH 09:00-12:30,13:00-17:00; Sa off"
-website: "https://www.bahnhof.de/gotha"
+opening_hours: Mo 06:00-18:00; Tu-Th 06:45-12:00,12:45-17:00; Fr 06:00-18:00; Su,PH
+    09:00-12:30,13:00-17:00; Sa off
+website: https://www.bahnhof.de/gotha

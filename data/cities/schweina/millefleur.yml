@@ -1,11 +1,11 @@
 id: 300430974
-type: way
+type: node
 latitude: 50.82474
 longitude: 10.33858
 postcode: "36448"
 city: Schweina
-street: "Altensteiner Straße"
-housenumber: 45
+street: Altensteiner Straße
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

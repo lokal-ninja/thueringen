@@ -1,11 +1,11 @@
 id: 205197013
-type: way
+type: node
 latitude: 50.62939
 longitude: 10.15564
 postcode: "36452"
 city: Kaltennordheim
-street: "August-Bebel-Straße"
-housenumber: 32
+street: August-Bebel-Straße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

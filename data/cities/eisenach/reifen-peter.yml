@@ -1,11 +1,11 @@
 id: 770418917
-type: way
+type: node
 latitude: 50.99137
 longitude: 10.38666
 postcode: "99817"
 city: Eisenach
-street: "Nessetalstraße"
-housenumber: 54
-phone: "+49 36920 80 527"
+street: Nessetalstraße
+housenumber: "54"
+phone: +49 36920 80 527
 opening_hours: ""
 website: ""

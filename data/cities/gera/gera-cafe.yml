@@ -4,8 +4,8 @@ latitude: 50.87764
 longitude: 12.08263
 postcode: "07545"
 city: Gera
-street: "Sorge"
-housenumber: 6
-phone: "+49 365 55195126"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-16:00"
+street: Sorge
+housenumber: "6"
+phone: +49 365 55195126
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-16:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.98076
 longitude: 11.05517
 postcode: "99085"
 city: Erfurt
-street: "Adam-Gottschalk-Straße"
-housenumber: 4
-phone: "+49 172 7957302"
-opening_hours: "Mo-Fr 07:30-17:00"
+street: Adam-Gottschalk-Straße
+housenumber: "4"
+phone: +49 172 7957302
+opening_hours: Mo-Fr 07:30-17:00
 website: ""

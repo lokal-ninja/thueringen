@@ -4,8 +4,8 @@ latitude: 50.93041
 longitude: 11.58376
 postcode: "07743"
 city: Jena
-street: "Fürstengraben"
-housenumber: 32
+street: Fürstengraben
+housenumber: "32"
 phone: ""
-opening_hours: "Tu,Fr 09:00-17:00"
-website: "https://www.hva-schmidt.de/"
+opening_hours: Tu,Fr 09:00-17:00
+website: https://www.hva-schmidt.de/

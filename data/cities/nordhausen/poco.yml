@@ -1,11 +1,11 @@
 id: 180547901
-type: way
+type: node
 latitude: 51.48324
 longitude: 10.80992
 postcode: "99734"
 city: Nordhausen
-street: "Uthleber Weg"
-housenumber: 25
+street: Uthleber Weg
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.94107
 longitude: 10.72921
 postcode: "99867"
 city: Gotha
-street: "Salzgitterstraße"
-housenumber: 34
+street: Salzgitterstraße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.tedi.com/stores/4866/de/TH%C3%9CRINGEN/Gotha/Salzgitter-Str-34"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.tedi.com/stores/4866/de/TH%C3%9CRINGEN/Gotha/Salzgitter-Str-34

@@ -1,11 +1,11 @@
 id: 199347843
-type: way
+type: node
 latitude: 50.46939
 longitude: 11.65201
 postcode: "07929"
 city: Saalburg-Ebersdorf
-street: "Schönbrunn"
-housenumber: 137
+street: Schönbrunn
+housenumber: "137"
 phone: ""
 opening_hours: ""
-website: "https://www.reifendienst-willrich.de/"
+website: https://www.reifendienst-willrich.de/

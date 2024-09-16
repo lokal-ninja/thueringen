@@ -4,8 +4,8 @@ latitude: 50.9829
 longitude: 12.45089
 postcode: "04600"
 city: Altenburg
-street: "Eschenstraße"
-housenumber: 50
-phone: "+49 3447 514176"
-opening_hours: "Mo-Sa 06:00-17:00; Su 07:00-17:00"
+street: Eschenstraße
+housenumber: "50"
+phone: +49 3447 514176
+opening_hours: Mo-Sa 06:00-17:00; Su 07:00-17:00
 website: ""

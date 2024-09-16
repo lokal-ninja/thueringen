@@ -4,8 +4,8 @@ latitude: 50.92857
 longitude: 11.58728
 postcode: "07743"
 city: Jena
-street: "Rathausgasse"
-housenumber: 4
+street: Rathausgasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-17:00; Su 08:00-12:00"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-17:00; Su 08:00-12:00
 website: ""

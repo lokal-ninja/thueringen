@@ -1,11 +1,11 @@
 id: 150829344
-type: way
+type: node
 latitude: 50.89389
 longitude: 11.86327
 postcode: "07629"
 city: Hermsdorf
-street: "Geraer Straße"
-housenumber: 3
-phone: "+49 493660140430"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-15:00"
+street: Geraer Straße
+housenumber: "3"
+phone: +49 493660140430
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-15:00
 website: ""

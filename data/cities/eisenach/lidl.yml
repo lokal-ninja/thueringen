@@ -1,11 +1,11 @@
 id: 42403485
-type: way
+type: node
 latitude: 50.9805
 longitude: 10.32241
 postcode: "99817"
 city: Eisenach
-street: "Clemdastraße"
-housenumber: 5
+street: Clemdastraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.lidl.de/f/eisenach/clemdastr-5.html"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.lidl.de/f/eisenach/clemdastr-5.html

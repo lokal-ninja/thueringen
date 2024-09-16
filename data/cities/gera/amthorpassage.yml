@@ -1,11 +1,11 @@
 id: 99999468
-type: way
+type: node
 latitude: 50.87789
 longitude: 12.08291
 postcode: "07545"
 city: Gera
-street: "Sorge"
-housenumber: 9
+street: Sorge
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

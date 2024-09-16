@@ -1,11 +1,11 @@
 id: 234728658
-type: way
+type: node
 latitude: 50.66546
 longitude: 12.21434
 postcode: "07973"
 city: Greiz
-street: "Gerhart-Hauptmann-Straße"
-housenumber: 30
+street: Gerhart-Hauptmann-Straße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.9115
 longitude: 10.20228
 postcode: "99834"
 city: Marksuhl
-street: "Vachaer Straße"
-housenumber: 23
-phone: "+49 36925 60410"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://moebel-weidig.de"
+street: Vachaer Straße
+housenumber: "23"
+phone: +49 36925 60410
+opening_hours: Mo-Fr 09:00-18:00
+website: https://moebel-weidig.de

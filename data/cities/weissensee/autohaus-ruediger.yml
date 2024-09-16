@@ -1,11 +1,11 @@
 id: 635731244
-type: way
+type: node
 latitude: 51.19054
 longitude: 11.06124
 postcode: "99631"
 city: Weißensee
-street: "Am Seerasen"
-housenumber: 4
+street: Am Seerasen
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

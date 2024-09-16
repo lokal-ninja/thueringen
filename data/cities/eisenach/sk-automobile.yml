@@ -1,11 +1,11 @@
 id: 781371964
-type: way
+type: node
 latitude: 50.97938
 longitude: 10.3286
 postcode: "99817"
 city: Eisenach
-street: "Clemensstraße"
-housenumber: 5
-phone: "+49 3691 881771"
+street: Clemensstraße
+housenumber: "5"
+phone: +49 3691 881771
 opening_hours: ""
 website: ""

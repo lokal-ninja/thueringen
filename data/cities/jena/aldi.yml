@@ -1,11 +1,11 @@
 id: 1194731237
-type: way
+type: node
 latitude: 50.88435
 longitude: 11.61738
 postcode: "07747"
 city: Jena
-street: "Ebereschenstraße"
-housenumber: 5
-phone: "+49 800 7234870"
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00; Su off"
+street: Ebereschenstraße
+housenumber: "5"
+phone: +49 800 7234870
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-20:00; Su off
 website: ""

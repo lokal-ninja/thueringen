@@ -4,8 +4,8 @@ latitude: 50.99701
 longitude: 11.02611
 postcode: "99086"
 city: Erfurt
-street: "Magdeburger Allee"
-housenumber: 157
-phone: "+49 361 7314071"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"
-website: "https://www.goldenerring.de"
+street: Magdeburger Allee
+housenumber: "157"
+phone: +49 361 7314071
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00
+website: https://www.goldenerring.de

@@ -1,11 +1,11 @@
 id: 551681691
-type: way
+type: node
 latitude: 50.69934
 longitude: 10.93564
 postcode: "98693"
 city: Ilmenau
-street: "Am Birkenbrunnen"
-housenumber: 8
+street: Am Birkenbrunnen
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.vita-sonnenblick.de"
+website: https://www.vita-sonnenblick.de

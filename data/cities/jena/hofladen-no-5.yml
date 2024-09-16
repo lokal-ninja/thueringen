@@ -1,11 +1,11 @@
 id: 50062201
-type: way
+type: node
 latitude: 50.92162
 longitude: 11.56515
 postcode: "07745"
 city: Jena
-street: "Magdelstieg"
-housenumber: 113
+street: Magdelstieg
+housenumber: "113"
 phone: ""
 opening_hours: ""
 website: ""

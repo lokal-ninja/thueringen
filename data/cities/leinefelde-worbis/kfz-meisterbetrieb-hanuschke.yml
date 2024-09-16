@@ -1,11 +1,11 @@
 id: 230979968
-type: way
+type: node
 latitude: 51.39317
 longitude: 10.32677
 postcode: "37327"
 city: Leinefelde-Worbis
-street: "Berliner Straße"
-housenumber: 
+street: Berliner Straße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

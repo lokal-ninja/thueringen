@@ -1,11 +1,11 @@
 id: 300084495
-type: way
+type: node
 latitude: 50.8494
 longitude: 12.0856
 postcode: "07551"
 city: Gera
-street: "August-Bebel-Straße"
+street: August-Bebel-Straße
 housenumber: 1a
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00; Sa 06:00-20:00: Su,PH off"
+opening_hours: 'Mo-Fr 06:00-22:00; Sa 06:00-20:00: Su,PH off'
 website: ""

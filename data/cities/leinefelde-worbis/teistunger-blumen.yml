@@ -1,11 +1,11 @@
 id: 138404047
-type: way
+type: node
 latitude: 51.38447
 longitude: 10.33085
 postcode: "37327"
 city: Leinefelde-Worbis
-street: "Boschstraße"
-housenumber: 5
+street: Boschstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 925507872
-type: way
+type: node
 latitude: 51.58166
 longitude: 10.66802
 postcode: "99755"
 city: Ellrich
-street: "Große Bahnhofstraße"
-housenumber: 9
+street: Große Bahnhofstraße
+housenumber: "9"
 phone: "+493633220201"
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.92757
 longitude: 11.58944
 postcode: "07743"
 city: Jena
-street: "Unterm Markt"
-housenumber: 8
-phone: "+49 3641 489140"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-15:00"
-website: "https://laufladen-jena.de/"
+street: Unterm Markt
+housenumber: "8"
+phone: +49 3641 489140
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-15:00
+website: https://laufladen-jena.de/

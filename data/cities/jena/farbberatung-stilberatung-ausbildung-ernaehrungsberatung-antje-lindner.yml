@@ -4,8 +4,8 @@ latitude: 50.90717
 longitude: 11.57178
 postcode: "07745"
 city: Jena
-street: "Haselstrauchweg"
-housenumber: 40
-phone: "+493641-233812"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://farbberatung-lindner.de"
+street: Haselstrauchweg
+housenumber: "40"
+phone: +493641-233812
+opening_hours: Mo-Sa 09:00-18:00
+website: https://farbberatung-lindner.de

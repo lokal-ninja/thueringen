@@ -1,11 +1,11 @@
 id: 79568015
-type: way
+type: node
 latitude: 51.49469
 longitude: 10.81001
 postcode: "99734"
 city: Nordhausen
-street: "Hallesche Straße"
-housenumber: 77
+street: Hallesche Straße
+housenumber: "77"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.mfo-matratzen.de/filialen/nordhausen"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.mfo-matratzen.de/filialen/nordhausen

@@ -1,11 +1,11 @@
 id: 175592535
-type: way
+type: node
 latitude: 51.27045
 longitude: 11.40414
 postcode: "06571"
 city: Roßleben-Wiehe
-street: "Donndorfer Straße"
-housenumber: 2
+street: Donndorfer Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 141045756
-type: way
+type: node
 latitude: 50.72076
 longitude: 11.34441
 postcode: "07407"
 city: Rudolstadt
-street: "Mühlgasse"
-housenumber: 20
+street: Mühlgasse
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

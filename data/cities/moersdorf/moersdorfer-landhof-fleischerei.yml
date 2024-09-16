@@ -1,11 +1,11 @@
 id: 146372379
-type: way
+type: node
 latitude: 50.86781
 longitude: 11.80385
 postcode: "07646"
 city: Mörsdorf
-street: "Auf dem Berg"
-housenumber: 100
-phone: "+49 36428 67306"
+street: Auf dem Berg
+housenumber: "100"
+phone: +49 36428 67306
 opening_hours: ""
-website: "https://mlf-shop.de/"
+website: https://mlf-shop.de/

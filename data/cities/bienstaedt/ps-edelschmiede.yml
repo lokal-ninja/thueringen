@@ -1,11 +1,11 @@
 id: 248048691
-type: way
+type: node
 latitude: 51.01682
 longitude: 10.84885
 postcode: "99100"
 city: Bienstädt
-street: "Mittelstraße"
-housenumber: 82
+street: Mittelstraße
+housenumber: "82"
 phone: ""
 opening_hours: ""
 website: ""

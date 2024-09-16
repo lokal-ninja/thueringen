@@ -4,8 +4,9 @@ latitude: 51.01755
 longitude: 11.03525
 postcode: "99087"
 city: Erfurt
-street: "Justus-Liebig-Straße"
-housenumber: 9
+street: Justus-Liebig-Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Jan-Mar Mo-Th 07:00-17:00; Fr 07:00-15:00; Apr-Oct Mo-Th 06:30-17:00; Fr 06:30-15:00; Nov-Dec Mo-Th 07:00-17:00; Fr 07:00-15:00"
+opening_hours: Jan-Mar Mo-Th 07:00-17:00; Fr 07:00-15:00; Apr-Oct Mo-Th 06:30-17:00;
+    Fr 06:30-15:00; Nov-Dec Mo-Th 07:00-17:00; Fr 07:00-15:00
 website: ""

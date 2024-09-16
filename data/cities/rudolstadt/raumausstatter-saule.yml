@@ -1,11 +1,11 @@
 id: 91240972
-type: way
+type: node
 latitude: 50.68517
 longitude: 11.31185
 postcode: "07407"
 city: Rudolstadt
-street: "Blankenburger Straße"
-housenumber: 7
+street: Blankenburger Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,13:00-18:00, Sa 09:00-12:00"
+opening_hours: Mo-Fr 09:00-12:30,13:00-18:00, Sa 09:00-12:00
 website: ""

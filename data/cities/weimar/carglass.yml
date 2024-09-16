@@ -4,8 +4,8 @@ latitude: 50.99314
 longitude: 11.32
 postcode: "99427"
 city: Weimar
-street: "Ettersburger Straße"
-housenumber: 5
+street: Ettersburger Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-13:00; PH off"
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-13:00; PH off
 website: ""

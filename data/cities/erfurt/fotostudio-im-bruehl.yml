@@ -4,8 +4,8 @@ latitude: 50.97266
 longitude: 11.017
 postcode: "99084"
 city: Erfurt
-street: "Brühler Straße"
+street: Brühler Straße
 housenumber: 25/26
-phone: "+49 361 6531792"
-opening_hours: "nach Vereinbarung"
-website: "www.fotostudio-im-bruehl.de"
+phone: +49 361 6531792
+opening_hours: '"nach Vereinbarung"'
+website: www.fotostudio-im-bruehl.de

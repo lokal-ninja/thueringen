@@ -1,11 +1,11 @@
 id: 26582844
-type: way
+type: node
 latitude: 50.95605
 longitude: 11.06859
 postcode: "99097"
 city: Erfurt
-street: "Kranichfelder Straße"
-housenumber: 103
+street: Kranichfelder Straße
+housenumber: "103"
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00"
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-20:00
 website: ""

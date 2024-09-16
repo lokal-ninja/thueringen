@@ -1,11 +1,11 @@
 id: 303390496
-type: way
+type: node
 latitude: 50.86411
 longitude: 12.08021
 postcode: "07548"
 city: Gera
-street: "Hinter dem Südbahnhof"
-housenumber: 21
+street: Hinter dem Südbahnhof
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

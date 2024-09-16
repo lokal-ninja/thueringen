@@ -4,8 +4,8 @@ latitude: 50.83456
 longitude: 10.58622
 postcode: "99894"
 city: Friedrichroda
-street: "Rennsteigstraße"
-housenumber: 41
+street: Rennsteigstraße
+housenumber: "41"
 phone: ""
-opening_hours: "Tu-Fr 06:30-18:00; Sa 06:30-12:00; Su 14:00-18:00; "
+opening_hours: 'Tu-Fr 06:30-18:00; Sa 06:30-12:00; Su 14:00-18:00; '
 website: ""

@@ -1,11 +1,11 @@
 id: 148483528
-type: way
+type: node
 latitude: 50.50356
 longitude: 10.62
 postcode: "98660"
 city: Themar
-street: "Georgstraße"
-housenumber: 22
+street: Georgstraße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

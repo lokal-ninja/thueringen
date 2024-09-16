@@ -4,8 +4,8 @@ latitude: 50.98509
 longitude: 12.43174
 postcode: "04600"
 city: Altenburg
-street: "Markt"
-housenumber: 35
+street: Markt
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-We 09:00-18:00; Th-Fr 09:00-19:00; Sa 09:00-13:00"
+opening_hours: Mo-We 09:00-18:00; Th-Fr 09:00-19:00; Sa 09:00-13:00
 website: ""

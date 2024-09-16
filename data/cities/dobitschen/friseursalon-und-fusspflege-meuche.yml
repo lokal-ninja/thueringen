@@ -4,8 +4,9 @@ latitude: 50.95454
 longitude: 12.27701
 postcode: "04626"
 city: Dobitschen
-street: "Straße der Einheit"
-housenumber: 13
+street: Straße der Einheit
+housenumber: "13"
 phone: ""
-opening_hours: "Tu,We 08:00-17:00; Th 09:00-19:00; Fr 08:00-18:00; Sa 08:00-11:00; Mo,Su,PH off"
+opening_hours: Tu,We 08:00-17:00; Th 09:00-19:00; Fr 08:00-18:00; Sa 08:00-11:00;
+    Mo,Su,PH off
 website: ""

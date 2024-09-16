@@ -1,11 +1,11 @@
 id: 162938743
-type: way
+type: node
 latitude: 51.38355
 longitude: 10.8498
 postcode: "99706"
 city: Sondershausen
-street: "Schachtstraße"
-housenumber: 4
-phone: "+49 3632 543414"
+street: Schachtstraße
+housenumber: "4"
+phone: +49 3632 543414
 opening_hours: ""
-website: "www.auto-center-sondershausen.de"
+website: www.auto-center-sondershausen.de

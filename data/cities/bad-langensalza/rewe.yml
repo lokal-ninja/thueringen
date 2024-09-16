@@ -1,11 +1,11 @@
 id: 535778360
-type: way
+type: node
 latitude: 51.11846
 longitude: 10.65428
 postcode: "99947"
 city: Bad Langensalza
-street: "Rasenmühlenweg"
-housenumber: 15
+street: Rasenmühlenweg
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00; Sa 06:00-20:00"
+opening_hours: Mo-Fr 06:00-22:00; Sa 06:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.90784
 longitude: 11.01694
 postcode: "99097"
 city: Erfurt
-street: "Im Großen Felde"
-housenumber: 3
-phone: "+49 361 3744-0"
-opening_hours: "Mo-Sa 10:00-19:00; Fr 10:00-20:00"
-website: "https://www.hoeffner.de/erfurt-waltersleben"
+street: Im Großen Felde
+housenumber: "3"
+phone: +49 361 3744-0
+opening_hours: Mo-Sa 10:00-19:00; Fr 10:00-20:00
+website: https://www.hoeffner.de/erfurt-waltersleben

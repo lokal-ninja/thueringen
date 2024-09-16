@@ -1,11 +1,11 @@
 id: 1110405604
-type: way
+type: node
 latitude: 50.65438
 longitude: 10.37806
 postcode: "98634"
 city: Wasungen
-street: "Am Räschen"
-housenumber: 
-phone: "+49 36941 60246"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-12:00"
-website: "https://www.tankstelle-wasungen.de/autohandel"
+street: Am Räschen
+housenumber: ""
+phone: +49 36941 60246
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-12:00
+website: https://www.tankstelle-wasungen.de/autohandel

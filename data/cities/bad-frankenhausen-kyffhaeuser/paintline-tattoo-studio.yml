@@ -1,11 +1,11 @@
 id: 351228136
-type: way
+type: node
 latitude: 51.35196
 longitude: 11.09693
 postcode: "06567"
 city: Bad Frankenhausen/Kyffhäuser
-street: "Bahnhofstraße"
-housenumber: 14
+street: Bahnhofstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

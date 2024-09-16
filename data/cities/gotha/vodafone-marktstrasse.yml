@@ -4,8 +4,8 @@ latitude: 50.94962
 longitude: 10.70215
 postcode: "99867"
 city: Gotha
-street: "Marktstraße"
-housenumber: 4
+street: Marktstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00, Sa 09:30-13:00"
-website: "https://shops.vodafone.de/gotha/marktstr.-4"
+opening_hours: Mo-Fr 09:30-18:00, Sa 09:30-13:00
+website: https://shops.vodafone.de/gotha/marktstr.-4

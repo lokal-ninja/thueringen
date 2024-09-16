@@ -1,11 +1,11 @@
 id: 463343610
-type: way
+type: node
 latitude: 50.5446
 longitude: 10.46997
 postcode: "98617"
 city: Ellingshausen
-street: "Hauptstraße"
-housenumber: 58
+street: Hauptstraße
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

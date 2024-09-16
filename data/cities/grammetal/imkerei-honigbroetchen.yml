@@ -4,8 +4,8 @@ latitude: 50.99529
 longitude: 11.26028
 postcode: "99428"
 city: Grammetal
-street: "Wachhügel"
-housenumber: 3
+street: Wachhügel
+housenumber: "3"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.honigbroetchen.de/"
+opening_hours: 24/7
+website: https://www.honigbroetchen.de/

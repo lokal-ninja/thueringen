@@ -1,11 +1,11 @@
 id: 159917477
-type: way
+type: node
 latitude: 51.42813
 longitude: 10.71992
 postcode: "99752"
 city: Bleicherode
-street: "Hünstein"
-housenumber: 65
+street: Hünstein
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

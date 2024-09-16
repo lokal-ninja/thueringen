@@ -1,11 +1,11 @@
 id: 309305776
-type: way
+type: node
 latitude: 50.88062
 longitude: 12.07435
 postcode: "07548"
 city: Gera
-street: "Neue Straße"
-housenumber: 
+street: Neue Straße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

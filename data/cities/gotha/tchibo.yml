@@ -4,8 +4,8 @@ latitude: 50.95
 longitude: 10.70317
 postcode: "99867"
 city: Gotha
-street: "Marktstraße"
-housenumber: 15
+street: Marktstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:00-13:00"
-website: "https://www.tchibo.de/service/storefinder/store/100005531"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:00-13:00
+website: https://www.tchibo.de/service/storefinder/store/100005531

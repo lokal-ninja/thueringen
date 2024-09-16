@@ -1,11 +1,11 @@
 id: 542442420
-type: way
+type: node
 latitude: 50.89356
 longitude: 12.35129
 postcode: "04626"
 city: Schmölln
-street: "Crimmitschauer Straße"
-housenumber: 17
+street: Crimmitschauer Straße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00; Su,PH off"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00; Su,PH off
 website: ""

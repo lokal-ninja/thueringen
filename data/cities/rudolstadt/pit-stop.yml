@@ -1,11 +1,11 @@
 id: 80432468
-type: way
+type: node
 latitude: 50.71951
 longitude: 11.3455
 postcode: "07407"
 city: Rudolstadt
-street: "Gartenstraße"
+street: Gartenstraße
 housenumber: 2a
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00
 website: ""

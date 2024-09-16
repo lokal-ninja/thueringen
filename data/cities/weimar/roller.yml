@@ -4,8 +4,8 @@ latitude: 50.98115
 longitude: 11.38122
 postcode: "99425"
 city: Weimar
-street: "Landhausallee"
-housenumber: 13
+street: Landhausallee
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-20:00; PH off"
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-20:00; PH off
 website: ""

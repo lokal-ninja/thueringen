@@ -1,11 +1,11 @@
 id: 264779507
-type: way
+type: node
 latitude: 50.66628
 longitude: 10.55679
 postcode: "98587"
 city: Steinbach-Hallenberg
-street: "Unteres Rippach"
-housenumber: 4
+street: Unteres Rippach
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

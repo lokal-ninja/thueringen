@@ -1,11 +1,11 @@
 id: 60047133
-type: way
+type: node
 latitude: 50.68671
 longitude: 10.91452
 postcode: "98693"
 city: Ilmenau
-street: "Marktstraße"
-housenumber: 19
-phone: "+49 3677 461 854"
-opening_hours: "Mo-Fr 10:00-13:00,14:00-17:00"
-website: "https://www.tee-eck.de/"
+street: Marktstraße
+housenumber: "19"
+phone: +49 3677 461 854
+opening_hours: Mo-Fr 10:00-13:00,14:00-17:00
+website: https://www.tee-eck.de/

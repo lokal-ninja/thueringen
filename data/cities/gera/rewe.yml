@@ -1,11 +1,11 @@
 id: 41645461
-type: way
+type: node
 latitude: 50.8871
 longitude: 12.08855
 postcode: "07545"
 city: Gera
-street: "Dornaer Straße"
-housenumber: 2
+street: Dornaer Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00; Su,PH off"
-website: "https://www.rewe.de/"
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-20:00; Su,PH off
+website: https://www.rewe.de/

@@ -1,11 +1,11 @@
 id: 389835981
-type: way
+type: node
 latitude: 51.50066
 longitude: 10.80863
 postcode: "99734"
 city: Nordhausen
-street: "Jahnstraße"
-housenumber: 78
+street: Jahnstraße
+housenumber: "78"
 phone: ""
-opening_hours: "Mo,Sa 06:00-11:00; Tu-Fr 06:00-17:30"
+opening_hours: Mo,Sa 06:00-11:00; Tu-Fr 06:00-17:30
 website: ""

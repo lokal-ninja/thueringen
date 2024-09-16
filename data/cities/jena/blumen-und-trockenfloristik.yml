@@ -4,8 +4,8 @@ latitude: 50.94696
 longitude: 11.60435
 postcode: "07743"
 city: Jena
-street: "Altenburger Straße"
-housenumber: 1
+street: Altenburger Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-We 08:00-18:00, Th-Fr 08:00-18:30, Sa 08:00-12:30"
+opening_hours: Mo-We 08:00-18:00, Th-Fr 08:00-18:30, Sa 08:00-12:30
 website: ""

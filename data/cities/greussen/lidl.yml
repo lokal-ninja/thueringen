@@ -1,11 +1,11 @@
 id: 128677251
-type: way
+type: node
 latitude: 51.22567
 longitude: 10.94482
 postcode: "99718"
 city: Greußen
-street: "Am Rittertor"
-housenumber: 1
+street: Am Rittertor
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

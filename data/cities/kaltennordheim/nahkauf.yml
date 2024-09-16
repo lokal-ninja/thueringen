@@ -1,11 +1,11 @@
 id: 514759475
-type: way
+type: node
 latitude: 50.60813
 longitude: 10.16028
 postcode: "36452"
 city: Kaltennordheim
-street: "Hinterm Kirchhof"
-housenumber: 12
+street: Hinterm Kirchhof
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su,PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 824986411
-type: way
+type: node
 latitude: 50.93323
 longitude: 10.67446
 postcode: "99867"
 city: Gotha
-street: "Inselsbergstraße"
-housenumber: 20
+street: Inselsbergstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30, Sa 10:00-14:00"
-website: "https://www.1akuechendesign.de/"
+opening_hours: Mo-Fr 10:00-18:30, Sa 10:00-14:00
+website: https://www.1akuechendesign.de/

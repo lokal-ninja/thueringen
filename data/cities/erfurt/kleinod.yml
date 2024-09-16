@@ -4,8 +4,8 @@ latitude: 50.97299
 longitude: 11.03109
 postcode: "99084"
 city: Erfurt
-street: "Hirschlachufer"
-housenumber: 35
-phone: "+49 361 2622675"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-18:00"
-website: "https://www.brautmode-erfurt.de/"
+street: Hirschlachufer
+housenumber: "35"
+phone: +49 361 2622675
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-18:00
+website: https://www.brautmode-erfurt.de/

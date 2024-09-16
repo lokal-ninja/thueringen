@@ -4,8 +4,8 @@ latitude: 50.71303
 longitude: 10.97801
 postcode: "98693"
 city: Ilmenau
-street: "Stadtilmer Landstraße"
-housenumber: 8
-phone: "+49 3677 6678030"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.mth-kapp.de/"
+street: Stadtilmer Landstraße
+housenumber: "8"
+phone: +49 3677 6678030
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.mth-kapp.de/

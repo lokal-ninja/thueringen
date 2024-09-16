@@ -4,8 +4,8 @@ latitude: 50.51
 longitude: 10.75538
 postcode: "98553"
 city: Schleusingen
-street: "Klosterstraße"
-housenumber: 25
-phone: "+49 36841 54030"
-opening_hours: "Mo-Fr 09:30-18:00; We 09:30-12:00; Sa 09:30-12:00; Su off; PH off"
-website: "https://www.klickstelle.de/"
+street: Klosterstraße
+housenumber: "25"
+phone: +49 36841 54030
+opening_hours: Mo-Fr 09:30-18:00; We 09:30-12:00; Sa 09:30-12:00; Su off; PH off
+website: https://www.klickstelle.de/

@@ -1,11 +1,11 @@
 id: 374187023
-type: way
+type: node
 latitude: 50.87205
 longitude: 12.07468
 postcode: "07548"
 city: Gera
-street: "Heinrichstraße"
-housenumber: 88
+street: Heinrichstraße
+housenumber: "88"
 phone: ""
 opening_hours: ""
 website: ""

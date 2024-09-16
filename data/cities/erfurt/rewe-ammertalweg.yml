@@ -4,8 +4,8 @@ latitude: 50.99694
 longitude: 11.02721
 postcode: "99086"
 city: Erfurt
-street: "Ammertalweg"
-housenumber: 1
+street: Ammertalweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00; Sa 06:00-20:00"
+opening_hours: Mo-Fr 06:00-22:00; Sa 06:00-20:00
 website: ""

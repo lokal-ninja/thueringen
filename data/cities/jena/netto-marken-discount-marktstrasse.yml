@@ -1,11 +1,11 @@
 id: 292911479
-type: way
+type: node
 latitude: 50.8923
 longitude: 11.60819
 postcode: "07747"
 city: Jena
-street: "Marktstraße"
-housenumber: 17
+street: Marktstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

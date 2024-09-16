@@ -1,11 +1,11 @@
 id: 208298827
-type: way
+type: node
 latitude: 50.81437
 longitude: 11.57555
 postcode: "07768"
 city: Kahla
-street: "Im Camisch"
-housenumber: 50
-phone: "+49 36424 86000"
-opening_hours: "Mo,Fr 08:00-18:30; Sa 09:00-16:00; Su,PH off"
+street: Im Camisch
+housenumber: "50"
+phone: +49 36424 86000
+opening_hours: Mo,Fr 08:00-18:30; Sa 09:00-16:00; Su,PH off
 website: ""

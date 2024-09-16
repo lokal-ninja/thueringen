@@ -1,11 +1,11 @@
 id: 335733234
-type: way
+type: node
 latitude: 51.4332
 longitude: 10.69889
 postcode: "99752"
 city: Bleicherode
-street: "Sondershäuser Landstraße"
-housenumber: 101
+street: Sondershäuser Landstraße
+housenumber: "101"
 phone: ""
-opening_hours: "Tu,Th,Fr 08:00-12:00"
-website: "https://www.edeka-vor-ort.de/edeka-nohra-1/"
+opening_hours: Tu,Th,Fr 08:00-12:00
+website: https://www.edeka-vor-ort.de/edeka-nohra-1/

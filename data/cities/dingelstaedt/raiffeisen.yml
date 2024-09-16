@@ -1,11 +1,11 @@
 id: 843987658
-type: way
+type: node
 latitude: 51.32109
 longitude: 10.32232
 postcode: "37351"
 city: Dingelstädt
-street: "Birkunger Straße"
-housenumber: 66
+street: Birkunger Straße
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

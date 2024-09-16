@@ -4,8 +4,9 @@ latitude: 50.68369
 longitude: 10.91244
 postcode: "98693"
 city: Ilmenau
-street: "Lindenstraße"
-housenumber: 7
+street: Lindenstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo,We 08:30-13:00, Tu,Th 08:30-13:00,14:00-18:00, Fr 08:30-15:00, Mo,We 14:00-16:00"
+opening_hours: Mo,We 08:30-13:00, Tu,Th 08:30-13:00,14:00-18:00, Fr 08:30-15:00, Mo,We
+    14:00-16:00
 website: ""

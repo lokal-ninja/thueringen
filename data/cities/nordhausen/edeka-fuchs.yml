@@ -1,11 +1,11 @@
 id: 137805205
-type: way
+type: node
 latitude: 51.50236
 longitude: 10.79962
 postcode: "99734"
 city: Nordhausen
-street: "Töpferstraße"
-housenumber: 19
-phone: "+49 3631 990170"
-opening_hours: "Mo-Sa 07:00-20:00; Sa 07:00-18:00"
-website: "https://www.edeka.de/eh/hessenring/nadine-fuchs-t%C3%B6pferstr.-19/index.jsp"
+street: Töpferstraße
+housenumber: "19"
+phone: +49 3631 990170
+opening_hours: Mo-Sa 07:00-20:00; Sa 07:00-18:00
+website: https://www.edeka.de/eh/hessenring/nadine-fuchs-t%C3%B6pferstr.-19/index.jsp

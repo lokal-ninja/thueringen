@@ -1,11 +1,11 @@
 id: 178732255
-type: way
+type: node
 latitude: 51.36421
 longitude: 11.29069
 postcode: "06556"
 city: Artern
-street: "Wasserstraße"
-housenumber: 10
-phone: "+49-3466-302379"
+street: Wasserstraße
+housenumber: "10"
+phone: +49-3466-302379
 opening_hours: ""
 website: ""

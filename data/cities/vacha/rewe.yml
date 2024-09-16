@@ -1,11 +1,11 @@
 id: 367420001
-type: way
+type: node
 latitude: 50.82414
 longitude: 10.02064
 postcode: "36404"
 city: Vacha
-street: "Am Alten Kabelwerk"
-housenumber: 1
+street: Am Alten Kabelwerk
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00; PH off"
-website: "https://www.rewe.de/marktseite/vacha/1469655/rewe-markt-am-alten-kabelwerk-1/"
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-20:00; PH off
+website: https://www.rewe.de/marktseite/vacha/1469655/rewe-markt-am-alten-kabelwerk-1/

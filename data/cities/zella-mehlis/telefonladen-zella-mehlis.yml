@@ -4,8 +4,8 @@ latitude: 50.64433
 longitude: 10.68621
 postcode: "98544"
 city: Zella-Mehlis
-street: "Industriestraße"
-housenumber: 3
-phone: "+49 3682 469944"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-14:00"
-website: "https://www.tele-thorwarth.de/privatkunden/filialen/zella-mehlis/"
+street: Industriestraße
+housenumber: "3"
+phone: +49 3682 469944
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-14:00
+website: https://www.tele-thorwarth.de/privatkunden/filialen/zella-mehlis/

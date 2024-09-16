@@ -1,11 +1,11 @@
 id: 101765084
-type: way
+type: node
 latitude: 50.90125
 longitude: 12.10437
 postcode: "07552"
 city: Gera
-street: "Otto-von-Guericke-Straße"
-housenumber: 1
+street: Otto-von-Guericke-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

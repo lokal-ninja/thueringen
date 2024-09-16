@@ -1,11 +1,11 @@
 id: 48844683
-type: way
+type: node
 latitude: 50.70045
 longitude: 10.93385
 postcode: "98693"
 city: Ilmenau
-street: "Auf der Burg"
-housenumber: 5
+street: Auf der Burg
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 163367743
-type: way
+type: node
 latitude: 50.46341
 longitude: 11.63155
 postcode: "07356"
 city: Bad Lobenstein
-street: "Gewerbegebiet Unterlemnitz"
-housenumber: 11
+street: Gewerbegebiet Unterlemnitz
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

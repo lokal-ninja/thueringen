@@ -1,11 +1,11 @@
 id: 150832291
-type: way
+type: node
 latitude: 50.45034
 longitude: 11.65209
 postcode: "07356"
 city: Bad Lobenstein
-street: "Zum Tännig"
-housenumber: 2
+street: Zum Tännig
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

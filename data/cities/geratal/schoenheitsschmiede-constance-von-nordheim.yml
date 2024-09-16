@@ -4,8 +4,9 @@ latitude: 50.71909
 longitude: 10.84682
 postcode: "99331"
 city: Geratal
-street: "Arnstädter Straße"
-housenumber: 18
+street: Arnstädter Straße
+housenumber: "18"
 phone: ""
-opening_hours: "Tu 09:00-14:00; We 12:00-18:00; Th 09:00-18:00; Fr 09:00-20:00; Sa 09:00-14:00"
+opening_hours: Tu 09:00-14:00; We 12:00-18:00; Th 09:00-18:00; Fr 09:00-20:00; Sa
+    09:00-14:00
 website: ""

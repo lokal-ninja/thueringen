@@ -1,11 +1,11 @@
 id: 141056008
-type: way
+type: node
 latitude: 51.48078
 longitude: 10.48854
 postcode: "37345"
 city: Am Ohmberg
-street: "Am Ölgraben"
-housenumber: 14
+street: Am Ölgraben
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

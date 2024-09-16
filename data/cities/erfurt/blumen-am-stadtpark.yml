@@ -4,8 +4,8 @@ latitude: 50.96844
 longitude: 11.03952
 postcode: "99096"
 city: Erfurt
-street: "Böcklinstraße"
-housenumber: 6
+street: Böcklinstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-12:00"
-website: "https://blumen-am-stadtpark.de"
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-12:00
+website: https://blumen-am-stadtpark.de

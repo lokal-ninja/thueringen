@@ -1,11 +1,11 @@
 id: 146626378
-type: way
+type: node
 latitude: 51.49444
 longitude: 10.77597
 postcode: "99734"
 city: Nordhausen
-street: "Freiherr-vom-Stein-Straße"
-housenumber: 37
+street: Freiherr-vom-Stein-Straße
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 726102278
-type: way
+type: node
 latitude: 51.03805
 longitude: 11.51398
 postcode: "99510"
 city: Apolda
-street: "Buttstädter Straße"
-housenumber: 44
+street: Buttstädter Straße
+housenumber: "44"
 phone: ""
 opening_hours: ""
-website: "https://www.integral-apolda.de/"
+website: https://www.integral-apolda.de/

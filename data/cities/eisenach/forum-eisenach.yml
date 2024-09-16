@@ -1,11 +1,11 @@
 id: 189245689
-type: way
+type: node
 latitude: 50.9783
 longitude: 10.30614
 postcode: "99817"
 city: Eisenach
-street: "Bleichrasen"
-housenumber: 41
+street: Bleichrasen
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

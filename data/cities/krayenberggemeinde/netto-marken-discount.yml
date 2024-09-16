@@ -1,11 +1,11 @@
 id: 241725588
-type: way
+type: node
 latitude: 50.83829
 longitude: 10.07984
 postcode: "36460"
 city: Krayenberggemeinde
-street: "Hersfelder Straße"
-housenumber: 13
+street: Hersfelder Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

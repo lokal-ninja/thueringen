@@ -1,11 +1,11 @@
 id: 329085611
-type: way
+type: node
 latitude: 50.85274
 longitude: 12.09056
 postcode: "07551"
 city: Gera
-street: "Straße der Völkerfreundschaft"
+street: Straße der Völkerfreundschaft
 housenumber: 1a
-phone: "+49 365 7301593"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-13:00"
-website: "https://www.nerger.kiapartner.de/"
+phone: +49 365 7301593
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-13:00
+website: https://www.nerger.kiapartner.de/

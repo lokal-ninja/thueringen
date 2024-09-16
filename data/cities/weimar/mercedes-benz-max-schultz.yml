@@ -1,11 +1,11 @@
 id: 230040099
-type: way
+type: node
 latitude: 50.93984
 longitude: 11.29306
 postcode: "99428"
 city: Weimar
-street: "Holzdorfer Allee"
-housenumber: 2
+street: Holzdorfer Allee
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

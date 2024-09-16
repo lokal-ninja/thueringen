@@ -4,8 +4,8 @@ latitude: 51.02961
 longitude: 11.03896
 postcode: "99087"
 city: Erfurt
-street: "Heinrich-Credner-Straße"
-housenumber: 4
+street: Heinrich-Credner-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; PH off"
-website: "https://autoland.de/autoland-niederlassungen/erfurt"
+opening_hours: Mo-Fr 08:00-20:00; PH off
+website: https://autoland.de/autoland-niederlassungen/erfurt

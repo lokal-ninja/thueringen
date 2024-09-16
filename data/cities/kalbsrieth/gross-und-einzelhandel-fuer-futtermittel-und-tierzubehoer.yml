@@ -1,11 +1,11 @@
 id: 177055312
-type: way
+type: node
 latitude: 51.34337
 longitude: 11.3384
 postcode: "06556"
 city: Kalbsrieth
-street: "Rosengasse"
+street: Rosengasse
 housenumber: 21a
-phone: "+49-3466-364792"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00; Su off"
-website: "http://www.futtermittelhandel-schreier.de/"
+phone: +49-3466-364792
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00; Su off
+website: http://www.futtermittelhandel-schreier.de/

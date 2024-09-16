@@ -1,11 +1,11 @@
 id: 97678039
-type: way
+type: node
 latitude: 50.92108
 longitude: 10.39678
 postcode: "99842"
 city: Ruhla
-street: "Am Ebertsberg"
-housenumber: 1
+street: Am Ebertsberg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

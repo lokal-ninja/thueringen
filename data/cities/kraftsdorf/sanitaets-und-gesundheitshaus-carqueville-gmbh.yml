@@ -1,11 +1,11 @@
 id: 111748182
-type: way
+type: node
 latitude: 50.89272
 longitude: 12.01183
 postcode: "07586"
 city: Kraftsdorf
-street: "Flurstraße"
-housenumber: 6
+street: Flurstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00"
-website: "https://www.carqueville-online.de/"
+opening_hours: Mo-Fr 07:30-18:00
+website: https://www.carqueville-online.de/

@@ -1,11 +1,11 @@
 id: 209366711
-type: way
+type: node
 latitude: 50.61178
 longitude: 11.64945
 postcode: "07924"
 city: Ziegenrück
-street: "Paskaer Straße"
+street: Paskaer Straße
 housenumber: 1b
-phone: "+49 36483 22627"
-opening_hours: "Mo-Fr 06:30-16:00; Sa 06:30-11:00; PH off"
+phone: +49 36483 22627
+opening_hours: Mo-Fr 06:30-16:00; Sa 06:30-11:00; PH off
 website: ""

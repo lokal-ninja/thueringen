@@ -1,11 +1,11 @@
 id: 94069493
-type: way
+type: node
 latitude: 50.85981
 longitude: 11.20438
 postcode: "99448"
 city: Kranichfeld
-street: "Erfurter Straße"
-housenumber: 2
+street: Erfurter Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

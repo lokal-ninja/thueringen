@@ -1,11 +1,11 @@
 id: 801919175
-type: way
+type: node
 latitude: 50.84045
 longitude: 9.99156
 postcode: "36269"
 city: Philippsthal
-street: "An der Flutbrücke"
-housenumber: 4
+street: An der Flutbrücke
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

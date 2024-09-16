@@ -4,8 +4,8 @@ latitude: 50.85539
 longitude: 10.95653
 postcode: "99310"
 city: Arnstadt
-street: "Alfred-Ley-Straße"
-housenumber: 12
+street: Alfred-Ley-Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 07:00-19:00"
-website: "https://nahrstedt.de/standorte/kaufland-arnstadt"
+opening_hours: Mo-Sa 07:00-19:00
+website: https://nahrstedt.de/standorte/kaufland-arnstadt

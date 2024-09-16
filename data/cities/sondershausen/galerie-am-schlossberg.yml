@@ -1,11 +1,11 @@
 id: 94515462
-type: way
+type: node
 latitude: 51.37037
 longitude: 10.86954
 postcode: "99706"
 city: Sondershausen
-street: "Lange Straße"
+street: Lange Straße
 housenumber: 1a
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su,PH off"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su,PH off
 website: ""

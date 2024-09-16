@@ -1,11 +1,11 @@
 id: 240707065
-type: way
+type: node
 latitude: 50.88292
 longitude: 11.61486
 postcode: "07747"
 city: Jena
-street: "Emil-Wölk-Straße"
-housenumber: 3
+street: Emil-Wölk-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
 website: ""

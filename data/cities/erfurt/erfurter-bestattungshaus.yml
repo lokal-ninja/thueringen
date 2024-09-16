@@ -4,8 +4,8 @@ latitude: 50.98381
 longitude: 11.01973
 postcode: "99089"
 city: Erfurt
-street: "Nordhäuser Straße"
-housenumber: 120
+street: Nordhäuser Straße
+housenumber: "120"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-11:00"
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-11:00
 website: ""

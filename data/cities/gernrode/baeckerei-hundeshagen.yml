@@ -1,11 +1,11 @@
 id: 332922775
-type: way
+type: node
 latitude: 51.39652
 longitude: 10.4043
 postcode: "37339"
 city: Gernrode
-street: "An der Kirche"
-housenumber: 25
+street: An der Kirche
+housenumber: "25"
 phone: ""
-opening_hours: "Tu-Fr 07:30-12:00,15:00-17:00; Sa 07:00-10:30"
+opening_hours: Tu-Fr 07:30-12:00,15:00-17:00; Sa 07:00-10:30
 website: ""

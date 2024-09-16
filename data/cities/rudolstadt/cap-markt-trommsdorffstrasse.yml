@@ -1,11 +1,11 @@
 id: 106667365
-type: way
+type: node
 latitude: 50.69983
 longitude: 11.32069
 postcode: "07407"
 city: Rudolstadt
-street: "Trommsdorffstraße"
-housenumber: 14
+street: Trommsdorffstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-16:00"
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-16:00
 website: ""

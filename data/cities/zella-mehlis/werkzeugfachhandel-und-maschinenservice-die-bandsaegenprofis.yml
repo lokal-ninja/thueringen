@@ -4,8 +4,8 @@ latitude: 50.64021
 longitude: 10.68304
 postcode: "98544"
 city: Zella-Mehlis
-street: "Rodewasser"
-housenumber: 10
-phone: "+49 3682 487136"
-opening_hours: "Mo-Fr 07:00-16:30"
-website: "https://bandsaegenprofis.de/"
+street: Rodewasser
+housenumber: "10"
+phone: +49 3682 487136
+opening_hours: Mo-Fr 07:00-16:30
+website: https://bandsaegenprofis.de/

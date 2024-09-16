@@ -1,11 +1,11 @@
 id: 320170248
-type: way
+type: node
 latitude: 50.6417
 longitude: 11.19578
 postcode: "07427"
 city: Schwarzburg
-street: "Burkersdorfer Straße"
-housenumber: 7
+street: Burkersdorfer Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 181479665
-type: way
+type: node
 latitude: 51.10972
 longitude: 10.92849
 postcode: "99189"
 city: Gebesee
-street: "Siedlungsweg"
-housenumber: 6
+street: Siedlungsweg
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

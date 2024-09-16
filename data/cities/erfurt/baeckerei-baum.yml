@@ -4,8 +4,8 @@ latitude: 51.02274
 longitude: 10.99608
 postcode: "99091"
 city: Erfurt
-street: "Bernauer Straße"
-housenumber: 17
-phone: "+49 361 7463165"
-opening_hours: "Mo-Sa 06:30-17:30; Su off"
-website: "http://bäcker-baum.de"
+street: Bernauer Straße
+housenumber: "17"
+phone: +49 361 7463165
+opening_hours: Mo-Sa 06:30-17:30; Su off
+website: http://bäcker-baum.de

@@ -4,8 +4,8 @@ latitude: 50.49276
 longitude: 11.15938
 postcode: "98724"
 city: Neuhaus am Rennweg
-street: "Sonneberger Straße"
-housenumber: 246
-phone: "+49 3679 725377"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/"
+street: Sonneberger Straße
+housenumber: "246"
+phone: +49 3679 725377
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/

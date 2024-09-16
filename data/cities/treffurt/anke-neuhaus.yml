@@ -1,11 +1,11 @@
 id: 439468992
-type: way
+type: node
 latitude: 51.13779
 longitude: 10.23522
 postcode: "99830"
 city: Treffurt
-street: "Burgstieg"
-housenumber: 3
-phone: "+49 36923 82561"
-opening_hours: "Mo-Fr 10:00-18:00; Sa auf Anfrage"
-website: "https://anke-neuhaus.de/"
+street: Burgstieg
+housenumber: "3"
+phone: +49 36923 82561
+opening_hours: Mo-Fr 10:00-18:00; Sa "auf Anfrage"
+website: https://anke-neuhaus.de/

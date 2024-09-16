@@ -1,11 +1,11 @@
 id: 398052118
-type: way
+type: node
 latitude: 50.91601
 longitude: 11.8675
 postcode: "07639"
 city: Bad Klosterlausnitz
-street: "Geraer Straße"
-housenumber: 3
+street: Geraer Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-We 09:00-15:00; Th-Fr 12:00-20:00"
+opening_hours: Mo-We 09:00-15:00; Th-Fr 12:00-20:00
 website: ""

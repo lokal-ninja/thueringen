@@ -1,11 +1,11 @@
 id: 128424634
-type: way
+type: node
 latitude: 50.95121
 longitude: 10.70829
 postcode: "99867"
 city: Gotha
-street: "Huttenstraße"
-housenumber: 2
+street: Huttenstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://ärztehaus-am-mohren.de/"
+website: https://ärztehaus-am-mohren.de/

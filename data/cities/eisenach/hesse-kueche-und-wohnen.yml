@@ -4,8 +4,8 @@ latitude: 50.98949
 longitude: 10.31044
 postcode: "99817"
 city: Eisenach
-street: "Heinrich-Heine-Straße"
-housenumber: 1
+street: Heinrich-Heine-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Fr 09:30-19:00; Sa 09:30-16:00"
+opening_hours: Tu-Fr 09:30-19:00; Sa 09:30-16:00
 website: ""

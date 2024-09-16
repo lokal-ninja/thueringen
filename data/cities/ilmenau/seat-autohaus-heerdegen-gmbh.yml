@@ -1,11 +1,11 @@
 id: 32615273
-type: way
+type: node
 latitude: 50.68956
 longitude: 10.97814
 postcode: "98693"
 city: Ilmenau
-street: "Ilmenauer Landstraße"
-housenumber: 22
-phone: "+49 36785 58585"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-12:00; Su,PH off"
-website: "https://heerdegen.seat.de/"
+street: Ilmenauer Landstraße
+housenumber: "22"
+phone: +49 36785 58585
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-12:00; Su,PH off
+website: https://heerdegen.seat.de/

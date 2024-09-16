@@ -1,11 +1,11 @@
 id: 98870578
-type: way
+type: node
 latitude: 51.21455
 longitude: 10.44923
 postcode: "99974"
 city: Mühlhausen
-street: "Hinter der Harwand"
-housenumber: 63
+street: Hinter der Harwand
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1055729031
-type: way
+type: node
 latitude: 51.28356
 longitude: 10.18117
 postcode: "37308"
 city: Schimberg
-street: "Waldstraße"
-housenumber: 19
-phone: "+4936082 89191"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-13:00"
-website: "https://www.ford-doering-schimberg.de/"
+street: Waldstraße
+housenumber: "19"
+phone: +4936082 89191
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-13:00
+website: https://www.ford-doering-schimberg.de/

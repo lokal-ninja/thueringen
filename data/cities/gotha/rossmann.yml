@@ -4,8 +4,8 @@ latitude: 50.94485
 longitude: 10.71637
 postcode: "99867"
 city: Gotha
-street: "Schöne Allee"
-housenumber: 12
-phone: "+49 3621 8819983"
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.rossmann.de/de/filialen/thueringen/gotha/schoene-allee-12.html"
+street: Schöne Allee
+housenumber: "12"
+phone: +49 3621 8819983
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://www.rossmann.de/de/filialen/thueringen/gotha/schoene-allee-12.html

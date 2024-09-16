@@ -1,11 +1,11 @@
 id: 172550154
-type: way
+type: node
 latitude: 50.72296
 longitude: 11.35269
 postcode: "07407"
 city: Rudolstadt
-street: "Oststraße"
-housenumber: 29
+street: Oststraße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

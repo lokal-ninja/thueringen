@@ -1,11 +1,11 @@
 id: 758375882
-type: way
+type: node
 latitude: 50.9721
 longitude: 11.85499
 postcode: "07607"
 city: Eisenberg
-street: "In der Wiesen"
-housenumber: 4
+street: In der Wiesen
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

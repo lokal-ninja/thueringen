@@ -4,8 +4,8 @@ latitude: 50.49938
 longitude: 10.94147
 postcode: "98666"
 city: Masserberg
-street: "Talstraße"
-housenumber: 12
-phone: "+49 36870 50252"
-opening_hours: "Tu-Fr 08:00-17:00; Sa 07:00-11:00; Mo,Su,PH off"
+street: Talstraße
+housenumber: "12"
+phone: +49 36870 50252
+opening_hours: Tu-Fr 08:00-17:00; Sa 07:00-11:00; Mo,Su,PH off
 website: ""

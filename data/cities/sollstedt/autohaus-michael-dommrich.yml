@@ -1,11 +1,11 @@
 id: 598743465
-type: way
+type: node
 latitude: 51.41299
 longitude: 10.5255
 postcode: "99759"
 city: Sollstedt
-street: "Halle-Kasseler-Straße"
-housenumber: 74
-phone: "+49 36338 3140"
+street: Halle-Kasseler-Straße
+housenumber: "74"
+phone: +49 36338 3140
 opening_hours: ""
 website: ""

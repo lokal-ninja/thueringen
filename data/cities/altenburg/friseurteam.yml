@@ -4,8 +4,8 @@ latitude: 50.98496
 longitude: 12.43717
 postcode: "04600"
 city: Altenburg
-street: "Berggasse"
-housenumber: 44
+street: Berggasse
+housenumber: "44"
 phone: ""
-opening_hours: "Mo 09:00-18:00; Tu-Fr 08:00-18:00; Sa 08:00-12:00; Su,PH off"
+opening_hours: Mo 09:00-18:00; Tu-Fr 08:00-18:00; Sa 08:00-12:00; Su,PH off
 website: ""

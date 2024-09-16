@@ -4,8 +4,8 @@ latitude: 50.9749
 longitude: 11.32949
 postcode: "99423"
 city: Weimar
-street: "Marienstraße"
-housenumber: 18
-phone: "+49 151 700 444 59"
+street: Marienstraße
+housenumber: "18"
+phone: +49 151 700 444 59
 opening_hours: ""
-website: "https://culturecare-weimar.de"
+website: https://culturecare-weimar.de

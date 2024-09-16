@@ -4,8 +4,8 @@ latitude: 50.97878
 longitude: 11.02491
 postcode: "99084"
 city: Erfurt
-street: "Pergamentergasse"
-housenumber: 5
-phone: "+49 1577 6216308"
-opening_hours: "Mo-Fr 11:00-17:00"
-website: "https://catwaxx.business.site/"
+street: Pergamentergasse
+housenumber: "5"
+phone: +49 1577 6216308
+opening_hours: Mo-Fr 11:00-17:00
+website: https://catwaxx.business.site/

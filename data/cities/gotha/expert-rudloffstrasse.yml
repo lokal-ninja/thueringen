@@ -4,8 +4,8 @@ latitude: 50.92563
 longitude: 10.71669
 postcode: "99867"
 city: Gotha
-street: "Rudloffstraße"
-housenumber: 21
-phone: "+49 3621 4296390"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.expert.de/gotha"
+street: Rudloffstraße
+housenumber: "21"
+phone: +49 3621 4296390
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.expert.de/gotha

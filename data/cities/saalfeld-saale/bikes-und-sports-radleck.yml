@@ -1,11 +1,11 @@
 id: 93905588
-type: way
+type: node
 latitude: 50.65445
 longitude: 11.34624
 postcode: "07318"
 city: Saalfeld/Saale
-street: "Am Cröstener Weg"
+street: Am Cröstener Weg
 housenumber: 11a
 phone: ""
 opening_hours: ""
-website: "https://www.bike-sports.de/"
+website: https://www.bike-sports.de/

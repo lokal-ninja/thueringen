@@ -1,11 +1,11 @@
 id: 38309643
-type: way
+type: node
 latitude: 50.6894
 longitude: 10.92539
 postcode: "98693"
 city: Ilmenau
-street: "Weimarer Straße"
-housenumber: 67
+street: Weimarer Straße
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Th 07:00-16:30; Fr 07:00-13:30"
+opening_hours: Mo-Th 07:00-16:30; Fr 07:00-13:30
 website: ""

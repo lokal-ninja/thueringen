@@ -1,10 +1,10 @@
 id: 255665270
-type: way
+type: node
 latitude: 50.98069
 longitude: 11.32088
 postcode: "99423"
 city: Weimar
-street: "Erfurter Straße"
+street: Erfurter Straße
 housenumber: 16a
 phone: ""
 opening_hours: ""

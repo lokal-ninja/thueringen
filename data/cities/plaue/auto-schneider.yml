@@ -1,11 +1,11 @@
 id: 183742961
-type: way
+type: node
 latitude: 50.77108
 longitude: 10.8952
 postcode: "99338"
 city: Plaue
-street: "Ilmenauer Straße"
-housenumber: 7
+street: Ilmenauer Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

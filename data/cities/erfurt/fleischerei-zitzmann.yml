@@ -4,8 +4,8 @@ latitude: 50.96594
 longitude: 11.04106
 postcode: "99096"
 city: Erfurt
-street: "Damaschkestraße"
-housenumber: 17
+street: Damaschkestraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-We 08:00-15:30; Th,Fr 08:00-18:00; Sa 07:00-12:00"
-website: "https://www.fleischerei-zitzmann.de/"
+opening_hours: Mo-We 08:00-15:30; Th,Fr 08:00-18:00; Sa 07:00-12:00
+website: https://www.fleischerei-zitzmann.de/

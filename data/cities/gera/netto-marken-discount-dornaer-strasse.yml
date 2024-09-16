@@ -1,11 +1,11 @@
 id: 25755766
-type: way
+type: node
 latitude: 50.88883
 longitude: 12.09123
 postcode: "07546"
 city: Gera
-street: "Dornaer Straße"
-housenumber: 19
-phone: "+49 800 2000015"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de/"
+street: Dornaer Straße
+housenumber: "19"
+phone: +49 800 2000015
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de/

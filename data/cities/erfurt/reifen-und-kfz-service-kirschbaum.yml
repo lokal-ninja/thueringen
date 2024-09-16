@@ -4,8 +4,8 @@ latitude: 50.99368
 longitude: 11.04472
 postcode: "99086"
 city: Erfurt
-street: "Dieselstraße"
-housenumber: 5
+street: Dieselstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

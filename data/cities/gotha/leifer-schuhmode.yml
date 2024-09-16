@@ -4,8 +4,8 @@ latitude: 50.94975
 longitude: 10.70188
 postcode: "99867"
 city: Gotha
-street: "Hauptmarkt"
-housenumber: 47
-phone: "+49 3621 219751"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-16:00"
-website: "https://www.schuhfachmann.de/shop_content.php?idcatart=766&client=1&lang=1"
+street: Hauptmarkt
+housenumber: "47"
+phone: +49 3621 219751
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-16:00
+website: https://www.schuhfachmann.de/shop_content.php?idcatart=766&client=1&lang=1

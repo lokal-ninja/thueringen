@@ -1,11 +1,11 @@
 id: 810622805
-type: way
+type: node
 latitude: 50.71046
 longitude: 11.35197
 postcode: "07407"
 city: Rudolstadt
-street: "Flursteinweg"
-housenumber: 
+street: Flursteinweg
+housenumber: ""
 phone: ""
-opening_hours: "Mar-Nov Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su,PH off"
+opening_hours: Mar-Nov Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su,PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.72171
 longitude: 11.35621
 postcode: "07407"
 city: Rudolstadt
-street: "Oststraße"
-housenumber: 24
+street: Oststraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
 website: ""

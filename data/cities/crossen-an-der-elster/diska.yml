@@ -1,11 +1,11 @@
 id: 288148406
-type: way
+type: node
 latitude: 50.96845
 longitude: 11.98148
 postcode: "07613"
 city: Crossen an der Elster
-street: "Lange Wiese"
-housenumber: 4
+street: Lange Wiese
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

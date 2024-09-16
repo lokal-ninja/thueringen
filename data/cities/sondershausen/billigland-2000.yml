@@ -1,11 +1,11 @@
 id: 145982382
-type: way
+type: node
 latitude: 51.36963
 longitude: 10.88394
 postcode: "99706"
 city: Sondershausen
-street: "Hasenholzweg"
-housenumber: 
+street: Hasenholzweg
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

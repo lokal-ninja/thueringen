@@ -4,8 +4,8 @@ latitude: 50.97572
 longitude: 11.04261
 postcode: "99085"
 city: Erfurt
-street: "Thälmannstraße"
-housenumber: 3
+street: Thälmannstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00"
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-20:00
 website: ""

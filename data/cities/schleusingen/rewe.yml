@@ -1,11 +1,11 @@
 id: 55463189
-type: way
+type: node
 latitude: 50.50676
 longitude: 10.74295
 postcode: "98553"
 city: Schleusingen
-street: "Hildburghäuser Straße"
-housenumber: 32
+street: Hildburghäuser Straße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00; Sa 06:00-20:00"
+opening_hours: Mo-Fr 06:00-22:00; Sa 06:00-20:00
 website: ""

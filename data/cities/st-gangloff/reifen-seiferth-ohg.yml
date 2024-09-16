@@ -1,11 +1,11 @@
 id: 89817725
-type: way
+type: node
 latitude: 50.85664
 longitude: 11.91071
 postcode: "07629"
 city: St. Gangloff
-street: "Am Wachtelberg"
-housenumber: 20
+street: Am Wachtelberg
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

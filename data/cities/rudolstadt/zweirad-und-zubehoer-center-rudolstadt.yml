@@ -1,11 +1,11 @@
 id: 142258749
-type: way
+type: node
 latitude: 50.72466
 longitude: 11.35841
 postcode: "07407"
 city: Rudolstadt
-street: "Titaniastraße"
-housenumber: 11
+street: Titaniastraße
+housenumber: "11"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-14:00; Mo,Su,PH off"
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-14:00; Mo,Su,PH off
 website: ""

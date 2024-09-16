@@ -1,11 +1,11 @@
 id: 622377374
-type: way
+type: node
 latitude: 50.65422
 longitude: 12.20844
 postcode: "07973"
 city: Greiz
-street: "Turnerstraße"
-housenumber: 1
+street: Turnerstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.98128
 longitude: 11.04676
 postcode: "99085"
 city: Erfurt
-street: "Geschwister-Scholl-Straße"
-housenumber: 53
-phone: "+49 361 78912583"
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "http://www.blue-diamond-erfurt.de"
+street: Geschwister-Scholl-Straße
+housenumber: "53"
+phone: +49 361 78912583
+opening_hours: Mo-Sa 09:00-21:00
+website: http://www.blue-diamond-erfurt.de

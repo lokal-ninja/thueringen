@@ -4,8 +4,9 @@ latitude: 50.3407
 longitude: 11.18003
 postcode: "96515"
 city: Sonneberg
-street: "Thomas-Müntzer-Straße"
-housenumber: 1
+street: Thomas-Müntzer-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo 08:00-13:00; Tu,We 08:00-13:00,14:30-17:30; Th,Fr 08:00-17:30; Sa 08:00-11:00; Su,PH off"
+opening_hours: Mo 08:00-13:00; Tu,We 08:00-13:00,14:30-17:30; Th,Fr 08:00-17:30; Sa
+    08:00-11:00; Su,PH off
 website: ""

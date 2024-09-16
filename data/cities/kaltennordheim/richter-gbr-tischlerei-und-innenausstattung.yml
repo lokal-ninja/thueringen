@@ -1,11 +1,11 @@
 id: 205232587
-type: way
+type: node
 latitude: 50.63073
 longitude: 10.15566
 postcode: "36452"
 city: Kaltennordheim
-street: "Eisenacher Straße"
-housenumber: 6
+street: Eisenacher Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
 website: ""

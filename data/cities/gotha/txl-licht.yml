@@ -1,11 +1,11 @@
 id: 932053993
-type: way
+type: node
 latitude: 50.9271
 longitude: 10.71172
 postcode: "99867"
 city: Gotha
-street: "Rudloffstraße"
-housenumber: 12
+street: Rudloffstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

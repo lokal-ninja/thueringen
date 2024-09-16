@@ -1,11 +1,11 @@
 id: 123099012
-type: way
+type: node
 latitude: 50.85376
 longitude: 11.89251
 postcode: "07629"
 city: St. Gangloff
-street: "Talstraße"
+street: Talstraße
 housenumber: 6 A
 phone: ""
-opening_hours: "Tu-Su 08:00-17:00"
+opening_hours: Tu-Su 08:00-17:00
 website: ""

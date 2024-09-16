@@ -1,11 +1,11 @@
 id: 120745085
-type: way
+type: node
 latitude: 50.88415
 longitude: 12.34791
 postcode: "04626"
 city: Schmölln
-street: "Blumenstraße"
-housenumber: 2
+street: Blumenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa,Sa 08:00-16:00; Su,PH off"
+opening_hours: Mo-Fr 08:00-19:00; Sa,Sa 08:00-16:00; Su,PH off
 website: ""

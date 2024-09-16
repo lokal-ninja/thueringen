@@ -4,8 +4,8 @@ latitude: 50.92675
 longitude: 11.58359
 postcode: "07743"
 city: Jena
-street: "Engelplatz"
-housenumber: 10
+street: Engelplatz
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 07:00-24:00, Sa 10:00-20:00"
+opening_hours: Mo-Fr 07:00-24:00, Sa 10:00-20:00
 website: ""

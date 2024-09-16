@@ -1,11 +1,11 @@
 id: 111836944
-type: way
-latitude: 50.65653
-longitude: 11.39185
+type: node
+latitude: 50.65703
+longitude: 11.39189
 postcode: "07318"
 city: Saalfeld/Saale
-street: "Rasenweg"
-housenumber: 2
+street: Rasenweg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-16:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 223278839
-type: way
+type: node
 latitude: 51.17066
 longitude: 11.13042
 postcode: "99610"
 city: Sömmerda
-street: "Leubinger Straße"
-housenumber: 15
+street: Leubinger Straße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

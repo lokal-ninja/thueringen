@@ -1,11 +1,11 @@
 id: 750208028
-type: way
+type: node
 latitude: 50.9539
 longitude: 12.31781
 postcode: "04626"
 city: Göllnitz
-street: "Lindenstraße"
-housenumber: 10
+street: Lindenstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

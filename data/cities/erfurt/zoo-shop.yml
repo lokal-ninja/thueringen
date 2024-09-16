@@ -1,11 +1,11 @@
 id: 28323935
-type: way
+type: node
 latitude: 51.02122
 longitude: 11.02587
 postcode: "99087"
 city: Erfurt
-street: "Am Zoopark"
-housenumber: 1
+street: Am Zoopark
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

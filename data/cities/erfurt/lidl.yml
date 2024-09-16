@@ -4,8 +4,8 @@ latitude: 50.95882
 longitude: 11.06235
 postcode: "99099"
 city: Erfurt
-street: "Scharnhorststraße"
-housenumber: 66
+street: Scharnhorststraße
+housenumber: "66"
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00"
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-20:00
 website: ""

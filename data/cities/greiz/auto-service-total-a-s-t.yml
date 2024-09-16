@@ -1,11 +1,11 @@
 id: 582491413
-type: way
+type: node
 latitude: 50.66327
 longitude: 12.22283
 postcode: "07973"
 city: Greiz
-street: "Sorbenstraße"
-housenumber: 4
+street: Sorbenstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00"
+opening_hours: Mo-Fr 09:00-19:00
 website: ""

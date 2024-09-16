@@ -1,11 +1,11 @@
 id: 316084528
-type: way
+type: node
 latitude: 50.85942
 longitude: 10.95672
 postcode: "99310"
 city: Arnstadt
-street: "Am Lützer Feld"
-housenumber: 14
+street: Am Lützer Feld
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

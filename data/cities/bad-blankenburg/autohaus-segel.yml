@@ -1,11 +1,11 @@
 id: 39426596
-type: way
+type: node
 latitude: 50.68395
 longitude: 11.28109
 postcode: "07422"
 city: Bad Blankenburg
-street: "Rudolstädter Straße"
-housenumber: 13
-phone: "+49 36741 72040"
+street: Rudolstädter Straße
+housenumber: "13"
+phone: +49 36741 72040
 opening_hours: ""
 website: ""

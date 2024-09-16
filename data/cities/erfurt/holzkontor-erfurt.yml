@@ -1,11 +1,11 @@
 id: 169210806
-type: way
+type: node
 latitude: 50.93697
 longitude: 10.98381
 postcode: "99094"
 city: Erfurt
-street: "Dorstbornstraße"
-housenumber: 16
+street: Dorstbornstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:30; Sa 08:00-12:00; Su,PH off"
+opening_hours: Mo-Fr 07:30-17:30; Sa 08:00-12:00; Su,PH off
 website: ""

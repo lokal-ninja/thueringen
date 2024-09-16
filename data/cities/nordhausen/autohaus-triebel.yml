@@ -1,11 +1,11 @@
 id: 135372762
-type: way
+type: node
 latitude: 51.4901
 longitude: 10.83002
 postcode: "99734"
 city: Nordhausen
-street: "Nordhäuser Straße"
-housenumber: 11
+street: Nordhäuser Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

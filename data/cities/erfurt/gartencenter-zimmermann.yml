@@ -1,11 +1,11 @@
 id: 34851868
-type: way
+type: node
 latitude: 50.98914
 longitude: 11.05409
 postcode: "99085"
 city: Erfurt
-street: "Leipziger Straße"
+street: Leipziger Straße
 housenumber: 75b
 phone: ""
 opening_hours: ""
-website: "https://www.gartencenter-erfurt.de/"
+website: https://www.gartencenter-erfurt.de/

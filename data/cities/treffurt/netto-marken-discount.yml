@@ -1,11 +1,11 @@
 id: 237014706
-type: way
+type: node
 latitude: 51.13552
 longitude: 10.22857
 postcode: "99830"
 city: Treffurt
-street: "Straße des Friedens"
+street: Straße des Friedens
 housenumber: 4e
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

@@ -1,11 +1,11 @@
 id: 217668967
-type: way
+type: node
 latitude: 50.70078
 longitude: 11.61149
 postcode: "07381"
 city: Pößneck
-street: "Neustädter Straße"
-housenumber: 131
+street: Neustädter Straße
+housenumber: "131"
 phone: ""
 opening_hours: ""
 website: ""

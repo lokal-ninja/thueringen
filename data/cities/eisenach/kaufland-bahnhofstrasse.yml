@@ -4,8 +4,8 @@ latitude: 50.97579
 longitude: 10.32883
 postcode: "99817"
 city: Eisenach
-street: "Bahnhofstraße"
-housenumber: 8
-phone: "+49 3691 787800"
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00"
+street: Bahnhofstraße
+housenumber: "8"
+phone: +49 3691 787800
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 436257617
-type: way
+type: node
 latitude: 51.01508
 longitude: 11.03574
 postcode: "99087"
 city: Erfurt
-street: "Justus-Liebig-Straße"
-housenumber: 22
+street: Justus-Liebig-Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

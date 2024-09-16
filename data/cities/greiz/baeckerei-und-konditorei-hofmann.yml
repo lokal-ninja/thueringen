@@ -1,11 +1,11 @@
 id: 176808507
-type: way
+type: node
 latitude: 50.65721
 longitude: 12.19961
 postcode: "07973"
 city: Greiz
-street: "Am Markt"
-housenumber: 6
+street: Am Markt
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

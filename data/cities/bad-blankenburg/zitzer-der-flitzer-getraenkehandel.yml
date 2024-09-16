@@ -1,11 +1,11 @@
 id: 65487922
-type: way
+type: node
 latitude: 50.6855
 longitude: 11.25892
 postcode: "07422"
 city: Bad Blankenburg
-street: "Königseer Straße"
-housenumber: 6
+street: Königseer Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

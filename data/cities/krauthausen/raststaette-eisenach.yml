@@ -1,11 +1,11 @@
 id: 303502088
-type: way
+type: node
 latitude: 51.00768
 longitude: 10.24956
 postcode: "99819"
 city: Krauthausen
-street: "An der Autobahn"
-housenumber: 
+street: An der Autobahn
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

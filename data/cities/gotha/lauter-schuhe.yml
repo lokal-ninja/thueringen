@@ -4,8 +4,8 @@ latitude: 50.94977
 longitude: 10.70228
 postcode: "99867"
 city: Gotha
-street: "Marktstraße"
-housenumber: 3
-phone: "+49 3621 7387440"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-16:00"
-website: "http://www.lauter-schuhe.de/Gotha.html"
+street: Marktstraße
+housenumber: "3"
+phone: +49 3621 7387440
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-16:00
+website: http://www.lauter-schuhe.de/Gotha.html

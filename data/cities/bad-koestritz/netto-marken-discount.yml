@@ -1,11 +1,11 @@
 id: 27472790
-type: way
+type: node
 latitude: 50.92989
 longitude: 12.02156
 postcode: "07586"
 city: Bad Köstritz
-street: "Bahnhofstraße"
-housenumber: 52
+street: Bahnhofstraße
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

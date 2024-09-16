@@ -1,11 +1,11 @@
 id: 161956611
-type: way
+type: node
 latitude: 51.38714
 longitude: 10.84397
 postcode: "99706"
 city: Sondershausen
-street: "Schachtstraße"
-housenumber: 14
+street: Schachtstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://liebeautos.de/"
+website: https://liebeautos.de/

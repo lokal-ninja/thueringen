@@ -1,11 +1,11 @@
 id: 180537608
-type: way
+type: node
 latitude: 51.50333
 longitude: 10.79215
 postcode: "99734"
 city: Nordhausen
-street: "Gumpertstraße"
-housenumber: 12
+street: Gumpertstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

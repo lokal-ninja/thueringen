@@ -1,11 +1,11 @@
 id: 91027249
-type: way
+type: node
 latitude: 50.99234
 longitude: 10.29336
 postcode: "99817"
 city: Eisenach
-street: "An der Karlskuppe"
-housenumber: 11
+street: An der Karlskuppe
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

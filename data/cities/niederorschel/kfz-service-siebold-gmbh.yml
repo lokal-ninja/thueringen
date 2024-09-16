@@ -1,11 +1,11 @@
 id: 143948454
-type: way
+type: node
 latitude: 51.37998
 longitude: 10.42384
 postcode: "37355"
 city: Niederorschel
-street: "Lindenstraße"
-housenumber: 4
-phone: "+49 36076 50233"
+street: Lindenstraße
+housenumber: "4"
+phone: +49 36076 50233
 opening_hours: ""
-website: "http://kfz-service-siebold.de/"
+website: http://kfz-service-siebold.de/

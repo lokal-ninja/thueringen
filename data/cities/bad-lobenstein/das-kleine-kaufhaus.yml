@@ -1,11 +1,11 @@
 id: 168123138
-type: way
+type: node
 latitude: 50.45268
 longitude: 11.64008
 postcode: "07356"
 city: Bad Lobenstein
-street: "Emil-Otto-Straße"
-housenumber: 5
+street: Emil-Otto-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

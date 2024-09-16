@@ -1,11 +1,11 @@
 id: 192081159
-type: way
+type: node
 latitude: 50.58124
 longitude: 11.8092
 postcode: "07907"
 city: Schleiz
-street: "Geraer Straße"
-housenumber: 28
+street: Geraer Straße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

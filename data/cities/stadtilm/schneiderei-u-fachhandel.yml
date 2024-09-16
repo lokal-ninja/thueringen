@@ -4,8 +4,8 @@ latitude: 50.77369
 longitude: 11.08306
 postcode: "99326"
 city: Stadtilm
-street: "Markt"
-housenumber: 32
-phone: "+49 3629 801352"
-opening_hours: "Tu-Th 09:00-18:00; Fr 09:00-15:00"
+street: Markt
+housenumber: "32"
+phone: +49 3629 801352
+opening_hours: Tu-Th 09:00-18:00; Fr 09:00-15:00
 website: ""

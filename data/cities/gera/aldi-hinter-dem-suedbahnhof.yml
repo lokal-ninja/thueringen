@@ -1,11 +1,11 @@
 id: 17049383
-type: way
+type: node
 latitude: 50.86737
 longitude: 12.07869
 postcode: "07548"
 city: Gera
-street: "Hinter dem Südbahnhof"
-housenumber: 1
+street: Hinter dem Südbahnhof
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

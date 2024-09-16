@@ -4,8 +4,8 @@ latitude: 50.83393
 longitude: 10.94728
 postcode: "99310"
 city: Arnstadt
-street: "Erfurter Straße"
-housenumber: 3
+street: Erfurter Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 08:30-19:00; Sa 09:00-13:00
 website: ""

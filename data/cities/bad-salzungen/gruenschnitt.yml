@@ -1,11 +1,11 @@
 id: 217365711
-type: way
+type: node
 latitude: 50.80129
 longitude: 10.23412
 postcode: "36433"
 city: Bad Salzungen
-street: "Kaltenborner Straße"
-housenumber: 77
+street: Kaltenborner Straße
+housenumber: "77"
 phone: ""
 opening_hours: ""
 website: ""

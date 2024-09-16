@@ -1,11 +1,11 @@
 id: 88445309
-type: way
+type: node
 latitude: 50.56308
 longitude: 11.89674
 postcode: "07907"
 city: Schleiz
-street: "Waldhäuser"
-housenumber: 7
+street: Waldhäuser
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

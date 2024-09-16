@@ -4,8 +4,8 @@ latitude: 50.72182
 longitude: 10.45194
 postcode: "98574"
 city: Schmalkalden
-street: "Salzbrücke"
-housenumber: 1
+street: Salzbrücke
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-14:00; Sa 10:00-12:00"
+opening_hours: Mo-Fr 10:00-14:00; Sa 10:00-12:00
 website: ""

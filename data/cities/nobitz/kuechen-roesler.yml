@@ -4,8 +4,8 @@ latitude: 50.98161
 longitude: 12.48646
 postcode: "04603"
 city: Nobitz
-street: "Am Gewerbegebiet"
-housenumber: 9
-phone: "+49 3447 506932"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.kuechen-roesler.de/"
+street: Am Gewerbegebiet
+housenumber: "9"
+phone: +49 3447 506932
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.kuechen-roesler.de/

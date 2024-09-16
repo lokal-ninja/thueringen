@@ -1,11 +1,11 @@
 id: 30157661
-type: way
+type: node
 latitude: 50.88322
 longitude: 11.61778
 postcode: "07747"
 city: Jena
-street: "Salvador-Allende-Platz"
-housenumber: 25
+street: Salvador-Allende-Platz
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 06:00-24:00; Sa 06:00-20:00; PH off"
+opening_hours: Mo-Fr 06:00-24:00; Sa 06:00-20:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 121081001
-type: way
+type: node
 latitude: 50.84198
 longitude: 10.94948
 postcode: "99310"
 city: Arnstadt
-street: "Rehestädter Weg"
-housenumber: 2
+street: Rehestädter Weg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

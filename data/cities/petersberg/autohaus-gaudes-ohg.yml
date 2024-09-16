@@ -1,11 +1,11 @@
 id: 409075318
-type: way
+type: node
 latitude: 50.9687
 longitude: 11.84894
 postcode: "07616"
 city: Petersberg
-street: "Eschenweg"
-housenumber: 4
+street: Eschenweg
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

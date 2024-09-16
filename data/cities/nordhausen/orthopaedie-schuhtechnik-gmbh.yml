@@ -1,11 +1,11 @@
 id: 138126377
-type: way
+type: node
 latitude: 51.49603
 longitude: 10.79609
 postcode: "99734"
 city: Nordhausen
-street: "Sundhäuser Straße"
-housenumber: 2
+street: Sundhäuser Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

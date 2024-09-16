@@ -4,8 +4,8 @@ latitude: 50.35535
 longitude: 11.22017
 postcode: "96515"
 city: Sonneberg
-street: "Bauernweg"
-housenumber: 9
+street: Bauernweg
+housenumber: "9"
 phone: ""
-opening_hours: "Mo 10:00-17:00; Th 10:00-18:00; Tu,We,Fr-Su,PH off"
+opening_hours: Mo 10:00-17:00; Th 10:00-18:00; Tu,We,Fr-Su,PH off
 website: ""

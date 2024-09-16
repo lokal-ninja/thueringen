@@ -1,11 +1,11 @@
 id: 87202512
-type: way
+type: node
 latitude: 50.70292
 longitude: 11.62443
 postcode: "07381"
 city: Pößneck
-street: "Weidenäckerstraße"
-housenumber: 2
+street: Weidenäckerstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su,PH off"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su,PH off
 website: ""

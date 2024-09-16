@@ -4,8 +4,8 @@ latitude: 50.77536
 longitude: 12.06267
 postcode: "07570"
 city: Weida
-street: "Geraer Straße"
-housenumber: 40
-phone: "+49 36603 6 12 11"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://baeckerei-kunze.de/"
+street: Geraer Straße
+housenumber: "40"
+phone: +49 36603 6 12 11
+opening_hours: Mo-Sa 07:00-20:00
+website: https://baeckerei-kunze.de/

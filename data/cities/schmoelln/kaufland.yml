@@ -1,11 +1,11 @@
 id: 483394256
-type: way
+type: node
 latitude: 50.89459
 longitude: 12.35217
 postcode: "04626"
 city: Schmölln
-street: "Markt"
-housenumber: 11
+street: Markt
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-20:00; Su,PH off
 website: ""

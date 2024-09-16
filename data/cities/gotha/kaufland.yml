@@ -4,8 +4,8 @@ latitude: 50.94842
 longitude: 10.695
 postcode: "99867"
 city: Gotha
-street: "Bürgeraue"
-housenumber: 2
+street: Bürgeraue
+housenumber: "2"
 phone: "+49362142660"
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00"
-website: "https://www.kaufland.de/"
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-20:00
+website: https://www.kaufland.de/

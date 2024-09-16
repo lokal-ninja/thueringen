@@ -1,11 +1,11 @@
 id: 418331227
-type: way
+type: node
 latitude: 50.97079
 longitude: 11.89043
 postcode: "07607"
 city: Eisenberg
-street: "Mozartstraße"
-housenumber: 3
+street: Mozartstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 179779130
-type: way
+type: node
 latitude: 50.89248
 longitude: 11.8673
 postcode: "07629"
 city: Hermsdorf
-street: "Lahnsteiner Straße"
-housenumber: 5
-phone: "+4936601-79 70"
+street: Lahnsteiner Straße
+housenumber: "5"
+phone: +4936601-79 70
 opening_hours: ""
 website: ""

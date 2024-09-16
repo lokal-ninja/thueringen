@@ -1,11 +1,11 @@
 id: 484684941
-type: way
+type: node
 latitude: 50.9564
 longitude: 10.39553
 postcode: "99848"
 city: Wutha-Farnroda
-street: "Gothaer Straße"
-housenumber: 56
+street: Gothaer Straße
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

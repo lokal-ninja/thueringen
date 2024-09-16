@@ -1,11 +1,11 @@
 id: 215797155
-type: way
+type: node
 latitude: 50.99405
 longitude: 12.45024
 postcode: "04600"
 city: Altenburg
-street: "Hausweg"
-housenumber: 41
+street: Hausweg
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-We 06:30-16:00; Th 06:30-17:00; Fr 06:30-15:00; Sa,Su,PH off"
+opening_hours: Mo-We 06:30-16:00; Th 06:30-17:00; Fr 06:30-15:00; Sa,Su,PH off
 website: ""

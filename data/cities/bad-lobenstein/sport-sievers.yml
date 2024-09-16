@@ -1,11 +1,11 @@
 id: 200565332
-type: way
+type: node
 latitude: 50.44882
 longitude: 11.64171
 postcode: "07356"
 city: Bad Lobenstein
-street: "Parkstraße"
+street: Parkstraße
 housenumber: 3a
 phone: ""
-opening_hours: "Mo-Fr 09:30-13:00,14:00-18:00; Sa 09:30-11:30; Su,PH off"
+opening_hours: Mo-Fr 09:30-13:00,14:00-18:00; Sa 09:30-11:30; Su,PH off
 website: ""

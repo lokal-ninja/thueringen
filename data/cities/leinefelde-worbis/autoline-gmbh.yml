@@ -1,11 +1,11 @@
 id: 121238144
-type: way
+type: node
 latitude: 51.37703
 longitude: 10.32133
 postcode: "37327"
 city: Leinefelde-Worbis
-street: "Bonifatiusplatz"
-housenumber: 16
+street: Bonifatiusplatz
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

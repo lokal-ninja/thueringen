@@ -1,11 +1,11 @@
 id: 592855371
-type: way
+type: node
 latitude: 50.68777
 longitude: 12.02302
 postcode: "07950"
 city: Zeulenroda-Triebes
-street: "Triebesgrund"
-housenumber: 5
+street: Triebesgrund
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

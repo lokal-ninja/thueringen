@@ -1,11 +1,11 @@
 id: 595959368
-type: way
+type: node
 latitude: 50.67817
 longitude: 12.06829
 postcode: "07957"
 city: Langenwetzendorf
-street: "Hirschbach"
-housenumber: 19
+street: Hirschbach
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 07:00-12:00,13:00-17:00; Sa 08:00-12:00; Su,PH off"
+opening_hours: Mo-Fr 07:00-12:00,13:00-17:00; Sa 08:00-12:00; Su,PH off
 website: ""

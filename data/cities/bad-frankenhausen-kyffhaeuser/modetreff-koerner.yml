@@ -1,11 +1,11 @@
 id: 448563558
-type: way
+type: node
 latitude: 51.35742
 longitude: 11.10077
 postcode: "06567"
 city: Bad Frankenhausen/Kyffhäuser
-street: "Erfurter Straße"
-housenumber: 2
+street: Erfurter Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

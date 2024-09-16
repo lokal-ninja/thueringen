@@ -1,11 +1,11 @@
 id: 220233904
-type: way
+type: node
 latitude: 50.93646
 longitude: 11.59554
 postcode: "07749"
 city: Jena
-street: "Löbstedter Straße"
-housenumber: 33
+street: Löbstedter Straße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-12:00
 website: ""

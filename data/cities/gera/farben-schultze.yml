@@ -1,11 +1,11 @@
 id: 108842477
-type: way
+type: node
 latitude: 50.86188
 longitude: 12.0855
 postcode: "07551"
 city: Gera
-street: "Braustraße"
-housenumber: 4
+street: Braustraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Th 06:30-17:00; Fr 06:30-16:00; Sa,Su,PH off"
+opening_hours: Mo-Th 06:30-17:00; Fr 06:30-16:00; Sa,Su,PH off
 website: ""

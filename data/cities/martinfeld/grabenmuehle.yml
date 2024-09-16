@@ -1,11 +1,11 @@
 id: 401678347
-type: way
+type: node
 latitude: 51.2796
 longitude: 10.17269
 postcode: "37308"
 city: Martinfeld
-street: "Grabenmühle"
-housenumber: 1
-phone: "+49 36082 89319"
-opening_hours: "Mo-Fr 08:00-13:00,14:00-18:00; Sa 08:00-13:00"
+street: Grabenmühle
+housenumber: "1"
+phone: +49 36082 89319
+opening_hours: Mo-Fr 08:00-13:00,14:00-18:00; Sa 08:00-13:00
 website: ""

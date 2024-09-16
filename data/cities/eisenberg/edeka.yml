@@ -1,11 +1,11 @@
 id: 117867296
-type: way
+type: node
 latitude: 50.97011
 longitude: 11.89755
 postcode: "07607"
 city: Eisenberg
-street: "Schützenplatz"
-housenumber: 1
+street: Schützenplatz
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

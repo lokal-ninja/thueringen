@@ -1,11 +1,11 @@
 id: 122698282
-type: way
+type: node
 latitude: 50.8572
 longitude: 10.95658
 postcode: "99310"
 city: Arnstadt
-street: "Alfred-Ley-Straße"
-housenumber: 5
+street: Alfred-Ley-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

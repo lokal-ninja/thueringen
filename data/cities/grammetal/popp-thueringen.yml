@@ -1,11 +1,11 @@
 id: 91322773
-type: way
+type: node
 latitude: 50.96626
 longitude: 11.25414
 postcode: "99428"
 city: Grammetal
-street: "Steinbrüchenstraße"
-housenumber: 9
-phone: "+49-3643-8288-0"
+street: Steinbrüchenstraße
+housenumber: "9"
+phone: +49-3643-8288-0
 opening_hours: ""
-website: "https://www.popp-thueringen.de/de/pkw/kontakt/standorte/nohra"
+website: https://www.popp-thueringen.de/de/pkw/kontakt/standorte/nohra

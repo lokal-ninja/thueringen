@@ -4,8 +4,8 @@ latitude: 50.97421
 longitude: 11.03752
 postcode: "99084"
 city: Erfurt
-street: "Schmidtstedter Straße"
-housenumber: 12
+street: Schmidtstedter Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 09:30-13:00,14:00-18:30; Sa 10:00-13:00"
-website: "https://www.thiemann-elektronik.de/"
+opening_hours: Mo-Fr 09:30-13:00,14:00-18:30; Sa 10:00-13:00
+website: https://www.thiemann-elektronik.de/

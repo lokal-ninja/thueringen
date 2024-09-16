@@ -4,8 +4,8 @@ latitude: 50.9811
 longitude: 11.31399
 postcode: "99423"
 city: Weimar
-street: "Erfurter Straße"
-housenumber: 56
+street: Erfurter Straße
+housenumber: "56"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:00; Sa 09:00-13:00; We off"
+opening_hours: Mo,Tu,Th,Fr 09:00-18:00; Sa 09:00-13:00; We off
 website: ""

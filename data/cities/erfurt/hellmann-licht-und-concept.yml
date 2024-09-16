@@ -4,8 +4,8 @@ latitude: 50.97566
 longitude: 11.02653
 postcode: "99084"
 city: Erfurt
-street: "Lange Brücke"
-housenumber: 9
+street: Lange Brücke
+housenumber: "9"
 phone: ""
-opening_hours: "Mo 09:00-15:00; Tu-Fr 09:00-18:00; Sa 09:00-14:00"
+opening_hours: Mo 09:00-15:00; Tu-Fr 09:00-18:00; Sa 09:00-14:00
 website: ""

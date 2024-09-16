@@ -1,11 +1,11 @@
 id: 29102245
-type: way
+type: node
 latitude: 51.03367
 longitude: 11.5097
 postcode: "99510"
 city: Apolda
-street: "Leutloffstraße"
-housenumber: 44
+street: Leutloffstraße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-16:00"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-16:00
 website: ""

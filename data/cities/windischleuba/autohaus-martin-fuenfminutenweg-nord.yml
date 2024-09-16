@@ -1,11 +1,11 @@
 id: 42353594
-type: way
+type: node
 latitude: 51.01258
 longitude: 12.45708
 postcode: "04603"
 city: Windischleuba
-street: "Fünfminutenweg Nord"
-housenumber: 2
+street: Fünfminutenweg Nord
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th 09:00-18:00; Fr 09:00-17:00; Sa 09:00-12:00; Su,PH off"
+opening_hours: Mo-Th 09:00-18:00; Fr 09:00-17:00; Sa 09:00-12:00; Su,PH off
 website: ""

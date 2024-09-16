@@ -1,11 +1,11 @@
 id: 227294877
-type: way
+type: node
 latitude: 50.94384
 longitude: 11.76616
 postcode: "07616"
 city: Bürgel
-street: "In den Satteln"
-housenumber: 4
+street: In den Satteln
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00; Sa 06:00-20:00; Su,PH off"
+opening_hours: Mo-Fr 06:00-22:00; Sa 06:00-20:00; Su,PH off
 website: ""

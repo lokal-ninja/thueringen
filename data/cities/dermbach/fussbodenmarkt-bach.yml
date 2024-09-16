@@ -1,11 +1,11 @@
 id: 37950151
-type: way
+type: node
 latitude: 50.7141
 longitude: 10.1247
 postcode: "36466"
 city: Dermbach
-street: "An der Zehnt"
-housenumber: 5
+street: An der Zehnt
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 38089053
-type: way
+type: node
 latitude: 50.37253
 longitude: 10.60104
 postcode: "98630"
 city: Römhild
-street: "Neuer Weg"
-housenumber: 3
+street: Neuer Weg
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

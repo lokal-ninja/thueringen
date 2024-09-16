@@ -1,11 +1,11 @@
 id: 415530526
-type: way
+type: node
 latitude: 51.5827
 longitude: 10.78641
 postcode: "99768"
 city: Harztor
-street: "Ilgerstraße"
-housenumber: 53
+street: Ilgerstraße
+housenumber: "53"
 phone: ""
 opening_hours: ""
-website: "https://www.fleischerei-fessel.de/"
+website: https://www.fleischerei-fessel.de/

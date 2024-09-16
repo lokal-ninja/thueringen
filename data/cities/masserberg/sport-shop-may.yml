@@ -4,8 +4,8 @@ latitude: 50.52003
 longitude: 10.96901
 postcode: "98666"
 city: Masserberg
-street: "Hauptstraße"
-housenumber: 35
+street: Hauptstraße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00; Su,PH off"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00; Su,PH off
 website: ""

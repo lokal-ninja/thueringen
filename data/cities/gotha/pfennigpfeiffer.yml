@@ -4,8 +4,8 @@ latitude: 50.9524
 longitude: 10.71433
 postcode: "99867"
 city: Gotha
-street: "Oststraße"
-housenumber: 51
+street: Oststraße
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
 website: ""

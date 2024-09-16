@@ -1,11 +1,11 @@
 id: 147952945
-type: way
+type: node
 latitude: 50.65948
 longitude: 11.45435
 postcode: "07333"
 city: Unterwellenborn
-street: "Kronacher Straße"
-housenumber: 9
+street: Kronacher Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00; Sa 06:00-20:00; Su,PH off"
-website: "https://filiale.kaufland.de/service/filiale/unterwellenborn-3520.html"
+opening_hours: Mo-Fr 06:00-22:00; Sa 06:00-20:00; Su,PH off
+website: https://filiale.kaufland.de/service/filiale/unterwellenborn-3520.html

@@ -4,8 +4,8 @@ latitude: 50.98312
 longitude: 11.01721
 postcode: "99092"
 city: Erfurt
-street: "Blumenstraße"
-housenumber: 89
-phone: "+49 (0) 361 2110909"
-opening_hours: "Mo,Tu,Th,Fr 08:00-19:00; We 08:00-20:00; Sa 07:00-13:00"
-website: "https://andrea-haarmoden.de/"
+street: Blumenstraße
+housenumber: "89"
+phone: +49 (0) 361 2110909
+opening_hours: Mo,Tu,Th,Fr 08:00-19:00; We 08:00-20:00; Sa 07:00-13:00
+website: https://andrea-haarmoden.de/

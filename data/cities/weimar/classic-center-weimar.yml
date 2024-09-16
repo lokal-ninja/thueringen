@@ -1,11 +1,11 @@
 id: 88832898
-type: way
+type: node
 latitude: 51.00902
 longitude: 11.33434
 postcode: "99427"
 city: Weimar
-street: "Ernst-Busse-Straße"
-housenumber: 33
+street: Ernst-Busse-Straße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00; Sa 06:00-20:00"
+opening_hours: Mo-Fr 06:00-22:00; Sa 06:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 320705349
-type: way
+type: node
 latitude: 51.37746
 longitude: 10.12559
 postcode: "37308"
 city: Heilbad Heiligenstadt
-street: "Bahnhofstraße"
-housenumber: 26
+street: Bahnhofstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

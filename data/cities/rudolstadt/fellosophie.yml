@@ -4,8 +4,8 @@ latitude: 50.71984
 longitude: 11.3449
 postcode: "07407"
 city: Rudolstadt
-street: "Ludwigstraße"
-housenumber: 2
+street: Ludwigstraße
+housenumber: "2"
 phone: ""
-opening_hours: "nach Vereinbarung"
-website: "http://fellosophie.de/"
+opening_hours: '"nach Vereinbarung"'
+website: http://fellosophie.de/

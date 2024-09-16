@@ -4,8 +4,8 @@ latitude: 51.38781
 longitude: 10.32185
 postcode: "37327"
 city: Leinefelde-Worbis
-street: "Bahnhofstraße"
-housenumber: 1
-phone: "+49 3605 5468005"
-opening_hours: "Mo 09:00-15:00; Tu-Th 09:00-21:00; Fr 09:00-18:00"
-website: "https://www.hairwerx.de/"
+street: Bahnhofstraße
+housenumber: "1"
+phone: +49 3605 5468005
+opening_hours: Mo 09:00-15:00; Tu-Th 09:00-21:00; Fr 09:00-18:00
+website: https://www.hairwerx.de/

@@ -1,11 +1,11 @@
 id: 154449172
-type: way
+type: node
 latitude: 50.52746
 longitude: 11.31227
 postcode: "98743"
 city: Gräfenthal
-street: "Probstzellaer Straße"
-housenumber: 15
+street: Probstzellaer Straße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

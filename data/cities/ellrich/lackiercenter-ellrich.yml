@@ -1,11 +1,11 @@
 id: 852047375
-type: way
+type: node
 latitude: 51.5921
 longitude: 10.64925
 postcode: "99755"
 city: Ellrich
-street: "Harzstraße"
-housenumber: 14
-phone: "+4936332 74458"
-opening_hours: "Mo-Fr 08:15-17:00"
+street: Harzstraße
+housenumber: "14"
+phone: +4936332 74458
+opening_hours: Mo-Fr 08:15-17:00
 website: ""

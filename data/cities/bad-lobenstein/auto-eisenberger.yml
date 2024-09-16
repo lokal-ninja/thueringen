@@ -1,11 +1,11 @@
 id: 167974840
-type: way
+type: node
 latitude: 50.4615
 longitude: 11.63001
 postcode: "07356"
 city: Bad Lobenstein
-street: "Am Alten Hügel"
-housenumber: 11
+street: Am Alten Hügel
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

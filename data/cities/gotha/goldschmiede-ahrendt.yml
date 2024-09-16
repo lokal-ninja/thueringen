@@ -4,8 +4,8 @@ latitude: 50.94952
 longitude: 10.70384
 postcode: "99867"
 city: Gotha
-street: "Querstraße"
-housenumber: 3
+street: Querstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 10:00-17:00"
+opening_hours: Mo-Fr 10:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 505529126
-type: way
+type: node
 latitude: 51.05145
 longitude: 10.22747
 postcode: "99831"
 city: Amt Creuzburg
-street: "Bahnhofstraße"
-housenumber: 88
+street: Bahnhofstraße
+housenumber: "88"
 phone: ""
-opening_hours: "Mo-Fr 05:30-22:00; Sa 05:30-20:00"
+opening_hours: Mo-Fr 05:30-22:00; Sa 05:30-20:00
 website: ""

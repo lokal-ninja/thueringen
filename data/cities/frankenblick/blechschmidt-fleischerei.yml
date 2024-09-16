@@ -4,8 +4,8 @@ latitude: 50.40109
 longitude: 11.11787
 postcode: "96528"
 city: Frankenblick
-street: "Mittelhammer"
-housenumber: 5
+street: Mittelhammer
+housenumber: "5"
 phone: ""
-opening_hours: "Tu-Fr 07:30-18:00; Sa 08:00-11:30; Mo,Su,PH off"
+opening_hours: Tu-Fr 07:30-18:00; Sa 08:00-11:30; Mo,Su,PH off
 website: ""

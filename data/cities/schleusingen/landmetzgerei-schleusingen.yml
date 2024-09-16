@@ -1,11 +1,11 @@
 id: 55380381
-type: way
+type: node
 latitude: 50.51154
 longitude: 10.75229
 postcode: "98553"
 city: Schleusingen
-street: "Jägerhausstraße"
-housenumber: 7
+street: Jägerhausstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00; Su,PH off"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00; Su,PH off
 website: ""

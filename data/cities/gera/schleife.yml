@@ -4,8 +4,8 @@ latitude: 50.87958
 longitude: 12.08419
 postcode: "07545"
 city: Gera
-street: "Rudolf-Diener-Straße"
-housenumber: 21
-phone: "+49 365 733 28 695"
-opening_hours: "Mo,Tu,Fr 09:00-16:00; We,Th 12:00-18:00"
-website: "https://www.meine-schleife.de/"
+street: Rudolf-Diener-Straße
+housenumber: "21"
+phone: +49 365 733 28 695
+opening_hours: Mo,Tu,Fr 09:00-16:00; We,Th 12:00-18:00
+website: https://www.meine-schleife.de/

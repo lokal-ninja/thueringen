@@ -1,11 +1,11 @@
 id: 80432437
-type: way
+type: node
 latitude: 50.72177
 longitude: 11.34982
 postcode: "07407"
 city: Rudolstadt
-street: "Frenzelstraße"
-housenumber: 2
+street: Frenzelstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su,PH off"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su,PH off
 website: ""

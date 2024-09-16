@@ -4,8 +4,8 @@ latitude: 50.83963
 longitude: 12.06503
 postcode: "07549"
 city: Gera
-street: "Otto-Rothe-Straße"
-housenumber: 6
-phone: "+49 365 7105960"
-opening_hours: "Mo-Tu 09:30-17:00; We 09:30-16:00; Th-Fr 09:30-18:00; Sa 09:00-12:00"
+street: Otto-Rothe-Straße
+housenumber: "6"
+phone: +49 365 7105960
+opening_hours: Mo-Tu 09:30-17:00; We 09:30-16:00; Th-Fr 09:30-18:00; Sa 09:00-12:00
 website: ""

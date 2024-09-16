@@ -1,11 +1,11 @@
 id: 178085161
-type: way
+type: node
 latitude: 51.36455
 longitude: 11.29354
 postcode: "06556"
 city: Artern
-street: "Leipziger Straße"
-housenumber: 38
-phone: "+49-3466-742570"
+street: Leipziger Straße
+housenumber: "38"
+phone: +49-3466-742570
 opening_hours: ""
 website: ""

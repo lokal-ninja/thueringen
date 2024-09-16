@@ -4,8 +4,8 @@ latitude: 50.97692
 longitude: 11.31943
 postcode: "99423"
 city: Weimar
-street: "Richard-Wagner-Straße"
-housenumber: 17
-phone: "+49 1573 53 553 93"
-opening_hours: "We-Sa 12:00-18:00"
-website: "https://roestbrueder.de"
+street: Richard-Wagner-Straße
+housenumber: "17"
+phone: +49 1573 53 553 93
+opening_hours: We-Sa 12:00-18:00
+website: https://roestbrueder.de

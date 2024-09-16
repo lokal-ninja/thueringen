@@ -1,11 +1,11 @@
 id: 329691845
-type: way
+type: node
 latitude: 50.90397
 longitude: 11.57063
 postcode: "07745"
 city: Jena
-street: "Wacholderweg"
-housenumber: 16
+street: Wacholderweg
+housenumber: "16"
 phone: "+493641601191"
-opening_hours: "Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00,13:00-16:00"
-website: "reifen-wirth.de"
+opening_hours: Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00,13:00-16:00
+website: reifen-wirth.de

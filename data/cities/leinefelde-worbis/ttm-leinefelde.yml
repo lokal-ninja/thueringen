@@ -1,11 +1,11 @@
 id: 138557458
-type: way
+type: node
 latitude: 51.39486
 longitude: 10.32648
 postcode: "37327"
 city: Leinefelde-Worbis
-street: "Berliner Straße"
-housenumber: 55
-phone: "+49 3605 542234"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.ttl-ttm.de/standorte/thueringen/ttm-leinefelde.php"
+street: Berliner Straße
+housenumber: "55"
+phone: +49 3605 542234
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.ttl-ttm.de/standorte/thueringen/ttm-leinefelde.php

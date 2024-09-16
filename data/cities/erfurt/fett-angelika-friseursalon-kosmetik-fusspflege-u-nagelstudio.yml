@@ -4,8 +4,8 @@ latitude: 51.05439
 longitude: 11.03753
 postcode: "99095"
 city: Erfurt
-street: "Walter-Rein-Straße"
-housenumber: 130
-phone: "+49 362 0450467"
-opening_hours: "Mo-Fr 08:00-20:00"
+street: Walter-Rein-Straße
+housenumber: "130"
+phone: +49 362 0450467
+opening_hours: Mo-Fr 08:00-20:00
 website: ""

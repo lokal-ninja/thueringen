@@ -1,11 +1,11 @@
 id: 1198665022
-type: way
+type: node
 latitude: 50.87413
 longitude: 11.64346
 postcode: "07751"
 city: Zöllnitz
-street: "Stadtrodaer Landstraße"
-housenumber: 4
+street: Stadtrodaer Landstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

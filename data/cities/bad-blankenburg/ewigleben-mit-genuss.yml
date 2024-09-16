@@ -1,11 +1,11 @@
 id: 90838182
-type: way
+type: node
 latitude: 50.68392
 longitude: 11.26674
 postcode: "07422"
 city: Bad Blankenburg
-street: "Untere Marktstraße"
+street: Untere Marktstraße
 housenumber: 32a
 phone: ""
-opening_hours: "Tu,Th 13:00-18:00"
-website: "https://www.thueringen.info/marmeladenmanufaktur"
+opening_hours: Tu,Th 13:00-18:00
+website: https://www.thueringen.info/marmeladenmanufaktur

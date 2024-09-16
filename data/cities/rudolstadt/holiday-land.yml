@@ -4,8 +4,8 @@ latitude: 50.71985
 longitude: 11.33745
 postcode: "07407"
 city: Rudolstadt
-street: "Angerstraße"
-housenumber: 1
+street: Angerstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.holidayland-rudolstadt.de/"
+website: https://www.holidayland-rudolstadt.de/

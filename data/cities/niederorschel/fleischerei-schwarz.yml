@@ -1,11 +1,11 @@
 id: 338185947
-type: way
+type: node
 latitude: 51.37143
 longitude: 10.42463
 postcode: "37355"
 city: Niederorschel
-street: "Hauptstraße"
-housenumber: 37
+street: Hauptstraße
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

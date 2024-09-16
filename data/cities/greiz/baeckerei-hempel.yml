@@ -1,11 +1,11 @@
 id: 234339420
-type: way
+type: node
 latitude: 50.66532
 longitude: 12.22359
 postcode: "07973"
 city: Greiz
-street: "Herrmannsgrüner Straße"
-housenumber: 17
+street: Herrmannsgrüner Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

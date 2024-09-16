@@ -1,11 +1,11 @@
 id: 345395128
-type: way
+type: node
 latitude: 51.02312
 longitude: 11.52319
 postcode: "99510"
 city: Apolda
-street: "Utenbacher Straße"
-housenumber: 18
+street: Utenbacher Straße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

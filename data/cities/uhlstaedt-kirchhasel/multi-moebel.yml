@@ -1,11 +1,11 @@
 id: 156225020
-type: way
+type: node
 latitude: 50.72825
 longitude: 11.37792
 postcode: "07407"
 city: Uhlstädt-Kirchhasel
-street: "Alt Saale"
-housenumber: 7
+street: Alt Saale
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

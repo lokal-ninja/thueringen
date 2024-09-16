@@ -1,11 +1,11 @@
 id: 831859848
-type: way
+type: node
 latitude: 51.00637
 longitude: 12.45156
 postcode: "04600"
 city: Altenburg
-street: "Sonnenstraße"
-housenumber: 4
+street: Sonnenstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-16:00; Sa,Su,PH off"
+opening_hours: Mo-Th 07:00-17:00; Fr 07:00-16:00; Sa,Su,PH off
 website: ""

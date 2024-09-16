@@ -1,11 +1,11 @@
 id: 199306541
-type: way
+type: node
 latitude: 50.45529
 longitude: 11.63759
 postcode: "07356"
 city: Bad Lobenstein
-street: "Am Sportplatz"
-housenumber: 3
+street: Am Sportplatz
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

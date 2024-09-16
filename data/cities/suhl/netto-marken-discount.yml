@@ -4,8 +4,8 @@ latitude: 50.63282
 longitude: 10.70501
 postcode: "98528"
 city: Suhl
-street: "Große Beerbergstraße"
-housenumber: 95
+street: Große Beerbergstraße
+housenumber: "95"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

@@ -4,8 +4,8 @@ latitude: 51.20197
 longitude: 10.44572
 postcode: "99974"
 city: Mühlhausen/Thüringen
-street: "Osterwaldstraße"
-housenumber: 1
-phone: "+49 3601 424477"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://fahrzeugservice-goetze.de/"
+street: Osterwaldstraße
+housenumber: "1"
+phone: +49 3601 424477
+opening_hours: Mo-Fr 08:00-18:00
+website: https://fahrzeugservice-goetze.de/

@@ -4,8 +4,8 @@ latitude: 50.88891
 longitude: 10.57041
 postcode: "99880"
 city: Waltershausen
-street: "Johann-Matthäus-Bechstein-Straße"
-housenumber: 30
-phone: "+49 3622 900103"
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00"
-website: "https://www.nahkauf.de/"
+street: Johann-Matthäus-Bechstein-Straße
+housenumber: "30"
+phone: +49 3622 900103
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-20:00
+website: https://www.nahkauf.de/

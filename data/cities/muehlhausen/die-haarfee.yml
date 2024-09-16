@@ -4,8 +4,9 @@ latitude: 51.2103
 longitude: 10.46557
 postcode: "99974"
 city: Mühlhausen
-street: "Görmarstraße"
-housenumber: 28
-phone: "+49 3601 406252"
-opening_hours: "Mo 09:00-13:00; Tu,Th 09:00-18:00; We 09:00-15:00; Fr 09:00-16:00; Sa 09:00-14:00"
+street: Görmarstraße
+housenumber: "28"
+phone: +49 3601 406252
+opening_hours: Mo 09:00-13:00; Tu,Th 09:00-18:00; We 09:00-15:00; Fr 09:00-16:00;
+    Sa 09:00-14:00
 website: ""

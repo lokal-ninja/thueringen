@@ -4,8 +4,8 @@ latitude: 50.95307
 longitude: 10.71456
 postcode: "99867"
 city: Gotha
-street: "Oststraße"
-housenumber: 51
-phone: "+49 3621 512880"
+street: Oststraße
+housenumber: "51"
+phone: +49 3621 512880
 opening_hours: ""
-website: "www.wellness-studio-gotha.de"
+website: www.wellness-studio-gotha.de

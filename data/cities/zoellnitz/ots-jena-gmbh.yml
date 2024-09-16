@@ -1,11 +1,11 @@
 id: 410338375
-type: way
+type: node
 latitude: 50.87381
 longitude: 11.64342
 postcode: "07751"
 city: Zöllnitz
-street: "Stadtrodaer Landstraße"
-housenumber: 4
-phone: "+49 3641 39700"
-opening_hours: "Mo-Fr 07:00-17:00"
-website: "https://www.ots-jena.de/"
+street: Stadtrodaer Landstraße
+housenumber: "4"
+phone: +49 3641 39700
+opening_hours: Mo-Fr 07:00-17:00
+website: https://www.ots-jena.de/

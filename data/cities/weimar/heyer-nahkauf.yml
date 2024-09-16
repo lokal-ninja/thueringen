@@ -4,8 +4,8 @@ latitude: 50.97717
 longitude: 11.32767
 postcode: "99423"
 city: Weimar
-street: "Steubenstraße"
-housenumber: 2
+street: Steubenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-24:00; Sa 07:00-20:00; PH off"
+opening_hours: Mo-Fr 07:00-24:00; Sa 07:00-20:00; PH off
 website: ""

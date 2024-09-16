@@ -1,11 +1,11 @@
 id: 392744850
-type: way
+type: node
 latitude: 50.56767
 longitude: 11.80663
 postcode: "07907"
 city: Schleiz
-street: "Hofer Sraße"
-housenumber: 64
+street: Hofer Sraße
+housenumber: "64"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.70883
 longitude: 10.72498
 postcode: "98559"
 city: Oberhof
-street: "Theo-Neubauer-Straße"
-housenumber: 10
+street: Theo-Neubauer-Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Su 09:00-18:00"
-website: "https://www.sportwelt.shop"
+opening_hours: Mo-Su 09:00-18:00
+website: https://www.sportwelt.shop

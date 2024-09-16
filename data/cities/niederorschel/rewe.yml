@@ -1,11 +1,11 @@
 id: 143715147
-type: way
+type: node
 latitude: 51.37276
 longitude: 10.42144
 postcode: "37355"
 city: Niederorschel
-street: "Bruch"
-housenumber: 8
+street: Bruch
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

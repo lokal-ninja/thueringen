@@ -4,8 +4,8 @@ latitude: 50.91206
 longitude: 10.20707
 postcode: "99834"
 city: Gerstungen
-street: "Bahnhofstraße"
-housenumber: 26
+street: Bahnhofstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

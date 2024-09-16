@@ -1,11 +1,11 @@
 id: 252892594
-type: way
+type: node
 latitude: 50.91967
 longitude: 11.86794
 postcode: "07639"
 city: Bad Klosterlausnitz
-street: "Gartenstraße"
-housenumber: 6
+street: Gartenstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 07:00-12:00,12:30-18:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 07:00-12:00,12:30-18:00; Sa 09:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 397773178
-type: way
+type: node
 latitude: 50.4978
 longitude: 11.6388
 postcode: "07929"
 city: Saalburg-Ebersdorf
-street: "Friesau"
-housenumber: 36
-phone: "+49 36651 87233"
+street: Friesau
+housenumber: "36"
+phone: +49 36651 87233
 opening_hours: ""
 website: ""

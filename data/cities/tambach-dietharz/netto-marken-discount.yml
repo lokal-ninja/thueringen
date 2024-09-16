@@ -4,8 +4,8 @@ latitude: 50.79454
 longitude: 10.61506
 postcode: "99897"
 city: Tambach-Dietharz
-street: "Hauptstraße"
-housenumber: 1
+street: Hauptstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

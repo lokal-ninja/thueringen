@@ -1,11 +1,11 @@
 id: 810464533
-type: way
+type: node
 latitude: 50.72263
 longitude: 11.36728
 postcode: "07407"
 city: Rudolstadt
-street: "Raiffeisenstraße"
-housenumber: 2
-phone: "+49 3672 43 873-18"
+street: Raiffeisenstraße
+housenumber: "2"
+phone: +49 3672 43 873-18
 opening_hours: ""
-website: "https://www.rwz.de/rwz-agrarzentrum-rudolstadt/"
+website: https://www.rwz.de/rwz-agrarzentrum-rudolstadt/

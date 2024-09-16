@@ -4,8 +4,8 @@ latitude: 50.92981
 longitude: 10.71596
 postcode: "99867"
 city: Gotha
-street: "Ohrdrufer Straße"
-housenumber: 46
-phone: "+49 3621 757804"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.pitstop.de/werkstatt/gotha/"
+street: Ohrdrufer Straße
+housenumber: "46"
+phone: +49 3621 757804
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.pitstop.de/werkstatt/gotha/

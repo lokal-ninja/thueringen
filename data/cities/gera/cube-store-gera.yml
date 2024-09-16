@@ -1,11 +1,11 @@
 id: 96611949
-type: way
+type: node
 latitude: 50.84913
 longitude: 12.07649
 postcode: "07549"
 city: Gera
-street: "Heeresbergstraße"
-housenumber: 1
+street: Heeresbergstraße
+housenumber: "1"
 phone: "+493655522440"
-opening_hours: "Mo off; Tu-Fr 10:00-19:00; Sa 10:00-16:00; Su,PH off"
-website: "https://www.radwelt.store/"
+opening_hours: Mo off; Tu-Fr 10:00-19:00; Sa 10:00-16:00; Su,PH off
+website: https://www.radwelt.store/

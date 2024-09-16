@@ -4,8 +4,8 @@ latitude: 50.94939
 longitude: 10.70511
 postcode: "99867"
 city: Gotha
-street: "Mönchelsstraße"
-housenumber: 11
+street: Mönchelsstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Tu-Fr 10:00-13:00,14:00-18:00; Sa 09:00-12:00"
-website: "https://www.modellbahn-gotha.de/"
+opening_hours: Tu-Fr 10:00-13:00,14:00-18:00; Sa 09:00-12:00
+website: https://www.modellbahn-gotha.de/

@@ -1,11 +1,11 @@
 id: 150829342
-type: way
+type: node
 latitude: 50.90823
 longitude: 11.85949
 postcode: "07639"
 city: Bad Klosterlausnitz
-street: "An der Krümme"
-housenumber: 2
+street: An der Krümme
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 06:00-18:00; Sa 08:00-12:00
 website: ""

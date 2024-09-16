@@ -4,8 +4,8 @@ latitude: 50.51213
 longitude: 11.39166
 postcode: "96337"
 city: Ludwigsstadt
-street: "Fischbachsmühle"
-housenumber: 2
+street: Fischbachsmühle
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-17:00; Su,PH 11:00-17:00"
-website: "http://www.fischbachsmuehle.com/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-17:00; Su,PH 11:00-17:00
+website: http://www.fischbachsmuehle.com/

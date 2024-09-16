@@ -1,11 +1,11 @@
 id: 136344493
-type: way
+type: node
 latitude: 51.38883
 longitude: 10.34554
 postcode: "37327"
 city: Leinefelde-Worbis
-street: "Ernemannstraße"
-housenumber: 8
+street: Ernemannstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

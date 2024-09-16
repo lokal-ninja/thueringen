@@ -1,11 +1,11 @@
 id: 926214229
-type: way
+type: node
 latitude: 51.5804
 longitude: 10.67265
 postcode: "99755"
 city: Ellrich
-street: "Goeckingkstraße"
-housenumber: 12
+street: Goeckingkstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

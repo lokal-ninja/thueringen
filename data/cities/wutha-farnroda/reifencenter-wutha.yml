@@ -1,11 +1,11 @@
 id: 484871121
-type: way
+type: node
 latitude: 50.95309
 longitude: 10.39772
 postcode: "99848"
 city: Wutha-Farnroda
-street: "Am Herrenstück"
-housenumber: 33
-phone: "+49 3691 288726"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
+street: Am Herrenstück
+housenumber: "33"
+phone: +49 3691 288726
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
 website: ""

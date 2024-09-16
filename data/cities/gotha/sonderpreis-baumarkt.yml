@@ -4,8 +4,8 @@ latitude: 50.92812
 longitude: 10.71691
 postcode: "99867"
 city: Gotha
-street: "Harjesstraße"
-housenumber: 5
-phone: "+49 3621 5149800"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00; Su off"
-website: "https://www.sonderpreis-baumarkt.de/markt-finden#!/l/gotha/harjesstrasse-5/361512"
+street: Harjesstraße
+housenumber: "5"
+phone: +49 3621 5149800
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00; Su off
+website: https://www.sonderpreis-baumarkt.de/markt-finden#!/l/gotha/harjesstrasse-5/361512

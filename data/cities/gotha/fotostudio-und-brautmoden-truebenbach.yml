@@ -4,8 +4,8 @@ latitude: 50.94887
 longitude: 10.70391
 postcode: "99867"
 city: Gotha
-street: "Querstraße"
-housenumber: 16
-phone: "+49 3621 850865"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-12:00"
-website: "http://www.fotostudio-t.de/"
+street: Querstraße
+housenumber: "16"
+phone: +49 3621 850865
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-12:00
+website: http://www.fotostudio-t.de/

@@ -1,11 +1,11 @@
 id: 549445001
-type: way
+type: node
 latitude: 50.71312
 longitude: 9.95753
 postcode: "36419"
 city: Geisa
-street: "Rhönstraße"
-housenumber: 25
+street: Rhönstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-20:00; Su,PH off
 website: ""

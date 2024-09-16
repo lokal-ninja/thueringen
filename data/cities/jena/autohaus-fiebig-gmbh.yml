@@ -1,11 +1,11 @@
 id: 255697765
-type: way
+type: node
 latitude: 50.89764
 longitude: 11.59348
 postcode: "07745"
 city: Jena
-street: "Göschwitzer Straße"
-housenumber: 2
+street: Göschwitzer Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-12:00
 website: ""

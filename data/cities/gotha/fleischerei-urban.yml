@@ -4,8 +4,8 @@ latitude: 50.94976
 longitude: 10.70432
 postcode: "99867"
 city: Gotha
-street: "Neumarkt"
-housenumber: 8
-phone: "+49 3621 854921"
-opening_hours: "Mo-We 09:00-15:00; Th-Fr 09:00-17:00; Sa 09:00-12:00"
-website: "https://www.partyservice-urban.de/"
+street: Neumarkt
+housenumber: "8"
+phone: +49 3621 854921
+opening_hours: Mo-We 09:00-15:00; Th-Fr 09:00-17:00; Sa 09:00-12:00
+website: https://www.partyservice-urban.de/

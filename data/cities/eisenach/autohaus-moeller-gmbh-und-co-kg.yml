@@ -1,11 +1,11 @@
 id: 52581811
-type: way
+type: node
 latitude: 50.97891
 longitude: 10.30944
 postcode: "99817"
 city: Eisenach
-street: "Bleichrasen"
-housenumber: 20
+street: Bleichrasen
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://www.citroen-haendler.de/moeller-eisenach"
+website: https://www.citroen-haendler.de/moeller-eisenach

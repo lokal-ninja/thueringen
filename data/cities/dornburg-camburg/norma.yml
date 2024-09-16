@@ -1,11 +1,11 @@
 id: 121559201
-type: way
+type: node
 latitude: 51.05369
 longitude: 11.69668
 postcode: "07774"
 city: Dornburg-Camburg
-street: "Schmiedehäuser Straße"
-housenumber: 56
+street: Schmiedehäuser Straße
+housenumber: "56"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

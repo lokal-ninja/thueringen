@@ -1,11 +1,11 @@
 id: 175593263
-type: way
+type: node
 latitude: 51.27034
 longitude: 11.40413
 postcode: "06571"
 city: Roßleben-Wiehe
-street: "Im Gewerbegebiet"
-housenumber: 1
-phone: "+49-34672-60335"
-opening_hours: "Mo-Sa 07:00-20:00"
+street: Im Gewerbegebiet
+housenumber: "1"
+phone: +49-34672-60335
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

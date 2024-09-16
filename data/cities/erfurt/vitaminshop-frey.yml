@@ -4,8 +4,8 @@ latitude: 50.93551
 longitude: 10.99177
 postcode: "99094"
 city: Erfurt
-street: "Backhausstraße"
-housenumber: 9
+street: Backhausstraße
+housenumber: "9"
 phone: ""
-opening_hours: "PH,Su,Mo off; Tu-Fr 09:00-13:00,15:00-18:00; Sa 08:00-11:00"
+opening_hours: PH,Su,Mo off; Tu-Fr 09:00-13:00,15:00-18:00; Sa 08:00-11:00
 website: ""

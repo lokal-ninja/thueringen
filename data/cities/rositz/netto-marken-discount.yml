@@ -1,11 +1,11 @@
 id: 156820167
-type: way
+type: node
 latitude: 51.01811
 longitude: 12.36663
 postcode: "04617"
 city: Rositz
-street: "Ringstraße"
-housenumber: 11
+street: Ringstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

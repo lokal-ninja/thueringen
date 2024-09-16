@@ -1,11 +1,11 @@
 id: 80438419
-type: way
+type: node
 latitude: 50.69999
 longitude: 11.32916
 postcode: "07407"
 city: Rudolstadt
-street: "Prof.-Hermann-Klare-Straße"
-housenumber: 2
+street: Prof.-Hermann-Klare-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "http://www.auto-riviera.com"
+website: http://www.auto-riviera.com

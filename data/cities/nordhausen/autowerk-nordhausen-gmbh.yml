@@ -1,11 +1,11 @@
 id: 128984255
-type: way
+type: node
 latitude: 51.49174
 longitude: 10.82573
 postcode: "99734"
 city: Nordhausen
-street: "Alte Leipziger Straße"
-housenumber: 33
+street: Alte Leipziger Straße
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 227065995
-type: way
+type: node
 latitude: 51.4845
 longitude: 10.80182
 postcode: "99734"
 city: Nordhausen
-street: "Darrweg"
-housenumber: 
+street: Darrweg
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

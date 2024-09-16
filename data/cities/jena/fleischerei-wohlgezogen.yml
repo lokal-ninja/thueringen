@@ -4,8 +4,8 @@ latitude: 50.9476
 longitude: 11.59951
 postcode: "07743"
 city: Jena
-street: "Dornburger Straße"
-housenumber: 163
-phone: "+49 3641 309321"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-12:00"
-website: "https://www.fleischer-wohlgezogen.de/"
+street: Dornburger Straße
+housenumber: "163"
+phone: +49 3641 309321
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-12:00
+website: https://www.fleischer-wohlgezogen.de/

@@ -1,11 +1,11 @@
 id: 211515966
-type: way
+type: node
 latitude: 50.51172
 longitude: 11.21443
 postcode: "98724"
 city: Neuhaus am Rennweg
-street: "Straße des Friedens"
-housenumber: 5
+street: Straße des Friedens
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

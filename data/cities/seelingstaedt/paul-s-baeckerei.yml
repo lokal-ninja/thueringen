@@ -1,11 +1,11 @@
 id: 930322220
-type: way
+type: node
 latitude: 50.78619
 longitude: 12.24257
 postcode: "07580"
 city: Seelingstädt
-street: "Bahnhofstraße"
-housenumber: 64
+street: Bahnhofstraße
+housenumber: "64"
 phone: ""
-opening_hours: "Tu-Fr 07:00-17:00; Sa 07:00-10:00; Mo,Su,PH off"
+opening_hours: Tu-Fr 07:00-17:00; Sa 07:00-10:00; Mo,Su,PH off
 website: ""

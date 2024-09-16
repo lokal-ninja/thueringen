@@ -1,11 +1,11 @@
 id: 217632753
-type: way
+type: node
 latitude: 50.8135
 longitude: 10.24636
 postcode: "36433"
 city: Bad Salzungen
-street: "August-Bebel-Straße"
-housenumber: 33
+street: August-Bebel-Straße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:00"
+opening_hours: Mo-Fr 07:30-17:00
 website: ""

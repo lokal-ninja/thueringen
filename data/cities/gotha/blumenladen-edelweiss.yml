@@ -4,8 +4,8 @@ latitude: 50.94858
 longitude: 10.69542
 postcode: "99867"
 city: Gotha
-street: "Bürgeraue"
-housenumber: 2
+street: Bürgeraue
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.blumenversand-edelweiss.de/filialen/blumenladen-edelweiss-gotha-buergeraue"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.blumenversand-edelweiss.de/filialen/blumenladen-edelweiss-gotha-buergeraue

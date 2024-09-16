@@ -1,11 +1,11 @@
 id: 252762881
-type: way
+type: node
 latitude: 50.91284
 longitude: 11.86395
 postcode: "07639"
 city: Bad Klosterlausnitz
-street: "Bahnhofstraße"
-housenumber: 26
+street: Bahnhofstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 15:00-18:00"
+opening_hours: Mo-Fr 15:00-18:00
 website: ""

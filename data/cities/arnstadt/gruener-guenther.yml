@@ -4,8 +4,8 @@ latitude: 50.8338
 longitude: 10.94721
 postcode: "99310"
 city: Arnstadt
-street: "Erfurter Straße"
-housenumber: 1
+street: Erfurter Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-13:00"
-website: "https://gruenerguenther.de/"
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:00-13:00
+website: https://gruenerguenther.de/

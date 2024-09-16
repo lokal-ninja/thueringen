@@ -1,11 +1,11 @@
 id: 28709719
-type: way
+type: node
 latitude: 50.88106
 longitude: 11.63009
 postcode: "07747"
 city: Jena
-street: "Erlanger Allee"
-housenumber: 102
+street: Erlanger Allee
+housenumber: "102"
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00"
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-20:00
 website: ""

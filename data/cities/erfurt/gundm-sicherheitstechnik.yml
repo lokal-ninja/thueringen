@@ -4,8 +4,8 @@ latitude: 50.98803
 longitude: 11.02753
 postcode: "99086"
 city: Erfurt
-street: "Magdeburger Allee"
-housenumber: 14
-phone: "+49 361 2666928"
-opening_hours: "Mo-Th 08:00-17:30; Fr 08:00-16:00"
-website: "https://www.g-m-schluesseldienst.de/"
+street: Magdeburger Allee
+housenumber: "14"
+phone: +49 361 2666928
+opening_hours: Mo-Th 08:00-17:30; Fr 08:00-16:00
+website: https://www.g-m-schluesseldienst.de/

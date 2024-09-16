@@ -4,8 +4,8 @@ latitude: 50.99283
 longitude: 10.6545
 postcode: "99869"
 city: Nessetal
-street: "Sonneborner Straße"
-housenumber: 33
-phone: "+49 36255 82500"
-opening_hours: "Mo-Fr 06:00-22:00; Sa 06:00-20:00"
-website: "https://www.rewe.de/marktseite/goldbach/1469510/rewe-markt-sonneborner-strasse-33/"
+street: Sonneborner Straße
+housenumber: "33"
+phone: +49 36255 82500
+opening_hours: Mo-Fr 06:00-22:00; Sa 06:00-20:00
+website: https://www.rewe.de/marktseite/goldbach/1469510/rewe-markt-sonneborner-strasse-33/

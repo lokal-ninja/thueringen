@@ -1,11 +1,11 @@
 id: 85694679
-type: way
+type: node
 latitude: 50.57801
 longitude: 10.41768
 postcode: "98617"
 city: Meiningen
-street: "Leipziger Straße"
-housenumber: 15
+street: Leipziger Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00, Sa 08:00-16:00"
+opening_hours: Mo-Fr 07:30-18:00, Sa 08:00-16:00
 website: ""

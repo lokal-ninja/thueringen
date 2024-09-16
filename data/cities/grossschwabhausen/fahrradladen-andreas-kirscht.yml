@@ -4,8 +4,8 @@ latitude: 50.93755
 longitude: 11.48234
 postcode: "99441"
 city: Großschwabhausen
-street: "Am Bahnhof"
-housenumber: 3
+street: Am Bahnhof
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-16:00; Su,PH off"
-website: "https://www.fahrrad-kirscht.de/"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:00-16:00; Su,PH off
+website: https://www.fahrrad-kirscht.de/

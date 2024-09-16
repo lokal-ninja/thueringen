@@ -1,11 +1,11 @@
 id: 40061297
-type: way
+type: node
 latitude: 50.87425
 longitude: 11.67104
 postcode: "07646"
 city: Laasdorf
-street: "Unteranger"
-housenumber: 1
-phone: "036428 - 14 88"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.inkcompany.de"
+street: Unteranger
+housenumber: "1"
+phone: 036428 - 14 88
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.inkcompany.de

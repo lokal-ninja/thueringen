@@ -1,11 +1,11 @@
 id: 90140364
-type: way
+type: node
 latitude: 50.5632
 longitude: 10.41067
 postcode: "98617"
 city: Meiningen
-street: "Schillerstraße"
-housenumber: 14
+street: Schillerstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

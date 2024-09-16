@@ -1,11 +1,11 @@
 id: 30838703
-type: way
+type: node
 latitude: 50.69415
 longitude: 10.92841
 postcode: "98693"
 city: Ilmenau
-street: "Ziolkowskistraße"
-housenumber: 8
+street: Ziolkowskistraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,13:00-18:00"
+opening_hours: Mo-Fr 09:00-12:30,13:00-18:00
 website: ""

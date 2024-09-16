@@ -1,11 +1,11 @@
 id: 150352286
-type: way
+type: node
 latitude: 51.493
 longitude: 10.82191
 postcode: "99734"
 city: Nordhausen
-street: "Hallesche Straße"
-housenumber: 
+street: Hallesche Straße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

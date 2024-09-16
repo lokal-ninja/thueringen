@@ -1,11 +1,11 @@
 id: 362354063
-type: way
+type: node
 latitude: 50.90332
 longitude: 12.10923
 postcode: "07552"
 city: Gera
-street: "Heinrich-Hertz-Straße"
-housenumber: 20
+street: Heinrich-Hertz-Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
 website: ""

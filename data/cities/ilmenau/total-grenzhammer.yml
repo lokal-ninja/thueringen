@@ -1,11 +1,11 @@
 id: 48630915
-type: way
+type: node
 latitude: 50.67869
 longitude: 10.93614
 postcode: "98693"
 city: Ilmenau
-street: "Grenzhammer"
-housenumber: 4
+street: Grenzhammer
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 05:30-22:30; Sa,Su 06:00-23:00"
+opening_hours: Mo-Fr 05:30-22:30; Sa,Su 06:00-23:00
 website: ""

@@ -1,11 +1,11 @@
 id: 503716992
-type: way
+type: node
 latitude: 50.85784
 longitude: 12.07293
 postcode: "07548"
 city: Gera
-street: "Wiesestraße"
-housenumber: 125
-phone: "+49 365 710 52 97"
+street: Wiesestraße
+housenumber: "125"
+phone: +49 365 710 52 97
 opening_hours: ""
-website: "http://bws-autohandel-gera.de"
+website: http://bws-autohandel-gera.de

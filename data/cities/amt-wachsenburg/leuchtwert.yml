@@ -4,8 +4,8 @@ latitude: 50.88545
 longitude: 10.93783
 postcode: "99334"
 city: Amt Wachsenburg
-street: "Carl-Miele-Straße"
-housenumber: 6
-phone: "+49 36202795210"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-15:00"
-website: "https://leuchtwert.de/"
+street: Carl-Miele-Straße
+housenumber: "6"
+phone: +49 36202795210
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-15:00
+website: https://leuchtwert.de/

@@ -1,11 +1,11 @@
 id: 65201419
-type: way
+type: node
 latitude: 50.66672
 longitude: 11.11859
 postcode: "07426"
 city: Königsee-Rottenbach
-street: "Industrie- und Gewerbepark"
-housenumber: 22
+street: Industrie- und Gewerbepark
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.97599
 longitude: 11.02082
 postcode: "99084"
 city: Erfurt
-street: "Peterstraße"
-housenumber: 5
+street: Peterstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.orgteam-erfurt.de/"
+website: https://www.orgteam-erfurt.de/

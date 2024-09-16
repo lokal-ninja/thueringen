@@ -4,8 +4,8 @@ latitude: 50.94879
 longitude: 10.71364
 postcode: "99867"
 city: Gotha
-street: "Mariengasse"
-housenumber: 2
+street: Mariengasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-20:00
+website: https://www.netto-online.de/

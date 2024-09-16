@@ -4,8 +4,8 @@ latitude: 50.92417
 longitude: 11.57395
 postcode: "07745"
 city: Jena
-street: "Magdelstieg"
-housenumber: 31
-phone: "+49 3641 2359 160"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 10:00-21:00"
-website: "https://www.thaitime-massage.de/"
+street: Magdelstieg
+housenumber: "31"
+phone: +49 3641 2359 160
+opening_hours: Mo-Fr 09:00-21:00; Sa 10:00-21:00
+website: https://www.thaitime-massage.de/

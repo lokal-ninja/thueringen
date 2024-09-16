@@ -4,8 +4,8 @@ latitude: 51.38448
 longitude: 10.15411
 postcode: "37308"
 city: Heilbad Heiligenstadt
-street: "Robert-Bosch-strasse"
-housenumber: 5
-phone: "+49 3606 605147"
+street: Robert-Bosch-strasse
+housenumber: "5"
+phone: +49 3606 605147
 opening_hours: ""
-website: "https://bikeshop-erdmann.de"
+website: https://bikeshop-erdmann.de

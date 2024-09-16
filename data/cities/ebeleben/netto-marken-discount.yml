@@ -1,11 +1,11 @@
 id: 216871696
-type: way
+type: node
 latitude: 51.2865
 longitude: 10.74006
 postcode: "99713"
 city: Ebeleben
-street: "Sondershäuser Straße"
-housenumber: 20
+street: Sondershäuser Straße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

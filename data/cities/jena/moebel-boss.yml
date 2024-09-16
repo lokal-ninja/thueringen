@@ -1,11 +1,11 @@
 id: 147549845
-type: way
+type: node
 latitude: 50.95943
 longitude: 11.51199
 postcode: "07751"
 city: Jena
-street: "Weimarische Straße"
+street: Weimarische Straße
 housenumber: 3a
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su,PH off"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 123385262
-type: way
+type: node
 latitude: 50.65462
 longitude: 11.37855
 postcode: "07318"
 city: Saalfeld/Saale
-street: "Pößnecker Straße"
+street: Pößnecker Straße
 housenumber: 48a
 phone: ""
 opening_hours: ""
-website: "https://www.sonderpreis-baumarkt.de/"
+website: https://www.sonderpreis-baumarkt.de/

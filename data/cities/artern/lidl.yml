@@ -1,11 +1,11 @@
 id: 178216068
-type: way
+type: node
 latitude: 51.37368
 longitude: 11.28698
 postcode: "06556"
 city: Artern
-street: "Kachstedter Straße"
-housenumber: 4
+street: Kachstedter Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su off"
+opening_hours: Mo-Sa 08:00-20:00; Su off
 website: ""

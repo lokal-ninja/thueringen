@@ -1,11 +1,11 @@
 id: 99715769
-type: way
+type: node
 latitude: 51.20007
 longitude: 10.47351
 postcode: "99974"
 city: Mühlhausen/Thüringen
-street: "Langensalzaer Landstraße"
-housenumber: 25
+street: Langensalzaer Landstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

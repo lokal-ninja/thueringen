@@ -4,8 +4,9 @@ latitude: 50.73877
 longitude: 12.0848
 postcode: "07570"
 city: Weida
-street: "Dorfstraße"
+street: Dorfstraße
 housenumber: 6A
 phone: ""
-opening_hours: "Tu-We 08:30-12:00, 13:30-18:00; Th 08:30-12:00; Fr 13:30-18:00; Sa 09:00-12:00; Mo, Su, PH off"
+opening_hours: Tu-We 08:30-12:00, 13:30-18:00; Th 08:30-12:00; Fr 13:30-18:00; Sa
+    09:00-12:00; Mo, Su, PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.99489
 longitude: 10.98769
 postcode: "99092"
 city: Erfurt
-street: "Bergener Straße"
-housenumber: 21
-phone: "+49 361 2186765"
-opening_hours: "Mo-Fr 9:00-18:00; Sa 8:00-12:00"
+street: Bergener Straße
+housenumber: "21"
+phone: +49 361 2186765
+opening_hours: Mo-Fr 9:00-18:00; Sa 8:00-12:00
 website: ""

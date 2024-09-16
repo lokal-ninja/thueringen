@@ -4,8 +4,8 @@ latitude: 51.04756
 longitude: 12.29159
 postcode: "04610"
 city: Meuselwitz
-street: "Zeitzer Straße"
-housenumber: 51
+street: Zeitzer Straße
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00; Sa 06:00-20:00; PH,Su off"
-website: "https://www.rewe.de"
+opening_hours: Mo-Fr 06:00-22:00; Sa 06:00-20:00; PH,Su off
+website: https://www.rewe.de

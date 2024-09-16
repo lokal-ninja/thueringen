@@ -1,11 +1,11 @@
 id: 129120480
-type: way
+type: node
 latitude: 50.64364
 longitude: 10.68784
 postcode: "98544"
 city: Zella-Mehlis
-street: "Industriestraße"
-housenumber: 4
+street: Industriestraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

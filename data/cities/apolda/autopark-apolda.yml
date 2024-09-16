@@ -4,8 +4,8 @@ latitude: 51.01713
 longitude: 11.51315
 postcode: "99510"
 city: Apolda
-street: "Jenaer Straße"
-housenumber: 60
-phone: "+49 3644 537-0"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 08:00-13:00"
-website: "http://www.stielergruppe.de/"
+street: Jenaer Straße
+housenumber: "60"
+phone: +49 3644 537-0
+opening_hours: Mo-Fr 07:00-18:30; Sa 08:00-13:00
+website: http://www.stielergruppe.de/

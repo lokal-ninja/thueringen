@@ -1,11 +1,11 @@
 id: 567714740
-type: way
+type: node
 latitude: 51.50653
 longitude: 10.78975
 postcode: "99734"
 city: Nordhausen
-street: "Altendorf"
-housenumber: 19
-phone: "+49 3631 902940"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.waeldrich.de/"
+street: Altendorf
+housenumber: "19"
+phone: +49 3631 902940
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.waeldrich.de/

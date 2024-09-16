@@ -4,8 +4,8 @@ latitude: 50.97869
 longitude: 11.32649
 postcode: "99423"
 city: Weimar
-street: "Hummelstraße"
-housenumber: 1
+street: Hummelstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00, Sa 09:30-14:00"
+opening_hours: Mo-Fr 09:30-18:00, Sa 09:30-14:00
 website: ""

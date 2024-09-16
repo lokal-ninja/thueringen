@@ -4,8 +4,8 @@ latitude: 50.95258
 longitude: 10.71597
 postcode: "99867"
 city: Gotha
-street: "Oststraße"
-housenumber: 52
-phone: "+49 3621 211496"
-opening_hours: "Mo-Fr 06:00-24:00; Sa 06:00-20:00"
-website: "https://www.rewe.de/marktseite/gotha/9131208/rewe-markt-oststrasse-52/"
+street: Oststraße
+housenumber: "52"
+phone: +49 3621 211496
+opening_hours: Mo-Fr 06:00-24:00; Sa 06:00-20:00
+website: https://www.rewe.de/marktseite/gotha/9131208/rewe-markt-oststrasse-52/

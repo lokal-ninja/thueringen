@@ -1,11 +1,11 @@
 id: 168657094
-type: way
+type: node
 latitude: 50.87912
 longitude: 11.08213
 postcode: "99334"
 city: Elleben
-street: "Dorfstraße"
-housenumber: 40
+street: Dorfstraße
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

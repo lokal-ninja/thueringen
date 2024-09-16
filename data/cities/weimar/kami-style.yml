@@ -4,8 +4,8 @@ latitude: 50.98174
 longitude: 11.32482
 postcode: "99423"
 city: Weimar
-street: "Goetheplatz"
-housenumber: 6
+street: Goetheplatz
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

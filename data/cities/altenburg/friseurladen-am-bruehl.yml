@@ -4,8 +4,9 @@ latitude: 50.98707
 longitude: 12.43638
 postcode: "04600"
 city: Altenburg
-street: "Brühl"
-housenumber: 2
+street: Brühl
+housenumber: "2"
 phone: ""
-opening_hours: "Mo 13:00-18:00; Tu-Th 08:00-18:00; Fr 08:00-19:00; Sa 08:00-13:00; Su,PH off"
+opening_hours: Mo 13:00-18:00; Tu-Th 08:00-18:00; Fr 08:00-19:00; Sa 08:00-13:00;
+    Su,PH off
 website: ""

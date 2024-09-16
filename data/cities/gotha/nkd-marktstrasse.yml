@@ -4,8 +4,8 @@ latitude: 50.94959
 longitude: 10.702
 postcode: "99867"
 city: Gotha
-street: "Marktstraße"
-housenumber: 2
+street: Marktstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-16:00"
-website: "https://www.nkd.com/de_de/filialen/gotha/99867/nkd-marktstr-2"
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-16:00
+website: https://www.nkd.com/de_de/filialen/gotha/99867/nkd-marktstr-2

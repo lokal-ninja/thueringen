@@ -1,11 +1,11 @@
 id: 252893197
-type: way
+type: node
 latitude: 50.91901
 longitude: 11.86921
 postcode: "07639"
 city: Bad Klosterlausnitz
-street: "Eisenberger Straße"
-housenumber: 28
+street: Eisenberger Straße
+housenumber: "28"
 phone: ""
-opening_hours: "Tu-Fr 08:00-18:00; Mo off"
+opening_hours: Tu-Fr 08:00-18:00; Mo off
 website: ""

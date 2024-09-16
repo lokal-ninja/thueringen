@@ -1,11 +1,11 @@
 id: 387318789
-type: way
+type: node
 latitude: 51.02142
 longitude: 11.48637
 postcode: "99510"
 city: Apolda
-street: "Erfurter Straße"
-housenumber: 111
+street: Erfurter Straße
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

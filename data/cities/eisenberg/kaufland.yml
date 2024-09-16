@@ -1,11 +1,11 @@
 id: 152307972
-type: way
+type: node
 latitude: 50.9805
 longitude: 11.89846
 postcode: "07607"
 city: Eisenberg
-street: "Obere Donitzschkau"
-housenumber: 2
+street: Obere Donitzschkau
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

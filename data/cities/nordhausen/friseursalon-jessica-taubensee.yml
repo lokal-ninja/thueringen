@@ -1,11 +1,11 @@
 id: 180538573
-type: way
+type: node
 latitude: 51.50726
 longitude: 10.78885
 postcode: "99734"
 city: Nordhausen
-street: "Altendorfer Kirchgasse"
-housenumber: 26
+street: Altendorfer Kirchgasse
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 09:00-16:00"
+opening_hours: Mo-Fr 09:00-16:00
 website: ""

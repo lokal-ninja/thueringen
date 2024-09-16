@@ -4,8 +4,9 @@ latitude: 50.41796
 longitude: 10.91106
 postcode: "98673"
 city: Eisfeld
-street: "Coburger Straße"
-housenumber: 59
-phone: "+49 3686 616934"
-opening_hours: "Mo-We 09:00-13:00, 15:00-18:00; Th 09:00-13:00, 15:00-19:00; Fr 09:00-18:00; Sa 09:00-12:00"
-website: "http://www.thommys-zooladen.de/sites/?show=9"
+street: Coburger Straße
+housenumber: "59"
+phone: +49 3686 616934
+opening_hours: Mo-We 09:00-13:00, 15:00-18:00; Th 09:00-13:00, 15:00-19:00; Fr 09:00-18:00;
+    Sa 09:00-12:00
+website: http://www.thommys-zooladen.de/sites/?show=9

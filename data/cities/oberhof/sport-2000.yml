@@ -4,8 +4,8 @@ latitude: 50.70571
 longitude: 10.72621
 postcode: "98559"
 city: Oberhof
-street: "Gräfenrodaer Straße"
-housenumber: 7
+street: Gräfenrodaer Straße
+housenumber: "7"
 phone: "+493684222357"
-opening_hours: "Mo-Fr 10:00-18:00; Sa,Su 10:00-16:00"
-website: "https://sport2000jeel-oberhof.de/"
+opening_hours: Mo-Fr 10:00-18:00; Sa,Su 10:00-16:00
+website: https://sport2000jeel-oberhof.de/

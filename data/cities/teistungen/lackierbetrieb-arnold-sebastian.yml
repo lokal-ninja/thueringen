@@ -1,11 +1,11 @@
 id: 428890489
-type: way
+type: node
 latitude: 51.46957
 longitude: 10.27512
 postcode: "37339"
 city: Teistungen
-street: "Am Dämmig"
-housenumber: 9
+street: Am Dämmig
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.95131
 longitude: 11.06712
 postcode: "99097"
 city: Erfurt
-street: "Färberwaidweg"
-housenumber: 2
+street: Färberwaidweg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:00; Sa 06:00-17:00; Su 06:00-11:00"
+opening_hours: Mo-Fr 06:00-19:00; Sa 06:00-17:00; Su 06:00-11:00
 website: ""

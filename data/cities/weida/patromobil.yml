@@ -1,11 +1,11 @@
 id: 126365465
-type: way
+type: node
 latitude: 50.77759
 longitude: 12.04302
 postcode: "07570"
 city: Weida
-street: "Neustädter Straße"
-housenumber: 64
-phone: "+49 (0)36603 251048"
-opening_hours: "Mo-Fr 07:00-18:00"
-website: "www.patromobil.de"
+street: Neustädter Straße
+housenumber: "64"
+phone: +49 (0)36603 251048
+opening_hours: Mo-Fr 07:00-18:00
+website: www.patromobil.de

@@ -1,11 +1,11 @@
 id: 236140321
-type: way
+type: node
 latitude: 51.07779
 longitude: 10.32727
 postcode: "99831"
 city: Amt Creuzburg
-street: "An der Aue"
-housenumber: 24
+street: An der Aue
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

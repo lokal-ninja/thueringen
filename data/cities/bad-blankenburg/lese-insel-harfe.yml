@@ -1,11 +1,11 @@
 id: 90835522
-type: way
+type: node
 latitude: 50.68448
 longitude: 11.26372
 postcode: "07422"
 city: Bad Blankenburg
-street: "Markt"
-housenumber: 10
-phone: "+49 36741 2370"
-opening_hours: "Mo-Fr 10:00-13:00,14:30-17:00"
-website: "http://www.leseinselharfe.de"
+street: Markt
+housenumber: "10"
+phone: +49 36741 2370
+opening_hours: Mo-Fr 10:00-13:00,14:30-17:00
+website: http://www.leseinselharfe.de

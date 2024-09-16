@@ -1,11 +1,11 @@
 id: 356108788
-type: way
+type: node
 latitude: 51.41491
 longitude: 10.54118
 postcode: "99759"
 city: Sollstedt
-street: "Am Bahndamm"
-housenumber: 7
+street: Am Bahndamm
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

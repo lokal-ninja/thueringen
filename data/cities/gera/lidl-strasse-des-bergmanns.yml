@@ -1,11 +1,11 @@
 id: 32500795
-type: way
+type: node
 latitude: 50.89327
 longitude: 12.08391
 postcode: "07545"
 city: Gera
-street: "Straße des Bergmanns"
-housenumber: 10
-phone: "+49 800 4353361"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.lidl.de/filialen/gera/bieblach-strasse-des-bergmanns-10.html"
+street: Straße des Bergmanns
+housenumber: "10"
+phone: +49 800 4353361
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.lidl.de/filialen/gera/bieblach-strasse-des-bergmanns-10.html

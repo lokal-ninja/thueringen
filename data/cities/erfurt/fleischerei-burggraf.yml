@@ -4,8 +4,8 @@ latitude: 50.93742
 longitude: 10.98664
 postcode: "99094"
 city: Erfurt
-street: "Dorstbornstraße"
-housenumber: 3
+street: Dorstbornstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo,We-Fr 06:00-18:00; Tu 06:00-13:00; Sa 06:30-11:00"
+opening_hours: Mo,We-Fr 06:00-18:00; Tu 06:00-13:00; Sa 06:30-11:00
 website: ""

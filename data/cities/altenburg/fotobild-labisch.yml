@@ -4,8 +4,8 @@ latitude: 50.98431
 longitude: 12.43529
 postcode: "04600"
 city: Altenburg
-street: "Baderei"
-housenumber: 9
+street: Baderei
+housenumber: "9"
 phone: ""
-opening_hours: "Mo,We,Th 09:30-12:30; Tu 14:30-17:30; Fr-Su,PH off"
+opening_hours: Mo,We,Th 09:30-12:30; Tu 14:30-17:30; Fr-Su,PH off
 website: ""

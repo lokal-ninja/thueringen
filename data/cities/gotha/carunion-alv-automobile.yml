@@ -1,11 +1,11 @@
 id: 813214212
-type: way
+type: node
 latitude: 50.923
 longitude: 10.7132
 postcode: "99867"
 city: Gotha
-street: "Cyrusstraße"
-housenumber: 20
-phone: "+49 3621 71010"
+street: Cyrusstraße
+housenumber: "20"
+phone: +49 3621 71010
 opening_hours: ""
 website: ""

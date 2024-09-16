@@ -1,11 +1,11 @@
 id: 510173983
-type: way
+type: node
 latitude: 51.51444
 longitude: 10.77466
 postcode: "99734"
 city: Nordhausen
-street: "Hauptstraße"
-housenumber: 69
+street: Hauptstraße
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

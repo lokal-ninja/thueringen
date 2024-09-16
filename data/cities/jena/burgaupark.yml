@@ -1,11 +1,11 @@
 id: 24564955
-type: way
+type: node
 latitude: 50.90011
 longitude: 11.59341
 postcode: "07745"
 city: Jena
-street: "Keßlerstraße"
-housenumber: 12
+street: Keßlerstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 08:00-22:00; Sa 08:00-20:00"
+opening_hours: Mo-Fr 08:00-22:00; Sa 08:00-20:00
 website: ""

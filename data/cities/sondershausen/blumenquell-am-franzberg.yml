@@ -4,8 +4,8 @@ latitude: 51.3706
 longitude: 10.85364
 postcode: "99706"
 city: Sondershausen
-street: "Beethovenstraße"
-housenumber: 9
-phone: "+49 3632 600231"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:00"
+street: Beethovenstraße
+housenumber: "9"
+phone: +49 3632 600231
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-12:00
 website: ""

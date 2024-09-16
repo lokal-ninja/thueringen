@@ -1,11 +1,11 @@
 id: 143223354
-type: way
+type: node
 latitude: 50.89424
 longitude: 10.71044
 postcode: "99869"
 city: Emleben
-street: "Am Köpfchen"
-housenumber: 3
+street: Am Köpfchen
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

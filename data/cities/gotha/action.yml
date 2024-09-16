@@ -4,8 +4,8 @@ latitude: 50.94499
 longitude: 10.71636
 postcode: "99867"
 city: Gotha
-street: "Schöne Allee"
-housenumber: 12
+street: Schöne Allee
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.action.com/de-de/laden/gotha-schone-allee/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.action.com/de-de/laden/gotha-schone-allee/

@@ -1,11 +1,11 @@
 id: 516344670
-type: way
+type: node
 latitude: 50.64397
 longitude: 11.36215
 postcode: "07318"
 city: Saalfeld/Saale
-street: "Knochstraße"
-housenumber: 15
+street: Knochstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

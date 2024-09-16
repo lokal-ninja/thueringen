@@ -1,11 +1,11 @@
 id: 30181261
-type: way
+type: node
 latitude: 50.86885
 longitude: 12.07719
 postcode: "07548"
 city: Gera
-street: "Elsterdamm"
-housenumber: 5
+street: Elsterdamm
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

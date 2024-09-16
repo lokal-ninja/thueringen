@@ -1,11 +1,11 @@
 id: 87202586
-type: way
+type: node
 latitude: 50.69856
 longitude: 11.62051
 postcode: "07381"
 city: Pößneck
-street: "Malmsgelänge"
-housenumber: 8
+street: Malmsgelänge
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

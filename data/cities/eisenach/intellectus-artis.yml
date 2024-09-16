@@ -4,8 +4,8 @@ latitude: 50.97195
 longitude: 10.32336
 postcode: "99817"
 city: Eisenach
-street: "Frauenplan"
-housenumber: 2
-phone: "+49 1522 9179611"
-opening_hours: "We, Fr 15:00-18:00"
-website: "https://intellectus-artis.de/"
+street: Frauenplan
+housenumber: "2"
+phone: +49 1522 9179611
+opening_hours: We, Fr 15:00-18:00
+website: https://intellectus-artis.de/

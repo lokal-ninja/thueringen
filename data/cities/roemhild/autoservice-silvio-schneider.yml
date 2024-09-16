@@ -1,11 +1,11 @@
 id: 90164685
-type: way
+type: node
 latitude: 50.36886
 longitude: 10.6098
 postcode: "98630"
 city: Römhild
-street: "Am Aschenbach"
-housenumber: 11
+street: Am Aschenbach
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.10797
 longitude: 10.99691
 postcode: "99189"
 city: Haßleben
-street: "Am Sandwurf"
-housenumber: 27
-phone: "+49 3637656656"
-opening_hours: "nach Anwesenheit innerhalb üblicher Tages- und Öffnungszeiten"
-website: "http://www.ziphoton.de/"
+street: Am Sandwurf
+housenumber: "27"
+phone: +49 3637656656
+opening_hours: '"nach Anwesenheit innerhalb üblicher Tages- und Öffnungszeiten"'
+website: http://www.ziphoton.de/

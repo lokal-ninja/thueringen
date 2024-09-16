@@ -1,11 +1,11 @@
 id: 109320827
-type: way
+type: node
 latitude: 50.8775
 longitude: 12.11655
 postcode: "07546"
 city: Gera
-street: "Naulitzer Straße"
-housenumber: 43
+street: Naulitzer Straße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Fr 11:00-17:00; Sa 11:00-14:00; Su,PH off"
+opening_hours: Mo-Fr 11:00-17:00; Sa 11:00-14:00; Su,PH off
 website: ""

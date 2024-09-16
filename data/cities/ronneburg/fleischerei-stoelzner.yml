@@ -4,8 +4,9 @@ latitude: 50.86346
 longitude: 12.1806
 postcode: "07580"
 city: Ronneburg
-street: "August-Bebel-Straße"
-housenumber: 3
-phone: "+49 36602 34465"
-opening_hours: "Mo 08:30-14:00; Tu 08:30:18:00; We 08:30-14:00; Th-Fr 08:30-18:00; Sa 08:00-11:00"
-website: "http://www.fleischerei-stoelzner.de/"
+street: August-Bebel-Straße
+housenumber: "3"
+phone: +49 36602 34465
+opening_hours: Mo 08:30-14:00; Tu 08:30:18:00; We 08:30-14:00; Th-Fr 08:30-18:00;
+    Sa 08:00-11:00
+website: http://www.fleischerei-stoelzner.de/

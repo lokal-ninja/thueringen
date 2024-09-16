@@ -4,8 +4,9 @@ latitude: 51.01706
 longitude: 10.84991
 postcode: "99100"
 city: Bienstädt
-street: "Mittelstraße"
-housenumber: 77
+street: Mittelstraße
+housenumber: "77"
 phone: ""
-opening_hours: "Tu-Fr 06:30,12:00,14:00-17:00; Sa 06:30-10:30; Su 07:00-10:00; Mo,PH off"
+opening_hours: Tu-Fr 06:30,12:00,14:00-17:00; Sa 06:30-10:30; Su 07:00-10:00; Mo,PH
+    off
 website: ""

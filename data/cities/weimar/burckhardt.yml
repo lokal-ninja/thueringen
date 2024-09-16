@@ -4,8 +4,8 @@ latitude: 50.96631
 longitude: 11.3443
 postcode: "99425"
 city: Weimar
-street: "Mittelstraße"
-housenumber: 13
+street: Mittelstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-11:00; Su 07:00-11:00"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-11:00; Su 07:00-11:00
 website: ""

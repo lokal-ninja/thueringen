@@ -1,11 +1,11 @@
 id: 619865611
-type: way
+type: node
 latitude: 51.55621
 longitude: 10.8063
 postcode: "99768"
 city: Harztor
-street: "Dorfstraße"
-housenumber: 9
+street: Dorfstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

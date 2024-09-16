@@ -1,11 +1,11 @@
 id: 89098030
-type: way
+type: node
 latitude: 50.98027
 longitude: 11.31907
 postcode: "99423"
 city: Weimar
-street: "Erfurter Straße"
-housenumber: 31
+street: Erfurter Straße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:30; Sa 07:30-19:30; PH,Su off"
+opening_hours: Mo-Fr 07:30-19:30; Sa 07:30-19:30; PH,Su off
 website: ""

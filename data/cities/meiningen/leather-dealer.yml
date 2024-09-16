@@ -4,8 +4,8 @@ latitude: 50.56931
 longitude: 10.4167
 postcode: "98617"
 city: Meiningen
-street: "Wettiner Straße"
-housenumber: 4
-phone: "+49 3693 8823850"
-opening_hours: "9:00-15:00"
-website: "https://www.leather-dealer.com"
+street: Wettiner Straße
+housenumber: "4"
+phone: +49 3693 8823850
+opening_hours: 9:00-15:00
+website: https://www.leather-dealer.com

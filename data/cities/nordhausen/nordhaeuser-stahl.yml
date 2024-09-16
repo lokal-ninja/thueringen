@@ -1,11 +1,11 @@
 id: 137830872
-type: way
+type: node
 latitude: 51.47599
 longitude: 10.80576
 postcode: "99734"
 city: Nordhausen
-street: "An der Helme"
-housenumber: 20
-phone: "+49 3631 61740"
+street: An der Helme
+housenumber: "20"
+phone: +49 3631 61740
 opening_hours: ""
-website: "https://www.nordhaeuser-stahl.de/"
+website: https://www.nordhaeuser-stahl.de/

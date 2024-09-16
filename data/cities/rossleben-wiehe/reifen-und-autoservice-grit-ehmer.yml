@@ -1,11 +1,11 @@
 id: 175030464
-type: way
+type: node
 latitude: 51.2939
 longitude: 11.44067
 postcode: "06571"
 city: Roßleben-Wiehe
-street: "Wendelsteiner Straße"
-housenumber: 61
+street: Wendelsteiner Straße
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

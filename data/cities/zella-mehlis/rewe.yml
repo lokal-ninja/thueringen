@@ -4,8 +4,8 @@ latitude: 50.64395
 longitude: 10.68938
 postcode: "98544"
 city: Zella-Mehlis
-street: "Industriestraße"
-housenumber: 6
+street: Industriestraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00"
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-20:00
 website: ""

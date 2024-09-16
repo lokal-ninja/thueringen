@@ -4,8 +4,8 @@ latitude: 51.00147
 longitude: 12.42756
 postcode: "04600"
 city: Altenburg
-street: "Nordplatz"
-housenumber: 8
+street: Nordplatz
+housenumber: "8"
 phone: ""
-opening_hours: "Mo,We,Fr 08:00-15:00; Tu,Th 08:00-12:00,13:00-17:00; Sa,Su,PH off"
+opening_hours: Mo,We,Fr 08:00-15:00; Tu,Th 08:00-12:00,13:00-17:00; Sa,Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 308025922
-type: way
+type: node
 latitude: 51.35439
 longitude: 11.11379
 postcode: "06567"
 city: Bad Frankenhausen/Kyffhäuser
-street: "Esperstedter Straße"
-housenumber: 28
+street: Esperstedter Straße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

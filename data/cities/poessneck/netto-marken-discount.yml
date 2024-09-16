@@ -1,11 +1,11 @@
 id: 89411686
-type: way
+type: node
 latitude: 50.69883
 longitude: 11.60247
 postcode: "07381"
 city: Pößneck
-street: "Mühlstraße"
-housenumber: 4
+street: Mühlstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

@@ -4,8 +4,8 @@ latitude: 50.98507
 longitude: 10.99922
 postcode: "99092"
 city: Erfurt
-street: "Blumenstraße"
-housenumber: 68
+street: Blumenstraße
+housenumber: "68"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 10:00-15:00; Su,PH off"
+opening_hours: Mo-Fr 08:00-18:00; Sa 10:00-15:00; Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 94818319
-type: way
+type: node
 latitude: 50.88464
 longitude: 12.14006
 postcode: "07554"
 city: Gera
-street: "An der Beerweinschänke"
-housenumber: 1
+street: An der Beerweinschänke
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00; Sa 06:00-20:00; Su,PH off"
-website: "https://www.selgros.de/markt/gera"
+opening_hours: Mo-Fr 06:00-22:00; Sa 06:00-20:00; Su,PH off
+website: https://www.selgros.de/markt/gera

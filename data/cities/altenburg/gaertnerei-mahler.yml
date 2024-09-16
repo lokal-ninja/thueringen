@@ -1,11 +1,11 @@
 id: 666215182
-type: way
+type: node
 latitude: 50.97371
 longitude: 12.4176
 postcode: "04600"
 city: Altenburg
-street: "Kosmaer Weg"
-housenumber: 2
+street: Kosmaer Weg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00; Su,PH off"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00; Su,PH off
 website: ""

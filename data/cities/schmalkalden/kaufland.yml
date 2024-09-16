@@ -4,8 +4,8 @@ latitude: 50.72262
 longitude: 10.4475
 postcode: "98574"
 city: Schmalkalden
-street: "Steinerne Wiese"
-housenumber: 39
-phone: "+49 3683 4664690"
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00"
-website: "https://www.kaufland.de/"
+street: Steinerne Wiese
+housenumber: "39"
+phone: +49 3683 4664690
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-20:00
+website: https://www.kaufland.de/

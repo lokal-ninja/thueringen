@@ -1,11 +1,11 @@
 id: 60995755
-type: way
+type: node
 latitude: 50.89241
 longitude: 10.01306
 postcode: "36266"
 city: Heringen
-street: "Im Langen Roth"
-housenumber: 2
+street: Im Langen Roth
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 90144708
-type: way
+type: node
 latitude: 50.6857
 longitude: 11.28384
 postcode: "07422"
 city: Bad Blankenburg
-street: "Gustav-Töpfer-Straße"
-housenumber: 6
+street: Gustav-Töpfer-Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.94886
 longitude: 11.08916
 postcode: "99099"
 city: Erfurt
-street: "Am Urbicher Kreuz"
-housenumber: 7
-phone: "+49 361 43770"
-opening_hours: "Mo-Th 07:00-18:00; Fr 07:00-17:00"
+street: Am Urbicher Kreuz
+housenumber: "7"
+phone: +49 361 43770
+opening_hours: Mo-Th 07:00-18:00; Fr 07:00-17:00
 website: ""

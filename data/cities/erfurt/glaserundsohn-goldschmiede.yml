@@ -4,8 +4,8 @@ latitude: 50.97774
 longitude: 11.02661
 postcode: "99084"
 city: Erfurt
-street: "Marktstraße"
-housenumber: 14
+street: Marktstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-16:00"
-website: "https://www.goldschmiede-glaser-und-sohn.de/"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-16:00
+website: https://www.goldschmiede-glaser-und-sohn.de/

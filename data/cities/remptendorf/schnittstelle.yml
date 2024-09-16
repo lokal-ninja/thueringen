@@ -1,11 +1,11 @@
 id: 200218763
-type: way
+type: node
 latitude: 50.49541
 longitude: 11.60187
 postcode: "07368"
 city: Remptendorf
-street: "Eliasbrunn"
-housenumber: 66
+street: Eliasbrunn
+housenumber: "66"
 phone: ""
 opening_hours: ""
-website: "www.schnittstelle-walther.de"
+website: www.schnittstelle-walther.de

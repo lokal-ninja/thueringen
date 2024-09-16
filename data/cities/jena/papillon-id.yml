@@ -4,8 +4,8 @@ latitude: 50.92538
 longitude: 11.58084
 postcode: "07745"
 city: Jena
-street: "Westbahnhofstraße"
-housenumber: 16
+street: Westbahnhofstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 10:00-19:00; We 10:00-14:00"
+opening_hours: Mo,Tu,Th,Fr 10:00-19:00; We 10:00-14:00
 website: ""

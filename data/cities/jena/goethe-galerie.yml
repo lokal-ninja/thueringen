@@ -1,11 +1,11 @@
 id: 236398447
-type: way
+type: node
 latitude: 50.92778
 longitude: 11.58315
 postcode: "07743"
 city: Jena
-street: "Goethestraße"
-housenumber: 3
+street: Goethestraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

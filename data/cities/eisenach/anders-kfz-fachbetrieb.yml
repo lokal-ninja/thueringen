@@ -1,11 +1,11 @@
 id: 335450534
-type: way
+type: node
 latitude: 50.97916
 longitude: 10.31491
 postcode: "99817"
 city: Eisenach
-street: "Werneburgstraße"
-housenumber: 17
+street: Werneburgstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00"
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

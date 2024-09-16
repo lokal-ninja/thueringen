@@ -1,11 +1,11 @@
 id: 79139697
-type: way
+type: node
 latitude: 50.69469
 longitude: 10.93435
 postcode: "98693"
 city: Ilmenau
-street: "Am Vogelherd"
-housenumber: 96
+street: Am Vogelherd
+housenumber: "96"
 phone: ""
 opening_hours: ""
 website: ""

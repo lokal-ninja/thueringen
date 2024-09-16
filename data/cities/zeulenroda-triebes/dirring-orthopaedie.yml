@@ -4,8 +4,8 @@ latitude: 50.6894
 longitude: 12.02541
 postcode: "07950"
 city: Zeulenroda-Triebes
-street: "Sandberg"
-housenumber: 12
-phone: "+49 36622 51853"
-opening_hours: "Mo, Tu 08:00-18:00 ||nach Termin"
-website: "http://dirring-orthopaedie.de"
+street: Sandberg
+housenumber: "12"
+phone: +49 36622 51853
+opening_hours: Mo, Tu 08:00-18:00 ||"nach Termin"
+website: http://dirring-orthopaedie.de

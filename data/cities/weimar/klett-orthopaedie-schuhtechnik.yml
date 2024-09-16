@@ -4,8 +4,8 @@ latitude: 50.97662
 longitude: 11.32674
 postcode: "99423"
 city: Weimar
-street: "Humboldtstraße"
-housenumber: 6
+street: Humboldtstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Tu,Th 09:00-13:00,14:00-17:00; We,Fr 09:00-13:00; PH off"
+opening_hours: Tu,Th 09:00-13:00,14:00-17:00; We,Fr 09:00-13:00; PH off
 website: ""

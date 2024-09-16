@@ -1,11 +1,11 @@
 id: 240920607
-type: way
+type: node
 latitude: 51.01273
 longitude: 11.51389
 postcode: "99510"
 city: Apolda
-street: "Jenaer Straße"
-housenumber: 115
+street: Jenaer Straße
+housenumber: "115"
 phone: ""
 opening_hours: ""
-website: "https://toom.de/m/apolda/"
+website: https://toom.de/m/apolda/

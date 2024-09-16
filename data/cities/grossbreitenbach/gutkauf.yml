@@ -1,11 +1,12 @@
 id: 381489900
-type: way
+type: node
 latitude: 50.62742
 longitude: 11.04792
 postcode: "98701"
 city: Großbreitenbach
-street: "Geschwister-Scholl-Straße"
+street: Geschwister-Scholl-Straße
 housenumber: 37b
 phone: ""
-opening_hours: "Mo-Th 08:00-12:00,15:00-18:00; Fr 08:00-18:00; PH closed; Sa 08:00-12:00; Su 08:00-09:30; Sonntag nur Brötchen"
+opening_hours: Mo-Th 08:00-12:00,15:00-18:00; Fr 08:00-18:00; PH closed; Sa 08:00-12:00;
+    Su 08:00-09:30; "Sonntag nur Brötchen"
 website: ""

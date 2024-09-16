@@ -1,11 +1,11 @@
 id: 77777378
-type: way
+type: node
 latitude: 50.55826
 longitude: 10.37615
 postcode: "98617"
 city: Meiningen
-street: "Gleimershäuser Straße"
-housenumber: 11
+street: Gleimershäuser Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.beschriftungsteam.com/"
+website: https://www.beschriftungsteam.com/

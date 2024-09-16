@@ -1,11 +1,11 @@
 id: 720869910
-type: way
+type: node
 latitude: 50.90076
 longitude: 10.60284
 postcode: "99880"
 city: Waltershausen
-street: "Friedrichrodaer Straße"
-housenumber: 46
+street: Friedrichrodaer Straße
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

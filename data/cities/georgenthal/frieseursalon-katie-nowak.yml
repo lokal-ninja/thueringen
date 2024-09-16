@@ -4,8 +4,8 @@ latitude: 50.8404
 longitude: 10.68176
 postcode: "99887"
 city: Georgenthal
-street: "Auenweg"
-housenumber: 5
+street: Auenweg
+housenumber: "5"
 phone: "03625347403"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-12:00
 website: ""

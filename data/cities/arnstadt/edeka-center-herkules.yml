@@ -1,11 +1,11 @@
 id: 909940225
-type: way
+type: node
 latitude: 50.82927
 longitude: 10.96843
 postcode: "99310"
 city: Arnstadt
-street: "Stadtilmer Straße"
-housenumber: 100
+street: Stadtilmer Straße
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-20:00"
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-20:00
 website: ""

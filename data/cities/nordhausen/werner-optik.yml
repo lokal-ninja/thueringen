@@ -1,11 +1,11 @@
 id: 370207596
-type: way
+type: node
 latitude: 51.5016
 longitude: 10.79472
 postcode: "99734"
 city: Nordhausen
-street: "Weberstraße"
-housenumber: 1
+street: Weberstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-13:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-13:00
 website: ""

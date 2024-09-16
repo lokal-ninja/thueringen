@@ -1,11 +1,11 @@
 id: 153839587
-type: way
+type: node
 latitude: 50.73064
 longitude: 11.75651
 postcode: "07806"
 city: Neustadt an der Orla
-street: "Schleizer Straße"
-housenumber: 19
+street: Schleizer Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

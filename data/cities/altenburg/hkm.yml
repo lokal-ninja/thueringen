@@ -4,8 +4,8 @@ latitude: 51.00778
 longitude: 12.43426
 postcode: "04600"
 city: Altenburg
-street: "Poststraße"
-housenumber: 5
+street: Poststraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 06:30-17:00; Sa,Su,PH off"
+opening_hours: Mo-Fr 06:30-17:00; Sa,Su,PH off
 website: ""

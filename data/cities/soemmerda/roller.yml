@@ -1,11 +1,11 @@
 id: 181445308
-type: way
+type: node
 latitude: 51.15568
 longitude: 11.1456
 postcode: "99610"
 city: Sömmerda
-street: "Rohrborner Chaussee"
-housenumber: 8
-phone: "+49 3634 315520"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.roller.de/moebelhaeuser/soemmerda/"
+street: Rohrborner Chaussee
+housenumber: "8"
+phone: +49 3634 315520
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.roller.de/moebelhaeuser/soemmerda/

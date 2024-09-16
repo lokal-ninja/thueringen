@@ -1,11 +1,11 @@
 id: 65758929
-type: way
+type: node
 latitude: 50.68601
 longitude: 11.25322
 postcode: "07422"
 city: Bad Blankenburg
-street: "Am Anger"
-housenumber: 24
+street: Am Anger
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

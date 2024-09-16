@@ -1,11 +1,11 @@
 id: 247303483
-type: way
+type: node
 latitude: 50.95173
 longitude: 11.10297
 postcode: "99099"
 city: Erfurt
-street: "Rudolstädter Straße"
-housenumber: 
+street: Rudolstädter Straße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

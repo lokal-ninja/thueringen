@@ -1,11 +1,11 @@
 id: 295074782
-type: way
+type: node
 latitude: 50.95771
 longitude: 10.72536
 postcode: "99867"
 city: Gotha
-street: "Gleichenstraße"
-housenumber: 43
+street: Gleichenstraße
+housenumber: "43"
 phone: ""
 opening_hours: ""
-website: "https://kr-turbotechnik.de"
+website: https://kr-turbotechnik.de

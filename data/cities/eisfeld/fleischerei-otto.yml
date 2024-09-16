@@ -1,11 +1,11 @@
 id: 393272530
-type: way
+type: node
 latitude: 50.45052
 longitude: 10.96154
 postcode: "98673"
 city: Eisfeld
-street: "Werrastraße"
-housenumber: 13
+street: Werrastraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

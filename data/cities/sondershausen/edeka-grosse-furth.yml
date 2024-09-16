@@ -1,11 +1,11 @@
 id: 335071699
-type: way
+type: node
 latitude: 51.39354
 longitude: 10.80005
 postcode: ""
 city: Sondershausen
-street: "Große Furth"
-housenumber: 39
+street: Große Furth
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

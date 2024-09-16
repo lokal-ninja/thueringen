@@ -1,11 +1,11 @@
 id: 200549626
-type: way
+type: node
 latitude: 50.97585
 longitude: 10.3316
 postcode: "99817"
 city: Eisenach
-street: "Bahnhofstraße"
-housenumber: 36
+street: Bahnhofstraße
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

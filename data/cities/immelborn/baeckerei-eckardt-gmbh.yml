@@ -1,11 +1,11 @@
 id: 988401547
-type: way
+type: node
 latitude: 50.79659
 longitude: 10.27425
 postcode: "36456"
 city: Immelborn
-street: "Salzunger Straße"
-housenumber: 24
+street: Salzunger Straße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

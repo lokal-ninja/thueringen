@@ -4,8 +4,8 @@ latitude: 51.02707
 longitude: 11.52389
 postcode: "99510"
 city: Apolda
-street: "Lessingstraße"
-housenumber: 38
-phone: "+49 3644 8395357"
-opening_hours: "Mo-Fr 08:30-16:00"
-website: "https://www.rescpol.de/"
+street: Lessingstraße
+housenumber: "38"
+phone: +49 3644 8395357
+opening_hours: Mo-Fr 08:30-16:00
+website: https://www.rescpol.de/

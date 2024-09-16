@@ -4,8 +4,9 @@ latitude: 50.50824
 longitude: 11.13085
 postcode: "98724"
 city: Neuhaus am Rennweg
-street: "Robert-Koch-Straße"
-housenumber: 14
-phone: "+49 3679 726373"
-opening_hours: "Mo 08:30-19:00; Tu 08:30-19:00; We 08:30-19:00; Th 08:30-19:00; Fr 08:30-19:00; Sa 08:30-16:00"
+street: Robert-Koch-Straße
+housenumber: "14"
+phone: +49 3679 726373
+opening_hours: Mo 08:30-19:00; Tu 08:30-19:00; We 08:30-19:00; Th 08:30-19:00; Fr
+    08:30-19:00; Sa 08:30-16:00
 website: ""

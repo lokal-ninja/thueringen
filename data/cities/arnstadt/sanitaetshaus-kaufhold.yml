@@ -4,8 +4,8 @@ latitude: 50.83424
 longitude: 10.94851
 postcode: "99310"
 city: Arnstadt
-street: "Zimmerstraße"
-housenumber: 10
-phone: "+49 3628 602612"
+street: Zimmerstraße
+housenumber: "10"
+phone: +49 3628 602612
 opening_hours: ""
-website: "https://sanitaetshaus-arnstadt.de/"
+website: https://sanitaetshaus-arnstadt.de/

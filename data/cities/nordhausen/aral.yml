@@ -1,11 +1,11 @@
 id: 137808032
-type: way
+type: node
 latitude: 51.47701
 longitude: 10.80856
 postcode: "99734"
 city: Nordhausen
-street: "Helmestraße"
-housenumber: 109
+street: Helmestraße
+housenumber: "109"
 phone: ""
 opening_hours: ""
 website: ""

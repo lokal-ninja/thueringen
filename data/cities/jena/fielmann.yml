@@ -4,8 +4,8 @@ latitude: 50.92767
 longitude: 11.58832
 postcode: "07743"
 city: Jena
-street: "Markt"
-housenumber: 18
-phone: "+49 3641 443700"
-opening_hours: "Mo-Sa 09:00-19:00; PH,Su off"
-website: "https://www.fielmann.de/niederlassungen/jena/07743-markt-18/"
+street: Markt
+housenumber: "18"
+phone: +49 3641 443700
+opening_hours: Mo-Sa 09:00-19:00; PH,Su off
+website: https://www.fielmann.de/niederlassungen/jena/07743-markt-18/

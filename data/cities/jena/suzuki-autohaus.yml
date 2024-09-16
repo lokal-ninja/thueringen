@@ -1,11 +1,11 @@
 id: 231708092
-type: way
+type: node
 latitude: 50.9585
 longitude: 11.50684
 postcode: "07751"
 city: Jena
-street: "Weimarische Straße"
-housenumber: 8
+street: Weimarische Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Sa,Su,PH off"
-website: "https://haendler.suzuki.de/achermann"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; Sa,Su,PH off
+website: https://haendler.suzuki.de/achermann

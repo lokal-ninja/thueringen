@@ -1,11 +1,11 @@
 id: 101100584
-type: way
+type: node
 latitude: 50.89554
 longitude: 12.06722
 postcode: "07548"
 city: Gera
-street: "Fasaneninsel"
-housenumber: 2
+street: Fasaneninsel
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th 07:00-18:00; Fr 07:00-15:00; Sa,Su,PH off"
+opening_hours: Mo-Th 07:00-18:00; Fr 07:00-15:00; Sa,Su,PH off
 website: ""

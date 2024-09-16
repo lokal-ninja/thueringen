@@ -4,8 +4,9 @@ latitude: 51.22509
 longitude: 10.30236
 postcode: "37351"
 city: Dingelstädt
-street: "Lange Straße"
-housenumber: 50
+street: Lange Straße
+housenumber: "50"
 phone: ""
-opening_hours: "Tu 09:00-14:00; We,Fr 10:00-18:00; Th 14:00-20:00; Sa 08:00-12:00; Mo,Su,PH off"
-website: "https://schnittstelle16.de/"
+opening_hours: Tu 09:00-14:00; We,Fr 10:00-18:00; Th 14:00-20:00; Sa 08:00-12:00;
+    Mo,Su,PH off
+website: https://schnittstelle16.de/

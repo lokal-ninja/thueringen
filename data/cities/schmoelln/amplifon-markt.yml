@@ -4,8 +4,9 @@ latitude: 50.89507
 longitude: 12.35222
 postcode: "04626"
 city: Schmölln
-street: "Markt"
-housenumber: 28
+street: Markt
+housenumber: "28"
 phone: ""
-opening_hours: "Mo 07:30-13:00,14:00-18:00; Tu,Th 07:30-12:00,13:00-18:00; We 07:30-15:00; Fr 07:30-12:30; Sa,Su,PH off"
+opening_hours: Mo 07:30-13:00,14:00-18:00; Tu,Th 07:30-12:00,13:00-18:00; We 07:30-15:00;
+    Fr 07:30-12:30; Sa,Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 149702818
-type: way
+type: node
 latitude: 51.36806
 longitude: 10.85532
 postcode: "99706"
 city: Sondershausen
-street: "Talstraße"
-housenumber: 6
+street: Talstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00"
+opening_hours: Mo-Fr 09:30-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 395787593
-type: way
+type: node
 latitude: 50.44757
 longitude: 10.9523
 postcode: "98673"
 city: Eisfeld
-street: "Günthersgasse"
-housenumber: 2
+street: Günthersgasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

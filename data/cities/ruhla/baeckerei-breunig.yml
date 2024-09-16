@@ -1,11 +1,11 @@
 id: 371167467
-type: way
+type: node
 latitude: 50.88907
 longitude: 10.36946
 postcode: "99842"
 city: Ruhla
-street: "Obere Lindenstraße"
-housenumber: 38
+street: Obere Lindenstraße
+housenumber: "38"
 phone: ""
-opening_hours: "Tu-Fr 05:00-18:00; Sa 05:00-12:00"
-website: "http://www.baeckerei-breunig.de"
+opening_hours: Tu-Fr 05:00-18:00; Sa 05:00-12:00
+website: http://www.baeckerei-breunig.de

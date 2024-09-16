@@ -4,8 +4,8 @@ latitude: 50.42743
 longitude: 10.90644
 postcode: "98673"
 city: Eisfeld
-street: "Neumarkt"
-housenumber: 3
-phone: "+49 3686 302319"
-opening_hours: "Mo-Fr 09:00-13:00, 14:30-18:00; Sa 09:00-11:30"
+street: Neumarkt
+housenumber: "3"
+phone: +49 3686 302319
+opening_hours: Mo-Fr 09:00-13:00, 14:30-18:00; Sa 09:00-11:30
 website: ""

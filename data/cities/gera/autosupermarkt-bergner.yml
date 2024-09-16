@@ -1,11 +1,11 @@
 id: 161000731
-type: way
+type: node
 latitude: 50.90315
 longitude: 12.05145
 postcode: "07548"
 city: Gera
-street: "Thieschitzer Straße"
-housenumber: 2
+street: Thieschitzer Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

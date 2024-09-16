@@ -1,11 +1,11 @@
 id: 112315159
-type: way
+type: node
 latitude: 50.7016
 longitude: 10.89926
 postcode: "98693"
 city: Ilmenau
-street: "Ausspanne"
+street: Ausspanne
 housenumber: 30-32
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,13:30-18:00; Sa 09:30-14:00; Su,PH off"
+opening_hours: Mo-Fr 09:00-12:30,13:30-18:00; Sa 09:30-14:00; Su,PH off
 website: ""

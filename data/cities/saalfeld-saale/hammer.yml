@@ -1,11 +1,11 @@
 id: 43068526
-type: way
+type: node
 latitude: 50.65621
 longitude: 11.40662
 postcode: "07318"
 city: Saalfeld/Saale
-street: "Geraer Straße"
-housenumber: 67
+street: Geraer Straße
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
 website: ""

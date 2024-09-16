@@ -1,11 +1,11 @@
 id: 114992722
-type: way
+type: node
 latitude: 50.69025
 longitude: 11.59771
 postcode: "07381"
 city: Pößneck
-street: "Straße des Friedens"
-housenumber: 34
+street: Straße des Friedens
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.98017
 longitude: 11.32506
 postcode: "99423"
 city: Weimar
-street: "Theaterplatz"
-housenumber: 2
+street: Theaterplatz
+housenumber: "2"
 phone: "+493643414185"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
 website: ""

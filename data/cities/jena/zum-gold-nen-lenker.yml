@@ -4,8 +4,8 @@ latitude: 50.93705
 longitude: 11.59252
 postcode: "07743"
 city: Jena
-street: "Spitzweidenweg"
-housenumber: 28
+street: Spitzweidenweg
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Th 14:00-18:00; Fr 12:00-17:00"
-website: "https://zumgoldnenlenker.de/"
+opening_hours: Mo-Th 14:00-18:00; Fr 12:00-17:00
+website: https://zumgoldnenlenker.de/

@@ -1,11 +1,11 @@
 id: 215815413
-type: way
+type: node
 latitude: 50.38618
 longitude: 11.12223
 postcode: "96528"
 city: Frankenblick
-street: "Industriestraße"
-housenumber: 12
+street: Industriestraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

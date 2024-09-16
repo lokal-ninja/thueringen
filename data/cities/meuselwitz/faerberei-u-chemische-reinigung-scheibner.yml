@@ -4,8 +4,9 @@ latitude: 51.03973
 longitude: 12.29681
 postcode: "04610"
 city: Meuselwitz
-street: "Bebelstraße"
-housenumber: 9
+street: Bebelstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo,Tu,Th 09:00-12:00,14:00-17:00; We 09:00-12:00; Fr 09:00-17:00; Sa,Su,PH off"
+opening_hours: Mo,Tu,Th 09:00-12:00,14:00-17:00; We 09:00-12:00; Fr 09:00-17:00; Sa,Su,PH
+    off
 website: ""

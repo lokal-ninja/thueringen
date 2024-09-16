@@ -1,11 +1,11 @@
 id: 23909705
-type: way
+type: node
 latitude: 50.81167
 longitude: 10.22509
 postcode: "36433"
 city: Bad Salzungen
-street: "Rhönstraße"
-housenumber: 25
+street: Rhönstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.lidl.de/

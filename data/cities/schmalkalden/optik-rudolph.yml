@@ -4,8 +4,8 @@ latitude: 50.72322
 longitude: 10.45315
 postcode: "98574"
 city: Schmalkalden
-street: "Pfaffengasse"
-housenumber: 2
+street: Pfaffengasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
 website: ""

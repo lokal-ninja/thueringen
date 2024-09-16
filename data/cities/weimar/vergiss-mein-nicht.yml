@@ -1,11 +1,11 @@
 id: 198672038
-type: way
+type: node
 latitude: 50.98033
 longitude: 11.32976
 postcode: "99423"
 city: Weimar
-street: "Kaufstraße"
-housenumber: 14
+street: Kaufstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 11:00-16:00; Sa 10:00-14:00"
+opening_hours: Mo-Fr 11:00-16:00; Sa 10:00-14:00
 website: ""

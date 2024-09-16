@@ -1,11 +1,11 @@
 id: 130457863
-type: way
+type: node
 latitude: 50.34233
 longitude: 11.15495
 postcode: "96515"
 city: Sonneberg
-street: "An der Lehmgrube"
-housenumber: 3
+street: An der Lehmgrube
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

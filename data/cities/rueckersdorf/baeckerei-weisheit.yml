@@ -4,8 +4,8 @@ latitude: 50.83172
 longitude: 12.20151
 postcode: "07580"
 city: Rückersdorf
-street: "Hauptstraße"
-housenumber: 12
-phone: "+49 36602 22860"
-opening_hours: "Mo-Fr 07:00-12:00, 14:00-17:00; Sa 07:00-11:00"
+street: Hauptstraße
+housenumber: "12"
+phone: +49 36602 22860
+opening_hours: Mo-Fr 07:00-12:00, 14:00-17:00; Sa 07:00-11:00
 website: ""

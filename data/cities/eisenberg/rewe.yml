@@ -1,11 +1,11 @@
 id: 225890167
-type: way
+type: node
 latitude: 50.97151
 longitude: 11.88388
 postcode: "07607"
 city: Eisenberg
-street: "Jenaer Straße"
-housenumber: 32
+street: Jenaer Straße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

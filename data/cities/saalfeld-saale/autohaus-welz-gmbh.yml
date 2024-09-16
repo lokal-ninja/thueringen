@@ -1,11 +1,11 @@
 id: 142430794
-type: way
+type: node
 latitude: 50.65587
 longitude: 11.37462
 postcode: ""
 city: Saalfeld/Saale
-street: "Kulmstraße"
-housenumber: 30
+street: Kulmstraße
+housenumber: "30"
 phone: ""
 opening_hours: ""
-website: "https://auto-welz.de/"
+website: https://auto-welz.de/

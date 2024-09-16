@@ -1,11 +1,11 @@
 id: 775044930
-type: way
+type: node
 latitude: 50.97734
 longitude: 10.34315
 postcode: "99817"
 city: Eisenach
-street: "Ludwigstraße"
-housenumber: 2
+street: Ludwigstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

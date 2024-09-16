@@ -4,8 +4,8 @@ latitude: 50.97869
 longitude: 11.03068
 postcode: "99084"
 city: Erfurt
-street: "Krämerbrücke"
-housenumber: 29
+street: Krämerbrücke
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://www.genialokal.de/buchhandlung/erfurt/buchhandlungtintenherz/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://www.genialokal.de/buchhandlung/erfurt/buchhandlungtintenherz/

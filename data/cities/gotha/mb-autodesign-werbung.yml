@@ -1,11 +1,11 @@
 id: 931974455
-type: way
+type: node
 latitude: 50.92139
 longitude: 10.71392
 postcode: "99867"
 city: Gotha
-street: "Harjesstraße"
-housenumber: 27
-phone: "+49 3621 758840"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.kleben-ist-unser-leben.eu/"
+street: Harjesstraße
+housenumber: "27"
+phone: +49 3621 758840
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.kleben-ist-unser-leben.eu/

@@ -1,11 +1,11 @@
 id: 292165994
-type: way
+type: node
 latitude: 50.91365
 longitude: 10.55532
 postcode: "99880"
 city: Waltershausen
-street: "Am Neuen Teich"
-housenumber: 1
+street: Am Neuen Teich
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

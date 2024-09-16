@@ -1,11 +1,11 @@
 id: 267832526
-type: way
+type: node
 latitude: 50.88184
 longitude: 11.58985
 postcode: "07745"
 city: Jena
-street: "Rudolstädter Straße"
-housenumber: 90
-phone: "+49 3641607665"
+street: Rudolstädter Straße
+housenumber: "90"
+phone: +49 3641607665
 opening_hours: ""
 website: ""

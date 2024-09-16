@@ -1,11 +1,11 @@
 id: 25667113
-type: way
+type: node
 latitude: 50.76326
 longitude: 10.15582
 postcode: "36457"
 city: Weilar
-street: "Andreas-Kley-Straße"
-housenumber: 1
+street: Andreas-Kley-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

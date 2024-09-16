@@ -1,11 +1,11 @@
 id: 213758701
-type: way
+type: node
 latitude: 51.10619
 longitude: 11.6542
 postcode: "99518"
 city: Großheringen
-street: "Sulzaer Straße"
-housenumber: 22
-phone: "+49 36461 875224"
-opening_hours: "Mo-Fr 07:00-18:00, Sa 08:00-12:00"
-website: "http://hr-fahrzeugtechnik.de/"
+street: Sulzaer Straße
+housenumber: "22"
+phone: +49 36461 875224
+opening_hours: Mo-Fr 07:00-18:00, Sa 08:00-12:00
+website: http://hr-fahrzeugtechnik.de/

@@ -1,11 +1,11 @@
 id: 183490847
-type: way
+type: node
 latitude: 50.88629
 longitude: 12.13589
 postcode: "07554"
 city: Gera
-street: "An der Beerweinschänke"
-housenumber: 4
+street: An der Beerweinschänke
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.pflanzenrichter.de"
+website: https://www.pflanzenrichter.de

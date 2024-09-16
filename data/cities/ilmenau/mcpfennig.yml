@@ -1,11 +1,11 @@
 id: 37223307
-type: way
+type: node
 latitude: 50.68403
 longitude: 10.91534
 postcode: "98693"
 city: Ilmenau
-street: "Mühlenstraße"
-housenumber: 16
+street: Mühlenstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-12:30"
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-12:30
 website: ""

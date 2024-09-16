@@ -1,11 +1,11 @@
 id: 181438127
-type: way
+type: node
 latitude: 50.8411
 longitude: 10.16728
 postcode: "36469"
 city: Bad Salzungen
-street: "Große Amtsgasse"
-housenumber: 14
-phone: "+49 3695 824862"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Große Amtsgasse
+housenumber: "14"
+phone: +49 3695 824862
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

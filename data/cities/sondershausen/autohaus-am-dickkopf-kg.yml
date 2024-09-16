@@ -1,11 +1,11 @@
 id: 148476000
-type: way
+type: node
 latitude: 51.36662
 longitude: 10.89581
 postcode: "99706"
 city: Sondershausen
-street: "Frankenhäuser Straße"
-housenumber: 85
+street: Frankenhäuser Straße
+housenumber: "85"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
-website: "https://dickkopf.mehrmarken.de/"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
+website: https://dickkopf.mehrmarken.de/

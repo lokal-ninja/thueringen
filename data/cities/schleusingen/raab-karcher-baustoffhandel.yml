@@ -1,11 +1,11 @@
 id: 300487847
-type: way
+type: node
 latitude: 50.49934
 longitude: 10.73086
 postcode: "98553"
 city: Schleusingen
-street: "Ziegelei"
-housenumber: 1
-phone: "+49 36841 41140"
-opening_hours: "Mo-Fr 07:00-17:00; Sa off; Su off; PH off"
+street: Ziegelei
+housenumber: "1"
+phone: +49 36841 41140
+opening_hours: Mo-Fr 07:00-17:00; Sa off; Su off; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 1186150992
-type: way
+type: node
 latitude: 50.89775
 longitude: 12.09951
 postcode: "07552"
 city: Gera
-street: "Alexander-Wolfgang-Straße"
-housenumber: 25
+street: Alexander-Wolfgang-Straße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 343938327
-type: way
+type: node
 latitude: 50.73658
 longitude: 11.86686
 postcode: "07819"
 city: Triptis
-street: "Am Postberg"
-housenumber: 2
+street: Am Postberg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-We 06:30-20:00; Th-Fr 06:30-21:00; Sa 06:30-20:00; Su,PH off"
+opening_hours: Mo-We 06:30-20:00; Th-Fr 06:30-21:00; Sa 06:30-20:00; Su,PH off
 website: ""

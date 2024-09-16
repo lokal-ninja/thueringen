@@ -1,11 +1,11 @@
 id: 255128346
-type: way
+type: node
 latitude: 50.95899
 longitude: 11.62432
 postcode: "07743"
 city: Jena
-street: "Am Flutgraben"
-housenumber: 3
+street: Am Flutgraben
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 06:30-17:00"
+opening_hours: Mo-Fr 06:30-17:00
 website: ""

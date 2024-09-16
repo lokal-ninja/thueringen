@@ -1,11 +1,11 @@
 id: 584419802
-type: way
+type: node
 latitude: 51.14968
 longitude: 10.41356
 postcode: "99986"
 city: Vogtei
-street: "Eisenacher Straße"
-housenumber: 48
+street: Eisenacher Straße
+housenumber: "48"
 phone: ""
-opening_hours: "Tu-Fr 06:30-12:30, 14:30-17:00; Sa 06:00-11:00; Mo,Su,PH off"
+opening_hours: Tu-Fr 06:30-12:30, 14:30-17:00; Sa 06:00-11:00; Mo,Su,PH off
 website: ""

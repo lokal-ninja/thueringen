@@ -1,11 +1,11 @@
 id: 457165422
-type: way
+type: node
 latitude: 50.46269
 longitude: 11.53264
 postcode: "07343"
 city: Wurzbach
-street: "Oßlaberg"
-housenumber: 5
+street: Oßlaberg
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.ofenbau-senft.de/"
+website: https://www.ofenbau-senft.de/

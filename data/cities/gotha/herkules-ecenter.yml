@@ -1,11 +1,11 @@
 id: 177394218
-type: way
+type: node
 latitude: 50.92774
 longitude: 10.71415
 postcode: "99867"
 city: Gotha
-street: "Harjesstraße"
-housenumber: 4
+street: Harjesstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-20:00"
-website: "https://www.herkulesmarkt.de/mein-markt/mn_21212"
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-20:00
+website: https://www.herkulesmarkt.de/mein-markt/mn_21212

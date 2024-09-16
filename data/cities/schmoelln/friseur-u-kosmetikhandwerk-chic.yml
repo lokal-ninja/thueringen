@@ -4,8 +4,8 @@ latitude: 50.89609
 longitude: 12.35292
 postcode: "04626"
 city: Schmölln
-street: "Mittelstraße"
-housenumber: 8
+street: Mittelstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo 08:00-13:00; Tu-Fr 08:00-18:00; Sa 07:30-12:00; Su,PH off"
+opening_hours: Mo 08:00-13:00; Tu-Fr 08:00-18:00; Sa 07:30-12:00; Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 613160986
-type: way
+type: node
 latitude: 50.95622
 longitude: 10.39701
 postcode: "99848"
 city: Wutha-Farnroda
-street: "Gothaer Straße"
-housenumber: 65
+street: Gothaer Straße
+housenumber: "65"
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00"
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-20:00
 website: ""

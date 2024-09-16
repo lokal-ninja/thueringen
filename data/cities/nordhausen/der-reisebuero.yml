@@ -4,8 +4,8 @@ latitude: 51.49744
 longitude: 10.79178
 postcode: "99734"
 city: Nordhausen
-street: "Bahnhofstraße"
-housenumber: 36
+street: Bahnhofstraße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo,Tu,Th 09:00-18:00; We,Fr 09:00-17:00; Sa 09:30-12:00"
+opening_hours: Mo,Tu,Th 09:00-18:00; We,Fr 09:00-17:00; Sa 09:30-12:00
 website: ""

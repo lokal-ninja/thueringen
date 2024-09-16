@@ -4,8 +4,8 @@ latitude: 50.97357
 longitude: 11.02999
 postcode: "99084"
 city: Erfurt
-street: "Neuwerkstraße"
-housenumber: 8
+street: Neuwerkstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:30; Sa 09:30-19:30"
+opening_hours: Mo-Fr 09:00-19:30; Sa 09:30-19:30
 website: ""

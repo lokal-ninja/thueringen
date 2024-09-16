@@ -1,11 +1,11 @@
 id: 96350416
-type: way
+type: node
 latitude: 50.85979
 longitude: 12.07584
 postcode: "07549"
 city: Gera
-street: "Vogtlandstraße"
-housenumber: 6
+street: Vogtlandstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-16:00"
-website: "https://www.naturata-gera.de/"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-16:00
+website: https://www.naturata-gera.de/

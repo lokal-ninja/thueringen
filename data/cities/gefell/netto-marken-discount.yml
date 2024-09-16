@@ -1,11 +1,11 @@
 id: 1125498570
-type: way
+type: node
 latitude: 50.44141
 longitude: 11.86259
 postcode: "07926"
 city: Gefell
-street: "Schleizer Straße"
-housenumber: 44
+street: Schleizer Straße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

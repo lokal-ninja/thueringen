@@ -1,11 +1,11 @@
 id: 100646760
-type: way
+type: node
 latitude: 50.86996
 longitude: 12.08396
 postcode: "07545"
 city: Gera
-street: "Erfurtstraße"
-housenumber: 6
-phone: "+49 365 22346"
-opening_hours: "Mo-Th 07:00-17:00; Fr 06:45-15:00; Sa 09:00-12:00"
-website: "https://www.kb-lack.de/"
+street: Erfurtstraße
+housenumber: "6"
+phone: +49 365 22346
+opening_hours: Mo-Th 07:00-17:00; Fr 06:45-15:00; Sa 09:00-12:00
+website: https://www.kb-lack.de/

@@ -1,11 +1,11 @@
 id: 121141722
-type: way
+type: node
 latitude: 51.51928
 longitude: 10.76962
 postcode: "99734"
 city: Nordhausen
-street: "Straße der Opfer des Faschismus"
-housenumber: 44
+street: Straße der Opfer des Faschismus
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

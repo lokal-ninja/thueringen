@@ -4,8 +4,8 @@ latitude: 50.88829
 longitude: 12.43138
 postcode: "04639"
 city: Gößnitz
-street: "Neumarkt"
-housenumber: 8
-phone: "+49 36602 509782"
-opening_hours: "Tu-Fr 09:00-12:30, 14:30-17:30; Sa 09:00-11:00"
+street: Neumarkt
+housenumber: "8"
+phone: +49 36602 509782
+opening_hours: Tu-Fr 09:00-12:30, 14:30-17:30; Sa 09:00-11:00
 website: ""

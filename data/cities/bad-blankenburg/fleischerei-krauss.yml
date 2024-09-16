@@ -1,11 +1,11 @@
 id: 90814701
-type: way
+type: node
 latitude: 50.68473
 longitude: 11.26245
 postcode: "07422"
 city: Bad Blankenburg
-street: "Obere Marktstraße"
-housenumber: 11
+street: Obere Marktstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-We 08:30-13:00,15:00-18:00; Th,Fr 08:30-18:00"
+opening_hours: Mo-We 08:30-13:00,15:00-18:00; Th,Fr 08:30-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 43068516
-type: way
+type: node
 latitude: 50.65582
 longitude: 11.40666
 postcode: "07318"
 city: Saalfeld/Saale
-street: "Geraer Straße"
-housenumber: 67
+street: Geraer Straße
+housenumber: "67"
 phone: ""
 opening_hours: ""
-website: "http://www.kueche-spezial.de/"
+website: http://www.kueche-spezial.de/

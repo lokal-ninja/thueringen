@@ -1,11 +1,12 @@
 id: 99840168
-type: way
+type: node
 latitude: 51.21494
 longitude: 10.4833
 postcode: "99974"
 city: Mühlhausen
-street: "Sondershäuser Landstraße"
-housenumber: 25
+street: Sondershäuser Landstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo 06:00-20:30; Tu 06:00-20:30; We 06:00-20:30; Th 06:00-20:30; Fr 06:00-20:30; Sa 07:00-20:00; Su 08:00-20:00"
+opening_hours: Mo 06:00-20:30; Tu 06:00-20:30; We 06:00-20:30; Th 06:00-20:30; Fr
+    06:00-20:30; Sa 07:00-20:00; Su 08:00-20:00
 website: ""

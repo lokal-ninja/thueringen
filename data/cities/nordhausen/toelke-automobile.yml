@@ -1,11 +1,11 @@
 id: 372876946
-type: way
+type: node
 latitude: 51.49622
 longitude: 10.77974
 postcode: "99734"
 city: Nordhausen
-street: "Paul-Ernst-Straße"
-housenumber: 4
-phone: "+49 3631 603838"
+street: Paul-Ernst-Straße
+housenumber: "4"
+phone: +49 3631 603838
 opening_hours: ""
 website: ""

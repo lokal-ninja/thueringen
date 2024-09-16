@@ -1,11 +1,11 @@
 id: 222629829
-type: way
+type: node
 latitude: 50.99541
 longitude: 11.32409
 postcode: "99427"
 city: Weimar
-street: "Industriestraße"
+street: Industriestraße
 housenumber: 3c
 phone: ""
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-14:30; PH off"
-website: "https://www.foerch.de/unternehmen/verkaufsniederlassungen/weimar/"
+opening_hours: Mo-Th 07:00-17:00; Fr 07:00-14:30; PH off
+website: https://www.foerch.de/unternehmen/verkaufsniederlassungen/weimar/

@@ -4,8 +4,8 @@ latitude: 50.72114
 longitude: 11.34036
 postcode: "07407"
 city: Rudolstadt
-street: "Ratsgasse"
-housenumber: 5
+street: Ratsgasse
+housenumber: "5"
 phone: ""
-opening_hours: "Tu,Th,Fr 09:00-18:00; We 09:00-16:00; Sa 09:00-12:00; Su,Mo,PH off"
+opening_hours: Tu,Th,Fr 09:00-18:00; We 09:00-16:00; Sa 09:00-12:00; Su,Mo,PH off
 website: ""

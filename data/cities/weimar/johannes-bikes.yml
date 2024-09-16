@@ -4,8 +4,8 @@ latitude: 51.00011
 longitude: 11.30194
 postcode: "99427"
 city: Weimar
-street: "Lützendorf"
-housenumber: 1
-phone: "+49 3643 418792"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-17:00; Th 09:00-13:00,14:00-18:00; Sa 09:00-12:00"
+street: Lützendorf
+housenumber: "1"
+phone: +49 3643 418792
+opening_hours: Mo-Fr 09:00-13:00,14:00-17:00; Th 09:00-13:00,14:00-18:00; Sa 09:00-12:00
 website: ""

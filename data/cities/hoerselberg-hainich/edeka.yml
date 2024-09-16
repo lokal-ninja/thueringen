@@ -4,8 +4,8 @@ latitude: 51.02375
 longitude: 10.51806
 postcode: "99820"
 city: Hörselberg-Hainich
-street: "Hauptstraße"
-housenumber: 90
-phone: "+49 36254 71307"
-opening_hours: "Mo-Sa 07:00-20:00"
+street: Hauptstraße
+housenumber: "90"
+phone: +49 36254 71307
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

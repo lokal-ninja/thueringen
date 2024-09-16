@@ -4,8 +4,9 @@ latitude: 50.96115
 longitude: 12.58989
 postcode: "04618"
 city: Langenleuba-Niederhain
-street: "Am Teich"
-housenumber: 1
+street: Am Teich
+housenumber: "1"
 phone: ""
-opening_hours: "Mo,We 08:00-12:00; Tu,Th,Fr 08:00-12:00,14:00-17:00; Sa 08:00-10:00; Su,PH off"
+opening_hours: Mo,We 08:00-12:00; Tu,Th,Fr 08:00-12:00,14:00-17:00; Sa 08:00-10:00;
+    Su,PH off
 website: ""

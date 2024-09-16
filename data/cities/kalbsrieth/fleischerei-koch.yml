@@ -1,11 +1,11 @@
 id: 177055031
-type: way
+type: node
 latitude: 51.34269
 longitude: 11.33761
 postcode: "06556"
 city: Kalbsrieth
-street: "Rosengasse"
-housenumber: 32
-phone: "+49-3466-321432"
+street: Rosengasse
+housenumber: "32"
+phone: +49-3466-321432
 opening_hours: ""
 website: ""

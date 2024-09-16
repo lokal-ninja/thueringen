@@ -1,11 +1,11 @@
 id: 178226485
-type: way
+type: node
 latitude: 51.37591
 longitude: 11.28527
 postcode: "06556"
 city: Artern
-street: "Am Kalkfeld"
-housenumber: 1
+street: Am Kalkfeld
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 0:00-20:00; Su off"
-website: "http://www.norma-online.de"
+opening_hours: Mo-Sa 0:00-20:00; Su off
+website: http://www.norma-online.de

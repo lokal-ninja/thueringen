@@ -4,8 +4,8 @@ latitude: 51.20954
 longitude: 10.45238
 postcode: "99974"
 city: Mühlhausen
-street: "Herrenstraße"
-housenumber: 8
-phone: "+49 3601873108"
-opening_hours: "Tu,Th, Fr 08:00-18:00; We 08:00-16:00; Sa 07:00-12:00"
-website: "https://locke24.com/"
+street: Herrenstraße
+housenumber: "8"
+phone: +49 3601873108
+opening_hours: Tu,Th, Fr 08:00-18:00; We 08:00-16:00; Sa 07:00-12:00
+website: https://locke24.com/

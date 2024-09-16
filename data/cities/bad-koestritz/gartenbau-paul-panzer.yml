@@ -4,8 +4,8 @@ latitude: 50.93313
 longitude: 12.00608
 postcode: "07586"
 city: Bad Köstritz
-street: "Werner-Sylten-Straße"
-housenumber: 12
-phone: "+49 36605 2659"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.koestritzerdahlien.de/"
+street: Werner-Sylten-Straße
+housenumber: "12"
+phone: +49 36605 2659
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.koestritzerdahlien.de/

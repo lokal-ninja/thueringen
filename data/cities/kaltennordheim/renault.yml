@@ -1,11 +1,11 @@
 id: 204691044
-type: way
+type: node
 latitude: 50.62459
 longitude: 10.15858
 postcode: "36452"
 city: Kaltennordheim
-street: "Goethestraße"
-housenumber: 3
+street: Goethestraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

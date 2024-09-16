@@ -1,11 +1,11 @@
 id: 184298056
-type: way
+type: node
 latitude: 50.42867
 longitude: 10.71055
 postcode: "98646"
 city: Hildburghausen
-street: "Häselriether Straße"
-housenumber: 9
+street: Häselriether Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

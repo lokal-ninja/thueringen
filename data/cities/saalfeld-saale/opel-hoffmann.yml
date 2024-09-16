@@ -1,11 +1,11 @@
 id: 142495292
-type: way
+type: node
 latitude: 50.65675
 longitude: 11.34414
 postcode: "07318"
 city: Saalfeld/Saale
-street: "Mittlerer Watzenbach"
-housenumber: 15
+street: Mittlerer Watzenbach
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

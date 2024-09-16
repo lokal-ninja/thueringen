@@ -1,11 +1,11 @@
 id: 93655657
-type: way
+type: node
 latitude: 50.90683
 longitude: 11.84554
 postcode: "07629"
 city: Hermsdorf
-street: "Erich-Weinert-Straße"
-housenumber: 45
+street: Erich-Weinert-Straße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

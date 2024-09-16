@@ -1,11 +1,11 @@
 id: 137387619
-type: way
+type: node
 latitude: 51.47849
 longitude: 10.47761
 postcode: "37345"
 city: Am Ohmberg
-street: "Vor dem Tor"
-housenumber: 1
+street: Vor dem Tor
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

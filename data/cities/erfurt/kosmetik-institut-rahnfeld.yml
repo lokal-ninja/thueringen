@@ -1,11 +1,11 @@
 id: 264359956
-type: way
+type: node
 latitude: 50.98943
 longitude: 10.92457
 postcode: "99090"
 city: Erfurt
-street: "Am Wäldchen"
-housenumber: 2
+street: Am Wäldchen
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

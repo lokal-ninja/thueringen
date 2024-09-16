@@ -1,11 +1,11 @@
 id: 25739392
-type: way
+type: node
 latitude: 50.81125
 longitude: 10.21012
 postcode: "36433"
 city: Bad Salzungen
-street: "Leimbacher Straße"
-housenumber: 97
+street: Leimbacher Straße
+housenumber: "97"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.62966
 longitude: 12.10079
 postcode: "07957"
 city: Langenwetzendorf
-street: "Wellsdorf"
-housenumber: 9
+street: Wellsdorf
+housenumber: "9"
 phone: ""
-opening_hours: "Oct-Apr: Fr[4]"
+opening_hours: 'Oct-Apr: Fr[4]'
 website: ""

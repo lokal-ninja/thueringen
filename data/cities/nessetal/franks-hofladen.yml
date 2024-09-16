@@ -4,8 +4,8 @@ latitude: 51.01412
 longitude: 10.72628
 postcode: "99869"
 city: Nessetal
-street: "Kirchstraße"
-housenumber: 32
+street: Kirchstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Th-Fr 13:00-18:00; PH off"
-website: "https://www.frankshofladen.de"
+opening_hours: Th-Fr 13:00-18:00; PH off
+website: https://www.frankshofladen.de

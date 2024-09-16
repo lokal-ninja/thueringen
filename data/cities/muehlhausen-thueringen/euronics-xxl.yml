@@ -4,8 +4,8 @@ latitude: 51.22342
 longitude: 10.45499
 postcode: "99974"
 city: Mühlhausen/Thüringen
-street: "Industriestraße"
-housenumber: 18
+street: Industriestraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.euronics.de/xxl-muehlhausen-thuer-moschcau"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://www.euronics.de/xxl-muehlhausen-thuer-moschcau

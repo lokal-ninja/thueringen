@@ -4,8 +4,9 @@ latitude: 50.42667
 longitude: 10.90764
 postcode: "98673"
 city: Eisfeld
-street: "Marktstraße"
-housenumber: 5
+street: Marktstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Tu 09:00-13:00, 14:00-18:00; We 09:00-13:00; Th-Fr 09:00-13:00, 14:00-18:00; Sa 10:00-12:00; Su,PH off"
+opening_hours: Mo-Tu 09:00-13:00, 14:00-18:00; We 09:00-13:00; Th-Fr 09:00-13:00,
+    14:00-18:00; Sa 10:00-12:00; Su,PH off
 website: ""

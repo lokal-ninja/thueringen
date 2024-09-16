@@ -1,11 +1,11 @@
 id: 300455059
-type: way
+type: node
 latitude: 50.51447
 longitude: 10.76528
 postcode: "98553"
 city: Schleusingen
-street: "Ilmenauer Straße"
-housenumber: 53
-phone: "+49 36841 3510"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-12:00; Su off; PH off"
-website: "https://www.ahag24.de/"
+street: Ilmenauer Straße
+housenumber: "53"
+phone: +49 36841 3510
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-12:00; Su off; PH off
+website: https://www.ahag24.de/

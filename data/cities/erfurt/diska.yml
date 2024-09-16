@@ -4,8 +4,8 @@ latitude: 51.00976
 longitude: 11.1025
 postcode: "99098"
 city: Erfurt
-street: "Zur Weißen Scheune"
-housenumber: 6
-phone: "+49 36203 71585"
-opening_hours: "Mo-Sa 07:00-20:00"
+street: Zur Weißen Scheune
+housenumber: "6"
+phone: +49 36203 71585
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

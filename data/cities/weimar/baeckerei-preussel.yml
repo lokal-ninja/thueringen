@@ -4,8 +4,8 @@ latitude: 50.99329
 longitude: 11.36329
 postcode: "99425"
 city: Weimar
-street: "Hauptstraße"
-housenumber: 14
+street: Hauptstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 07:00-18:00; Su 08:00-18:00; PH off"
+opening_hours: Mo-Sa 07:00-18:00; Su 08:00-18:00; PH off
 website: ""

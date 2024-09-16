@@ -1,11 +1,11 @@
 id: 173335867
-type: way
+type: node
 latitude: 51.30087
 longitude: 11.43037
 postcode: "06571"
 city: Roßleben-Wiehe
-street: "Am Weinberg"
-housenumber: 5
+street: Am Weinberg
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

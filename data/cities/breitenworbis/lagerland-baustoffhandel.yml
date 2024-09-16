@@ -1,11 +1,11 @@
 id: 140303125
-type: way
+type: node
 latitude: 51.41355
 longitude: 10.43766
 postcode: "37339"
 city: Breitenworbis
-street: "Auf dem Pfingstrasen"
-housenumber: 6
+street: Auf dem Pfingstrasen
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-12:00
 website: ""

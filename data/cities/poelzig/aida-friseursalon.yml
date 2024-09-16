@@ -4,8 +4,8 @@ latitude: 50.95257
 longitude: 12.198
 postcode: "07554"
 city: Pölzig
-street: "Hauptstraße"
-housenumber: 20
+street: Hauptstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 08:00-16:30; Sa,Su,PH off"
+opening_hours: Mo-Fr 08:00-16:30; Sa,Su,PH off
 website: ""

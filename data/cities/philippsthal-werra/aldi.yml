@@ -1,11 +1,11 @@
 id: 280075202
-type: way
+type: node
 latitude: 50.83888
 longitude: 9.98946
 postcode: "36269"
 city: Philippsthal (Werra)
-street: "Ulsterstraße"
-housenumber: 4
+street: Ulsterstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

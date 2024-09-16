@@ -1,11 +1,11 @@
 id: 37950154
-type: way
+type: node
 latitude: 50.71435
 longitude: 10.12227
 postcode: "36466"
 city: Dermbach
-street: "Wiesenthaler Straße"
-housenumber: 3
+street: Wiesenthaler Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00; Su off"
-website: "https://www.auto-center-vacha.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:00; Su off
+website: https://www.auto-center-vacha.de/

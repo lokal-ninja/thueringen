@@ -1,11 +1,11 @@
 id: 221127758
-type: way
+type: node
 latitude: 50.88752
 longitude: 11.61466
 postcode: "07747"
 city: Jena
-street: "Platanenstraße"
-housenumber: 2
-phone: "+49 3641 303 64 700"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.reha-aktiv2000.de/filialen/jena/"
+street: Platanenstraße
+housenumber: "2"
+phone: +49 3641 303 64 700
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.reha-aktiv2000.de/filialen/jena/

@@ -1,11 +1,11 @@
 id: 39480309
-type: way
+type: node
 latitude: 50.81933
 longitude: 10.343
 postcode: "36448"
 city: Bad Liebenstein
-street: "Ladestraße"
-housenumber: 3
+street: Ladestraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

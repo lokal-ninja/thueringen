@@ -4,8 +4,8 @@ latitude: 50.97715
 longitude: 11.02967
 postcode: "99084"
 city: Erfurt
-street: "Schlösserstraße"
-housenumber: 39
+street: Schlösserstraße
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
 website: ""

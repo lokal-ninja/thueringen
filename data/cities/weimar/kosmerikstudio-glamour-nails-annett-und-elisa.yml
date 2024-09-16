@@ -4,8 +4,8 @@ latitude: 50.98248
 longitude: 11.32775
 postcode: "99423"
 city: Weimar
-street: "Kleine Kirchgasse"
-housenumber: 1
+street: Kleine Kirchgasse
+housenumber: "1"
 phone: "+491624358294"
-opening_hours: "Montag bis Freitag nach Vereinbarung"
+opening_hours: '"Montag bis Freitag nach Vereinbarung"'
 website: ""

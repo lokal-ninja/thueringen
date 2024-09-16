@@ -4,8 +4,8 @@ latitude: 50.99648
 longitude: 10.98567
 postcode: "99092"
 city: Erfurt
-street: "Meuselwitzer Straße"
-housenumber: 5
+street: Meuselwitzer Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:00; Sa 09:00-12:00; Mo,Su,PH off"
+opening_hours: Tu-Fr 10:00-18:00; Sa 09:00-12:00; Mo,Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 42032086
-type: way
+type: node
 latitude: 50.98326
 longitude: 11.29023
 postcode: "99428"
 city: Weimar
-street: "Weimarer Straße"
-housenumber: 61
+street: Weimarer Straße
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Fr 07:00-09:00,09:30-17:00"
+opening_hours: Mo-Fr 07:00-09:00,09:30-17:00
 website: ""

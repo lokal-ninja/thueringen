@@ -4,8 +4,8 @@ latitude: 50.84777
 longitude: 12.06628
 postcode: "07549"
 city: Gera
-street: "Schleizer Straße"
-housenumber: 35
-phone: "+49 365 5516566"
-opening_hours: "Mo-Sa 06:00-21:00"
-website: "https://www.laudenbach-gera.de/"
+street: Schleizer Straße
+housenumber: "35"
+phone: +49 365 5516566
+opening_hours: Mo-Sa 06:00-21:00
+website: https://www.laudenbach-gera.de/

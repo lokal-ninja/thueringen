@@ -1,11 +1,11 @@
 id: 704959879
-type: way
+type: node
 latitude: 50.95739
 longitude: 11.61725
 postcode: "07743"
 city: Jena
-street: "Brückenstraße"
-housenumber: 6
+street: Brückenstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-13:00"
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-13:00
 website: ""

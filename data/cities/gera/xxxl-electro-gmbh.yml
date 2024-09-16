@@ -1,11 +1,11 @@
 id: 101764981
-type: way
+type: node
 latitude: 50.90114
 longitude: 12.11001
 postcode: "07552"
 city: Gera
-street: "Adam-Opel-Straße"
-housenumber: 1
+street: Adam-Opel-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00
 website: ""

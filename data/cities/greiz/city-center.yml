@@ -1,11 +1,11 @@
 id: 104025209
-type: way
+type: node
 latitude: 50.65352
 longitude: 12.20859
 postcode: "07973"
 city: Greiz
-street: "August-Bebel-Straße"
-housenumber: 46
+street: August-Bebel-Straße
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

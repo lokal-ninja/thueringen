@@ -1,11 +1,11 @@
 id: 202628372
-type: way
+type: node
 latitude: 50.78056
 longitude: 12.00202
 postcode: "07570"
 city: Harth-Pöllnitz
-street: "Hinter dem Wachhügel"
-housenumber: 5
+street: Hinter dem Wachhügel
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

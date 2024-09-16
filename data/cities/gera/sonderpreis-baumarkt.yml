@@ -1,11 +1,11 @@
 id: 94245965
-type: way
+type: node
 latitude: 50.88999
 longitude: 12.07982
 postcode: "07545"
 city: Gera
-street: "Berliner Straße"
-housenumber: 79
+street: Berliner Straße
+housenumber: "79"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00
 website: ""

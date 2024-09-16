@@ -4,8 +4,8 @@ latitude: 51.00917
 longitude: 10.99822
 postcode: "99091"
 city: Erfurt
-street: "Moskauer Platz"
-housenumber: 20
+street: Moskauer Platz
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.kik.de"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.kik.de

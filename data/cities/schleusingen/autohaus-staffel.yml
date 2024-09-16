@@ -1,11 +1,11 @@
 id: 300455060
-type: way
+type: node
 latitude: 50.51517
 longitude: 10.76781
 postcode: "98553"
 city: Schleusingen
-street: "Ilmenauer Straße"
-housenumber: 36
-phone: "+49 36841 3770"
+street: Ilmenauer Straße
+housenumber: "36"
+phone: +49 36841 3770
 opening_hours: ""
-website: "https://www.autohaus-staffel.de/"
+website: https://www.autohaus-staffel.de/

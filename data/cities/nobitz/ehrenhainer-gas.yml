@@ -4,8 +4,9 @@ latitude: 50.94371
 longitude: 12.51169
 postcode: "04603"
 city: Nobitz
-street: "Waldenburger Straße"
+street: Waldenburger Straße
 housenumber: 7b
 phone: ""
-opening_hours: "Mo 07:00-12:00,12:30-17:30; Tu,We 15:00-16:00; Th 07:00-12:00,12:30-16:45; Fr 07:00-12:00; Sa,Su,PH off"
+opening_hours: Mo 07:00-12:00,12:30-17:30; Tu,We 15:00-16:00; Th 07:00-12:00,12:30-16:45;
+    Fr 07:00-12:00; Sa,Su,PH off
 website: ""

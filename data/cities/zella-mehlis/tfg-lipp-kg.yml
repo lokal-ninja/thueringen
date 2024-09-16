@@ -4,8 +4,8 @@ latitude: 50.64059
 longitude: 10.68068
 postcode: "98544"
 city: Zella-Mehlis
-street: "Rodewasser"
-housenumber: 14
-phone: "+49 3682 477770"
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-14:45"
-website: "https://www.tfg-gruppe.de/unternehmen/tfg-lipp-kg/standorte/haupthaus-zella-mehlis"
+street: Rodewasser
+housenumber: "14"
+phone: +49 3682 477770
+opening_hours: Mo-Th 07:00-17:00; Fr 07:00-14:45
+website: https://www.tfg-gruppe.de/unternehmen/tfg-lipp-kg/standorte/haupthaus-zella-mehlis

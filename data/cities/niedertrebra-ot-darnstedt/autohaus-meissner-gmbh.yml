@@ -1,11 +1,11 @@
 id: 210629963
-type: way
+type: node
 latitude: 51.07903
 longitude: 11.61071
 postcode: "99518"
 city: Niedertrebra OT Darnstedt
-street: "Im Dorfe"
+street: Im Dorfe
 housenumber: 44a
-phone: "+49 36461 2420"
-opening_hours: "Mo-Fr 07:00-18:00, Sa 08:00-13:00"
-website: "https://www.ford-meissner-niedertrebra.de"
+phone: +49 36461 2420
+opening_hours: Mo-Fr 07:00-18:00, Sa 08:00-13:00
+website: https://www.ford-meissner-niedertrebra.de

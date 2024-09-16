@@ -4,8 +4,8 @@ latitude: 50.42304
 longitude: 10.90229
 postcode: "98673"
 city: Eisfeld
-street: "Weihbach"
-housenumber: 30
-phone: "+49 3686 39240"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-12:00"
-website: "https://www.opel-automobilcenter-eisfeld.de/"
+street: Weihbach
+housenumber: "30"
+phone: +49 3686 39240
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-12:00
+website: https://www.opel-automobilcenter-eisfeld.de/

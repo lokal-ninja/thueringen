@@ -1,11 +1,11 @@
 id: 93979072
-type: way
+type: node
 latitude: 50.65482
 longitude: 11.34711
 postcode: "07318"
 city: Saalfeld/Saale
-street: "Am Cröstener Weg"
-housenumber: 14
+street: Am Cröstener Weg
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

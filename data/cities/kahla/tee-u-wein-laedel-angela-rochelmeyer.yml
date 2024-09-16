@@ -1,11 +1,11 @@
 id: 307076373
-type: way
+type: node
 latitude: 50.80282
 longitude: 11.58783
 postcode: "07768"
 city: Kahla
-street: "Markt"
-housenumber: 4
-phone: "+49 36424 23907"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-11:00"
+street: Markt
+housenumber: "4"
+phone: +49 36424 23907
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-11:00
 website: ""

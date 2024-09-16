@@ -4,8 +4,8 @@ latitude: 50.87855
 longitude: 12.08577
 postcode: "07545"
 city: Gera
-street: "Zschochernstraße"
-housenumber: 4
+street: Zschochernstraße
+housenumber: "4"
 phone: "+491636277472"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://netgames.de"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://netgames.de

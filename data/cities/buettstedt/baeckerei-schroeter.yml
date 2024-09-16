@@ -1,11 +1,11 @@
 id: 975492737
-type: way
+type: node
 latitude: 51.25994
 longitude: 10.30985
 postcode: "37359"
 city: Büttstedt
-street: "Hauptstraße"
-housenumber: 27
+street: Hauptstraße
+housenumber: "27"
 phone: ""
-opening_hours: "Tu-Fr 06:30-10:00; Sa 06:30-10:30; Mo,Su,PH off"
+opening_hours: Tu-Fr 06:30-10:00; Sa 06:30-10:30; Mo,Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 547028010
-type: way
+type: node
 latitude: 50.88806
 longitude: 10.00924
 postcode: "36266"
 city: Heringen (Werra)
-street: "Hauptstraße"
-housenumber: 30
+street: Hauptstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://stores.tedi.com/tedi-481d2ee8b81d"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://stores.tedi.com/tedi-481d2ee8b81d

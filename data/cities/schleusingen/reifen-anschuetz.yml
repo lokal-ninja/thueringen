@@ -1,11 +1,11 @@
 id: 493036092
-type: way
+type: node
 latitude: 50.50349
 longitude: 10.82524
 postcode: "98553"
 city: Schleusingen
-street: "Obere Aue"
-housenumber: 13
+street: Obere Aue
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

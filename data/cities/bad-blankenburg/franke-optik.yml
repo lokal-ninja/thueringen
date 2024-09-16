@@ -1,11 +1,11 @@
 id: 90835505
-type: way
+type: node
 latitude: 50.68439
 longitude: 11.26499
 postcode: "07422"
 city: Bad Blankenburg
-street: "Untere Marktstraße"
-housenumber: 7
-phone: "+49 36741 40462"
-opening_hours: "Tu,Th,Fr 09:00-18:00; We,Sa 09:00-12:00"
+street: Untere Marktstraße
+housenumber: "7"
+phone: +49 36741 40462
+opening_hours: Tu,Th,Fr 09:00-18:00; We,Sa 09:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 91011577
-type: way
+type: node
 latitude: 51.01339
 longitude: 10.9893
 postcode: "99091"
 city: Erfurt
-street: "Demminer Straße"
-housenumber: 6
+street: Demminer Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa: 08:00-13:00; PH off"
+opening_hours: 'Mo-Fr 07:30-18:00; Sa: 08:00-13:00; PH off'
 website: ""

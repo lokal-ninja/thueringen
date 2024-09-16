@@ -1,11 +1,11 @@
 id: 183491169
-type: way
+type: node
 latitude: 50.88582
 longitude: 12.13525
 postcode: "07554"
 city: Gera
-street: "An der Beerweinschänke"
-housenumber: 2
+street: An der Beerweinschänke
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH,Su off, PH,Mo-Su 00:00-24:00+"
+opening_hours: Mo-Sa 08:00-20:00; PH,Su off, PH,Mo-Su 00:00-24:00+
 website: ""

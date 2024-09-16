@@ -1,11 +1,11 @@
 id: 33210463
-type: way
+type: node
 latitude: 50.95968
 longitude: 10.94766
 postcode: "99094"
 city: Erfurt
-street: "Eisenacher Straße"
-housenumber: 50
+street: Eisenacher Straße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "http://www.ikea.de/erfurt"
+opening_hours: Mo-Sa 10:00-19:00
+website: http://www.ikea.de/erfurt

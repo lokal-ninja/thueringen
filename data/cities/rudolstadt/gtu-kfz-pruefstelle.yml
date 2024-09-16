@@ -1,11 +1,11 @@
 id: 159029871
-type: way
+type: node
 latitude: 50.71785
 longitude: 11.35379
 postcode: "07407"
 city: Rudolstadt
-street: "Catharinauer Straße"
-housenumber: 6
+street: Catharinauer Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.neczas-partner.de"
+website: https://www.neczas-partner.de

@@ -1,11 +1,11 @@
 id: 162939487
-type: way
+type: node
 latitude: 51.38572
 longitude: 10.84782
 postcode: "99706"
 city: Sondershausen
-street: "Schachtstraße"
-housenumber: 12
-phone: "+49 3632 544667"
+street: Schachtstraße
+housenumber: "12"
+phone: +49 3632 544667
 opening_hours: ""
-website: "https://www.raiffeisen-eichsfeld.de/"
+website: https://www.raiffeisen-eichsfeld.de/

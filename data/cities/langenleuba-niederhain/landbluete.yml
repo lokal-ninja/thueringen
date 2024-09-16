@@ -4,8 +4,9 @@ latitude: 50.95562
 longitude: 12.54558
 postcode: "04618"
 city: Langenleuba-Niederhain
-street: "Lohma"
+street: Lohma
 housenumber: 25b
 phone: ""
-opening_hours: "Mo,We-Fr 08:00-12:00,14:00-18:00; Tu 09:00-15:00, Sa 09:00-12:00; Su,PH off"
+opening_hours: Mo,We-Fr 08:00-12:00,14:00-18:00; Tu 09:00-15:00, Sa 09:00-12:00; Su,PH
+    off
 website: ""

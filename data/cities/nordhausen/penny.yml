@@ -1,11 +1,11 @@
 id: 128925954
-type: way
+type: node
 latitude: 51.49998
 longitude: 10.77864
 postcode: "99734"
 city: Nordhausen
-street: "Bochumer Straße"
-housenumber: 22
-phone: "+49221/20199959"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.penny.de/"
+street: Bochumer Straße
+housenumber: "22"
+phone: +49221/20199959
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.penny.de/

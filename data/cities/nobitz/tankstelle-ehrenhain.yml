@@ -1,11 +1,11 @@
 id: 360876191
-type: way
+type: node
 latitude: 50.94372
 longitude: 12.5194
 postcode: "04603"
 city: Nobitz
-street: "Nirkendorfer Weg"
-housenumber: 5
+street: Nirkendorfer Weg
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:00; Sa 07:00-15:00; Su,PH 08:00-12:00"
+opening_hours: Mo-Fr 06:00-19:00; Sa 07:00-15:00; Su,PH 08:00-12:00
 website: ""

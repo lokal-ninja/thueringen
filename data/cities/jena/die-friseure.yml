@@ -4,8 +4,8 @@ latitude: 50.92317
 longitude: 11.60027
 postcode: "07749"
 city: Jena
-street: "Friedrich-Engels-Straße"
-housenumber: 53
+street: Friedrich-Engels-Straße
+housenumber: "53"
 phone: ""
-opening_hours: "nach Terminvereinbarung"
+opening_hours: '"nach Terminvereinbarung"'
 website: ""

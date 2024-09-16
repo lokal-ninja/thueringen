@@ -4,8 +4,8 @@ latitude: 51.50308
 longitude: 10.79365
 postcode: "99734"
 city: Nordhausen
-street: "Engelsburg"
-housenumber: 10
-phone: "+493631/988520"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:00"
-website: "https://www.modehit-bierwisch.de/"
+street: Engelsburg
+housenumber: "10"
+phone: +493631/988520
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-13:00
+website: https://www.modehit-bierwisch.de/

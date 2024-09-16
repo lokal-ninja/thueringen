@@ -1,11 +1,11 @@
 id: 25317287
-type: way
+type: node
 latitude: 50.66331
 longitude: 12.21044
 postcode: "07973"
 city: Greiz
-street: "Heinrich-Mann-Ring"
-housenumber: 21
+street: Heinrich-Mann-Ring
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

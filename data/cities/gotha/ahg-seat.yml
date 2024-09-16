@@ -1,11 +1,11 @@
 id: 123954038
-type: way
+type: node
 latitude: 50.92256
 longitude: 10.71397
 postcode: "99867"
 city: Gotha
-street: "Cyrusstraße"
-housenumber: 22
-phone: "+49 3621 4504310"
+street: Cyrusstraße
+housenumber: "22"
+phone: +49 3621 4504310
 opening_hours: ""
-website: "https://ahg-gotha.seat.de/"
+website: https://ahg-gotha.seat.de/

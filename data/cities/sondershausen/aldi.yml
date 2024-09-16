@@ -1,11 +1,11 @@
 id: 207423817
-type: way
+type: node
 latitude: 51.36792
 longitude: 10.84926
 postcode: "99706"
 city: Sondershausen
-street: "Erfurter Straße"
-housenumber: 14
+street: Erfurter Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

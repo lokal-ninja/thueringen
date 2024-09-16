@@ -4,8 +4,8 @@ latitude: 50.97612
 longitude: 11.02788
 postcode: "99084"
 city: Erfurt
-street: "Paulstraße"
-housenumber: 15
+street: Paulstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Tu-Fr 12:00-19:00; Sa 11:00-16:00"
+opening_hours: Tu-Fr 12:00-19:00; Sa 11:00-16:00
 website: ""

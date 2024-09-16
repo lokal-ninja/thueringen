@@ -4,8 +4,8 @@ latitude: 50.83877
 longitude: 12.06461
 postcode: "07549"
 city: Gera
-street: "Otto-Rothe-Straße"
-housenumber: 24
+street: Otto-Rothe-Straße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

@@ -4,8 +4,8 @@ latitude: 50.93835
 longitude: 11.48387
 postcode: "99441"
 city: Großschwabhausen
-street: "Am Hohlstedter Weg"
-housenumber: 3
+street: Am Hohlstedter Weg
+housenumber: "3"
 phone: "+4936454490775"
-opening_hours: "Di-Mi 09:00-16:00; Do-Fr 09:00-18:00; Sa 08:00-12:00"
-website: "https://frisierbar-jena.de/"
+opening_hours: Di-Mi 09:00-16:00; Do-Fr 09:00-18:00; Sa 08:00-12:00
+website: https://frisierbar-jena.de/

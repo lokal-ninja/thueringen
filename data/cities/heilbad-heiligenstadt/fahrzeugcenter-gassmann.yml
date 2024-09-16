@@ -1,11 +1,11 @@
 id: 1251240525
-type: way
+type: node
 latitude: 51.37468
 longitude: 10.11934
 postcode: "37308"
 city: Heilbad Heiligenstadt
-street: "Unterm Hünenstein"
-housenumber: 2
+street: Unterm Hünenstein
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-12:00; PH off"
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-12:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 491557263
-type: way
+type: node
 latitude: 50.65597
 longitude: 11.38212
 postcode: "07318"
 city: Saalfeld/Saale
-street: "Finkenweg"
-housenumber: 1
+street: Finkenweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

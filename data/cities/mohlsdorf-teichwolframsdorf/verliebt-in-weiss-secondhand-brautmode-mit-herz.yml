@@ -4,8 +4,8 @@ latitude: 50.67684
 longitude: 12.28882
 postcode: "07987"
 city: Mohlsdorf-Teichwolframsdorf
-street: "Werdauer Straße"
-housenumber: 36
-phone: "+49 151 74524945"
-opening_hours: "Termine nach Vereinbarung"
-website: "https://www.verliebtinweiss.de"
+street: Werdauer Straße
+housenumber: "36"
+phone: +49 151 74524945
+opening_hours: '"Termine nach Vereinbarung"'
+website: https://www.verliebtinweiss.de

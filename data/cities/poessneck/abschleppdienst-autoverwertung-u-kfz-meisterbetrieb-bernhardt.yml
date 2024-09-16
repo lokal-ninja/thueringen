@@ -1,11 +1,11 @@
 id: 217576966
-type: way
+type: node
 latitude: 50.70489
 longitude: 11.61028
 postcode: "07381"
 city: Pößneck
-street: "Köstitzer Straße"
-housenumber: 19
-phone: "+49 3647 414032"
+street: Köstitzer Straße
+housenumber: "19"
+phone: +49 3647 414032
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 255623636
-type: way
+type: node
 latitude: 50.92985
 longitude: 11.58687
 postcode: "07743"
 city: Jena
-street: "Fürstengraben"
-housenumber: 15
+street: Fürstengraben
+housenumber: "15"
 phone: ""
-opening_hours: "Sa 09:00-12:30; Mo-Fr 09:00-17:00"
+opening_hours: Sa 09:00-12:30; Mo-Fr 09:00-17:00
 website: ""

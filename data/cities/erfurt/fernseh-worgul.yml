@@ -1,11 +1,11 @@
 id: 159969203
-type: way
+type: node
 latitude: 51.02094
 longitude: 10.99342
 postcode: "99091"
 city: Erfurt
-street: "Im Haun"
-housenumber: 17
+street: Im Haun
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

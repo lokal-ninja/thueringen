@@ -4,8 +4,8 @@ latitude: 50.74148
 longitude: 11.57581
 postcode: "07381"
 city: Langenorla
-street: "Ortsstraße"
-housenumber: 59
-phone: "+49 3647 412661"
-opening_hours: "Mo-Fr 05:30-12:00,14:00-18:00; Sa 05:30-11:00"
+street: Ortsstraße
+housenumber: "59"
+phone: +49 3647 412661
+opening_hours: Mo-Fr 05:30-12:00,14:00-18:00; Sa 05:30-11:00
 website: ""

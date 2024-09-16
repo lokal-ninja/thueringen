@@ -4,8 +4,8 @@ latitude: 50.97509
 longitude: 10.32145
 postcode: "99817"
 city: Eisenach
-street: "Karlstraße"
-housenumber: 15
+street: Karlstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:30"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:30
 website: ""

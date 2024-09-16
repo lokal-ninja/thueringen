@@ -1,11 +1,12 @@
 id: 192108045
-type: way
+type: node
 latitude: 50.89403
 longitude: 11.59482
 postcode: "07745"
 city: Jena
-street: "Ernst-Ruska-Ring"
-housenumber: 14
+street: Ernst-Ruska-Ring
+housenumber: "14"
 phone: ""
-opening_hours: "Apr-Oct: Mo-Th 06:30-17:00; Apr-Oct: Fr 06:30-15:00; Nov-Mar: Mo-Th 07:00-17:00; Nov-Mar: Fr 07:00-15:00"
+opening_hours: 'Apr-Oct: Mo-Th 06:30-17:00; Apr-Oct: Fr 06:30-15:00; Nov-Mar: Mo-Th
+    07:00-17:00; Nov-Mar: Fr 07:00-15:00'
 website: ""

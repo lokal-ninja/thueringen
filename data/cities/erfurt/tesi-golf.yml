@@ -4,8 +4,8 @@ latitude: 50.98285
 longitude: 11.01637
 postcode: "99092"
 city: Erfurt
-street: "Blumenstraße"
-housenumber: 8
-phone: "+49(361)34194570"
-opening_hours: "Mo-Fr 11:00-15:00"
-website: "https://www.tesi-golf.de"
+street: Blumenstraße
+housenumber: "8"
+phone: +49(361)34194570
+opening_hours: Mo-Fr 11:00-15:00
+website: https://www.tesi-golf.de
