@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /erfurt/rewe-eislebener-strasse/
+url: /erfurt/rewe-mainzer-strasse/
 shop: Supermarkt
 ---
