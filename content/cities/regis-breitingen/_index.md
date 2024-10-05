@@ -1,6 +1,6 @@
 ---
 title: Regis-Breitingen
 url: /regis-breitingen/
-latitude: 51.089
-longitude: 12.445
+latitude: 51.088
+longitude: 12.358
 ---
