@@ -7,5 +7,6 @@ city: Schwarzatal
 street: Gabelweg
 housenumber: "2"
 phone: +49 36705 62287
-opening_hours: Mo-Fr 08:00-12:00,13:00-17:00; Sa 09:00-11:00
+opening_hours: Mo,Tu,Th 08:00-12:00,12:30-16:00; Fr 08:30-12:00,12:30-17:00; Sa 08:00-12:00;
+    We,Su,PH off
 website: ""
