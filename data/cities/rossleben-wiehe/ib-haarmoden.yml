@@ -1,11 +1,12 @@
-id: 173446149
+id: 173379292
 type: node
-latitude: 51.30318
-longitude: 11.40526
+latitude: 51.30062
+longitude: 11.43443
 postcode: "06571"
 city: Roßleben-Wiehe
-street: Schenkenplatz
-housenumber: "5"
+street: Ziegelrodaer Straße
+housenumber: "68"
 phone: ""
-opening_hours: Tu-Fr 08:00-15:00,12:00-18:00; Th 08:00-20:00; Sa-Mo off
+opening_hours: Tu-We 08:00-18:00; Th 08:00-20:00; Fr 08:00-18:00; Sa 08:00-13:00;
+    Su-Mo off
 website: ""

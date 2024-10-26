@@ -1,6 +1,6 @@
 ---
 title: Hildburghausen
 url: /hildburghausen/
-latitude: 50.435
-longitude: 10.731
+latitude: 50.427
+longitude: 10.73
 ---
