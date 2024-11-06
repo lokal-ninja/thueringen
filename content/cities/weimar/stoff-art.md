@@ -1,5 +1,5 @@
 ---
-title: "Stoff-Art"
+title: "stoff-art"
 url: /weimar/stoff-art/
-shop: Allgemein
+shop: Textil
 ---

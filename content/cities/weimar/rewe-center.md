@@ -1,5 +1,5 @@
 ---
-title: "Rewe Center"
+title: "REWE Center"
 url: /weimar/rewe-center/
 shop: Supermarkt
 ---

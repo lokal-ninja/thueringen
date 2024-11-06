@@ -1,6 +1,6 @@
 ---
 title: Blankenhain
 url: /blankenhain/
-latitude: 50.859
-longitude: 11.344
+latitude: 50.858
+longitude: 11.343
 ---
