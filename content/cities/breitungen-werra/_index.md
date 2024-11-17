@@ -1,6 +1,6 @@
 ---
 title: Breitungen/Werra
 url: /breitungen-werra/
-latitude: 50.761
-longitude: 10.332
+latitude: 50.762
+longitude: 10.331
 ---

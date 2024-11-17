@@ -1,5 +1,5 @@
 ---
 title: "Futtermittelhandel Krausse"
-url: /koenigsee-rottenbach/futtermittelhandel-krausse/
+url: /koenigsee/futtermittelhandel-krausse/
 shop: Allgemein
 ---
