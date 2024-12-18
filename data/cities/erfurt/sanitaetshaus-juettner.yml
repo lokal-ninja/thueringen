@@ -7,5 +7,6 @@ city: Erfurt
 street: Meienbergstraße
 housenumber: "3"
 phone: +49 361 5504777
-opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+opening_hours: Mo-Fr 08:00-13:00, Mo-We 14:00-17:00, Th 14:00-18:00, Fr 14:00-17:00,
+    Sa 09:00-12:00
 website: ""
