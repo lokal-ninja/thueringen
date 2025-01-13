@@ -1,6 +1,6 @@
 ---
 title: Neustadt b. Coburg
 url: /neustadt-b-coburg/
-latitude: 50.337
-longitude: 11.141
+latitude: 50.336
+longitude: 11.14
 ---
