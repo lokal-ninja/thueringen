@@ -1,6 +1,6 @@
 ---
 title: Magdala
 url: /magdala/
-latitude: 50.902
-longitude: 11.446
+latitude: 50.907
+longitude: 11.449
 ---
