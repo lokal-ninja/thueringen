@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /vacha/rewe-am-alten-kabelwerk/
+url: /amt-creuzburg/rewe-feldstrasse/
 shop: Supermarkt
 ---
