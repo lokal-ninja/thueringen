@@ -7,6 +7,6 @@ city: Arnstadt
 street: August-Broemel-Straße
 housenumber: "9"
 phone: ""
-opening_hours: 'Nov-Feb: Mo-Fr 08:00-19:00; Nov-Feb: Sa 08:00-18:00;Mar-Oct: Mo-Fr
-    08:00-20:00; Mar-Oct: Sa 08:00-18:00'
+opening_hours: Jan, Feb, Nov, Dec Mo-Fr 08:00-19:00; Jan, Feb, Nov, Dec Sa 08:00-18:00;
+    Mar-Oct Mo-Fr 08:00-19:00; Mar-Oct Sa 08:00-18:00
 website: ""
