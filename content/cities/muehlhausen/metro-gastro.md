@@ -1,5 +1,5 @@
 ---
-title: "Metro Gastro"
+title: "METRO GASTRO"
 url: /muehlhausen/metro-gastro/
-shop: Supermarkt
+shop: Großhandel
 ---
