@@ -1,6 +1,6 @@
 ---
 title: Kammerforst
 url: /kammerforst/
-latitude: 51.121
-longitude: 10.425
+latitude: 51.118
+longitude: 10.418
 ---
