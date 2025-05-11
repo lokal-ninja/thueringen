@@ -1,6 +1,6 @@
 ---
 title: Föritztal
 url: /foeritztal/
-latitude: 50.39
-longitude: 11.217
+latitude: 50.316
+longitude: 11.242
 ---

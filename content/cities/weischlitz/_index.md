@@ -1,6 +1,6 @@
 ---
 title: Weischlitz
 url: /weischlitz/
-latitude: 50.475
-longitude: 11.956
+latitude: 50.477
+longitude: 11.955
 ---
