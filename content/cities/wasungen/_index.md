@@ -1,6 +1,6 @@
 ---
 title: Wasungen
 url: /wasungen/
-latitude: 50.656
-longitude: 10.376
+latitude: 50.664
+longitude: 10.369
 ---

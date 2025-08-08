@@ -7,5 +7,6 @@ city: Meuselwitz
 street: Rudolf-Breitscheid-Straße
 housenumber: "12"
 phone: +49 3448 2655
-opening_hours: ""
+opening_hours: Tu 09:30-12:00,13:00-16:30; We 09:00-12:00,13:00-16:30; Th,Fr 08:00-12:00,13:00-18:00;
+    Sa 07:30-12:00; Su,Mo off
 website: ""

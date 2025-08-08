@@ -1,5 +1,5 @@
 ---
-title: "ACTION"
+title: "Action"
 url: /bad-salzungen/action/
-shop: Dorfladen
+shop: Kramladen
 ---

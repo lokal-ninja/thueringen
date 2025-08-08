@@ -7,5 +7,6 @@ city: Eisenach
 street: Treboniusstraße
 housenumber: "14"
 phone: ""
-opening_hours: Th, Fr 07:30-12:30; Fr 15:00-16:30; Sa 07:30-11:30; Su 07:30-10:00
+opening_hours: Th 07:30-12:30; Fr 07:30-12:30,15:00-16:30; Sa 07:30-11:00; Su 07:30-10:00;
+    Mo-We off
 website: ""

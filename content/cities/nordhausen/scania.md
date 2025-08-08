@@ -1,5 +1,5 @@
 ---
 title: "Scania"
 url: /nordhausen/scania/
-shop: Autowerkstatt
+shop: Allgemein
 ---

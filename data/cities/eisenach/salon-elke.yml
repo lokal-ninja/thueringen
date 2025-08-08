@@ -1,11 +1,11 @@
 id: 10899946345
 type: node
-latitude: 51.00694
-longitude: 10.22756
+latitude: 51.00704
+longitude: 10.22765
 postcode: "99817"
 city: Eisenach
 street: Unterstraße
 housenumber: "3"
 phone: ""
-opening_hours: ""
+opening_hours: Tu,Th,Fr 09:00-13:00,15:00-18:00; Sa 09:00-13:00
 website: ""

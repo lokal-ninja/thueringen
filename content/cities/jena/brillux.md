@@ -1,5 +1,5 @@
 ---
 title: "Brillux"
 url: /jena/brillux/
-shop: Baustoffe
+shop: Farben
 ---

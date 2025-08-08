@@ -1,6 +1,6 @@
 ---
 title: Braunichswalde
 url: /braunichswalde/
-latitude: 50.797
-longitude: 12.243
+latitude: 50.8
+longitude: 12.223
 ---

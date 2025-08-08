@@ -7,5 +7,5 @@ city: Weimar
 street: Theaterplatz
 housenumber: 2a
 phone: ""
-opening_hours: PH,Su off; Mo-Fr 07:00-22:00; Sa 07:00-20:00
+opening_hours: Su,PH off; Mo-Fr 07:00-22:00; Sa 07:00-20:00
 website: ""
