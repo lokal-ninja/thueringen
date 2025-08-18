@@ -7,5 +7,5 @@ city: Jena
 street: Steinweg
 housenumber: "31"
 phone: "+493641441795"
-opening_hours: Mo-Th 10:00-16:00
+opening_hours: Mo,Tu,Th,Fr 10:00-16:00
 website: https://www.uhrenfriedrich.com
