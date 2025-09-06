@@ -1,5 +1,5 @@
 ---
 title: "Aldi Süd"
-url: /neustadt-b-coburg/aldi-sued/
+url: /neustadt-bei-coburg/aldi-sued/
 shop: Supermarkt
 ---

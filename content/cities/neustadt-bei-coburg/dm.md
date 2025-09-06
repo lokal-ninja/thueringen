@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /neustadt-b-coburg/dm/
+url: /neustadt-bei-coburg/dm/
 shop: Drogerie
 ---

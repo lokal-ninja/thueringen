@@ -1,5 +1,5 @@
 ---
 title: "Thomas Philipps Sonderposten"
-url: /neustadt-b-coburg/thomas-philipps-sonderposten/
+url: /neustadt-bei-coburg/thomas-philipps-sonderposten/
 shop: Kramladen
 ---

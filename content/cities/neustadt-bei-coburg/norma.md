@@ -1,5 +1,5 @@
 ---
 title: "Norma"
-url: /neustadt-b-coburg/norma/
+url: /neustadt-bei-coburg/norma/
 shop: Supermarkt
 ---

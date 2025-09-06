@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /neustadt-b-coburg/netto-marken-discount/
+url: /neustadt-bei-coburg/netto-marken-discount/
 shop: Supermarkt
 ---

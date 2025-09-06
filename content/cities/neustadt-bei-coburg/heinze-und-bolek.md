@@ -1,5 +1,5 @@
 ---
 title: "Heinze & Bolek"
-url: /neustadt-b-coburg/heinze-und-bolek/
+url: /neustadt-bei-coburg/heinze-und-bolek/
 shop: Elektronik
 ---

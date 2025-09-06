@@ -1,5 +1,5 @@
 ---
 title: "Action"
-url: /neustadt-b-coburg/action/
+url: /neustadt-bei-coburg/action/
 shop: Kramladen
 ---
