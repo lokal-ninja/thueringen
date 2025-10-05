@@ -1,11 +1,11 @@
 id: 6980496427
 type: node
-latitude: 50.86697
-longitude: 12.08485
+latitude: 50.86695
+longitude: 12.08486
 postcode: "07545"
 city: Gera
 street: Reichsstraße
 housenumber: 20A
 phone: ""
-opening_hours: Tu-Fr 10:00-12:30,13:15-18:00; Sa 10:10-13:00; Mo,Su,PH off
+opening_hours: Tu,We 13:00-17:00; Tu,Fr 09:00-13:00; Mo,Sa,Su,PH off
 website: ""
