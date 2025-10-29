@@ -1,5 +1,5 @@
 ---
 title: "Stöberstübchen"
 url: /erfurt/stoeberstuebchen/
-shop: Sport
+shop: Basteln
 ---
