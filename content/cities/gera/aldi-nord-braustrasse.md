@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /gera/aldi-nord-dornaer-strasse/
+url: /gera/aldi-nord-braustrasse/
 shop: Supermarkt
 ---
