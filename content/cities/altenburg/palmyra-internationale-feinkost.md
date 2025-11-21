@@ -1,5 +1,5 @@
 ---
-title: "Palmyra Internationale Feinkost"
+title: "Palmyra - Internationale Feinkost"
 url: /altenburg/palmyra-internationale-feinkost/
 shop: Süßwaren
 ---

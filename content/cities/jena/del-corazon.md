@@ -1,5 +1,5 @@
 ---
-title: "Del Corazón"
+title: "Del.Corazón"
 url: /jena/del-corazon/
-shop: Kleidung
+shop: Allgemein
 ---
