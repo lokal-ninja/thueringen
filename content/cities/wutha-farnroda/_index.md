@@ -1,6 +1,6 @@
 ---
 title: Wutha-Farnroda
 url: /wutha-farnroda/
-latitude: 50.947
-longitude: 10.391
+latitude: 50.935
+longitude: 10.39
 ---
