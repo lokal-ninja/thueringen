@@ -1,6 +1,6 @@
 ---
 title: Groitzsch
 url: /groitzsch/
-latitude: 51.102
-longitude: 12.329
+latitude: 51.104
+longitude: 12.339
 ---
