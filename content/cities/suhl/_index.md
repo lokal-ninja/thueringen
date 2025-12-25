@@ -1,6 +1,6 @@
 ---
 title: Suhl
 url: /suhl/
-latitude: 50.632
-longitude: 10.741
+latitude: 50.633
+longitude: 10.705
 ---
