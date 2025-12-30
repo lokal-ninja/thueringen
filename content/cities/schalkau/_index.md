@@ -1,6 +1,6 @@
 ---
 title: Schalkau
 url: /schalkau/
-latitude: 50.394
-longitude: 11.006
+latitude: 50.4
+longitude: 11.002
 ---
