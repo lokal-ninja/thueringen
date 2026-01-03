@@ -1,11 +1,11 @@
 id: 13412923952
 type: node
-latitude: 50.9713
+latitude: 50.97131
 longitude: 10.32369
 postcode: "99817"
 city: Eisenach
 street: Marienstraße
 housenumber: "9"
 phone: +49 3691 8894849
-opening_hours: 'Mo: closed Tu: 10-17 We: 10-17 Th: 13-19 Fr: 10-17 Sa: 11-16 Su: closed'
+opening_hours: Tu-We 10:00-17:00, Th 13:00-19:00, Fr 10:00-17:00, Sa 11:00-16:00
 website: ""
