@@ -1,5 +1,5 @@
 ---
-title: "Auto­werkstatt Börnig"
+title: "Autowerkstatt Börnig"
 url: /langenleuba-niederhain/autowerkstatt-boernig/
 shop: Autowerkstatt
 ---
