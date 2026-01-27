@@ -6,6 +6,7 @@ postcode: "98634"
 city: Wasungen
 street: Markt
 housenumber: "14"
-phone: +49 36941 70752
-opening_hours: Mo-Tu+Thu 09:00-13:00, Mo-Tu+Thu 15:00-18:00, We 09:00-16:00, Fr 09:00-18:00
+phone: ""
+opening_hours: Mo,Tu,Th 09:00-13:00,15:00-18:00, We 09:00-16:00, Fr 09:00-18:00; Sa,Su,PH
+    off
 website: ""
