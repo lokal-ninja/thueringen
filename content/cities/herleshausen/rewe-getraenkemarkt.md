@@ -1,5 +1,5 @@
 ---
-title: "Rewe Getränkemarkt"
+title: "REWE Getränkemarkt"
 url: /herleshausen/rewe-getraenkemarkt/
 shop: Getränke
 ---
