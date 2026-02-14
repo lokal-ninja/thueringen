@@ -1,6 +1,6 @@
 ---
 title: Rückersdorf
 url: /rueckersdorf/
-latitude: 50.833
-longitude: 12.2
+latitude: 50.822
+longitude: 12.221
 ---
