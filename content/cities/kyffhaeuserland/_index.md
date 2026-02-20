@@ -1,6 +1,6 @@
 ---
 title: Kyffhäuserland
 url: /kyffhaeuserland/
-latitude: 51.345
-longitude: 10.964
+latitude: 51.348
+longitude: 10.968
 ---
