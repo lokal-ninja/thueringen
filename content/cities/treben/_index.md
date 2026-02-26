@@ -1,6 +1,6 @@
 ---
 title: Treben
 url: /treben/
-latitude: 51.053
-longitude: 12.452
+latitude: 51.066
+longitude: 12.454
 ---
