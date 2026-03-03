@@ -1,6 +1,6 @@
 ---
 title: Weimar
 url: /weimar/
-latitude: 51.009
-longitude: 11.335
+latitude: 50.961
+longitude: 11.317
 ---
