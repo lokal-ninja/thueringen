@@ -1,5 +1,5 @@
 ---
-title: "Rad Art"
+title: "Rad-Art"
 url: /gotha/rad-art/
 shop: Fahrrad
 ---
