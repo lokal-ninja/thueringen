@@ -1,5 +1,5 @@
 ---
-title: "TKNuss"
+title: "TkNuss"
 url: /jena/tknuss/
-shop: Computer
+shop: Handy
 ---
