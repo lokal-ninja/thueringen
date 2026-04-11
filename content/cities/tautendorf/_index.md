@@ -1,6 +1,6 @@
 ---
 title: Tautendorf
 url: /tautendorf/
-latitude: 50.824
-longitude: 11.891
+latitude: 50.825
+longitude: 11.887
 ---
