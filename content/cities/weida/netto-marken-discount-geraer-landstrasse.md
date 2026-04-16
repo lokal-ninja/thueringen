@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /sonneberg/netto-marken-discount-dammstrasse/
+url: /weida/netto-marken-discount-geraer-landstrasse/
 shop: Supermarkt
 ---
