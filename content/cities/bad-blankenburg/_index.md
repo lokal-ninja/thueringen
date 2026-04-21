@@ -1,6 +1,6 @@
 ---
 title: Bad Blankenburg
 url: /bad-blankenburg/
-latitude: 50.684
-longitude: 11.262
+latitude: 50.687
+longitude: 11.252
 ---

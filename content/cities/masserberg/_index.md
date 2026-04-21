@@ -1,6 +1,6 @@
 ---
 title: Masserberg
 url: /masserberg/
-latitude: 50.517
-longitude: 10.966
+latitude: 50.49
+longitude: 10.909
 ---
