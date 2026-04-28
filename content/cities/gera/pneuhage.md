@@ -1,5 +1,5 @@
 ---
-title: "Pneuhage."
+title: "Pneuhage"
 url: /gera/pneuhage/
 shop: Reifen
 ---

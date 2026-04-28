@@ -5,7 +5,7 @@ longitude: 12.06918
 postcode: "07548"
 city: Gera
 street: Straße des Friedens
-housenumber: "32"
+housenumber: 32,34
 phone: ""
-opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-20:00
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-20:00; Su,PH off
 website: ""
