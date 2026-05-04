@@ -1,5 +1,5 @@
 ---
 title: "Stangengrüner Mühlenbäckerei"
-url: /gera/stangengruener-muehlenbaeckerei-vogtlandstrasse/
+url: /gera/stangengruener-muehlenbaeckerei-reichsstrasse/
 shop: Bäckerei
 ---
