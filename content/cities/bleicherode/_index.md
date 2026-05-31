@@ -1,6 +1,6 @@
 ---
 title: Bleicherode
 url: /bleicherode/
-latitude: 51.441
-longitude: 10.569
+latitude: 51.453
+longitude: 10.566
 ---
