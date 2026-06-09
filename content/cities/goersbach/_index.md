@@ -1,6 +1,6 @@
 ---
 title: Görsbach
 url: /goersbach/
-latitude: 51.461
-longitude: 10.935
+latitude: 51.459
+longitude: 10.936
 ---
