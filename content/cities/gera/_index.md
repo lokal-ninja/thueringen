@@ -1,6 +1,6 @@
 ---
 title: Gera
 url: /gera/
-latitude: 50.88
-longitude: 12.085
+latitude: 50.901
+longitude: 12.038
 ---
