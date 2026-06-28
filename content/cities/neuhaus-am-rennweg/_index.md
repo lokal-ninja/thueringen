@@ -1,6 +1,6 @@
 ---
 title: Neuhaus am Rennweg
 url: /neuhaus-am-rennweg/
-latitude: 50.508
-longitude: 11.138
+latitude: 50.509
+longitude: 11.14
 ---
