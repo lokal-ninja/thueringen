@@ -1,6 +1,6 @@
 ---
 title: Triptis
 url: /triptis/
-latitude: 50.736
-longitude: 11.863
+latitude: 50.738
+longitude: 11.876
 ---
