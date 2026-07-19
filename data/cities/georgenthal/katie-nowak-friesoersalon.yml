@@ -6,6 +6,6 @@ postcode: "99887"
 city: Georgenthal
 street: Sankt-Georg-Straße
 housenumber: "20"
-phone: +49 36253 25705
-opening_hours: Mo 09:00-15:00 Di-Fr 09:00-18:00
+phone: ""
+opening_hours: Mo 09:00-15:00; Tu-Fr 09:00-18:00; Sa,Su,PH off
 website: ""

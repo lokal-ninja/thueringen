@@ -7,5 +7,5 @@ city: Hörsel
 street: Gutsallee
 housenumber: "4"
 phone: ""
-opening_hours: Mo-Fr Mo-Fr 08:00-11:30,13:00-16:00; Sa,Su,PH off
+opening_hours: Mo-Th,Su,PH off; Fr 17:00-17:30; Sa 13:00-13:30 || "nach Vereinbarung"
 website: ""

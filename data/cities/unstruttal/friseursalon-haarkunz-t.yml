@@ -7,5 +7,5 @@ city: Unstruttal
 street: Schachtstraße
 housenumber: "2"
 phone: ""
-opening_hours: Mo-Sa Termin nach Vereinbarung
+opening_hours: '"Mo-Sa Termin nach Vereinbarung"'
 website: ""

@@ -7,5 +7,6 @@ city: Eisenach
 street: Georgenstraße
 housenumber: "17"
 phone: ""
-opening_hours: Mo-We 10:00-13:00,14:00-16:00; Th "nach Vereinbarung" Fr off
+opening_hours: Mo-We 10:00-13:00,14:00-16:00; Th "nach Vereinbarung"; Fr,Sa,Su,PH
+    off
 website: ""
