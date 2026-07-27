@@ -1,6 +1,6 @@
 ---
 title: Pößneck
 url: /poessneck/
-latitude: 50.702
-longitude: 11.623
+latitude: 50.699
+longitude: 11.616
 ---
