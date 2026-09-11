@@ -1,11 +1,11 @@
 id: 2002706481
 type: node
-latitude: 50.97729
-longitude: 11.02933
+latitude: 50.97727
+longitude: 11.02934
 postcode: "99084"
 city: Erfurt
 street: Predigerstraße
 housenumber: "1"
 phone: ""
-opening_hours: Mo-Su 09:30-20:00
-website: ""
+opening_hours: Mo-Sa 10:00-18:00
+website: https://viba-erfurt.de
