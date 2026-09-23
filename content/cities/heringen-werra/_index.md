@@ -1,6 +1,6 @@
 ---
 title: Heringen (Werra)
 url: /heringen-werra/
-latitude: 50.889
-longitude: 10.011
+latitude: 50.888
+longitude: 10.008
 ---
