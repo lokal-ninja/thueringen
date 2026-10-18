@@ -2,5 +2,5 @@
 title: Emleben
 url: /emleben/
 latitude: 50.894
-longitude: 10.71
+longitude: 10.711
 ---

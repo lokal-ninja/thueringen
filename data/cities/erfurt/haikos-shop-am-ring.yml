@@ -7,5 +7,5 @@ city: Erfurt
 street: Jakob-Kaiser-Ring
 housenumber: "55"
 phone: ""
-opening_hours: Mo-Th 08:00-20:00; Fr,Sa 08:00-21:00; Su,PH off
-website: ""
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://mein-erfurt.de/haikos
