@@ -1,5 +1,5 @@
 ---
 title: "Norma"
-url: /erfurt/norma-faerberwaidweg/
+url: /erfurt/norma-hallesche-strasse/
 shop: Supermarkt
 ---
